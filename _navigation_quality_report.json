@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-25T18:32:58.344525Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1586,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 7.52,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "automated_instrument_521443_weather_context_16880f",
+        "title": "Weather",
+        "permalink": "/weather/",
+        "inline_inbound_count": 110
+      },
+      {
+        "basename": "automated_instrument_521443_time_synchronization_2e129d",
+        "title": "Timing",
+        "permalink": "/timing/",
+        "inline_inbound_count": 93
+      },
+      {
+        "basename": "automated_instrument_521443_baseline_sky_data_4a1ebc_satellite_repeats_ba_85d99d",
+        "title": "Satellites",
+        "permalink": "/satellites/",
+        "inline_inbound_count": 70
+      },
+      {
+        "basename": "automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15",
+        "title": "Uncertainty",
+        "permalink": "/uncertainty/",
+        "inline_inbound_count": 64
+      },
+      {
+        "basename": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "title": "Galileo",
+        "permalink": "/galileo/",
+        "inline_inbound_count": 61
+      },
+      {
+        "basename": "automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6",
+        "title": "Pointing",
+        "permalink": "/pointing/",
+        "inline_inbound_count": 57
+      },
+      {
+        "basename": "automated_instrument_521443",
+        "title": "Can UFO Detectors Make Sightings Scientific?",
+        "permalink": "/automated-instrumented-ufo-detectors/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "title": "Radar",
+        "permalink": "/radar/",
+        "inline_inbound_count": 54
+      },
+      {
+        "basename": "automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45",
+        "title": "Timestamps",
+        "permalink": "/timestamps/",
+        "inline_inbound_count": 53
+      },
+      {
+        "basename": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "title": "ADS B",
+        "permalink": "/ads-b/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "automated_instrument_521443_human_review_triage_acf27d",
+        "title": "Review",
+        "permalink": "/review/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "automated_instrument_521443_weather_context_16880f_visibility_false_ala_876f89",
+        "title": "Visibility",
+        "permalink": "/visibility/",
+        "inline_inbound_count": 46
+      },
+      {
+        "basename": "automated_instrument_521443_false_positives_f6ef28",
+        "title": "False Positives",
+        "permalink": "/false-positives/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_known_aircraft_detec_99d40b",
+        "title": "Known Aircraft",
+        "permalink": "/known-aircraft/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "automated_instrument_521443_parallax_speed_error_5dd891_acceleration_range_a_b58172",
+        "title": "Acceleration",
+        "permalink": "/acceleration/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "automated_instrument_521443_sky360_citizen_stati_99f8d3_baseline_sky_data_4a1ebc",
+        "title": "Baseline Data",
+        "permalink": "/baseline-data/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "automated_instrument_521443_human_review_triage_acf27d_low_information_ufo_a93bb1",
+        "title": "Unresolved",
+        "permalink": "/unresolved/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "title": "Infrared",
+        "permalink": "/infrared/",
+        "inline_inbound_count": 35
+      },
+      {
+        "basename": "automated_instrument_521443_hessdalen_station_356504_hessdalen_false_alar_f58dd6",
+        "title": "False Alarms",
+        "permalink": "/false-alarms/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "automated_instrument_521443_nasa_data_gap_e59ca4_weather_context_uap_9bfced",
+        "title": "Weather Data",
+        "permalink": "/weather-data/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2",
+        "title": "Moving Targets",
+        "permalink": "/moving-targets/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "title": "Rules",
+        "permalink": "/rules/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "automated_instrument_521443_baseline_sky_data_4a1ebc_weather_in_uap_basel_e772be",
+        "title": "Weather Effects",
+        "permalink": "/weather-effects/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "automated_instrument_521443_human_review_triage_acf27d_geipan_style_ufo_cat_ec5599",
+        "title": "Categories",
+        "permalink": "/categories/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "title": "UFODAP",
+        "permalink": "/ufodap/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "title": "Acoustics",
+        "permalink": "/acoustics/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "automated_instrument_521443_buy_vs_build_detecto_284bb3_raw_data_retention_t_fc55f3",
+        "title": "Raw Data",
+        "permalink": "/raw-data/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "automated_instrument_521443_sky360_citizen_stati_99f8d3_open_source_limits_5cedda",
+        "title": "Open Source",
+        "permalink": "/open-source/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "automated_instrument_521443_starlink_satellite_c_217280",
+        "title": "Starlink",
+        "permalink": "/starlink/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "automated_instrument_521443_ufodap_optical_track_1b6d40_camera_motion_metada_59c9fd",
+        "title": "Camera Motion",
+        "permalink": "/camera-motion/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "automated_instrument_521443_buy_vs_build_detecto_284bb3_reproducible_diy_sta_14ede1",
+        "title": "Reproducibility",
+        "permalink": "/reproducibility/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "automated_instrument_521443_magnetometers_088bec",
+        "title": "Magnetometers",
+        "permalink": "/magnetometers/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79",
+        "title": "False Alerts",
+        "permalink": "/false-alerts/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "automated_instrument_521443_edge_computing_ad654a",
+        "title": "Edge Computer",
+        "permalink": "/edge-computer/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a",
+        "title": "Human Review",
+        "permalink": "/human-review/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "automated_instrument_521443_metadata_gaps_e215b4_ufo_chain_of_custody_4f4356",
+        "title": "Custody",
+        "permalink": "/custody/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "automated_instrument_521443_data_provenance_941d9b",
+        "title": "Provenance",
+        "permalink": "/provenance/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e",
+        "title": "Sensor Fusion",
+        "permalink": "/sensor-fusion/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "automated_instrument_521443_legal_privacy_airspa_3f6619_uap_station_disclosu_11cadd",
+        "title": "Disclosure",
+        "permalink": "/disclosure/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "automated_instrument_521443_nasa_data_gap_e59ca4_one_sensor_limits_2de115",
+        "title": "One Sensor",
+        "permalink": "/one-sensor/",
+        "inline_inbound_count": 9
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_data_provenance_941d9b",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_edge_computing_ad654a",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_index",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_magnetometers_088bec",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_multi_sensor_detecti_7b7b02",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_multi_site_triangula_e6b681",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_open_data_replicatio_f0edf1",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_parallax_speed_error_5dd891",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_sky360_citizen_stati_99f8d3",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_starlink_satellite_c_217280",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_time_synchronization_2e129d",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443",
+        "to": "automated_instrument_521443_weather_context_16880f",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443",
+        "type": "parent"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_data_provenance_941d9b",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_edge_computing_ad654a",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_multi_sensor_detecti_7b7b02",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_multi_site_triangula_e6b681",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_open_data_replicatio_f0edf1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_parallax_speed_error_5dd891",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_sky360_citizen_stati_99f8d3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_starlink_satellite_c_217280",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_time_synchronization_2e129d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_weather_context_16880f",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_baseline_observatori_cda8a3",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_compass_claims_06206a",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_index",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443_magnetometers_088bec_space_weather_confou_fbc4ab",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_magnetometers_088bec",
+        "to": "automated_instrument_521443",
+        "type": "ancestor"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443",
+        "type": "parent"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_data_provenance_941d9b",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_edge_computing_ad654a",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_magnetometers_088bec",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_multi_sensor_detecti_7b7b02",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_multi_site_triangula_e6b681",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_open_data_replicatio_f0edf1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_parallax_speed_error_5dd891",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_sky360_citizen_stati_99f8d3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_starlink_satellite_c_217280",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_time_synchronization_2e129d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_weather_context_16880f",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_index",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_ufo_chain_of_custody_4f4356",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4_weather_context_ufo_b01ac0",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_metadata_gaps_e215b4",
+        "to": "automated_instrument_521443",
+        "type": "ancestor"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443",
+        "type": "parent"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_data_provenance_941d9b",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_edge_computing_ad654a",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_magnetometers_088bec",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_multi_sensor_detecti_7b7b02",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_multi_site_triangula_e6b681",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_open_data_replicatio_f0edf1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_parallax_speed_error_5dd891",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_sky360_citizen_stati_99f8d3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_starlink_satellite_c_217280",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_time_synchronization_2e129d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_weather_context_16880f",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_baseline_sky_records_218b32",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_index",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_middle_east_ir_case_7f96f5",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_one_sensor_limits_2de115",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_uap_event_package_fdae81",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4_weather_context_uap_9bfced",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "to": "automated_instrument_521443",
+        "type": "ancestor"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443",
+        "type": "parent"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_data_provenance_941d9b",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_magnetometers_088bec",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_metadata_gaps_e215b4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_multi_sensor_detecti_7b7b02",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_multi_site_triangula_e6b681",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_nasa_data_gap_e59ca4",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_open_data_replicatio_f0edf1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_parallax_speed_error_5dd891",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_radar_radio_tracking_da2ccb",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_sky360_citizen_stati_99f8d3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_starlink_satellite_c_217280",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_time_synchronization_2e129d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_ufodap_optical_track_1b6d40",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_weather_context_16880f",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_edge_data_triage_f7d851",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_index",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_realtime_camera_hand_0b635f",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_rolling_pretrigger_b_0c49f3",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_sensor_health_checks_b780ad",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443_edge_computing_ad654a_uapx_storage_burden_96c518",
+        "type": "child"
+      },
+      {
+        "from": "automated_instrument_521443_edge_computing_ad654a",
+        "to": "automated_instrument_521443",
+        "type": "ancestor"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443",
+        "type": "parent"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_acoustic_sensors_4dced1",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_adsb_aircraft_contex_1a4ad3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_aircraft_calibration_cfea03",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_baseline_sky_data_4a1ebc",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_buy_vs_build_detecto_284bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_edge_computing_ad654a",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_false_positives_f6ef28",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_fixed_vs_portable_ef1385",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_galileo_observatorie_ddac3d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_gremlin_sensors_059379",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_hessdalen_station_356504",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_hotspots_vs_networks_ef5167",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_human_review_triage_acf27d",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_infrared_cameras_e8cad9",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_legal_privacy_airspa_3f6619",
+        "type": "sibling"
+      },
+      {
+        "from": "automated_instrument_521443_data_provenance_941d9b",
+        "to": "automated_instrument_521443_machine_vision_filte_a08ba7",
+        "type": "sibling"
+      }
+    ]
+  }
+}

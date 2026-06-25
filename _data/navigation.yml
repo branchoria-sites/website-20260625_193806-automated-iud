@@ -1,0 +1,665 @@
+sidebar_generated:
+- title: Sky Detectors
+  title_full: Can UFO Detectors Make Sightings Scientific?
+  url: /automated-instrumented-ufo-detectors/
+  children:
+  - title: Acoustics
+    title_full: Can Sound Help Identify Sky Objects?
+    url: /acoustics/
+    children:
+    - title: Aircraft Noise
+      title_full: Does the Engine Fit the Light?
+      url: /aircraft-noise/
+    - title: Audio Setup
+      title_full: What Makes Sky Audio Trustworthy?
+      url: /audio-setup/
+    - title: Drone Buzz
+      title_full: Can a Buzz Point to a Drone?
+      url: /drone-buzz/
+    - title: Fireworks
+      title_full: Was the Flash Just Fireworks?
+      url: /fireworks/
+    - title: Meteor Sound
+      title_full: The Delayed Boom After a Meteor
+      url: /meteor-sound/
+    - title: Silent Lights
+      title_full: When a Quiet UFO Is Not Silent
+      url: /silent-lights/
+  - title: ADS B
+    title_full: How Aircraft Tracking Filters UAP Alerts
+    url: /ads-b/
+    children:
+    - title: Data Sources
+      title_full: Should UAP Stations Trust Flight Trackers?
+      url: /data-sources/
+    - title: Decision Rules
+      title_full: When Aircraft Data Should Close a Case
+      url: /decision-rules/
+    - title: Known Aircraft
+      title_full: The Airliners That Test UAP Detectors
+      url: /known-aircraft/
+    - title: No Match
+      title_full: When No ADS B Match Misleads
+      url: /no-match/
+    - title: Timing Errors
+      title_full: Why Seconds Matter in UAP Footage
+      url: /timing-errors/
+    - title: Track Projection
+      title_full: How Aircraft Tracks Land in Video
+      url: /track-projection/
+  - title: Baselines
+    title_full: Why Normal Sky Data Matters Most
+    url: /baselines/
+    children:
+    - title: 90 Day Runs
+      title_full: What a 90 Day Sky Watch Can Learn
+      url: /90-day-runs/
+    - title: Low Horizon
+      title_full: Why the Horizon Creates So Many False Mysteries
+      url: /low-horizon/
+    - title: Missed Aircraft
+      title_full: When Ordinary Aircraft Slip Through the Net
+      url: /missed-aircraft/
+    - title: Satellites
+      title_full: Why Repeating Satellite Tracks Matter
+      url: /satellites/
+    - title: Sensor Mistakes
+      title_full: The Baseline Should Record the Detector Too
+      url: /sensor-mistakes/
+    - title: Weather Effects
+      title_full: Weather Can Change the Detector Before the Sky
+      url: /weather-effects/
+  - title: Buy or Build
+    title_full: Should You Buy or Build a UFO Detector?
+    url: /buy-or-build/
+    children:
+    - title: Cost Tradeoff
+      title_full: Does DIY Really Cost Less Than UFODAP?
+      url: /cost-tradeoff/
+    - title: Raw Data
+      title_full: Can Your Detector Save the Evidence?
+      url: /raw-data/
+    - title: Reproducibility
+      title_full: Can Another Builder Recreate Your Station?
+      url: /reproducibility/
+    - title: Sensor Add ons
+      title_full: What Extra Sensors Actually Add
+      url: /sensor-add-ons/
+    - title: Software Trust
+      title_full: Should Sky Tracking Software Be Open?
+      url: /software-trust/
+    - title: Weatherproofing
+      title_full: The Outdoor Problems That Break Sky Detectors
+      url: /weatherproofing-e3a05c/
+  - title: Calibration
+    title_full: Why UFO Detectors Need Ordinary Planes
+    url: /calibration/
+    children:
+    - title: Beyond Filtering
+      title_full: Why matched planes should not just disappear
+      url: /beyond-filtering/
+    - title: Clock Errors
+      title_full: The tiny timing error that can fake mystery
+      url: /clock-errors/
+    - title: Galileo Baseline
+      title_full: What Galileo learned from ordinary planes
+      url: /galileo-baseline/
+    - title: Missed Planes
+      title_full: What missed planes reveal about UAP detectors
+      url: /missed-planes/
+    - title: Moving Targets
+      title_full: How planes turn pixels into sky measurements
+      url: /moving-targets/
+    - title: Weather Tests
+      title_full: How bad weather tests sky cameras
+      url: /weather-tests/
+  - title: Edge Computer
+    title_full: Why UAP Detectors Need Computers On Site
+    url: /edge-computer/
+    children:
+    - title: Camera Handoff
+      title_full: Can a detector react before the object is gone?
+      url: /camera-handoff/
+    - title: Data Triage
+      title_full: Why sky stations cannot upload everything
+      url: /data-triage/
+    - title: Health Checks
+      title_full: Is the sky event real or the station misbehaving?
+      url: /health-checks/
+    - title: Pre Trigger
+      title_full: Why the seconds before a trigger matter
+      url: /pre-trigger/
+    - title: Trigger Rules
+      title_full: When should a sky station hit record?
+      url: /trigger-rules/
+    - title: UAPx Storage
+      title_full: What one UAPx week says about data overload
+      url: /uapx-storage/
+  - title: False Positives
+    title_full: What Fools UFO Detectors Most Often?
+    url: /false-positives/
+    children:
+    - title: Ephemeris Checks
+      title_full: The Satellite Check Every UFO Alert Needs
+      url: /ephemeris-checks/
+    - title: Local Ecology
+      title_full: Why Every UFO Camera Needs Local Wildlife Data
+      url: /local-ecology/
+    - title: Near lens Bugs
+      title_full: When Bugs Look Like Fast UFOs
+      url: /near-lens-bugs/
+    - title: Star Discs
+      title_full: When Stars Turn Into Glowing Discs
+      url: /star-discs/
+    - title: Starlink Trains
+      title_full: How Starlink Trains Become UAP Reports
+      url: /starlink-trains/
+    - title: Thermal Birds
+      title_full: Why Birds Fool Infrared UFO Cameras
+      url: /thermal-birds/
+  - title: Fixed vs Portable
+    title_full: Should UAP Sensors Stay Put or Move?
+    url: /fixed-vs-portable/
+    children:
+    - title: Fixed Baselines
+      title_full: When Does a Fixed Station Earn Trust?
+      url: /fixed-baselines/
+    - title: GREMLIN
+      title_full: Why GREMLIN Watches the Ordinary First
+      url: /gremlin-970632/
+    - title: Hessdalen
+      title_full: What Hessdalen Proved by Staying Put
+      url: /hessdalen-39e8ba/
+    - title: Portable Hotspots
+      title_full: Why Move a Detector to the Mystery?
+      url: /portable-hotspots/
+    - title: UAPx Limits
+      title_full: What UAPx Learned the Hard Way
+      url: /uapx-limits/
+    - title: Weatherproofing
+      title_full: Can the Station Create the Mystery?
+      url: /weatherproofing/
+  - title: Galileo
+    title_full: What Would an Academic UAP Observatory Measure?
+    url: /galileo/
+    children:
+    - title: Aircraft Checks
+      title_full: Why Ordinary Aircraft Help Test Galileo
+      url: /aircraft-checks/
+    - title: Edge Compute
+      title_full: Can Galileo Catch Events Before They Vanish?
+      url: /edge-compute/
+    - title: Photo Policy
+      title_full: Why Galileo Does Not Take UFO Photos
+      url: /photo-policy/
+    - title: Provenance
+      title_full: Why a UAP Clip Is Not Enough
+      url: /provenance-5670c7/
+    - title: Sky Census
+      title_full: What Half a Million Sky Tracks Revealed
+      url: /sky-census/
+    - title: Weather Noise
+      title_full: When Weather Becomes a UAP Problem
+      url: /weather-noise/
+  - title: GREMLIN
+    title_full: What Does Government Grade UAP Sensing Add?
+    url: /gremlin/
+    children:
+    - title: 90 Day Test
+      title_full: Why GREMLIN Watches Before It Judges
+      url: /90-day-test/
+    - title: Case Gaps
+      title_full: The UAP Problem GREMLIN Is Built To Fix
+      url: /case-gaps/
+    - title: False Targets
+      title_full: Why Better Sensors Still See False UAPs
+      url: /false-targets/
+    - title: Partner Network
+      title_full: Who Checks GREMLIN's UAP Evidence?
+      url: /partner-network/
+    - title: Security Sites
+      title_full: Why Sensitive Sites Complicate UAP Evidence
+      url: /security-sites/
+    - title: Sensor Fusion
+      title_full: Can Multiple Sensors Make UAP Evidence Clearer?
+      url: /sensor-fusion/
+  - title: Hessdalen
+    title_full: What Did Hessdalen Teach UFO Detectors?
+    url: /hessdalen/
+    children:
+    - title: Blind Spots
+      title_full: The Blind Spots in Hessdalen's Sky Watch
+      url: /blind-spots/
+    - title: False Alarms
+      title_full: Why Ordinary Lights Had to Be Hidden
+      url: /false-alarms/
+    - title: Fixed Watch
+      title_full: Why a UFO Hotspot Needed a Permanent Watch
+      url: /fixed-watch/
+    - title: Light Patterns
+      title_full: What Years of Hessdalen Records Revealed
+      url: /light-patterns/
+    - title: Second Site
+      title_full: Why One Camera Was Not Enough
+      url: /second-site/
+    - title: Trigger Rules
+      title_full: How the Blue Box Chose a UFO Event
+      url: /trigger-rules-019474/
+  - title: Hotspots
+    title_full: Should UFO Detectors Watch Hotspots or Everywhere?
+    url: /hotspots/
+    children:
+    - title: Baselines
+      title_full: Why Ordinary Skies Matter to UAP Detectors
+      url: /baselines-cd15d8/
+    - title: Hessdalen
+      title_full: Why Hessdalen Still Matters for UAP Detectors
+      url: /hessdalen-119e88/
+    - title: Hotspot Value
+      title_full: Do UFO Hotspots Really Give Better Data?
+      url: /hotspot-value/
+    - title: NASA Baseline
+      title_full: What NASA Changed About UAP Evidence
+      url: /nasa-baseline/
+    - title: One Station
+      title_full: When One UAP Station Is Not Enough
+      url: /one-station/
+    - title: Station Tradeoffs
+      title_full: Hotspot Stations or Citizen Sky Networks?
+      url: /station-tradeoffs/
+  - title: Infrared
+    title_full: What Infrared Adds to UAP Detection
+    url: /infrared/
+    children:
+    - title: Aircraft Calibration
+      title_full: Why Ordinary Planes Make Better UAP Data
+      url: /aircraft-calibration/
+    - title: Array Coverage
+      title_full: Why One Thermal Camera Is Not Enough
+      url: /array-coverage/
+    - title: Dalek Census
+      title_full: What Galileo's Infrared Sky Census Found
+      url: /dalek-census/
+    - title: Testable Clips
+      title_full: What Makes Infrared UAP Footage Testable
+      url: /testable-clips/
+    - title: Thermal Ambiguity
+      title_full: Why Heat Alone Does Not Identify a UAP
+      url: /thermal-ambiguity/
+    - title: Weather Limits
+      title_full: How Weather Turns Infrared Into Guesswork
+      url: /weather-limits/
+  - title: Magnetometers
+    title_full: Do Magnetic Sensors Help UAP Detection?
+    url: /magnetometers/
+    children:
+    - title: Baselines
+      title_full: Why one magnetometer is not enough
+      url: /baselines-38fd98/
+    - title: Compass Claims
+      title_full: Do old compass stories justify magnetometers?
+      url: /compass-claims/
+    - title: Credible Spike
+      title_full: When is a magnetic spike worth attention?
+      url: /credible-spike/
+    - title: Galileo Test
+      title_full: What Galileo learned from magnetic monitoring
+      url: /galileo-test/
+    - title: Quiet Site
+      title_full: Why magnetometer placement can make or break data
+      url: /quiet-site/
+    - title: Space Weather
+      title_full: Is the anomaly local or space weather?
+      url: /space-weather/
+  - title: Metadata
+    title_full: Why Strange Clips Need More Context
+    url: /metadata/
+    children:
+    - title: Camera Effects
+      title_full: Is the UFO in the Sky or Camera?
+      url: /camera-effects/
+    - title: Custody
+      title_full: Can a UFO Clip Survive the Sharing Chain?
+      url: /custody/
+    - title: Original Files
+      title_full: Why Reposted UFO Clips Lose Their Evidence
+      url: /original-files/
+    - title: Pointing
+      title_full: Where Was the Camera Really Pointing?
+      url: /pointing/
+    - title: Timestamps
+      title_full: Can the Clock Solve a UFO Video?
+      url: /timestamps/
+    - title: Weather Context
+      title_full: Was the UFO Actually Weather Context?
+      url: /weather-context/
+  - title: Multi Sensor
+    title_full: Why One Camera Is Not Enough
+    url: /multi-sensor/
+    children:
+    - title: ADS B Checks
+      title_full: The Aircraft Data That Solves Many Mysteries
+      url: /ads-b-checks/
+    - title: Infrared
+      title_full: What Heat Cameras Reveal and Distort
+      url: /infrared-931f0f/
+    - title: Missing Range
+      title_full: Why Distance Changes the Whole UAP Story
+      url: /missing-range/
+    - title: Parallax
+      title_full: When Camera Motion Creates Impossible Flight
+      url: /parallax-f1a241/
+    - title: Satellite Flares
+      title_full: When Satellites Pretend to Be UAP
+      url: /satellite-flares/
+    - title: Two Stations
+      title_full: Why One Sky Station Is Not Enough
+      url: /two-stations/
+  - title: NASA Gap
+    title_full: What Data Gap Must UFO Detectors Close?
+    url: /nasa-gap/
+    children:
+    - title: Baselines
+      title_full: Normal Skies Are the Control Group
+      url: /baselines-161cf5/
+    - title: Calibration
+      title_full: From Strange Image to Usable Measurement
+      url: /calibration-e15b23/
+    - title: Event Package
+      title_full: What Should Come With a UAP Clip?
+      url: /event-package/
+    - title: IR Case
+      title_full: The Infrared Case That Needed More Data
+      url: /ir-case/
+    - title: One Sensor
+      title_full: Why One Sensor Is Often Not Enough
+      url: /one-sensor/
+    - title: Weather Data
+      title_full: The Weather Around a UAP Sighting Matters
+      url: /weather-data/
+  - title: Open Data
+    title_full: What Would Make UAP Detector Data Credible?
+    url: /open-data/
+    children:
+    - title: AARO Imagery
+      title_full: When Official UAP Images Still Cannot Decide
+      url: /aaro-imagery/
+    - title: Event Package
+      title_full: What Should Be Inside a UAP Event File?
+      url: /event-package-b7f9b9/
+    - title: Hessdalen
+      title_full: What Hessdalen Teaches About Repeat Observations
+      url: /hessdalen-09e04a/
+    - title: Raw Clips
+      title_full: Why the Clip Is Not the Evidence
+      url: /raw-clips/
+    - title: Tiered Access
+      title_full: Can UAP Data Be Open Without Being Reckless?
+      url: /tiered-access/
+    - title: UAPx Catalina
+      title_full: Why False Starts Matter in UAP Fieldwork
+      url: /uapx-catalina/
+  - title: Parallax
+    title_full: Why UAP Speed Can Look Impossible
+    url: /parallax/
+    children:
+    - title: Acceleration
+      title_full: Can a Dot Prove Impossible Acceleration?
+      url: /acceleration/
+    - title: Bad References
+      title_full: Why the Sky Has No Ruler
+      url: /bad-references/
+    - title: Go Fast
+      title_full: Why Go Fast Looked Faster Than It Was
+      url: /go-fast/
+    - title: Metadata
+      title_full: The Data Missing From Most UAP Videos
+      url: /metadata-6aafd0/
+    - title: Moving Cameras
+      title_full: When the Camera Is Doing the Speeding
+      url: /moving-cameras/
+    - title: Triangulation
+      title_full: Why Two Cameras Beat One Mystery
+      url: /triangulation-f8259a/
+  - title: Provenance
+    title_full: How Do You Trust a UAP Event File?
+    url: /provenance/
+    children:
+    - title: Audit Trail
+      title_full: Can the file trail be trusted?
+      url: /audit-trail/
+    - title: Event Packet
+      title_full: What belongs inside a UAP event file?
+      url: /event-packet/
+    - title: In An Automated, Instrumented UAP Detection...
+      title_full: What false alerts can teach detectors
+      url: /in-an-automated-instrumented-uap/
+    - title: Multi Sensor
+      title_full: Why one camera is rarely enough
+      url: /multi-sensor-55fd80/
+    - title: Raw Files
+      title_full: Why the raw file matters most
+      url: /raw-files/
+    - title: Sensor State
+      title_full: What was the camera actually doing?
+      url: /sensor-state/
+  - title: Radar
+    title_full: Can Radar Make UAP Tracks Clearer?
+    url: /radar/
+    children:
+    - title: ADS B Checks
+      title_full: The aircraft broadcast check every sky station needs
+      url: /ads-b-checks-f73db4/
+    - title: Clutter Traps
+      title_full: When passive radar sees the wrong thing
+      url: /clutter-traps/
+    - title: FM Echoes
+      title_full: How FM radio signals can reveal sky objects
+      url: /fm-echoes/
+    - title: Passive Range
+      title_full: Can passive radar give UAP videos real distance?
+      url: /passive-range/
+    - title: Radar Rules
+      title_full: Why backyard radar is not a casual upgrade
+      url: /radar-rules/
+    - title: Sky Watch
+      title_full: The passive radar network built for real tracks
+      url: /sky-watch/
+  - title: Review
+    title_full: What Happens After a Detector Triggers?
+    url: /review/
+    children:
+    - title: Categories
+      title_full: A Better Way to Label UFO Alerts
+      url: /categories/
+    - title: Expert Panel
+      title_full: Why UFO Alerts Need More Than One Expert
+      url: /expert-panel/
+    - title: First Pass
+      title_full: When a UFO Alert Is Just Noise
+      url: /first-pass/
+    - title: Multi Sensor
+      title_full: When More Sensors Make UFO Alerts Clearer
+      url: /multi-sensor-006657/
+    - title: Starlink
+      title_full: When Starlink Looks Like a UFO Alert
+      url: /starlink-c586a7/
+    - title: Unresolved
+      title_full: Why Some UFO Alerts Should Stay Unsolved
+      url: /unresolved/
+  - title: Rules
+    title_full: What Rules Apply to Sky Monitoring Stations?
+    url: /rules/
+    children:
+    - title: Camera Privacy
+      title_full: When Sky Cameras Start Seeing People
+      url: /camera-privacy/
+    - title: CCTV Rules
+      title_full: Are Home UAP Cameras Really CCTV?
+      url: /cctv-rules/
+    - title: Disclosure
+      title_full: What Should a UAP Station Publish?
+      url: /disclosure/
+    - title: FAA Privacy
+      title_full: Why Some Aircraft Disappear From Public Feeds
+      url: /faa-privacy/
+    - title: Flight Data
+      title_full: Use Flight Data Without Becoming a Tracker
+      url: /flight-data/
+    - title: Laser Risk
+      title_full: Why Sky Stations Should Avoid Lasers
+      url: /laser-risk/
+  - title: Sky 360
+    title_full: Can Citizen Stations Watch the Sky Better?
+    url: /sky-360/
+    children:
+    - title: Baseline Data
+      title_full: Why Boring Sky Footage Matters
+      url: /baseline-data/
+    - title: Calibration
+      title_full: The Hidden Work Behind Useful Sky Data
+      url: /calibration-b2613c/
+    - title: Camera Roles
+      title_full: Why One Camera Is Not Enough
+      url: /camera-roles/
+    - title: Cross Checks
+      title_full: First Rule Out the Ordinary Sky
+      url: /cross-checks/
+    - title: Metadata
+      title_full: The Details Missing From Viral UFO Videos
+      url: /metadata-4ed77c/
+    - title: Open Source
+      title_full: Open Source Does Not Mean Solved
+      url: /open-source/
+  - title: Starlink
+    title_full: How Satellites Fool UAP Detectors
+    url: /starlink/
+    children:
+    - title: AARO Limits
+      title_full: What AARO's Starlink Cases Reveal
+      url: /aaro-limits/
+    - title: Flare Checks
+      title_full: The Geometry Behind a Starlink Flash
+      url: /flare-checks/
+    - title: Orbit Matching
+      title_full: Can the Track Match a Known Satellite?
+      url: /orbit-matching/
+    - title: Pacific Case
+      title_full: The Starlink Case Pilots Could Not Check
+      url: /pacific-case/
+    - title: Pilot Flares
+      title_full: Why Pilots Report Starlink as UAP
+      url: /pilot-flares/
+    - title: Starlink Trains
+      title_full: Why Starlink Trains Look Like Formations
+      url: /starlink-trains-acba9d/
+  - title: Timing
+    title_full: Why Every UAP Sensor Needs the Same Clock
+    url: /timing/
+    children:
+    - title: Clock Drift
+      title_full: When Bad Timing Creates Strange Motion
+      url: /clock-drift/
+    - title: GPS Clocks
+      title_full: Why UAP Stations Need a Real Clock
+      url: /gps-clocks/
+    - title: Network Time
+      title_full: Is Internet Time Good Enough for UAP Video?
+      url: /network-time/
+    - title: Sensor Matching
+      title_full: Do the Video and Logs Tell One Story?
+      url: /sensor-matching/
+    - title: Triangulation
+      title_full: Two Cameras Help Only If Their Clocks Agree
+      url: /triangulation-2dcc0a/
+    - title: Uncertainty
+      title_full: A Timestamp Without Uncertainty Is Not Enough
+      url: /uncertainty/
+  - title: Triangulation
+    title_full: How Multiple Stations Pin Down a Sky Object
+    url: /triangulation/
+    children:
+    - title: 2 D Outliers
+      title_full: Odd on screen is not odd in the sky
+      url: /2-d-outliers/
+    - title: Baselines
+      title_full: How far apart should sky stations be?
+      url: /baselines-d626c9/
+    - title: Clock Sync
+      title_full: When two cameras disagree on time
+      url: /clock-sync/
+    - title: Meteor Lessons
+      title_full: What meteor hunters already solved
+      url: /meteor-lessons/
+    - title: Object Matching
+      title_full: Are both cameras seeing the same thing?
+      url: /object-matching/
+    - title: Sensor Checks
+      title_full: What checks a triangulated UAP track?
+      url: /sensor-checks/
+  - title: UFODAP
+    title_full: What Makes UFODAP More Than a Camera?
+    url: /ufodap/
+    children:
+    - title: Camera Handoff
+      title_full: Can one camera both find and follow?
+      url: /camera-handoff-9687f1/
+    - title: Camera Motion
+      title_full: The hidden motion inside a zoomed clip
+      url: /camera-motion/
+    - title: Event Triggers
+      title_full: When does sky motion become an event?
+      url: /event-triggers/
+    - title: False Alerts
+      title_full: What keeps a detector from crying UFO?
+      url: /false-alerts/
+    - title: Starter Setup
+      title_full: What does a real starter station need?
+      url: /starter-setup/
+    - title: Triangulation
+      title_full: When does a camera network measure distance?
+      url: /triangulation-91fce1/
+  - title: Vision Filters
+    title_full: Can Software Spot False UFO Alarms?
+    url: /vision-filters/
+    children:
+    - title: Bird Motion
+      title_full: Why Birds Are Harder Than They Look
+      url: /bird-motion/
+    - title: Foliage Alerts
+      title_full: The Tree That Keeps Reporting UFOs
+      url: /foliage-alerts/
+    - title: Human Review
+      title_full: Why the Software Should Not Be the Judge
+      url: /human-review/
+    - title: In An Automated Instrumented UFO Detector,...
+      title_full: Why a Plane Can Still Look Unknown
+      url: /in-an-automated-instrumented-ufo/
+    - title: Thermal Traps
+      title_full: When Heat Looks Like a Moving Object
+      url: /thermal-traps/
+    - title: Tracking Boxes
+      title_full: When a Box Finds Something in the Sky
+      url: /tracking-boxes/
+  - title: Weather
+    title_full: Why Weather Belongs in UFO Detection
+    url: /weather/
+    children:
+    - title: Cloud Height
+      title_full: Can clouds expose a false altitude?
+      url: /cloud-height/
+    - title: Event Metadata
+      title_full: What weather belongs in a UAP file?
+      url: /event-metadata/
+    - title: IR Contrast
+      title_full: Why infrared skies can fool detectors
+      url: /ir-contrast/
+    - title: Local Sensors
+      title_full: Why the weather station belongs on site
+      url: /local-sensors/
+    - title: Upper Winds
+      title_full: Why ground wind is not enough
+      url: /upper-winds/
+    - title: Visibility
+      title_full: When bad visibility creates strange targets
+      url: /visibility/

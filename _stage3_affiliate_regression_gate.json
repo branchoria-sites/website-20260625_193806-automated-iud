@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-06-25T19:33:01",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 204,
+    "ebay_fallback_pages": 2,
+    "pages": {
+      "automated_instrument_521443": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_calibrated_sky_audio_4a1998": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_firework_audio_clues_5a53c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_quiet_sky_lights_db2523": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_uap_decision_ru_843b92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_video_timing_er_bdf6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_known_aircraft_detec_99d40b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_local_vs_public_trac_360e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no_adsb_match_limits_fdcefe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_adsb_beyond_filterin_25f541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_air_traffic_weather_af5ad5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_clock_errors_crossch_b1e6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_missed_aircraft_limi_bce480": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_baseline_sensor_mist_2e7a78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_low_horizon_false_tr_39b5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_ninety_day_sky_colle_e6a2b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_satellite_repeats_ba_85d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_weather_in_uap_basel_e772be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_raw_data_retention_t_fc55f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_reproducible_diy_sta_14ede1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_weatherproof_sky_sta_815127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_complete_uap_event_p_678dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_multi_sensor_event_v_31dbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_raw_vs_processed_cli_706335": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_rejected_trigger_pro_308035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_sensor_settings_case_313927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_edge_data_triage_f7d851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_realtime_camera_hand_0b635f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_rolling_pretrigger_b_0c49f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_sensor_health_checks_b780ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_uapx_storage_burden_96c518": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_local_ecology_baseli_c9df49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_out_of_focus_stars_836867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_satellite_ephemeris_564912": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_starlink_trains_724c24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_thermal_birds_a616be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_fixed_station_baseli_a585ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_hessdalen_fixed_less_a510b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_portable_hotspot_sta_4812d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_uapx_portable_limits_a8279f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_weatherproofing_data_93a7c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_aircraft_calibration_6c5c3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_dalek_sky_census_1f1801": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_galileo_edge_computi_5abc54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_galileo_photo_policy_147635": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_uap_event_provenance_7598e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_weather_false_alarms_9b9157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_aaro_partner_network_4c3181": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_fy2024_uap_data_gaps_ef07ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_90_day_basel_46854f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_false_target_fa3e7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_security_site_uap_da_d9d778": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_blue_box_trigger_rul_ade7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_false_alar_f58dd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_light_patt_4d38ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_permanent_2d4a14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_second_cam_9c2484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_broad_sky_baseline_n_c3b9d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hessdalen_hotspot_te_4c01e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_vs_citizen_n_814938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_nasa_uap_baseline_re_67872d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_geipan_style_ufo_cat_ec5599": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_low_information_ufo_a93bb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_multi_sensor_ufo_tri_1f73df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_starlink_ufo_review_0d9c56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_ufo_alert_noise_tria_99e267": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_ufo_expert_panel_tri_4bc1c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_aircraft_infrared_ca_bb3f24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_infrared_weather_lim_bd5f5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_testable_infrared_ua_792215": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_adsb_privacy_use_da2888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_camera_privacy_check_b6c702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_faa_flight_privacy_3fbbdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_home_uap_cctv_rules_73780e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_laser_hazard_sky_mon_10bbeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_uap_station_disclosu_11cadd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_aircraft_filter_limi_9795f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_foliage_false_sky_al_2ec9ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_baseline_observatori_cda8a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_compass_claims_06206a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_space_weather_confou_fbc4ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_ufo_chain_of_custody_4f4356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_weather_context_ufo_b01ac0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_adsb_uap_checks_7d3ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_infrared_uap_detecti_ec2925": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_missing_range_3f24f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_parallax_uap_motion_b92da1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_satellite_flares_57c67f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_second_station_trian_2e264a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_cross_station_object_4828d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_meteor_network_lesso_2fb7f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_multimodal_track_che_55ebf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_single_station_outli_dd5e52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_station_baseline_dis_7f70a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_baseline_sky_records_218b32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_middle_east_ir_case_7f96f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_one_sensor_limits_2de115": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_uap_event_package_fdae81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_weather_context_uap_9bfced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_aaro_missing_corrobo_7809f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_compressed_uap_clips_475bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_hessdalen_monitoring_872ce6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_tiered_uap_data_acce_dc9210": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_uap_event_package_fdae81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_acceleration_range_a_b58172": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_go_fast_speed_illusi_ca6f7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_moving_camera_tracks_09e90a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_nasa_uap_metadata_cb0ddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_unreliable_sky_refer_d5f1a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_active_radar_rules_ea7127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_adsb_aircraft_checks_2d3a48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_fm_reflections_uap_fd49ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_clutte_e9cfa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_range_d64db3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_skywatch_3d_tracks_04b4bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_baseline_sky_data_4a1ebc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_open_source_limits_5cedda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_ordinary_sky_checks_ad05b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_uap_metadata_7946f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_aaro_starlink_report_2c5399": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_ephemeris_matching_8a9adb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_flare_geometry_check_1477cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_fresh_starlink_train_7caf98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_pacific_pilot_starli_228af2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_pilot_horizon_flares_e48743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_camera_motion_metada_59c9fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_starter_ufodap_stati_db3e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_triangulation_9e9143": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_wide_ptz_handoff_e2124c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_cloud_height_checks_a2dddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_upper_air_winds_f31ed8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_visibility_false_ala_876f89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 204,
+    "ebay_fallback_pages": 2,
+    "pages": {
+      "automated_instrument_521443": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_calibrated_sky_audio_4a1998": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_firework_audio_clues_5a53c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_acoustic_sensors_4dced1_quiet_sky_lights_db2523": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_uap_decision_ru_843b92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_video_timing_er_bdf6fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_known_aircraft_detec_99d40b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_local_vs_public_trac_360e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no_adsb_match_limits_fdcefe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_adsb_beyond_filterin_25f541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_air_traffic_weather_af5ad5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_clock_errors_crossch_b1e6dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_aircraft_calibration_cfea03_missed_aircraft_limi_bce480": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_baseline_sensor_mist_2e7a78": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_low_horizon_false_tr_39b5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_ninety_day_sky_colle_e6a2b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_satellite_repeats_ba_85d99d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_baseline_sky_data_4a1ebc_weather_in_uap_basel_e772be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_raw_data_retention_t_fc55f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_reproducible_diy_sta_14ede1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_buy_vs_build_detecto_284bb3_weatherproof_sky_sta_815127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_complete_uap_event_p_678dee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_multi_sensor_event_v_31dbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_raw_vs_processed_cli_706335": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_rejected_trigger_pro_308035": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_sensor_settings_case_313927": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_edge_data_triage_f7d851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_realtime_camera_hand_0b635f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_rolling_pretrigger_b_0c49f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_sensor_health_checks_b780ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_edge_computing_ad654a_uapx_storage_burden_96c518": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_local_ecology_baseli_c9df49": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_out_of_focus_stars_836867": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_satellite_ephemeris_564912": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_starlink_trains_724c24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_false_positives_f6ef28_thermal_birds_a616be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_fixed_station_baseli_a585ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_hessdalen_fixed_less_a510b8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_portable_hotspot_sta_4812d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_uapx_portable_limits_a8279f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_fixed_vs_portable_ef1385_weatherproofing_data_93a7c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_aircraft_calibration_6c5c3c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_dalek_sky_census_1f1801": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_galileo_edge_computi_5abc54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_galileo_photo_policy_147635": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_uap_event_provenance_7598e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_galileo_observatorie_ddac3d_weather_false_alarms_9b9157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_aaro_partner_network_4c3181": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_fy2024_uap_data_gaps_ef07ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_90_day_basel_46854f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_false_target_fa3e7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_gremlin_sensors_059379_security_site_uap_da_d9d778": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_blue_box_trigger_rul_ade7d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_false_alar_f58dd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_light_patt_4d38ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_permanent_2d4a14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_hessdalen_second_cam_9c2484": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hessdalen_station_356504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_broad_sky_baseline_n_c3b9d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hessdalen_hotspot_te_4c01e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_vs_citizen_n_814938": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_nasa_uap_baseline_re_67872d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_geipan_style_ufo_cat_ec5599": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_low_information_ufo_a93bb1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_multi_sensor_ufo_tri_1f73df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_starlink_ufo_review_0d9c56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_ufo_alert_noise_tria_99e267": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_human_review_triage_acf27d_ufo_expert_panel_tri_4bc1c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_aircraft_infrared_ca_bb3f24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_infrared_weather_lim_bd5f5e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_testable_infrared_ua_792215": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_adsb_privacy_use_da2888": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_camera_privacy_check_b6c702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_faa_flight_privacy_3fbbdc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_home_uap_cctv_rules_73780e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_laser_hazard_sky_mon_10bbeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_legal_privacy_airspa_3f6619_uap_station_disclosu_11cadd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_aircraft_filter_limi_9795f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_foliage_false_sky_al_2ec9ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_baseline_observatori_cda8a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_compass_claims_06206a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_magnetometers_088bec_space_weather_confou_fbc4ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_ufo_chain_of_custody_4f4356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_metadata_gaps_e215b4_weather_context_ufo_b01ac0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_adsb_uap_checks_7d3ba0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_infrared_uap_detecti_ec2925": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_missing_range_3f24f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_parallax_uap_motion_b92da1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_satellite_flares_57c67f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_sensor_detecti_7b7b02_second_station_trian_2e264a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_cross_station_object_4828d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_meteor_network_lesso_2fb7f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_multimodal_track_che_55ebf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_single_station_outli_dd5e52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_multi_site_triangula_e6b681_station_baseline_dis_7f70a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_baseline_sky_records_218b32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_middle_east_ir_case_7f96f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_one_sensor_limits_2de115": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_uap_event_package_fdae81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_nasa_data_gap_e59ca4_weather_context_uap_9bfced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_aaro_missing_corrobo_7809f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_compressed_uap_clips_475bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_hessdalen_monitoring_872ce6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_tiered_uap_data_acce_dc9210": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_open_data_replicatio_f0edf1_uap_event_package_fdae81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_acceleration_range_a_b58172": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_go_fast_speed_illusi_ca6f7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_moving_camera_tracks_09e90a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_nasa_uap_metadata_cb0ddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_parallax_speed_error_5dd891_unreliable_sky_refer_d5f1a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_active_radar_rules_ea7127": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_adsb_aircraft_checks_2d3a48": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_fm_reflections_uap_fd49ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_clutte_e9cfa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_range_d64db3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_radar_radio_tracking_da2ccb_skywatch_3d_tracks_04b4bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_baseline_sky_data_4a1ebc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_open_source_limits_5cedda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_ordinary_sky_checks_ad05b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_sky360_citizen_stati_99f8d3_uap_metadata_7946f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_aaro_starlink_report_2c5399": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_ephemeris_matching_8a9adb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_flare_geometry_check_1477cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_fresh_starlink_train_7caf98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_pacific_pilot_starli_228af2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_starlink_satellite_c_217280_pilot_horizon_flares_e48743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": true
+      },
+      "automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_camera_motion_metada_59c9fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_starter_ufodap_stati_db3e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_triangulation_9e9143": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_ufodap_optical_track_1b6d40_wide_ptz_handoff_e2124c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_cloud_height_checks_a2dddf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_upper_air_winds_f31ed8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_visibility_false_ala_876f89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}
