@@ -448,15 +448,15 @@ image: /assets/images/automated_instrument_521443_false_positives_f6ef28-overvie
 
 ## Introduction
 
-Automated UFO or UAP detectors do not fail mainly because the sky is empty; they fail because the sky is crowded. Birds, insects, aircraft, balloons, [satellites]({{ 'satellites/' | relative_url }}), stars and camera artefacts can all produce “interesting” motion, flashes, blobs or streaks in an automated system before any unusual event is even considered. That is why a useful detector page has to start with false positives. NASA’s UAP study put the core problem plainly: analysis is weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). Without those basics, a detector cannot reliably tell the difference between an anomaly and ordinary sky clutter recorded under awkward conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Automated UFO or UAP detectors do not fail mainly because the sky is empty; they fail because the sky is crowded. Birds, insects, aircraft, balloons, [satellites]({{ 'satellites/' | relative_url }}), stars and camera artefacts can all produce “interesting” motion, flashes, blobs or streaks in an automated system before any unusual event is even considered. That is why a useful detector page has to start with false positives. NASA’s UAP study put the core problem plainly: analysis is weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). Without those basics, a detector cannot reliably tell the difference between an anomaly and ordinary sky clutter recorded under awkward conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-overview.webp" | relative_url }}" alt="Overview image for False Positives" loading="eager" decoding="sync" fetchpriority="high">
-The practical lesson is not that all UFO reports are birds or satellites. It is that most automated alarms should be expected to be ordinary until the system proves otherwise. The best instrumented projects now treat detection as a filtering problem: build a long-term census of normal aerial activity, classify the common impostors, and reserve attention for tracks that survive checks against biology, aircraft data, satellite predictions, [weather]({{ 'weather/' | relative_url }}), optical behaviour and sensor metadata. The [Galileo]({{ 'galileo/' | relative_url }}) Project describes this as a multi-modal census of natural and human-made aerial phenomena, not a simple “UFO camera”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+The practical lesson is not that all UFO reports are birds or satellites. It is that most automated alarms should be expected to be ordinary until the system proves otherwise. The best instrumented projects now treat detection as a filtering problem: build a long-term census of normal aerial activity, classify the common impostors, and reserve attention for tracks that survive checks against biology, aircraft data, satellite predictions, [weather]({{ 'weather/' | relative_url }}), optical behaviour and sensor metadata. The [Galileo]({{ 'galileo/' | relative_url }}) Project describes this as a multi-modal census of natural and human-made aerial phenomena, not a simple “UFO camera”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 ## Why False Positives Are the Main Work
 
-A sky detector is usually watching a scene where the overwhelming majority of moving objects are mundane. The All-domain Anomaly Resolution Office, or AARO, lists airborne clutter such as debris, balloons and birds among the common causes reported as UAP, and a 2024 Department of Defense update said AARO had resolved hundreds of cases as commonplace objects including balloons, birds, drones, satellites and aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
+A sky detector is usually watching a scene where the overwhelming majority of moving objects are mundane. The All-domain Anomaly Resolution Office, or AARO, lists airborne clutter such as debris, balloons and birds among the common causes reported as UAP, and a 2024 Department of Defense update said AARO had resolved hundreds of cases as commonplace objects including balloons, birds, drones, satellites and aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
 
 That matters because automated systems can be seduced by exactly the same things that confuse people. A small nearby insect may look like a large distant object. A bird crossing an infrared frame may appear as a bright object with no obvious wings. A satellite flare may brighten, vanish and reappear in a way that feels controlled. A star near the edge of focus may become a glowing disc. The problem is not simply “misidentification”; it is missing scale. A camera sees angle, brightness and time. Distance, size and speed have to be inferred, and bad inference is where false positives thrive.
 
@@ -476,7 +476,7 @@ The serious systems therefore do not merely ask, “Did something move?” They 
 
 </div>
 
-This is why NASA’s emphasis on calibration, metadata, multiple measurements and baseline data is not bureaucratic housekeeping. It is the difference between a database of interesting videos and a measurement system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This is why NASA’s emphasis on calibration, metadata, multiple measurements and baseline data is not bureaucratic housekeeping. It is the difference between a database of interesting videos and a measurement system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-1-dark.svg" | relative_url }}" alt="False Positives illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -484,13 +484,13 @@ This is why NASA’s emphasis on calibration, metadata, multiple measurements an
 
 Birds and insects are awkward because they are physical objects, not sensor glitches. They can appear on optical cameras, [infrared cameras]({{ 'infrared/' | relative_url }}) and sometimes radar-like systems. They may move erratically, change direction abruptly, disappear behind clutter, and vary in brightness as they flap, bank or pass through focus. In a single-camera clip, that can look more exotic than it is.
 
-AARO’s public imagery catalogue includes a case resolved as migratory birds from Africa, based on infrared footage submitted by United States Africa Command. The same page lists several other cases resolved as balloons and one closed as not anomalous, showing how official UAP review often turns on ordinary airborne objects rather than extraordinary vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+AARO’s public imagery catalogue includes a case resolved as migratory birds from Africa, based on infrared footage submitted by United States Africa Command. The same page lists several other cases resolved as balloons and one closed as not anomalous, showing how official UAP review often turns on ordinary airborne objects rather than extraordinary vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Birds are especially troublesome for automatic detectors because their apparent behaviour depends heavily on distance. A nearby bird crossing the field of view can cover many degrees per second, giving the impression of extreme speed. A distant flock may appear as several points that brighten and fade in formation. In thermal imagery, a bird can be a compact bright target, and wing motion may be blurred or invisible depending on frame rate, range and exposure.
 
 Insects are worse near the lens. A moth, beetle, fly or spider thread close to the camera can be so out of focus that it becomes a soft orb, streak or translucent shape. If it is illuminated by infrared LEDs, moonlight, a porch light or the detector’s own equipment, it may appear bright against a dark sky. Because it is close, even slow movement can sweep rapidly across the frame. A detector that estimates speed from angular motion alone may treat a centimetre-scale insect as a large object moving implausibly fast.
 
-The Galileo Project’s early public descriptions of its software emphasise exactly this clutter problem: the system is meant to identify outliers among familiar objects such as insects, birds, leaves, clouds, balloons, drones, aircraft and satellites. That framing is important. The detector is not useful because it avoids ordinary objects; it is useful only if it learns ordinary objects well enough to reject them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Open source on thedebrief.org.</span></span></span>
+The Galileo Project’s early public descriptions of its software emphasise exactly this clutter problem: the system is meant to identify outliers among familiar objects such as insects, birds, leaves, clouds, balloons, drones, aircraft and satellites. That framing is important. The detector is not useful because it avoids ordinary objects; it is useful only if it learns ordinary objects well enough to reject them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">Open source on thedebrief.org.</span></span></span>
 
 A robust biological-false-positive filter usually needs more than a shape classifier. It needs behaviour. Birds often have sinuous or flapping tracks rather than smooth inertial motion. Insects often change apparent size and blur because they are close to the optics. Leaves drift with wind and tumble. Bats and birds may cluster around twilight. Local ecology matters too: a station near water, trees, fields or street lighting will have a different false-positive profile from a dry rooftop observatory.
 
@@ -503,18 +503,18 @@ The criticism for detector designers is straightforward: “anomalous motion” 
 
 Aircraft are the obvious false positive, but satellites have become the more surprising one. A conventional aircraft can often be filtered with ADS-B, flight schedules, navigation lights, sound, radar, or repeated local routes. Satellites are quieter, higher, sometimes intermittent, and increasingly numerous. They can appear as steady moving points, bright streaks, trains of lights, sudden flares or objects that seem to vanish.
 
-Starlink is the standout example because it has changed the visual texture of the night sky. AARO’s 2024 satellite flaring paper explains that satellite flares are not new, but Starlink trains are relatively new because SpaceX deploys many satellites from a single launch. For several days after launch, they can form a distinctive line of bright objects before spreading out and fading as they move towards operational orbit. The same AARO paper notes that Starlink satellite components can produce diffuse and specular reflections, including flares much brighter than surrounding stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
+Starlink is the standout example because it has changed the visual texture of the night sky. AARO’s 2024 satellite flaring paper explains that satellite flares are not new, but Starlink trains are relatively new because SpaceX deploys many satellites from a single launch. For several days after launch, they can form a distinctive line of bright objects before spreading out and fading as they move towards operational orbit. The same AARO paper notes that Starlink satellite components can produce diffuse and specular reflections, including flares much brighter than surrounding stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
 
-This is not just a public-observer problem. A 2024 case study reconstructed an incident on 10 August 2022 in which five pilots on two commercial flights over the Pacific reported a UAP. The researchers used Starlink orbital data and aircraft ADS-B data to show that a recently launched Starlink train could account for the observations, including the unusual viewing geometry from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+This is not just a public-observer problem. A 2024 case study reconstructed an incident on 10 August 2022 in which five pilots on two commercial flights over the Pacific reported a UAP. The researchers used Starlink orbital data and aircraft ADS-B data to show that a recently launched Starlink train could account for the observations, including the unusual viewing geometry from the cockpit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For automated UFO detectors, that case is a warning. Multiple witnesses, photographs and video do not automatically mean an object is exotic. Several observers can be fooled by the same satellite geometry if they are looking from similar locations at similar times. Likewise, several cameras in one area may record the same flare, giving a false sense of triangulated mystery unless the system checks satellite ephemerides and illumination conditions.
 
-Starlink and other low-Earth-orbit satellites create several detector-specific traps: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Starlink and other low-Earth-orbit satellites create several detector-specific traps:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-* **Straight streaks in long exposure:** astronomy surveys treat satellite trails as a serious image-contamination problem. Automated satellite-trail detection methods now use deep learning and computer-vision tools to find and mask trails in ground-based images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2407.19461v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
-* **Bright flares:** specular reflections can brighten suddenly, then fade, creating the impression of appearance and disappearance rather than simple orbital motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
-* **Trains and clusters:** recently launched satellites can appear as a line or group of objects moving together, unlike the single moving point many people expect a satellite to be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
-* **Pilot and camera geometry:** an object that looks strange from an aircraft cockpit or fixed ground station may be predictable once the observer’s location, time and line of sight are reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+* **Straight streaks in long exposure:** astronomy surveys treat satellite trails as a serious image-contamination problem. Automated satellite-trail detection methods now use deep learning and computer-vision tools to find and mask trails in ground-based images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2407.19461v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+* **Bright flares:** specular reflections can brighten suddenly, then fade, creating the impression of appearance and disappearance rather than simple orbital motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">arXiv Extreme Flaring of Starlink Satellites</span></span></span>
+* **Trains and clusters:** recently launched satellites can appear as a line or group of objects moving together, unlike the single moving point many people expect a satellite to be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
+* **Pilot and camera geometry:** an object that looks strange from an aircraft cockpit or fixed ground station may be predictable once the observer’s location, time and line of sight are reconstructed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The solution is not to dismiss all lights as satellites. It is to make satellite rejection automatic. A serious detector should log precise time, location, [pointing]({{ 'pointing/' | relative_url }}) direction, field of view and exposure; compare events against satellite catalogues and two-line element data where available; and model whether the object would be sunlit from the detector’s position. Without that, satellite clutter will keep producing “interesting” clips.
 
@@ -524,17 +524,17 @@ Stars and planets sit in a different category. They do not usually move quickly 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-2-dark.svg" | relative_url }}" alt="False Positives illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lens, Focus, Parallax and Exposure Artefacts
 
-Many of the most persuasive-looking false positives are not objects behaving strangely. They are ordinary objects plus optics behaving normally. NASA’s UAP report noted that several apparent UAP have been shown to be sensor artefacts after proper calibration and metadata scrutiny. That is the key distinction: the footage can be real while the apparent behaviour is not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
+Many of the most persuasive-looking false positives are not objects behaving strangely. They are ordinary objects plus optics behaving normally. NASA’s UAP report noted that several apparent UAP have been shown to be sensor artefacts after proper calibration and metadata scrutiny. That is the key distinction: the footage can be real while the apparent behaviour is not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
 
 Out-of-focus light is a common trap. A point source such as a star, aircraft light, satellite glint or reflection can become a soft disc when focus is wrong. The shape of that disc is governed by the optics, aperture, sensor and processing, not by the object itself. This is why “orb” videos are weak evidence unless the system can show focus state, range, point-spread behaviour and whether the object was resolved.
 
 Parallax is another major source of false motion. A nearby object crossing in front of a distant background appears to move quickly even if it is slow. A camera on a moving aircraft, ship, vehicle or rotating mount can make distant objects appear to accelerate or reverse direction. Zoom changes can exaggerate this. Digital stabilisation can keep the background steady while making a foreground object look as if it is sliding unnaturally.
 
-Exposure can produce its own illusions. Long exposures turn moving objects into streaks. Short exposures may hide wing motion or navigation-light flashes. Rolling shutter can distort fast motion. Compression can smear small objects into blocks. Infrared cameras can lose contrast when a target and background have similar apparent temperatures, creating disappearance or “transmedium” impressions. A 2024 public discussion of AARO cases described one Puerto Rico infrared video in which a supposed transition into water was assessed as an infrared contrast effect rather than an object entering the sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Black object&#x27;: Pentagon&#x27;s wild UFO revelation</span><span class="citation-popover-snippet">Black object&#x27;: Pentagon&#x27;s wild UFO revelation</span></span></span>
+Exposure can produce its own illusions. Long exposures turn moving objects into streaks. Short exposures may hide wing motion or navigation-light flashes. Rolling shutter can distort fast motion. Compression can smear small objects into blocks. Infrared cameras can lose contrast when a target and background have similar apparent temperatures, creating disappearance or “transmedium” impressions. A 2024 public discussion of AARO cases described one Puerto Rico infrared video in which a supposed transition into water was assessed as an infrared contrast effect rather than an object entering the sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-title">Black object&#x27;: Pentagon&#x27;s wild UFO revelation</span><span class="citation-popover-snippet">Black object&#x27;: Pentagon&#x27;s wild UFO revelation</span></span></span>
 
 Automated systems need to preserve the boring details that later make these artefacts testable: lens model, focus setting, aperture, gain, exposure time, frame rate, compression level, sensor temperature, weather, camera motion, mount state and processing steps. A detector that saves only a cropped, compressed clip may throw away the evidence needed to explain its own alarm.
 
-This is one reason astronomical transient surveys are useful analogues for UAP detectors. Modern sky surveys already fight “real versus bogus” problems at industrial scale. Zwicky Transient Facility work, for example, uses machine-learning classifiers to separate real astrophysical events from false detections, while moving-object pipelines use shape, photometry and repeated observations to reduce false positives. Those methods do not translate perfectly to low-altitude UAP detection, but the lesson does: every automated sky survey must invest heavily in rejecting artefacts before claiming rare events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.11259" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.05920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+This is one reason astronomical transient surveys are useful analogues for UAP detectors. Modern sky surveys already fight “real versus bogus” problems at industrial scale. Zwicky Transient Facility work, for example, uses machine-learning classifiers to separate real astrophysical events from false detections, while moving-object pipelines use shape, photometry and repeated observations to reduce false positives. Those methods do not translate perfectly to low-altitude UAP detection, but the lesson does: every automated sky survey must invest heavily in rejecting artefacts before claiming rare events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1907.11259" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.05920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -553,9 +553,9 @@ A useful automated instrumented UFO detector should therefore apply several test
 6. **Multi-site geometry:** two or more [separated stations]({{ 'triangulation-f8259a/' | relative_url }}) can turn angular motion into range and altitude, which is the fastest way to distinguish nearby bugs from distant objects.
 7. **Human review of edge cases:** automation should triage, not replace, expert interpretation when the event survives ordinary filters.
 
-The Galileo Project’s instrument concept points in this direction by combining wide-field and narrow-field cameras, infrared instruments, passive radar-style receivers, radio-spectrum monitoring, acoustic sensors, environmental sensors and other measurements. The design logic is simple: a single camera can be fooled by too many things; independent channels make false explanations easier to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+The Galileo Project’s instrument concept points in this direction by combining wide-field and narrow-field cameras, infrared instruments, passive radar-style receivers, radio-spectrum monitoring, acoustic sensors, environmental sensors and other measurements. The design logic is simple: a single camera can be fooled by too many things; independent channels make false explanations easier to test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-UFODAP and similar detector projects also show the same ambition: track and record anomalous objects while collecting data from multiple sensors. The risk is that hardware can look scientific while software, metadata and verification remain weak. A UAPx field-expedition paper, for example, criticised UFODAP software reliability for object tracking and identification in that deployment and noted missing ancillary data such as GPS location and ADS-B exchange. That kind of criticism is valuable because it identifies the gap between “a detector recorded something” and “a detector produced analysable evidence”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+UFODAP and similar detector projects also show the same ambition: track and record anomalous objects while collecting data from multiple sensors. The risk is that hardware can look scientific while software, metadata and verification remain weak. A UAPx field-expedition paper, for example, criticised UFODAP software reliability for object tracking and identification in that deployment and noted missing ancillary data such as GPS location and ADS-B exchange. That kind of criticism is valuable because it identifies the gap between “a detector recorded something” and “a detector produced analysable evidence”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-3-dark.svg" | relative_url }}" alt="False Positives illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -572,194 +572,194 @@ The credibility of automated instrumented UFO detection will depend less on spec
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Fools UFO Detectors Most Often?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Fools UFO Detectors Most Often?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Covers interpretation of aerial anomalies and encourages evidence-based consideration of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers interpretation of aerial anomalies and encourages evidence-based consideration of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, investigation, and separating unusual reports from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, investigation, and separating unusual reports from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
-        </h4>
-        <p class="fr-book-author">By Thierry Legault</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
+</h4>
+<p class="fr-book-author">By Thierry Legault</p>
         
-        <p class="fr-book-desc">Explains imaging artefacts, exposure effects, tracking issues, and optical misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains imaging artefacts, exposure effects, tracking issues, and optical misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers recognize common celestial objects often mistaken for unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize common celestial objects often mistaken for unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-positives-what-fools-ufo-detectors-most-often-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -775,7 +775,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -795,7 +795,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -827,7 +827,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -879,7 +879,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -924,7 +924,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -965,148 +965,148 @@ The credibility of automated instrumented UFO detection will depend less on spec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2407.19461v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.19461v1</a>  
+   Link:<a href="https://arxiv.org/html/2407.19461v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.19461v1</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.com.au  
    Title: 'Black object': Pentagon's wild UFO revelation  
-   Link: <a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92</a>  
+   Link:<a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1907.11259" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11259</a>  
+   Link:<a href="https://arxiv.org/abs/1907.11259" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11259</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1904.05920" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.05920</a>  
+   Link:<a href="https://arxiv.org/abs/1904.05920" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.05920</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2402.00497v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.00497v1</a>  
+   Link:<a href="https://arxiv.org/html/2402.00497v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.00497v1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: NASA discusses findings from UFO study | full video  
-   Link: <a href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PDcI_N2aH4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - PR-016: Resolved as Birds over Europe in 2023 - YouTube UAP FILES - PR-016: Resolved as Birds over Europe in 2023 - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PDcI_N2aH4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - PR-016: Resolved as Birds over Europe in 2023 - YouTube UAP FILES - PR-016: Resolved as Birds over Europe in 2023 - YouTube...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA discusses findings from UFO study | full video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA discusses findings from UFO study | full video...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform</a>  
+   Link:<a href="https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8253812701307695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8253812701307695/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8253812701307695/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8253812701307695/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/altairastro/posts/5610639582374350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/altairastro/posts/5610639582374350/</a>  
+   Link:<a href="https://www.facebook.com/groups/altairastro/posts/5610639582374350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/altairastro/posts/5610639582374350/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/</a>  
+   Link:<a href="https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1000173309370538/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/its-impossible-to-draw-firm-scientific-conclusions-about-uaps-according-to-nasa-/326808863059471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/its-impossible-to-draw-firm-scientific-conclusions-about-uaps-according-to-nasa-/326808863059471/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/its-impossible-to-draw-firm-scientific-conclusions-about-uaps-according-to-nasa-/326808863059471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/its-impossible-to-draw-firm-scientific-conclusions-about-uaps-according-to-nasa-/326808863059471/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  
+   Link:<a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  

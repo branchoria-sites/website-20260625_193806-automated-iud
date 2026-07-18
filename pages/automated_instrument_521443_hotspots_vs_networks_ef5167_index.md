@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-hotspots/
 description: Focused pages that expand on Hotspots.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_hotspots_vs_networks_ef5167
 parent_title: Hotspots
@@ -16,7 +16,7 @@ parent_permalink: /hotspots/
 
 # Explore Topics in Hotspots
 
-The following pages expand on the main **[Hotspots]({{ '/hotspots/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Hotspots]({{ '/hotspots/' | relative_url }})** page and cover its key branches in.
 
 - [Baselines]({{ '/baselines-cd15d8/' | relative_url }})
 - [Hessdalen]({{ '/hessdalen-119e88/' | relative_url }})

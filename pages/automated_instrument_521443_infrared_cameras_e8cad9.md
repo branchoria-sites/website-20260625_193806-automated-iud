@@ -448,19 +448,19 @@ image: /assets/images/automated_instrument_521443_infrared_cameras_e8cad9-overvi
 
 ## Introduction
 
-All-sky infrared cameras add a specific capability to [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}): they can watch the night sky continuously for heat contrast, not just reflected or visible light. That matters because many night-time UAP reports are short, dim, poorly exposed, or visible only as lights against darkness. Long-wave infrared, or LWIR, does not solve the UAP problem by itself, but it can make an automated station much better at detecting aircraft, birds, clouds, rotorcraft, drifting objects and genuinely ambiguous tracks in conditions where ordinary cameras struggle. The strongest current example is the [Galileo]({{ 'galileo/' | relative_url }}) Project’s “Dalek” array, an eight-camera LWIR system built to monitor nearly the whole sky, calibrate detections against ADS-B aircraft data, and feed object tracks into a wider multi-sensor observatory. Its early results are useful precisely because they are not sensational: they show both the promise of infrared all-sky detection and the hard calibration work needed before “unidentified” becomes scientifically meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+All-sky infrared cameras add a specific capability to [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}): they can watch the night sky continuously for heat contrast, not just reflected or visible light. That matters because many night-time UAP reports are short, dim, poorly exposed, or visible only as lights against darkness. Long-wave infrared, or LWIR, does not solve the UAP problem by itself, but it can make an automated station much better at detecting aircraft, birds, clouds, rotorcraft, drifting objects and genuinely ambiguous tracks in conditions where ordinary cameras struggle. The strongest current example is the [Galileo]({{ 'galileo/' | relative_url }}) Project’s “Dalek” array, an eight-camera LWIR system built to monitor nearly the whole sky, calibrate detections against ADS-B aircraft data, and feed object tracks into a wider multi-sensor observatory. Its early results are useful precisely because they are not sensational: they show both the promise of infrared all-sky detection and the hard calibration work needed before “unidentified” becomes scientifically meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-overview.webp" | relative_url }}" alt="Overview image for Infrared" loading="eager" decoding="sync" fetchpriority="high">
 ## Why long-wave infrared changes the night problem
 
-Visible-light sky cameras depend on illumination. At night they can record bright aircraft lights, meteors, [satellites]({{ 'satellites/' | relative_url }}), the Moon, city skyglow, and stars, but a dark, non-luminous object against a dark sky can be nearly invisible. LWIR cameras work differently: they image thermal radiation, commonly in the 8–14 micrometre atmospheric window, where many terrestrial objects emit strongly. That makes them attractive for night-time UAP detection because the signal of interest may be heat contrast against a cooler or warmer sky rather than a visible glint or navigation light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opto-e.com/en/basics/ir-optics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opto-e.com">[Opto Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opto-e.com</span><span class="citation-popover-snippet">Opto EngineeringIR Optics: SWIR, MWIR, LWIRLWIR collects the light in the 8 μm to 14 μm spectral band and is the wavelength range with th...</span></span></span>
+Visible-light sky cameras depend on illumination. At night they can record bright aircraft lights, meteors, [satellites]({{ 'satellites/' | relative_url }}), the Moon, city skyglow, and stars, but a dark, non-luminous object against a dark sky can be nearly invisible. LWIR cameras work differently: they image thermal radiation, commonly in the 8–14 micrometre atmospheric window, where many terrestrial objects emit strongly. That makes them attractive for night-time UAP detection because the signal of interest may be heat contrast against a cooler or warmer sky rather than a visible glint or navigation light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.opto-e.com/en/basics/ir-optics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opto-e.com">[Opto Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opto-e.com</span><span class="citation-popover-snippet">Opto EngineeringIR Optics: SWIR, MWIR, LWIRLWIR collects the light in the 8 μm to 14 μm spectral band and is the wavelength range with th...</span></span></span>
 
-This does not mean infrared cameras “see everything”. Their performance depends on distance, humidity, rain, fog, cloud, atmospheric transmission, sensor noise, optics, frame rate and the target’s apparent size. Teledyne FLIR’s own explainer notes that thermal cameras can image in total darkness but that fog and rain still affect performance, while the Galileo Project’s commissioning data found reduced aircraft detection efficiency with precipitation, poor [visibility]({{ 'visibility/' | relative_url }}), high relative humidity, treeline interference, dust and raindrops on lenses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">Can Thermal Imaging See Through Fog and Rain?</span><span class="citation-popover-snippet">Can Thermal Imaging See Through Fog and Rain?</span></span></span>
+This does not mean infrared cameras “see everything”. Their performance depends on distance, humidity, rain, fog, cloud, atmospheric transmission, sensor noise, optics, frame rate and the target’s apparent size. Teledyne FLIR’s own explainer notes that thermal cameras can image in total darkness but that fog and rain still affect performance, while the Galileo Project’s commissioning data found reduced aircraft detection efficiency with precipitation, poor [visibility]({{ 'visibility/' | relative_url }}), high relative humidity, treeline interference, dust and raindrops on lenses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">Can Thermal Imaging See Through Fog and Rain?</span><span class="citation-popover-snippet">Can Thermal Imaging See Through Fog and Rain?</span></span></span>
 
 The practical advantage is therefore narrower and more defensible: infrared gives an automated detector a second way to notice night-time objects. If a track appears in visible light and in LWIR, the system has stronger evidence that it is a real external object rather than a camera artefact. If it appears only in LWIR, it may still be ordinary — a distant aircraft, bird, cloud edge, insect near the lens, or sensor effect — but it becomes a recorded measurement that can be cross-checked against aircraft broadcasts, [weather data]({{ 'weather-data/' | relative_url }}), time, camera geometry and other sensors.
 
-NASA’s 2023 independent UAP study made this point at the programme level. It found that UAP analysis is limited less by exotic theory than by poor sensor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). For infrared all-sky systems, that warning is central: a thermal video without sensor settings, timing, weather, pointing geometry and calibration can easily become another ambiguous clip rather than evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s 2023 independent UAP study made this point at the programme level. It found that UAP analysis is limited less by exotic theory than by poor sensor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). For infrared all-sky systems, that warning is central: a thermal video without sensor settings, timing, weather, pointing geometry and calibration can easily become another ambiguous clip rather than evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-1-dark.svg" | relative_url }}" alt="Infrared illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -468,11 +468,11 @@ NASA’s 2023 independent UAP study made this point at the programme level. It f
 
 An all-sky infrared camera array is not just a thermal camera pointed upwards. In the UAP-detector context, it is a geometry problem: the system must cover a huge angular field, know where every pixel points, record time-stamped video, detect moving objects, reconstruct tracks, and preserve enough metadata to test mundane explanations.
 
-The Galileo Project’s Dalek instrument is the clearest published model. It uses seven FLIR Boson 640 × 512 LWIR cameras arranged around a hemisphere plus one zenith camera, giving 360 degrees in azimuth and coverage up to about 80 degrees elevation. The seven side cameras have 50° × 40° fields of view and point 30 degrees above the horizon, with overlap between adjacent cameras; the zenith camera has a wider 95° × 72° field of view. The array sits in a weatherised enclosure, uses germanium windows for infrared transmission, and records video through edge-computing hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The Galileo Project’s Dalek instrument is the clearest published model. It uses seven FLIR Boson 640 × 512 LWIR cameras arranged around a hemisphere plus one zenith camera, giving 360 degrees in azimuth and coverage up to about 80 degrees elevation. The seven side cameras have 50° × 40° fields of view and point 30 degrees above the horizon, with overlap between adjacent cameras; the zenith camera has a wider 95° × 72° field of view. The array sits in a weatherised enclosure, uses germanium windows for infrared transmission, and records video through edge-computing hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-That architecture solves a problem a single thermal camera cannot solve well. A narrow thermal camera may capture a sharper image of one part of the sky, but it is likely to miss unpredictable transient events elsewhere. A true all-sky array trades some simplicity for coverage: it can detect objects entering from any direction, build a continuous local “aerial census”, and learn what normal traffic looks like from that site. The Galileo team explicitly chose eight cameras after considering four to fourteen, balancing angular resolution, detection volume, detail and cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+That architecture solves a problem a single thermal camera cannot solve well. A narrow thermal camera may capture a sharper image of one part of the sky, but it is likely to miss unpredictable transient events elsewhere. A true all-sky array trades some simplicity for coverage: it can detect objects entering from any direction, build a continuous local “aerial census”, and learn what normal traffic looks like from that site. The Galileo team explicitly chose eight cameras after considering four to fourteen, balancing angular resolution, detection volume, detail and cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-Once the video exists, software turns frames into candidate events. In Dalek’s commissioning pipeline, the team used YOLO, a real-time machine-learning object detector, to find objects in infrared frames, and SORT, a tracking algorithm, to reconstruct trajectories. Over five months, this produced roughly 500,000 reconstructed trajectories of aerial objects. That number is important because automated UAP detection is mostly a filtering problem: the system must first learn the normal sky before it can identify credible outliers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+Once the video exists, software turns frames into candidate events. In Dalek’s commissioning pipeline, the team used YOLO, a real-time machine-learning object detector, to find objects in infrared frames, and SORT, a tracking algorithm, to reconstruct trajectories. Over five months, this produced roughly 500,000 reconstructed trajectories of aerial objects. That number is important because automated UAP detection is mostly a filtering problem: the system must first learn the normal sky before it can identify credible outliers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -481,33 +481,33 @@ Once the video exists, software turns frames into candidate events. In Dalek’s
 
 A single thermal camera is easier to buy, power, mount and understand. For a local observer, it can be useful for scanning one horizon, one flight path, or one fixed region where sightings are often claimed. But for automated instrumented detection, the limitation is obvious: the object has to pass through the camera’s field of view. A narrow field can improve detail, but it sacrifices the one feature a continuous UAP station needs most — broad, unattended coverage.
 
-An all-sky array improves the odds of capture and provides better context. It can show whether an object crossed multiple sectors, whether it followed a known route, whether it appeared near the Moon or clouds, whether it was close to the treeline, and whether similar tracks occur every night. Dalek’s published imagery and processing examples include ordinary [categories]({{ 'categories/' | relative_url }}) such as aircraft, birds, flocks, clouds, rotorcraft, leaves and the Moon, which is exactly the clutter any serious UAP detector must expect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+An all-sky array improves the odds of capture and provides better context. It can show whether an object crossed multiple sectors, whether it followed a known route, whether it appeared near the Moon or clouds, whether it was close to the treeline, and whether similar tracks occur every night. Dalek’s published imagery and processing examples include ordinary [categories]({{ 'categories/' | relative_url }}) such as aircraft, birds, flocks, clouds, rotorcraft, leaves and the Moon, which is exactly the clutter any serious UAP detector must expect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-The tradeoff is complexity. Multiple cameras need intrinsic calibration, so each lens and detector maps image pixels consistently. They need extrinsic calibration, so the system knows where each camera is pointing in the real world. They need synchronised timing, stable mounts, weather protection, clean optics and software that can stitch detections into tracks without inventing motion. The Galileo team used ADS-B aircraft positions as a real-world calibration resource, matching aircraft broadcast locations to infrared detections and using repeated aircraft passes to monitor camera orientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The tradeoff is complexity. Multiple cameras need intrinsic calibration, so each lens and detector maps image pixels consistently. They need extrinsic calibration, so the system knows where each camera is pointing in the real world. They need synchronised timing, stable mounts, weather protection, clean optics and software that can stitch detections into tracks without inventing motion. The Galileo team used ADS-B aircraft positions as a real-world calibration resource, matching aircraft broadcast locations to infrared detections and using repeated aircraft passes to monitor camera orientation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-For a UAP station, this is a major advantage over a handheld thermal recording. Aircraft become calibration targets, not merely contaminants. A site near normal air traffic can use known planes to test whether its cameras detect what they should detect, where they should detect it, and how often they miss. In Dalek’s case, the development site’s proximity to a regional airport was useful because it provided a regular flow of aircraft for calibration and commissioning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+For a UAP station, this is a major advantage over a handheld thermal recording. Aircraft become calibration targets, not merely contaminants. A site near normal air traffic can use known planes to test whether its cameras detect what they should detect, where they should detect it, and how often they miss. In Dalek’s case, the development site’s proximity to a regional airport was useful because it provided a regular flow of aircraft for calibration and commissioning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 ## What the early Dalek results show
 
-The Dalek commissioning results are valuable because they quantify performance instead of simply claiming “infrared detection”. Using ADS-B-equipped aircraft as labelled real-world targets, the team reported a 41% acceptance rate for in-range aircraft passing through the effective field of view of at least one camera, and a 36% mean frame-by-frame detection efficiency for recorded aircraft. Those figures are not proof of failure; they are a baseline showing how hard the problem is under real weather, geometry and operational constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The Dalek commissioning results are valuable because they quantify performance instead of simply claiming “infrared detection”. Using ADS-B-equipped aircraft as labelled real-world targets, the team reported a 41% acceptance rate for in-range aircraft passing through the effective field of view of at least one camera, and a 36% mean frame-by-frame detection efficiency for recorded aircraft. Those figures are not proof of failure; they are a baseline showing how hard the problem is under real weather, geometry and operational constraints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-The system also shows why “outlier” does not automatically mean “extraordinary”. From about 500,000 reconstructed trajectories, a simple test based on high apparent trajectory sinuosity flagged roughly 16% as outliers. Manual review associated most of those with ordinary categories such as birds, flocks, planes, leaves and clouds. After review, 144 trajectories remained ambiguous, but the authors wrote that these were likely mundane objects and did not show abnormal behaviour; the ambiguity mainly reflected limits in distance, kinematics and single-modality interpretation at that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The system also shows why “outlier” does not automatically mean “extraordinary”. From about 500,000 reconstructed trajectories, a simple test based on high apparent trajectory sinuosity flagged roughly 16% as outliers. Manual review associated most of those with ordinary categories such as birds, flocks, planes, leaves and clouds. After review, 144 trajectories remained ambiguous, but the authors wrote that these were likely mundane objects and did not show abnormal behaviour; the ambiguity mainly reflected limits in distance, kinematics and single-modality interpretation at that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 That result is a useful corrective to both sceptical dismissal and UAP hype. It shows that an infrared all-sky detector can generate a large, structured dataset of night-sky activity. It also shows that the first wave of “unidentified” tracks will mostly be ordinary objects seen under imperfect conditions. The scientific value lies in reducing ambiguity step by step: add range estimation, triangulation, visible imagery, radar or passive radio, environmental data, better classifiers, better calibration and longer baselines.
 
-NASA’s report makes the same methodological point in broader language: apparent UAP have sometimes been shown to be sensor artefacts when calibration and metadata were scrutinised, and future data needs calibrated instruments, contextual metadata and multiple measurements. Infrared cameras fit that strategy only when they are treated as instruments, not as mystery-video machines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s report makes the same methodological point in broader language: apparent UAP have sometimes been shown to be sensor artefacts when calibration and metadata were scrutinised, and future data needs calibrated instruments, contextual metadata and multiple measurements. Infrared cameras fit that strategy only when they are treated as instruments, not as mystery-video machines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-2-dark.svg" | relative_url }}" alt="Infrared illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night-time heat imagery is hard to calibrate
 
-Infrared imagery looks intuitive because warm objects appear bright or dark depending on display settings, but quantitative thermal measurement is difficult. A camera does not directly report “the object’s true temperature”. It records radiation reaching the sensor after emission, reflection, absorption and atmospheric effects. For airborne objects, the problem is harder because distance, humidity, atmospheric temperature, carbon dioxide, water vapour, target emissivity and reflected background radiation all influence the measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+Infrared imagery looks intuitive because warm objects appear bright or dark depending on display settings, but quantitative thermal measurement is difficult. A camera does not directly report “the object’s true temperature”. It records radiation reaching the sensor after emission, reflection, absorption and atmospheric effects. For airborne objects, the problem is harder because distance, humidity, atmospheric temperature, carbon dioxide, water vapour, target emissivity and reflected background radiation all influence the measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-The Galileo team’s thermal calibration section makes this concrete. Their selected Boson cameras did not come with factory thermal calibration, so the team calibrated them against black-body-like targets over a grid of target and camera temperatures, while also accounting for germanium windows because window opacity changes with temperature. For field measurements, they noted that atmospheric transmission depends on relative humidity, atmospheric temperature and distance from the camera to the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The Galileo team’s thermal calibration section makes this concrete. Their selected Boson cameras did not come with factory thermal calibration, so the team calibrated them against black-body-like targets over a grid of target and camera temperatures, while also accounting for germanium windows because window opacity changes with temperature. For field measurements, they noted that atmospheric transmission depends on relative humidity, atmospheric temperature and distance from the camera to the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 This matters for UAP detection because apparent heat is easy to misread. A small nearby insect, a bird at moderate range, a cloud edge, a plane many kilometres away and a warm lens artefact can all produce detections that need context. Without range, a bright thermal blob cannot reliably yield size, speed or temperature. Without calibration, it may not even yield a stable brightness comparison from one night to the next.
 
-Clouds add another complication. Thermal all-sky cameras are already used in atmospheric monitoring because they can estimate cloud cover by measuring sky and cloud thermal emission day and night. Instruments such as the IRCCAM measure atmospheric thermal emission in the 8–14 micrometre range for fractional cloud-cover monitoring, while research on thermal-infrared all-sky cameras shows their usefulness for day-night cloud detection. For a UAP detector, that is both helpful and troublesome: the same sensitivity that reveals cloud structure can also create moving thermal patterns that software may initially treat as object tracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmodwrc.ch">[PMOD/WRC+2AMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmodwrc.ch</span><span class="citation-popover-snippet">Open source on pmodwrc.ch.</span></span></span>
+Clouds add another complication. Thermal all-sky cameras are already used in atmospheric monitoring because they can estimate cloud cover by measuring sky and cloud thermal emission day and night. Instruments such as the IRCCAM measure atmospheric thermal emission in the 8–14 micrometre range for fractional cloud-cover monitoring, while research on thermal-infrared all-sky cameras shows their usefulness for day-night cloud detection. For a UAP detector, that is both helpful and troublesome: the same sensitivity that reveals cloud structure can also create moving thermal patterns that software may initially treat as object tracks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmodwrc.ch">[PMOD/WRC+2AMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmodwrc.ch</span><span class="citation-popover-snippet">Open source on pmodwrc.ch.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
@@ -518,9 +518,9 @@ Infrared can help prove that something physical crossed a field of view, that it
 
 Infrared cannot, by itself, prove that an object is anomalous in the stronger sense. A two-dimensional track from one site usually lacks distance. Without distance, speed and acceleration can be wildly misestimated. Without emissivity and atmospheric correction, temperature can be misleading. Without comparison to normal traffic, the system cannot know whether a track is rare. Without other modalities, it may not distinguish distant birds, aircraft, balloons, drones, clouds, insects, lens contamination and sensor artefacts with enough confidence.
 
-This is why the Galileo Project places infrared inside a multimodal observatory rather than treating it as a standalone answer. Its broader instrument concept includes wide-field cameras in multiple bands, narrow-field instruments for morphology and spectra, passive radar-style receivers, radio spectrum analysers, microphones and environmental sensors. The stated purpose of multispectral and multi-sensor design is to recognise artefacts and make true detections corroborated and verifiable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+This is why the Galileo Project places infrared inside a multimodal observatory rather than treating it as a standalone answer. Its broader instrument concept includes wide-field cameras in multiple bands, narrow-field instruments for morphology and spectra, passive radar-style receivers, radio spectrum analysers, microphones and environmental sensors. The stated purpose of multispectral and multi-sensor design is to recognise artefacts and make true detections corroborated and verifiable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-Government work points in the same direction. AARO’s FY2024 report says its GREMLIN prototype is intended to detect, track and characterise UAP using several sensing modalities, and that it had begun data collections with a prototype sensor system. The public report does not make all sensor details available, but the emphasis on multi-modality aligns with the lesson from infrared arrays: one sensor can flag events; multiple calibrated sensors are needed to interpret them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+Government work points in the same direction. AARO’s FY2024 report says its GREMLIN prototype is intended to detect, track and characterise UAP using several sensing modalities, and that it had begun data collections with a prototype sensor system. The public report does not make all sensor details available, but the emphasis on multi-modality aligns with the lesson from infrared arrays: one sensor can flag events; multiple calibrated sensors are needed to interpret them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-3-dark.svg" | relative_url }}" alt="Infrared illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -548,199 +548,199 @@ The central lesson is that infrared makes automated UAP detection more serious, 
 
 ## The realistic takeaway
 
-All-sky infrared cameras are one of the most important additions to automated instrumented UFO detectors because they address a real weakness of visible-only night surveillance. They can operate in darkness, detect thermal contrast, and generate continuous records of aerial traffic that would otherwise be missed or poorly exposed. The Galileo Project’s Dalek array shows that this is no longer just a speculative idea: a published, purpose-built LWIR all-sky system has already produced a five-month commissioning dataset with hundreds of thousands of reconstructed trajectories and quantified detection performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+All-sky infrared cameras are one of the most important additions to automated instrumented UFO detectors because they address a real weakness of visible-only night surveillance. They can operate in darkness, detect thermal contrast, and generate continuous records of aerial traffic that would otherwise be missed or poorly exposed. The Galileo Project’s Dalek array shows that this is no longer just a speculative idea: a published, purpose-built LWIR all-sky system has already produced a five-month commissioning dataset with hundreds of thousands of reconstructed trajectories and quantified detection performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 The same evidence also shows the limits. Early ambiguous tracks are mostly a measurement problem, not a discovery claim. Infrared detections need calibration, atmospheric correction, range estimation, multi-sensor confirmation and long-term baselines before they can support strong conclusions about UAP. In the branch of automated instrumented UFO detectors, infrared’s distinctive value is therefore not that it reveals hidden answers at night. It is that it turns the night sky into a measurable, repeatable dataset — one where ordinary explanations can be tested before extraordinary ones are entertained.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Infrared Adds to UAP Detection. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Infrared Adds to UAP Detection. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical scientific thinking about unidentified aerial phenomena that pairs naturally with modern automated detection methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical scientific thinking about unidentified aerial phenomena that pairs naturally with modern automated detection methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wD-REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
-        </h4>
-        <p class="fr-book-author">By Diana Tumminia</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alien Worlds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wD-REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Alien Worlds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alien Worlds">Alien Worlds</a>
+</h4>
+<p class="fr-book-author">By Diana Tumminia</p>
         
-        <p class="fr-book-desc">Provides broader context for scientific and cultural approaches to UAP research that complements instrument-focused articles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for scientific and cultural approaches to UAP research that complements instrument-focused articles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alien+Worlds+by+Diana+Tumminia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
-        </h4>
-        <p class="fr-book-author">By Ronald G. Driggers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
+</h4>
+<p class="fr-book-author">By Ronald G. Driggers</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alien+Worlds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alien Worlds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="infrared-what-infrared-adds-to-uap-detection-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,155 +946,155 @@ The same evidence also shows the limits. Early ambiguous tracks are mostly a mea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
    Title: Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flir.com  
    Title: Can Thermal Imaging See Through Fog and Rain?  
-   Link: <a href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
+   Link:<a href="https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmodwrc.ch  
-   Link: <a href="https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/" target="_blank" rel="noopener noreferrer nofollow">https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/</a>  
+   Link:<a href="https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/" target="_blank" rel="noopener noreferrer nofollow">https://www.pmodwrc.ch/en/products-services/instruments-accessories/irccam/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amt.copernicus.org  
-   Link: <a href="https://amt.copernicus.org/articles/11/5549/2018/amt-11-5549-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amt.copernicus.org/articles/11/5549/2018/amt-11-5549-2018.pdf</a>  
+   Link:<a href="https://amt.copernicus.org/articles/11/5549/2018/amt-11-5549-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amt.copernicus.org/articles/11/5549/2018/amt-11-5549-2018.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/13/9/1852" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/13/9/1852</a>  
+   Link:<a href="https://www.mdpi.com/2072-4292/13/9/1852" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/13/9/1852</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18555</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18555</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: opto-e.com  
-   Link: <a href="https://www.opto-e.com/en/basics/ir-optics" target="_blank" rel="noopener noreferrer nofollow">https://www.opto-e.com/en/basics/ir-optics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opto EngineeringIR Optics: SWIR, MWIR, LWIRLWIR collects the light in the 8 μm to 14 μm spectral band and is the wavelength range with th...</p></details>
+   Link:<a href="https://www.opto-e.com/en/basics/ir-optics" target="_blank" rel="noopener noreferrer nofollow">https://www.opto-e.com/en/basics/ir-optics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opto EngineeringIR Optics: SWIR, MWIR, LWIRLWIR collects the light in the 8 μm to 14 μm spectral band and is the wavelength range with th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: chrisramsay.co.uk  
    Title: Cloud Detection  
-   Link: <a href="https://chrisramsay.co.uk/posts/2014/03/cloud-detection-part-one" target="_blank" rel="noopener noreferrer nofollow">https://chrisramsay.co.uk/posts/2014/03/cloud-detection-part-one</a>  
+   Link:<a href="https://chrisramsay.co.uk/posts/2014/03/cloud-detection-part-one" target="_blank" rel="noopener noreferrer nofollow">https://chrisramsay.co.uk/posts/2014/03/cloud-detection-part-one</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Scientist explains how he hunts for alien life in space  
-   Link: <a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb | The Crisis of Perception: UFOs, AI &amp; Reality...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb | The Crisis of Perception: UFOs, AI &amp; Reality...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Avi Loeb | The Crisis of Perception: UFOs, AI & Reality  
-   Link: <a href="https://www.youtube.com/watch?v=1AvUp7cuo7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1AvUp7cuo7E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are UAP visible to cameras but invisible to radar?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1AvUp7cuo7E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1AvUp7cuo7E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why are UAP visible to cameras but invisible to radar?...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why are UAP visible to cameras but invisible to radar?  
-   Link: <a href="https://www.youtube.com/watch?v=zaccUd2TGXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zaccUd2TGXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zaccUd2TGXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zaccUd2TGXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: preprints.opticaopen.org  
-   Link: <a href="https://preprints.opticaopen.org/articles/preprint/Comparison_of_plane-to-sky_contrast_and_detection_range_performance_in_the_visible_short-wave_infrared_mid-wave_infrared_and_long-wave_infrared_bands/25285402" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/Comparison_of_plane-to-sky_contrast_and_detection_range_performance_in_the_visible_short-wave_infrared_mid-wave_infrared_and_long-wave_infrared_bands/25285402</a>  
+   Link:<a href="https://preprints.opticaopen.org/articles/preprint/Comparison_of_plane-to-sky_contrast_and_detection_range_performance_in_the_visible_short-wave_infrared_mid-wave_infrared_and_long-wave_infrared_bands/25285402" target="_blank" rel="noopener noreferrer nofollow">https://preprints.opticaopen.org/articles/preprint/Comparison_of_plane-to-sky_contrast_and_detection_range_performance_in_the_visible_short-wave_infrared_mid-wave_infrared_and_long-wave_infrared_bands/25285402</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Comparison-of-the-cloud-detection-results-of-infrared-and-visible-sky-image-with-cirrus_fig10_351473660" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Comparison-of-the-cloud-detection-results-of-infrared-and-visible-sky-image-with-cirrus_fig10_351473660</a>  
+   Link:<a href="https://www.researchgate.net/figure/Comparison-of-the-cloud-detection-results-of-infrared-and-visible-sky-image-with-cirrus_fig10_351473660" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Comparison-of-the-cloud-detection-results-of-infrared-and-visible-sky-image-with-cirrus_fig10_351473660</a>  

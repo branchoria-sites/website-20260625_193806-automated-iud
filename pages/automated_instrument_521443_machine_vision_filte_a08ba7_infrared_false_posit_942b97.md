@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_in
 
 ## Introduction
 
-[Infrared cameras]({{ 'infrared/' | relative_url }}) are valuable in automated instrumented UAP detection because they can reveal objects that are difficult or impossible to see with conventional visible-light cameras, especially at night. However, thermal imagery also introduces its own class of [false positives]({{ 'false-positives/' | relative_url }}). An infrared sensor does not identify objects directly; it measures infrared radiation influenced by temperature, material properties, atmospheric conditions and sensor characteristics. As a result, apparently unusual moving "hot" or "cold" targets may reflect entirely ordinary physical processes rather than unidentified aerial phenomena. Effective UAP filtering therefore treats thermal imagery as one source of evidence within a multi-sensor system, not as a standalone proof of an anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+[Infrared cameras]({{ 'infrared/' | relative_url }}) are valuable in automated instrumented UAP detection because they can reveal objects that are difficult or impossible to see with conventional visible-light cameras, especially at night. However, thermal imagery also introduces its own class of [false positives]({{ 'false-positives/' | relative_url }}). An infrared sensor does not identify objects directly; it measures infrared radiation influenced by temperature, material properties, atmospheric conditions and sensor characteristics. As a result, apparently unusual moving "hot" or "cold" targets may reflect entirely ordinary physical processes rather than unidentified aerial phenomena. Effective UAP filtering therefore treats thermal imagery as one source of evidence within a multi-sensor system, not as a standalone proof of an anomalous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-1-dark.svg" | relative_url }}" alt="Thermal Traps illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_in
 
 Long-wave infrared (LWIR) cameras operate independently of visible illumination, allowing continuous surveillance after sunset and in conditions where ordinary cameras struggle. Aircraft engines, birds, mammals, clouds with contrasting temperatures and other objects often remain detectable despite darkness.
 
-This capability is one reason projects such as the [Galileo]({{ 'galileo/' | relative_url }}) Project have adopted all-sky arrays of calibrated LWIR cameras. Their published system combines infrared imagery with object detection, tracking algorithms and aircraft position data from ADS-B transmissions to reconstruct trajectories while measuring the system's real-world detection performance. Rather than assuming every infrared target is significant, the project explicitly evaluates how [weather]({{ 'weather/' | relative_url }}), distance, object size and environmental conditions affect detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+This capability is one reason projects such as the [Galileo]({{ 'galileo/' | relative_url }}) Project have adopted all-sky arrays of calibrated LWIR cameras. Their published system combines infrared imagery with object detection, tracking algorithms and aircraft position data from ADS-B transmissions to reconstruct trajectories while measuring the system's real-world detection performance. Rather than assuming every infrared target is significant, the project explicitly evaluates how [weather]({{ 'weather/' | relative_url }}), distance, object size and environmental conditions affect detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 For automated UAP monitoring, infrared therefore expands observational coverage rather than replacing conventional cameras. It increases the number of detectable targets—but also increases the number of thermal artefacts that require filtering.
 
@@ -300,7 +300,7 @@ Many infrared false positives arise because cameras measure emitted and reflecte
 
 Roads, roofs, rocks and concrete absorb solar energy during the day and release it slowly after sunset. As temperatures equalise through the evening, patches of ground may appear as moving or changing thermal structures simply because of shifting viewing angles, changing atmospheric transmission or [camera motion]({{ 'camera-motion/' | relative_url }}).
 
-If a detection algorithm is tuned primarily for brightness changes, these evolving thermal gradients can trigger candidate objects despite nothing actually moving through the sky. Similar problems are well documented in thermographic inspection, where solar heating, shadows and changing environmental conditions create misleading thermal signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lup.lub.lu.se">[Lund University Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lup.lub.lu.se</span><span class="citation-popover-snippet">nd University PublicationsDefect detection with a thermal cameraOctober 7, 2024 — The solar radiation on the outdoor surface caused ref...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
+If a detection algorithm is tuned primarily for brightness changes, these evolving thermal gradients can trigger candidate objects despite nothing actually moving through the sky. Similar problems are well documented in thermographic inspection, where solar heating, shadows and changing environmental conditions create misleading thermal signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lup.lub.lu.se">[Lund University Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lup.lub.lu.se</span><span class="citation-popover-snippet">nd University PublicationsDefect detection with a thermal cameraOctober 7, 2024 — The solar radiation on the outdoor surface caused ref...</span><span class="citation-popover-meta">Published: October 7, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NTLSQCF6ohQ" title="Unidentified: Naval Pilot&#x27;s Shocking UFO Encounter (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NTLSQCF6ohQ" target="_blank" rel="noopener noreferrer">Unidentified: Naval Pilot&#x27;s Shocking UFO Encounter (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 7.6M &middot; Uploaded: October 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NTLSQCF6ohQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NTLSQCF6ohQ">Open on YouTube</a></p></div></div></div>
@@ -311,13 +311,13 @@ Infrared cameras are often described as "seeing heat", but polished or low-emiss
 
 Glass, polished metal, wet surfaces and some construction materials may display thermal reflections that resemble independent hot objects. Depending on viewing geometry, these reflections can shift position as either the observer or reflected source changes, creating the illusion of motion.
 
-Research on infrared thermography consistently identifies thermal reflections as a major cause of image misinterpretation and recommends modelling surface emissivity and reflection before drawing conclusions from apparent [hotspots]({{ 'hotspots/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Identification and Suppression of Thermal Reflections in...January 1, 2004 — 26 May 2026 — Thermal reflections are a common...</span><span class="citation-popover-meta">Published: January 1, 2004</span></span></span>
+Research on infrared thermography consistently identifies thermal reflections as a major cause of image misinterpretation and recommends modelling surface emissivity and reflection before drawing conclusions from apparent [hotspots]({{ 'hotspots/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Identification and Suppression of Thermal Reflections in...January 1, 2004 — 26 May 2026 — Thermal reflections are a common...</span><span class="citation-popover-meta">Published: January 1, 2004</span></span></span>
 
 ### Atmospheric structure
 
 Infrared transmission through the atmosphere is not constant. Humidity, haze, temperature inversions and varying air masses alter the apparent temperature and shape of distant objects.
 
-Over long observation distances, atmospheric turbulence can blur, distort or displace thermal targets. Warm air rising from terrain, buildings or industrial sites may also introduce transient structures that tracking software mistakes for moving objects until further frames clarify their behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.03057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thermal to Visible Image Synthesis under Atmospheric Turbulence</span><span class="citation-popover-snippet">Thermal to Visible Image Synthesis under Atmospheric TurbulenceApril 6, 2022...</span><span class="citation-popover-meta">Published: April 6, 2022</span></span></span>
+Over long observation distances, atmospheric turbulence can blur, distort or displace thermal targets. Warm air rising from terrain, buildings or industrial sites may also introduce transient structures that tracking software mistakes for moving objects until further frames clarify their behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.03057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Thermal to Visible Image Synthesis under Atmospheric Turbulence</span><span class="citation-popover-snippet">Thermal to Visible Image Synthesis under Atmospheric TurbulenceApril 6, 2022...</span><span class="citation-popover-meta">Published: April 6, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-2-dark.svg" | relative_url }}" alt="Thermal Traps illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ Birds are often highly visible in thermal imagery because their body temperature
 
 Cloud edges also produce temperature contrasts that evolve continuously. Thin clouds moving across colder backgrounds can generate transient blobs whose changing outlines challenge object trackers.
 
-Machine-learning research on thermal object detection repeatedly notes that thermal imagery contains lower spatial detail than visible imagery, making classification more difficult, particularly for small, distant or partially obscured objects. False detections therefore remain an expected engineering problem rather than an anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Thermal Object Detection in Difficult Weather</span><span class="citation-popover-snippet">ResearchGate(PDF) Thermal Object Detection in Difficult Weather...July 6, 2020 — We achieved excellent detection results with respect to...</span><span class="citation-popover-meta">Published: July 6, 2020</span></span></span>
+Machine-learning research on thermal object detection repeatedly notes that thermal imagery contains lower spatial detail than visible imagery, making classification more difficult, particularly for small, distant or partially obscured objects. False detections therefore remain an expected engineering problem rather than an anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Thermal Object Detection in Difficult Weather</span><span class="citation-popover-snippet">ResearchGate(PDF) Thermal Object Detection in Difficult Weather...July 6, 2020 — We achieved excellent detection results with respect to...</span><span class="citation-popover-meta">Published: July 6, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NUebtejcoCk" title="Investigating The Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NUebtejcoCk" target="_blank" rel="noopener noreferrer">Investigating The Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: SEA &middot; Views: 116.6K &middot; Uploaded: June 2020 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NUebtejcoCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NUebtejcoCk">Open on YouTube</a></p></div></div></div>
@@ -352,7 +352,7 @@ For this reason, modern automated UAP systems increasingly rely on multiple inde
 
 </div>
 
-The Galileo Project's commissioning work illustrates this philosophy. Detection networks generate candidate tracks, while statistical analysis, trajectory reconstruction and environmental calibration are used to determine whether an observation is merely unusual or genuinely inconsistent with expected aerial traffic. The emphasis is on reducing false positives rather than maximising unexplained detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+The Galileo Project's commissioning work illustrates this philosophy. Detection networks generate candidate tracks, while statistical analysis, trajectory reconstruction and environmental calibration are used to determine whether an observation is merely unusual or genuinely inconsistent with expected aerial traffic. The emphasis is on reducing false positives rather than maximising unexplained detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-3-dark.svg" | relative_url }}" alt="Thermal Traps illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,242 +362,242 @@ Infrared false positives are not simply unwanted errors—they define the engine
 
 Every class of thermal false alarm teaches the filtering system something useful. Persistent warm terrain encourages background modelling. Reflective surfaces motivate emissivity-aware processing. Bird detections expand training datasets. Atmospheric distortions improve confidence estimation. Each refinement reduces the number of ordinary events that require manual inspection.
 
-Consequently, the most reliable automated UAP observatories treat thermal imagery as one complementary measurement among several. Infrared provides powerful night-time sensitivity, but its detections become scientifically valuable only after they survive [cross-checks]({{ 'cross-checks/' | relative_url }}) against visible imagery, tracking consistency, calibration data and independent environmental information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+Consequently, the most reliable automated UAP observatories treat thermal imagery as one complementary measurement among several. Infrared provides powerful night-time sensitivity, but its detections become scientifically valuable only after they survive [cross-checks]({{ 'cross-checks/' | relative_url }}) against visible imagery, tracking consistency, calibration data and independent environmental information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WVrlG8RhIGU" title="Can We Explain The GIMBAL UAP Video With Science And Tech?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WVrlG8RhIGU" target="_blank" rel="noopener noreferrer">Can We Explain The GIMBAL UAP Video With Science And Tech?</a></p><p class="youtube-embed-meta">Channel: Bad Boy of Science &middot; Views: 609 &middot; Uploaded: September 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WVrlG8RhIGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WVrlG8RhIGU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Heat Looks Like a Moving Object. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Heat Looks Like a Moving Object. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader context for automated decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides broader context for automated decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
-        </h4>
-        <p class="fr-book-author">By Ronald G. Driggers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
+</h4>
+<p class="fr-book-author">By Ronald G. Driggers</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
+</h4>
+<p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A918038/FULLTEXT01.pdf%3BDetection" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A918038/FULLTEXT01.pdf%3BDetection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual detection and tracking of objects in video are research ar-.Read more...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A918038/FULLTEXT01.pdf%3BDetection" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A918038/FULLTEXT01.pdf%3BDetection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual detection and tracking of objects in video are research ar-.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification and Suppression of Thermal Reflections in...January 1, 2004 — 26 May 2026 — Thermal reflections are a common...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264884438_Identification_and_Suppression_of_Thermal_Reflections_in_Infrared_Thermal_Imaging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification and Suppression of Thermal Reflections in...January 1, 2004 — 26 May 2026 — Thermal reflections are a common...</p></details>
    Published: January 1, 2004  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2401.13104" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.13104</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements on highly specular...</p></details>
+   Link:<a href="https://arxiv.org/abs/2401.13104" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.13104</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements on highly specular...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Thermal to Visible Image Synthesis under Atmospheric Turbulence  
-   Link: <a href="https://arxiv.org/abs/2204.03057" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.03057</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal to Visible Image Synthesis under Atmospheric TurbulenceApril 6, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2204.03057" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.03057</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal to Visible Image Synthesis under Atmospheric TurbulenceApril 6, 2022...</p></details>
    Published: April 6, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1807.03157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.03157</a>  
+   Link:<a href="https://arxiv.org/abs/1807.03157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.03157</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Thermal Object Detection in Difficult Weather  
-   Link: <a href="https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Thermal Object Detection in Difficult Weather...July 6, 2020 — We achieved excellent detection results with respect to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342726203_Thermal_Object_Detection_in_Difficult_Weather_Conditions_Using_YOLO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Thermal Object Detection in Difficult Weather...July 6, 2020 — We achieved excellent detection results with respect to...</p></details>
    Published: July 6, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2601.11662v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.11662v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LTV-YOLO: A Lightweight Thermal Object Detector for...15 Jan 2026 — This paper presents a purpose-built lightweight object detection mod...</p></details>
+   Link:<a href="https://arxiv.org/html/2601.11662v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.11662v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LTV-YOLO: A Lightweight Thermal Object Detector for...15 Jan 2026 — This paper presents a purpose-built lightweight object detection mod...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2601.11662" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11662</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LTV-YOLO: A Lightweight Thermal Object Detector for...by A Jirjees · 2026 — This paper presents a purpose-built lightweight object detec...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.11662" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.11662</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LTV-YOLO: A Lightweight Thermal Object Detector for...by A Jirjees · 2026 — This paper presents a purpose-built lightweight object detec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/24/3/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/3/926</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Low-Resolution Infrared Array for Unobtrusive Human...by NT Newaz · 2024 · Cited by 27 — This research uses a low-resolution infrared...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/24/3/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/3/926</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Low-Resolution Infrared Array for Unobtrusive Human...by NT Newaz · 2024 · Cited by 27 — This research uses a low-resolution infrared...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/15/22/12144" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/22/12144</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the growing field of intelligent...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/15/22/12144" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/22/12144</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the growing field of intelligent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/5/3/65" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/5/3/65</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving People Tracking and False Track Removing with...by S Yeom · 2021 · Cited by 28 — Infrared (IR) thermal imaging can detect the war...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/5/3/65" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/5/3/65</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moving People Tracking and False Track Removing with...by S Yeom · 2021 · Cited by 28 — Infrared (IR) thermal imaging can detect the war...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/22/6/2321" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/6/2321</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Low-Resolution Non-Invasive Infrared Sensors to...by G Márquez · 2022 · Cited by 12 — In this study, we propose a novel approach t...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/22/6/2321" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/6/2321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Low-Resolution Non-Invasive Infrared Sensors to...by G Márquez · 2022 · Cited by 12 — In this study, we propose a novel approach t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366666410_Image_Classification-Based_Defect_Detection_of_Railway_Tracks_Using_Fiber_Bragg_Grating_Ultrasonic_Sensors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366666410_Image_Classification-Based_Defect_Detection_of_Railway_Tracks_Using_Fiber_Bragg_Grating_Ultrasonic_Sensors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Image Classification-Based Defect Detection of...29 May 2026 — In this paper, an efficient and robust image classification model i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366666410_Image_Classification-Based_Defect_Detection_of_Railway_Tracks_Using_Fiber_Bragg_Grating_Ultrasonic_Sensors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366666410_Image_Classification-Based_Defect_Detection_of_Railway_Tracks_Using_Fiber_Bragg_Grating_Ultrasonic_Sensors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Image Classification-Based Defect Detection of...29 May 2026 — In this paper, an efficient and robust image classification model i...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 393274432 THERMAL INFRARED OBJECT DETECTION WITH YOLO MODELS  
-   Link: <a href="https://www.researchgate.net/publication/393274432_THERMAL_INFRARED_OBJECT_DETECTION_WITH_YOLO_MODELS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393274432_THERMAL_INFRARED_OBJECT_DETECTION_WITH_YOLO_MODELS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thermal infrared object detection with yolo models3 Feb 2026 — This article introduces a Unmanned aerial vehicle - based thermal infrared...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393274432_THERMAL_INFRARED_OBJECT_DETECTION_WITH_YOLO_MODELS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393274432_THERMAL_INFRARED_OBJECT_DETECTION_WITH_YOLO_MODELS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thermal infrared object detection with yolo models3 Feb 2026 — This article introduces a Unmanned aerial vehicle - based thermal infrared...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lup.lub.lu.se  
-   Link: <a href="https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd University PublicationsDefect detection with a thermal cameraOctober 7, 2024 — The solar radiation on the outdoor surface caused ref...</p></details>
+   Link:<a href="https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lup.lub.lu.se/student-papers/record/9176281/file/9176282.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd University PublicationsDefect detection with a thermal cameraOctober 7, 2024 — The solar radiation on the outdoor surface caused ref...</p></details>
    Published: October 7, 2024  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectPublications | The Galileo ProjectCommissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects. To...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectPublications | The Galileo ProjectCommissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects. To...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=60ZJQ4I7_3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=60ZJQ4I7_3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Stephen Colbert: [https://www.youtube.com/watch?v=IK1nXr-ia2Y](https://www.youtube.com/watch?v=IK1nXr-ia2Y) Tucker Carlson interviews Fravor: [https://www.youtube.com/watch?v=EDj9ZZQY2k...&quot;](https://www.youtube.com/watch?v=EDj9ZZQY2k...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=60ZJQ4I7_3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=60ZJQ4I7_3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Stephen Colbert: [https://www.youtube.com/watch?v=IK1nXr-ia2Y](https://www.youtube.com/watch?v=IK1nXr-ia2Y) Tucker Carlson interviews Fravor: [https://www.youtube.com/watch?v=EDj9ZZQY2k...&quot;](https://www.youtube.com/watch?v=EDj9ZZQY2k...&quot;)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AcsAZTKRv5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcsAZTKRv5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars Clip: [https://www.youtube.com/watch?v=Lfy5Esue_ls](https://www.youtube.com/watch?v=Lfy5Esue_ls) Drones: [https://www.youtube.com/watch?v=EfYHWJeboYE](https://www.youtube.com/watch?v=EfYHWJeboYE) ScanEagle Drones: https:/...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AcsAZTKRv5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AcsAZTKRv5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star Wars Clip: [https://www.youtube.com/watch?v=Lfy5Esue_ls](https://www.youtube.com/watch?v=Lfy5Esue_ls) Drones: [https://www.youtube.com/watch?v=EfYHWJeboYE](https://www.youtube.com/watch?v=EfYHWJeboYE) ScanEagle Drones: https:/...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sstBSuXIW0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sstBSuXIW0I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sstBSuXIW0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sstBSuXIW0I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN Story...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Lfy5Esue_ls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lfy5Esue_ls</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones: [https://www.youtube.com/watch?v=EfYHWJeboYE](https://www.youtube.com/watch?v=EfYHWJeboYE) ScanEagle Drones: [https://www.youtube.com/watch?v=U6OloUUhMeg](https://www.youtube.com/watch?v=U6OloUUhMeg) Astronaut Footage: http...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lfy5Esue_ls" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lfy5Esue_ls</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones: [https://www.youtube.com/watch?v=EfYHWJeboYE](https://www.youtube.com/watch?v=EfYHWJeboYE) ScanEagle Drones: [https://www.youtube.com/watch?v=U6OloUUhMeg](https://www.youtube.com/watch?v=U6OloUUhMeg) Astronaut Footage: http...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/thermal-object-detection-in-difficult-weather-conditions-2xebrqlnbj.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/thermal-object-detection-in-difficult-weather-conditions-2xebrqlnbj.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cts being monitored and convert the detected energy into temperature values to form...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/thermal-object-detection-in-difficult-weather-conditions-2xebrqlnbj.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/thermal-object-detection-in-difficult-weather-conditions-2xebrqlnbj.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cts being monitored and convert the detected energy into temperature values to form...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cNnvcZmfV5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cNnvcZmfV5k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Channel Video on the Five Observables: [https://www.youtube.com/watch?v=sstBSuXIW0I](https://www.youtube.com/watch?v=sstBSuXIW0I) CNN Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cNnvcZmfV5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cNnvcZmfV5k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History Channel Video on the Five Observables: [https://www.youtube.com/watch?v=sstBSuXIW0I](https://www.youtube.com/watch?v=sstBSuXIW0I) CNN Story...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: anvil.so  
    Title: ultimate guide to environmental factors in thermal imaging  
-   Link: <a href="https://anvil.so/post/ultimate-guide-to-environmental-factors-in-thermal-imaging" target="_blank" rel="noopener noreferrer nofollow">https://anvil.so/post/ultimate-guide-to-environmental-factors-in-thermal-imaging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2025 — Thermal imaging is a powerful tool for detecting temperature variations, but its accuracy depends heavily on external condi...</p></details>
+   Link:<a href="https://anvil.so/post/ultimate-guide-to-environmental-factors-in-thermal-imaging" target="_blank" rel="noopener noreferrer nofollow">https://anvil.so/post/ultimate-guide-to-environmental-factors-in-thermal-imaging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jan 2025 — Thermal imaging is a powerful tool for detecting temperature variations, but its accuracy depends heavily on external condi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
    Title: the bird with an eagle eye for infrared  
-   Link: <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/the-bird-with-an-eagle-eye-for-infrared/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/the-bird-with-an-eagle-eye-for-infrared/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bird&#x27; with an Eagle Eye…for Infrared6 Apr 2021 — HOT BIRD sensors could potentially be used in NASA space flight projects as well as air...</p></details>
+   Link:<a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/the-bird-with-an-eagle-eye-for-infrared/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/the-bird-with-an-eagle-eye-for-infrared/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bird&#x27; with an Eagle Eye…for Infrared6 Apr 2021 — HOT BIRD sensors could potentially be used in NASA space flight projects as well as air...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/%E6%89%AC-%E7%82%B9-08543231b_seeing-double-the-weird-science-of-heat-activity-7472831678038753280-GEZs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/%E6%89%AC-%E7%82%B9-08543231b_seeing-double-the-weird-science-of-heat-activity-7472831678038753280-GEZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imaging: Emissivity is King: Shiny surfaces have low emissivity.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/%E6%89%AC-%E7%82%B9-08543231b_seeing-double-the-weird-science-of-heat-activity-7472831678038753280-GEZs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/%E6%89%AC-%E7%82%B9-08543231b_seeing-double-the-weird-science-of-heat-activity-7472831678038753280-GEZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imaging: Emissivity is King: Shiny surfaces have low emissivity.Read more...</p></details>

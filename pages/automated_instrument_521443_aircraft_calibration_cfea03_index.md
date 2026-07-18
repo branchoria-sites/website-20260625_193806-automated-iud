@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-aircraft/
 description: Focused pages that expand on Calibration.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_aircraft_calibration_cfea03
 parent_title: Calibration
@@ -16,7 +16,7 @@ parent_permalink: /calibration/
 
 # Explore Topics in Calibration
 
-The following pages expand on the main **[Calibration]({{ '/calibration/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Calibration]({{ '/calibration/' | relative_url }})** page and cover its key branches in.
 
 - [Beyond Filtering]({{ '/beyond-filtering/' | relative_url }})
 - [Weather Tests]({{ '/weather-tests/' | relative_url }})

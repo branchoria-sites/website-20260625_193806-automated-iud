@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no
 
 ## Introduction
 
-A missing ADS-B match is **not** evidence that a light or object was not an aircraft. For automated instrumented UFO (UAP) detectors, the correct interpretation is usually much narrower: *no matching aircraft was found in the available ADS-B data at that time*. That distinction matters because ADS-B-based filtering is only as complete as the aircraft transmissions, receiver network, software pipeline and [timing]({{ 'timing/' | relative_url }}) information behind it. Treating "no match" as "not an aircraft" creates a false sense of certainty and can cause ordinary aviation traffic to be misclassified as anomalous. A robust detection system therefore treats missing ADS-B data as an [uncertainty]({{ 'uncertainty/' | relative_url }}) that must be documented rather than as positive evidence for an unexplained event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs &#124; Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</span></span></span>
+A missing ADS-B match is **not** evidence that a light or object was not an aircraft. For automated instrumented UFO (UAP) detectors, the correct interpretation is usually much narrower: *no matching aircraft was found in the available ADS-B data at that time*. That distinction matters because ADS-B-based filtering is only as complete as the aircraft transmissions, receiver network, software pipeline and [timing]({{ 'timing/' | relative_url }}) information behind it. Treating "no match" as "not an aircraft" creates a false sense of certainty and can cause ordinary aviation traffic to be misclassified as anomalous. A robust detection system therefore treats missing ADS-B data as an [uncertainty]({{ 'uncertainty/' | relative_url }}) that must be documented rather than as positive evidence for an unexplained event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs &#124; Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no_adsb_match_limits_fdcefe-Illustration-1-dark.svg" | relative_url }}" alt="No Match illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no_adsb_match_limits_fdcefe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_no_adsb_match_limits_fdcefe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,13 +288,13 @@ A missing ADS-B match is **not** evidence that a light or object was not an airc
 
 Even in countries where [ADS-B]({{ 'ads-b/' | relative_url }}) is widely adopted, not every aircraft will produce a track that an observer can match.
 
-Some aircraft are not required to carry ADS-B equipment in every class of airspace. Regulatory requirements depend on the type of aircraft, where it is flying and the applicable national [rules]({{ 'rules/' | relative_url }}). An aircraft operating legally outside mandatory ADS-B airspace may therefore be invisible to an ADS-B-based filtering system despite being entirely ordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirspaceMar 5, 2025 — For aircraft operating below 18,000 feet and within the United States ADS-B rule air...</span></span></span>
+Some aircraft are not required to carry ADS-B equipment in every class of airspace. Regulatory requirements depend on the type of aircraft, where it is flying and the applicable national [rules]({{ 'rules/' | relative_url }}). An aircraft operating legally outside mandatory ADS-B airspace may therefore be invisible to an ADS-B-based filtering system despite being entirely ordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationAirspaceMar 5, 2025 — For aircraft operating below 18,000 feet and within the United States ADS-B rule air...</span></span></span>
 
-Military and certain government operations add another complication. In the United States, the FAA permits authorised military and other sensitive government flights to disable ADS-B transmissions for national defence, homeland security, intelligence or law enforcement purposes under specified conditions. Consequently, the absence of an ADS-B track cannot automatically exclude these aircraft from consideration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[nbaa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">FAA Permits ADS-B Off for Military, Other Sensitive FlightsThe Federal Aviation Administration (FAA) published an interim final rule that...</span></span></span>
+Military and certain government operations add another complication. In the United States, the FAA permits authorised military and other sensitive government flights to disable ADS-B transmissions for national defence, homeland security, intelligence or law enforcement purposes under specified conditions. Consequently, the absence of an ADS-B track cannot automatically exclude these aircraft from consideration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[nbaa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">FAA Permits ADS-B Off for Military, Other Sensitive FlightsThe Federal Aviation Administration (FAA) published an interim final rule that...</span></span></span>
 
-General aviation also introduces edge cases. Depending on jurisdiction and airspace, some older aircraft, gliders, vintage aircraft or aircraft operating in exempt circumstances may not appear as straightforward ADS-B targets. In addition, some aircraft transmit only conventional Mode S transponder replies rather than full ADS-B position reports. Public tracking services may reconstruct some of these using multilateration (MLAT), but only where sufficient receiver coverage exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.craggyaero.com/ads-b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craggyaero.com">[craggyaero.com+2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craggyaero.com</span><span class="citation-popover-snippet">ADS-BGliders are partially, but not fully, exempt from transponder and ADS-B Out carriage requirements. Gliders will require ADS-B Out af...</span></span></span>
+General aviation also introduces edge cases. Depending on jurisdiction and airspace, some older aircraft, gliders, vintage aircraft or aircraft operating in exempt circumstances may not appear as straightforward ADS-B targets. In addition, some aircraft transmit only conventional Mode S transponder replies rather than full ADS-B position reports. Public tracking services may reconstruct some of these using multilateration (MLAT), but only where sufficient receiver coverage exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.craggyaero.com/ads-b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craggyaero.com">[craggyaero.com+2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craggyaero.com</span><span class="citation-popover-snippet">ADS-BGliders are partially, but not fully, exempt from transponder and ADS-B Out carriage requirements. Gliders will require ADS-B Out af...</span></span></span>
 
-Privacy measures should likewise be interpreted carefully. [FAA privacy]({{ 'faa-privacy/' | relative_url }}) programmes can obscure publicly displayed identities without eliminating the physical aircraft itself. A missing registration or callsign is not equivalent to a missing aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</span></span></span>
+Privacy measures should likewise be interpreted carefully. [FAA privacy]({{ 'faa-privacy/' | relative_url }}) programmes can obscure publicly displayed identities without eliminating the physical aircraft itself. A missing registration or callsign is not equivalent to a missing aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
@@ -303,11 +303,11 @@ Privacy measures should likewise be interpreted carefully. [FAA privacy]({{ 'faa
 
 A second major source of false negatives is the receiving network rather than the aircraft.
 
-ADS-B broadcasts travel primarily by line of sight. Mountains, buildings, antenna placement, terrain and Earth's curvature all limit reception. An aircraft flying at low altitude may be visible to an observer's camera while remaining below the radio horizon of nearby ADS-B receivers. This becomes especially important for automated sky cameras located in valleys, urban areas or behind terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</span></span></span>
+ADS-B broadcasts travel primarily by line of sight. Mountains, buildings, antenna placement, terrain and Earth's curvature all limit reception. An aircraft flying at low altitude may be visible to an observer's camera while remaining below the radio horizon of nearby ADS-B receivers. This becomes especially important for automated sky cameras located in valleys, urban areas or behind terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</span></span></span>
 
 Coverage also depends on receiver density. Consumer flight-tracking websites aggregate data from volunteer receiver networks whose coverage varies geographically. Rural regions, oceans and sparsely instrumented areas often have significantly poorer reception than major population centres. A detector relying on one public feed therefore inherits its [blind spots]({{ 'blind-spots/' | relative_url }}).
 
-Multilateration illustrates this limitation well. MLAT estimates aircraft positions by comparing the arrival time of transponder replies at multiple receivers. If too few receivers detect the transmission simultaneously, no MLAT position can be computed even though the aircraft's transponder is functioning normally. Low-altitude aircraft are particularly affected because fewer receivers have line-of-sight [visibility]({{ 'visibility/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24+2Spire Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</span></span></span>
+Multilateration illustrates this limitation well. MLAT estimates aircraft positions by comparing the arrival time of transponder replies at multiple receivers. If too few receivers detect the transmission simultaneously, no MLAT position can be computed even though the aircraft's transponder is functioning normally. Low-altitude aircraft are particularly affected because fewer receivers have line-of-sight [visibility]({{ 'visibility/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24+2Spire Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</span></span></span>
 
 Individual receiving stations can also experience temporary outages, antenna faults, interference or internet connectivity problems. These failures may not be obvious to someone reviewing a UAP event after the fact, yet they directly affect whether a matching aircraft appears in archived tracking data.
 
@@ -371,201 +371,201 @@ A robust workflow typically:
 
 </div>
 
-This approach aligns with good scientific practice. The absence of supporting ADS-B evidence may increase interest in an event, but it is not, by itself, evidence that no aircraft was present. The most defensible conclusion is simply that the available ADS-B information was insufficient to identify one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[nbaa.org+3Federal Aviation Administration+3Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs &#124; Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</span></span></span>
+This approach aligns with good scientific practice. The absence of supporting ADS-B evidence may increase interest in an event, but it is not, by itself, evidence that no aircraft was present. The most defensible conclusion is simply that the available ADS-B information was insufficient to identify one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[nbaa.org+3Federal Aviation Administration+3Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">Federal Aviation AdministrationIns and Outs &#124; Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SfKCwQcsQA0" title="How does multilateration (MLAT) work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer">How does multilateration (MLAT) work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 17.6K &middot; Uploaded: July 2024 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SfKCwQcsQA0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When No ADS B Match Misleads. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When No ADS B Match Misleads. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Federal Aviation Administration</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilot&#x27;s Handbook of Aeronautical Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qlqCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Pilot&#x27;s Handbook of Aeronautical Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
+</h4>
+<p class="fr-book-author">By Federal Aviation Administration</p>
         
-        <p class="fr-book-desc">Explains aircraft operations and airspace that influence surveillance expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains aircraft operations and airspace that influence surveillance expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+by+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
-        </h4>
-        <p class="fr-book-author">By R. P. G. Collinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
+</h4>
+<p class="fr-book-author">By R. P. G. Collinson</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pilot%27s+of+Aeronautical+Knowledge+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pilot&#x27;s of Aeronautical Knowledge books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE"><img src="{{ '/assets/images/marketplace-covers/852199f853dc19bd98a5.jpg' | relative_url }}" alt="Listing image for INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">INFLIGHT 200 WIZZAIR A321 NEO REG: HA-LVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="no-match-when-no-ads-b-match-misleads-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,178 +771,178 @@ This approach aligns with good scientific practice. The absence of supporting AD
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs | Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs | Federal Aviation Administration7 Feb 2023 — ADS-B Out works by broadcasting information abo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multilateration (MLAT)The lowest altitude in most locations at which three receivers can reasonably receive a signal from th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B FAQ | Federal Aviation AdministrationMar 3, 2025 — What are the limitations on ADS-R (rebroadcast) coverage? What TSO versions are...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B FAQ | Federal Aviation AdministrationMar 3, 2025 — What are the limitations on ADS-R (rebroadcast) coverage? What TSO versions are...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirspaceMar 5, 2025 — For aircraft operating below 18,000 feet and within the United States ADS-B rule air...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/research/airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirspaceMar 5, 2025 — For aircraft operating below 18,000 feet and within the United States ADS-B rule air...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aopa.org  
    Title: Where is ADS-B Out Required?Beginning  
-   Link: <a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b/where-is-ads-b-out-required" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b/where-is-ads-b-out-required</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2020, the FAA will require aircraft to have ADS-B Out capability to fly in most airspace where a Mode C transponder is require...</p></details>
+   Link:<a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b/where-is-ads-b-out-required" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b/where-is-ads-b-out-required</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2020, the FAA will require aircraft to have ADS-B Out capability to fly in most airspace where a Mode C transponder is require...</p></details>
    Published: January 1, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aopa.org  
-   Link: <a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ations and directly to equipped aircraft. ADS-B In—which...</p></details>
+   Link:<a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ations and directly to equipped aircraft. ADS-B In—which...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nbaa.org  
-   Link: <a href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Permits ADS-B Off for Military, Other Sensitive FlightsThe Federal Aviation Administration (FAA) published an interim final rule that...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/faa-permits-ads-b-off-military-sensitive-flights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Permits ADS-B Off for Military, Other Sensitive FlightsThe Federal Aviation Administration (FAA) published an interim final rule that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: craggyaero.com  
-   Link: <a href="https://www.craggyaero.com/ads-b.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.craggyaero.com/ads-b.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BGliders are partially, but not fully, exempt from transponder and ADS-B Out carriage requirements. Gliders will require ADS-B Out af...</p></details>
+   Link:<a href="https://www.craggyaero.com/ads-b.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.craggyaero.com/ads-b.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BGliders are partially, but not fully, exempt from transponder and ADS-B Out carriage requirements. Gliders will require ADS-B Out af...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: multilateration.info  
-   Link: <a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ground stations receive replies from all transponder-equipped aircraft, including legacy radar and ADS-B avionics, and determine aircraft...</p></details>
+   Link:<a href="https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.multilateration.info/downloads/MLAT-ADS-B-Reference-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ground stations receive replies from all transponder-equipped aircraft, including legacy radar and ADS-B avionics, and determine aircraft...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The FAA acknowledges the desire of some operators to limit the availability of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spire.com  
-   Link: <a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spire GlobalUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines the location or posit...</p></details>
+   Link:<a href="https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/blog/aviation/understanding-multilateration-mlat-for-more-precise-aircraft-positioning-free-from-interference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spire GlobalUnderstanding multilateration (MLAT) for more precise...27 Mar 2025 — MLAT is a method that determines the location or posit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions | Federal Aviation Administration1 Aug 2025 — ADS-B Out avionics require a valid ICAO aircraft address to be t...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions | Federal Aviation Administration1 Aug 2025 — ADS-B Out avionics require a valid ICAO aircraft address to be t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
    Title: FAA Exemption No 12555  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/FAA-Exemption-No-12555.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-Exemption-No-12555.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exemption No. 125551 May 2023 — When operating aircraft equipped with ADS-B Out in accordance with 14 CFR 91.225, the aircraft equipment...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/FAA-Exemption-No-12555.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/FAA-Exemption-No-12555.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exemption No. 125551 May 2023 — When operating aircraft equipped with ADS-B Out in accordance with 14 CFR 91.225, the aircraft equipment...</p></details>
    Published: May 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadcast (ADS-B)29 Sept 2025 — Note: The FAA does not require an authorization to conduct ADS-B Out operations in the airspace specified...</p></details>
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broadcast (ADS-B)29 Sept 2025 — Note: The FAA does not require an authorization to conduct ADS-B Out operations in the airspace specified...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksMLAT is also increasingly important for mitigating the effects of GPS interference on ADS-B signals, including jam...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Flightradar24 worksMLAT is also increasingly important for mitigating the effects of GPS interference on ADS-B signals, including jam...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: flightradar24.com  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadcast (ADS-B)ADS-B Out enables aircraft to broadcast their positions, altitudes, and intentions, fostering increased situational awar...</p></details>
+   Link:<a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broadcast (ADS-B)ADS-B Out enables aircraft to broadcast their positions, altitudes, and intentions, fostering increased situational awar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideosIn this video we explore how ADS-B works and look at it&#x27;s major components, including how this technology enables aircraft to broad...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideosIn this video we explore how ADS-B works and look at it&#x27;s major components, including how this technology enables aircraft to broad...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with ADS-B22 May 2015 — Each receiver is limited in range from 250-450 km (150-250 mi) due to the high frequency (10...</p></details>
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Track Flights with ADS-B22 May 2015 — Each receiver is limited in range from 250-450 km (150-250 mi) due to the high frequency (10...</p></details>
    Published: May 2015  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aopa.org  
    Title: ads b requirement clarified for nonelectrical aircraft  
-   Link: <a href="https://www.aopa.org/news-and-media/all-news/2017/january/19/ads-b-requirement-clarified-for-nonelectrical-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2017/january/19/ads-b-requirement-clarified-for-nonelectrical-aircraft</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B requirement clarified for nonelectrical aircraftJan 19, 2017 — The regulation 14 CFR 91.225(e) allows aircraft not certificated wit...</p></details>
+   Link:<a href="https://www.aopa.org/news-and-media/all-news/2017/january/19/ads-b-requirement-clarified-for-nonelectrical-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2017/january/19/ads-b-requirement-clarified-for-nonelectrical-aircraft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B requirement clarified for nonelectrical aircraftJan 19, 2017 — The regulation 14 CFR 91.225(e) allows aircraft not certificated wit...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nbaa.org  
-   Link: <a href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fields including aircraft type, speed, flight number, and whether the...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/communications-navigation-surveillance-cns/ads-b/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fields including aircraft type, speed, flight number, and whether the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.com  
-   Link: <a href="https://x.com/flightradar24/status/1884841093046661480" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24/status/1884841093046661480</a>  
+   Link:<a href="https://x.com/flightradar24/status/1884841093046661480" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24/status/1884841093046661480</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCcGI_kXwKl_QhyW9jK_8gIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCcGI_kXwKl_QhyW9jK_8gIA</a>  
+   Link:<a href="https://www.youtube.com/channel/UCcGI_kXwKl_QhyW9jK_8gIA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCcGI_kXwKl_QhyW9jK_8gIA</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2019/07/18/2019-15248/revision-to-automatic-dependent-surveillance-broadcast-ads-b-out-equipment-and-use-requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2019/07/18/2019-15248/revision-to-automatic-dependent-surveillance-broadcast-ads-b-out-equipment-and-use-requirements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revision to Automatic Dependent Surveillance-Broadcast...18 Jul 2019 — This interim final rule modifies the requirement that all aircraf...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2019/07/18/2019-15248/revision-to-automatic-dependent-surveillance-broadcast-ads-b-out-equipment-and-use-requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2019/07/18/2019-15248/revision-to-automatic-dependent-surveillance-broadcast-ads-b-out-equipment-and-use-requirements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revision to Automatic Dependent Surveillance-Broadcast...18 Jul 2019 — This interim final rule modifies the requirement that all aircraf...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BADS-B stands for Automatic Dependent Surveillance – Broadcast. It is a system in which aircraft broadcast their position, veloci...</p></details>
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BADS-B stands for Automatic Dependent Surveillance – Broadcast. It is a system in which aircraft broadcast their position, veloci...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: flyingmag.com  
    Title: senate bill would require ads b on all civilian and military aircraft  
-   Link: <a href="https://www.flyingmag.com/senate-bill-would-require-ads-b-on-all-civilian-and-military-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/senate-bill-would-require-ads-b-on-all-civilian-and-military-aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Bill Would Require ADS-B on All Civilian and...29 Jul 2025 — The Rotorcraft Operations Transparency and Oversight Reform bill, or...</p></details>
+   Link:<a href="https://www.flyingmag.com/senate-bill-would-require-ads-b-on-all-civilian-and-military-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/senate-bill-would-require-ads-b-on-all-civilian-and-military-aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Bill Would Require ADS-B on All Civilian and...29 Jul 2025 — The Rotorcraft Operations Transparency and Oversight Reform bill, or...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aviationtoday.com  
    Title: new rule allows military aircraft turn ads b transmissions off  
-   Link: <a href="https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Tech TodayNew Rule Allows Military Aircraft to Turn Off ADS-B...23 Jul 2019 — Under the FAA&#x27;s new ADS-B off rule, defense aircr...</p></details>
+   Link:<a href="https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviationtoday.com/2019/07/23/new-rule-allows-military-aircraft-turn-ads-b-transmissions-off/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Tech TodayNew Rule Allows Military Aircraft to Turn Off ADS-B...23 Jul 2019 — Under the FAA&#x27;s new ADS-B off rule, defense aircr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ainonline.com  
    Title: cantwell questions dods ads b sensitive exemption use  
-   Link: <a href="https://www.ainonline.com/aviation-news/aerospace/2025-03-10/cantwell-questions-dods-ads-b-sensitive-exemption-use" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/aerospace/2025-03-10/cantwell-questions-dods-ads-b-sensitive-exemption-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cantwell Presses DOD over Use of ADS-B Exemption...10 Mar 2025 — Cantwell referenced reports of Army and Air Force aircraft flying witho...</p></details>
+   Link:<a href="https://www.ainonline.com/aviation-news/aerospace/2025-03-10/cantwell-questions-dods-ads-b-sensitive-exemption-use" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/aerospace/2025-03-10/cantwell-questions-dods-ads-b-sensitive-exemption-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cantwell Presses DOD over Use of ADS-B Exemption...10 Mar 2025 — Cantwell referenced reports of Army and Air Force aircraft flying witho...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e flying in FAA-controlled airspace, and sometimes even when they&#x27;re not.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e flying in FAA-controlled airspace, and sometimes even when they&#x27;re not.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/sites/default/files/2022-01/eurocontrol-cmc-cns-technical-leaflet-14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2022-01/eurocontrol-cmc-cns-technical-leaflet-14.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rating in European airspace on the basis of obligations defined in the National...</p></details>
+   Link:<a href="https://www.eurocontrol.int/sites/default/files/2022-01/eurocontrol-cmc-cns-technical-leaflet-14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2022-01/eurocontrol-cmc-cns-technical-leaflet-14.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rating in European airspace on the basis of obligations defined in the National...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: discussions.flightaware.com  
    Title: large increase in mlat positions but not aircraft  
-   Link: <a href="https://discussions.flightaware.com/t/large-increase-in-mlat-positions-but-not-aircraft/81244" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/large-increase-in-mlat-positions-but-not-aircraft/81244</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in MLAT positions but not Aircraft22 Jan 2022 — MLAT is showing you aircraft which are either out of range for your device or wh...</p></details>
+   Link:<a href="https://discussions.flightaware.com/t/large-increase-in-mlat-positions-but-not-aircraft/81244" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/large-increase-in-mlat-positions-but-not-aircraft/81244</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in MLAT positions but not Aircraft22 Jan 2022 — MLAT is showing you aircraft which are either out of range for your device or wh...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/ov0i6a/has_the_faa_taken_a_position_or_issued_guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/ov0i6a/has_the_faa_taken_a_position_or_issued_guidance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the FAA is just scanning through people&#x27;s flight tracks looking for anything...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/ov0i6a/has_the_faa_taken_a_position_or_issued_guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/ov0i6a/has_the_faa_taken_a_position_or_issued_guidance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the FAA is just scanning through people&#x27;s flight tracks looking for anything...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: eurocontrol.int  
    Title: compendium mode s ads b military  
-   Link: <a href="https://www.eurocontrol.int/sites/default/files/2024-05/eurocontrol-compendium-mode-s-ads-b-military.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2024-05/eurocontrol-compendium-mode-s-ads-b-military.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Flights by Mode S and ADS-B OUT Non-...10 May 2024 — The carriage of a serviceable transponder capable of replying to Mode...</p></details>
+   Link:<a href="https://www.eurocontrol.int/sites/default/files/2024-05/eurocontrol-compendium-mode-s-ads-b-military.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/sites/default/files/2024-05/eurocontrol-compendium-mode-s-ads-b-military.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of Flights by Mode S and ADS-B OUT Non-...10 May 2024 — The carriage of a serviceable transponder capable of replying to Mode...</p></details>
    Published: May 2024  

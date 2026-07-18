@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video
 
 ## Introduction
 
-A UFO video becomes far more useful when it contains an accurate timestamp. Without a reliable time, investigators are left with a vague claim that something unusual appeared “late at night” or “just after sunset”. With an exact time, the sighting becomes a checkable event that can be compared against aircraft movements, satellite passes, meteor records, [weather data]({{ 'weather-data/' | relative_url }}) and other sensor observations. In the context of [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), the clock is not a minor detail attached to the recording; it is one of the key pieces of metadata that allows an observation to be tested against independent evidence. NASA’s UAP study highlighted that poor metadata and inadequate sensor information are major obstacles to analysing unusual aerial reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+A UFO video becomes far more useful when it contains an accurate timestamp. Without a reliable time, investigators are left with a vague claim that something unusual appeared “late at night” or “just after sunset”. With an exact time, the sighting becomes a checkable event that can be compared against aircraft movements, satellite passes, meteor records, [weather data]({{ 'weather-data/' | relative_url }}) and other sensor observations. In the context of [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), the clock is not a minor detail attached to the recording; it is one of the key pieces of metadata that allows an observation to be tested against independent evidence. NASA’s UAP study highlighted that poor metadata and inadequate sensor information are major obstacles to analysing unusual aerial reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-1-dark.svg" | relative_url }}" alt="Timestamps illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ A UFO video becomes far more useful when it contains an accurate timestamp. With
 
 A report that says an object was seen “around 9 pm” may sound reasonably specific, but even a difference of a few minutes can change the list of possible explanations. Aircraft, [satellites]({{ 'satellites/' | relative_url }}) and astronomical objects move continuously. A bright object visible at 21:03 may no longer occupy the same position at 21:15, and a satellite flare or meteor may have occurred only within a narrow time window.
 
-This is why analysts often struggle with videos uploaded days or weeks after an event. If the original recording time is unknown, it becomes difficult to compare the sighting with independent records. Historical flight databases, weather observations and astronomical calculations all depend on knowing when the event occurred. A sighting without a trustworthy timestamp can therefore remain ambiguous even when abundant external data exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This is why analysts often struggle with videos uploaded days or weeks after an event. If the original recording time is unknown, it becomes difficult to compare the sighting with independent records. Historical flight databases, weather observations and astronomical calculations all depend on knowing when the event occurred. A sighting without a trustworthy timestamp can therefore remain ambiguous even when abundant external data exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-The problem is compounded when videos are edited, screen-recorded or reposted. In many cases, original metadata is stripped away during sharing. Digital image and video files can contain embedded date and time information, but that information is often lost before investigators ever see the footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Airport Lights Inspection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The problem is compounded when videos are edited, screen-recorded or reposted. In many cases, original metadata is stripped away during sharing. Digital image and video files can contain embedded date and time information, but that information is often lost before investigators ever see the footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Airport Lights Inspection]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 A useful way to think about the issue is that a UFO clip without a verified time is similar to a security-camera image without a date. The picture may show something interesting, but it cannot easily be connected to other records.
 
@@ -300,7 +300,7 @@ Once a timestamp is known with reasonable accuracy, a surprising number of indep
 
 ### Aircraft Tracking
 
-Modern aircraft frequently broadcast their position, altitude and velocity through Automatic Dependent Surveillance–Broadcast (ADS-B). These transmissions are collected by networks that preserve both live and historical flight data. If a UFO video is timestamped precisely, analysts can examine whether a commercial aircraft, private aircraft or other transponder-equipped vehicle occupied the relevant part of the sky at that moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[ADS-B Exchange+3txtav.com+3ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</span></span></span>
+Modern aircraft frequently broadcast their position, altitude and velocity through Automatic Dependent Surveillance–Broadcast (ADS-B). These transmissions are collected by networks that preserve both live and historical flight data. If a UFO video is timestamped precisely, analysts can examine whether a commercial aircraft, private aircraft or other transponder-equipped vehicle occupied the relevant part of the sky at that moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[ADS-B Exchange+3txtav.com+3ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</span></span></span>
 
 This is often more informative than visual appearance alone. A distant aircraft viewed head-on can appear stationary, unusually bright or oddly shaped. Matching the video time with ADS-B records can quickly test that possibility.
 
@@ -331,7 +331,7 @@ The most powerful role of a timestamp is not identifying an object directly but 
 
 Suppose an automated sky-monitoring station records an unusual light at 21:03:12. Investigators can compare that moment with:
 
-* Aircraft position records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[txtav.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</span></span></span>
+* Aircraft position records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[txtav.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</span></span></span>
 * Satellite ephemerides and orbital databases.
 * Meteor and fireball networks.
 * Weather radar returns.
@@ -341,7 +341,7 @@ Suppose an automated sky-monitoring station records an unusual light at 21:03:12
 
 Each independent data source acts as a potential confirmation or elimination tool. The timestamp serves as the common reference point connecting them.
 
-This approach mirrors practices used in other scientific and engineering fields. Modern sensor networks routinely correlate observations from multiple instruments by aligning their clocks. The observation becomes stronger when different systems independently report the same event at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.03372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace OperationsMarch 5, 2024...</span><span class="citation-popover-meta">Published: March 5, 2024</span></span></span>
+This approach mirrors practices used in other scientific and engineering fields. Modern sensor networks routinely correlate observations from multiple instruments by aligning their clocks. The observation becomes stronger when different systems independently report the same event at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.03372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace OperationsMarch 5, 2024...</span><span class="citation-popover-meta">Published: March 5, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-2-dark.svg" | relative_url }}" alt="Timestamps illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_ufo_video_timestamps_bfaa45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -349,7 +349,7 @@ This approach mirrors practices used in other scientific and engineering fields.
 
 For automated UFO detector networks, simply displaying a time on screen is not enough. The system must know that the recorded time is accurate.
 
-Most serious monitoring systems synchronise their clocks to a trusted reference, commonly GPS-derived time or internet-based time services. GPS timing is especially valuable because satellites continuously broadcast highly accurate timing signals. Scientific facilities often use GPS-based timing systems specifically to ensure that events recorded by different instruments can be compared reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span><span class="citation-popover-snippet">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span></span></span>
+Most serious monitoring systems synchronise their clocks to a trusted reference, commonly GPS-derived time or internet-based time services. GPS timing is especially valuable because satellites continuously broadcast highly accurate timing signals. Scientific facilities often use GPS-based timing systems specifically to ensure that events recorded by different instruments can be compared reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span><span class="citation-popover-snippet">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span></span></span>
 
 A well-designed instrumented station typically records:
 
@@ -361,7 +361,7 @@ A well-designed instrumented station typically records:
 * Time synchronisation status.
 * Sensor identity.
 * Location information.
-* Camera and acquisition settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/exif/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[tarmacview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">Airport Lights Inspection EXIF Metadata</span><span class="citation-popover-snippet">Airport Lights InspectionEXIF Metadata - Airport Lights Inspection7 days ago — EXIF (Exchangeable Image File Format) is the metadata stan...</span></span></span>
+* Camera and acquisition settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/exif/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[tarmacview.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">Airport Lights Inspection EXIF Metadata</span><span class="citation-popover-snippet">Airport Lights InspectionEXIF Metadata - Airport Lights Inspection7 days ago — EXIF (Exchangeable Image File Format) is the metadata stan...</span></span></span>
 
 </div>
 
@@ -374,7 +374,7 @@ These details become part of the event record rather than relying on a witness t
 
 For many ordinary sightings, accuracy to the nearest second is sufficient. However, some analyses benefit from finer timing.
 
-A fast-moving meteor, aircraft strobe pattern or rapidly changing object may require sub-second measurements to compare correctly with other sensor data. Modern metadata standards and scientific timing systems can record fractions of a second, allowing more precise reconstruction of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A fast-moving meteor, aircraft strobe pattern or rapidly changing object may require sub-second measurements to compare correctly with other sensor data. Modern metadata standards and scientific timing systems can record fractions of a second, allowing more precise reconstruction of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The exact requirement depends on the phenomenon being studied, but the underlying principle remains the same: better timing enables better correlation.
 
@@ -385,7 +385,7 @@ The exact requirement depends on the phenomenon being studied, but the underlyin
 
 One of the most important outcomes of accurate timing is that it often helps explain sightings rather than deepen the mystery.
 
-NASA's UAP study emphasised that metadata scrutiny and proper sensor context can transform apparently anomalous observations into identifiable events. Once analysts know precisely when a recording occurred, they can compare it with known activity and evaluate whether the object was likely an aircraft, satellite, atmospheric effect or sensor artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
+NASA's UAP study emphasised that metadata scrutiny and proper sensor context can transform apparently anomalous observations into identifiable events. Once analysts know precisely when a recording occurred, they can compare it with known activity and evaluate whether the object was likely an aircraft, satellite, atmospheric effect or sensor artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 This does not mean every unusual observation will be explained. Instead, it means that the explanation can be tested. A timestamp converts a story into a measurement and a video into an event that other datasets can confirm, contradict or leave [unresolved]({{ 'unresolved/' | relative_url }}).
 
@@ -395,181 +395,181 @@ This does not mean every unusual observation will be explained. Instead, it mean
 
 The value of automated instrumented UFO detectors is not merely that they record the sky continuously. Their advantage is that they record observations together with trustworthy metadata. Among all metadata fields, time is one of the most important because it enables cross-checking against nearly every external source of information.
 
-A strange light recorded without a timestamp may remain an intriguing clip. The same light recorded at an accurately synchronised time can be compared against aircraft tracks, satellite databases, weather archives and other sensors. That transformation—from isolated image to verifiable event—is why reliable timing sits at the centre of any serious attempt to build scientifically useful UFO detection systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+A strange light recorded without a timestamp may remain an intriguing clip. The same light recorded at an accurately synchronised time can be compared against aircraft tracks, satellite databases, weather archives and other sensors. That transformation—from isolated image to verifiable event—is why reliable timing sits at the centre of any serious attempt to build scientifically useful UFO detection systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Clock Solve a UFO Video?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Clock Solve a UFO Video?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Focuses on analyzing UFO reports using scientific methods and evidence rather than anecdote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on analyzing UFO reports using scientific methods and evidence rather than anecdote.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes documented cases where reliable observations and supporting data matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes documented cases where reliable observations and supporting data matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Explains how exact times enable reconstruction of celestial events and object positions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how exact times enable reconstruction of celestial events and object positions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timestamps-can-the-clock-solve-a-ufo-video-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,150 +775,150 @@ A strange light recorded without a timestamp may remain an intriguing clip. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of [baseline data](&#123;&#123; 'baseline-data/' | relative_url &#125;&#125;)," the report states.Read more  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exif</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+   Link:<a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</p></details>
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.03372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.03372</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace OperationsMarch 5, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.03372" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.03372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TartanAviation: Image, Speech, and ADS-B Trajectory Datasets for Terminal Airspace OperationsMarch 5, 2024...</p></details>
    Published: March 5, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory  
-   Link: <a href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.00233</a>  
+   Link:<a href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.00233</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv A study of uncompensated latency in ADS-B reports  
-   Link: <a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
+   Link:<a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tarmacview.com  
    Title: Airport Lights Inspection EXIF Metadata  
-   Link: <a href="https://www.tarmacview.com/glossary/exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/exif/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport Lights InspectionEXIF Metadata - Airport Lights Inspection7 days ago — EXIF (Exchangeable Image File Format) is the metadata stan...</p></details>
+   Link:<a href="https://www.tarmacview.com/glossary/exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/exif/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airport Lights InspectionEXIF Metadata - Airport Lights Inspection7 days ago — EXIF (Exchangeable Image File Format) is the metadata stan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B Exchange offers four production-ready subscription data products delivering real-time and historical global aircraft...</p></details>
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B Exchange offers four production-ready subscription data products delivering real-time and historical global aircraft...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsAccess ADS-B Exchange data products with live flight APIs and historical datasets, offering high-fidelity, unfiltered aircra...</p></details>
+   Link:<a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsAccess ADS-B Exchange data products with live flight APIs and historical datasets, offering high-fidelity, unfiltered aircra...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An [Uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An [Uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: evidence-standards.vercel.app  
-   Link: <a href="https://evidence-standards.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://evidence-standards.vercel.app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensor Data StandardsSensor data plays a critical role in analyzing UAP encounters. Various sensors, ranging from radar to electromagneti...</p></details>
+   Link:<a href="https://evidence-standards.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://evidence-standards.vercel.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensor Data StandardsSensor data plays a critical role in analyzing UAP encounters. Various sensors, ranging from radar to electromagneti...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AirlinerAbduction2014/comments/163lrsz/ufo_evidence_in_the_inmarsat_data/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AirlinerAbduction2014/comments/163lrsz/ufo_evidence_in_the_inmarsat_data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence in the INMARSAT DataData logged from the moment that the plane first went missing as well as data from the last satellite bu...</p></details>
+   Link:<a href="https://www.reddit.com/r/AirlinerAbduction2014/comments/163lrsz/ufo_evidence_in_the_inmarsat_data/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AirlinerAbduction2014/comments/163lrsz/ufo_evidence_in_the_inmarsat_data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence in the INMARSAT DataData logged from the moment that the plane first went missing as well as data from the last satellite bu...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skeptic.com  
-   Link: <a href="https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/</a>  
+   Link:<a href="https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufo-files-reveal-the-same-old-material/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: canon-europe.com  
-   Link: <a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful metadata in dig...</p></details>
+   Link:<a href="https://www.canon-europe.com/pro/infobank/all-about-exif/" target="_blank" rel="noopener noreferrer nofollow">https://www.canon-europe.com/pro/infobank/all-about-exif/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding EXIF and metadataEXIF stands for Exchangeable Image File Format. It is a standardised way of storing useful metadata in dig...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: johnantell.co.uk  
-   Link: <a href="https://www.johnantell.co.uk/show-exif-datetime-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.johnantell.co.uk/show-exif-datetime-metadata</a>  
+   Link:<a href="https://www.johnantell.co.uk/show-exif-datetime-metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.johnantell.co.uk/show-exif-datetime-metadata</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: photo.stackexchange.com  
    Title: does the exif data datetimeoriginal get recorded at the start or end of the ex  
-   Link: <a href="https://photo.stackexchange.com/questions/103734/does-the-exif-data-datetimeoriginal-get-recorded-at-the-start-or-end-of-the-ex" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/103734/does-the-exif-data-datetimeoriginal-get-recorded-at-the-start-or-end-of-the-ex</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the EXIF data &quot;DateTimeOriginal&quot; get recorded at...23 Dec 2018 — I am working to determine the orbit of a satellite based on a long expo...</p></details>
+   Link:<a href="https://photo.stackexchange.com/questions/103734/does-the-exif-data-datetimeoriginal-get-recorded-at-the-start-or-end-of-the-ex" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/103734/does-the-exif-data-datetimeoriginal-get-recorded-at-the-start-or-end-of-the-ex</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the EXIF data &quot;DateTimeOriginal&quot; get recorded at...23 Dec 2018 — I am working to determine the orbit of a satellite based on a long expo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... data collection that involves calibrating instruments, multiple measurements and...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... data collection that involves calibrating instruments, multiple measurements and...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_false_positives_f6ef28_satelli
 
 ## Introduction
 
-For an automated UFO detector, a bright moving light should not become a candidate anomaly until it has been compared against predicted satellite positions. Modern skies contain thousands of active [satellites]({{ 'satellites/' | relative_url }}), rocket bodies and debris objects, many of which can produce striking visual effects. A simple positional check against orbital ephemerides—the predicted locations of known space objects at a given time—can eliminate a large fraction of otherwise intriguing alerts. Public tracking systems based on NORAD orbital data, such as CelesTrak and Heavens-Above, routinely predict visible satellite passes with sufficient accuracy for visual observation and identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
+For an automated UFO detector, a bright moving light should not become a candidate anomaly until it has been compared against predicted satellite positions. Modern skies contain thousands of active [satellites]({{ 'satellites/' | relative_url }}), rocket bodies and debris objects, many of which can produce striking visual effects. A simple positional check against orbital ephemerides—the predicted locations of known space objects at a given time—can eliminate a large fraction of otherwise intriguing alerts. Public tracking systems based on NORAD orbital data, such as CelesTrak and Heavens-Above, routinely predict visible satellite passes with sufficient accuracy for visual observation and identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_satellite_ephemeris_564912-Illustration-1-dark.svg" | relative_url }}" alt="Ephemeris Checks illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_satellite_ephemeris_564912-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_satellite_ephemeris_564912-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within an automated instrumented UFO detection framework, the satellite check is
 
 The minimum policy for an automated alert system is straightforward: every optical detection should be compared against a current catalogue of known orbital objects before analysts [review]({{ 'review/' | relative_url }}) it as a potential anomaly.
 
-In practice, this means using Two-Line Element (TLE) data or equivalent orbital products to predict where satellites should appear in the sky at the exact time and location of the observation. Publicly available databases from CelesTrak and Space-Track provide continuously updated orbital information for tens of thousands of tracked objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2Space-Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
+In practice, this means using Two-Line Element (TLE) data or equivalent orbital products to predict where satellites should appear in the sky at the exact time and location of the observation. Publicly available databases from CelesTrak and Space-Track provide continuously updated orbital information for tens of thousands of tracked objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2Space-Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
 
 A useful automated workflow checks:
 
@@ -300,7 +300,7 @@ A useful automated workflow checks:
 
 Only detections that fail these checks should advance to higher-priority investigation.
 
-This approach mirrors established space-situational-awareness practice. Satellite operators, astronomers and tracking networks routinely use orbital predictions to identify and forecast visible passes. The same methodology is directly applicable to automated UFO monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/columns/v03n01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Visually Observing Earth SatellitesOne of the most satisfying aspects of satellite predictions comes when you get to actually te...</span></span></span>
+This approach mirrors established space-situational-awareness practice. Satellite operators, astronomers and tracking networks routinely use orbital predictions to identify and forecast visible passes. The same methodology is directly applicable to automated UFO monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/columns/v03n01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Visually Observing Earth SatellitesOne of the most satisfying aspects of satellite predictions comes when you get to actually te...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
@@ -309,13 +309,13 @@ This approach mirrors established space-situational-awareness practice. Satellit
 
 A good ephemeris comparison can eliminate several common [categories]({{ 'categories/' | relative_url }}) of false positive.
 
-**Ordinary satellite passes.** Low Earth orbit satellites often appear as steadily moving stars crossing the sky. Their tracks are predictable minutes, hours and days in advance. Matching an observed trajectory against known orbital predictions can rapidly identify such events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-AboveSatellite predictions and other astronomical data customised for your location... 10-day predictions for satel...</span></span></span>
+**Ordinary satellite passes.** Low Earth orbit satellites often appear as steadily moving stars crossing the sky. Their tracks are predictable minutes, hours and days in advance. Matching an observed trajectory against known orbital predictions can rapidly identify such events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-AboveSatellite predictions and other astronomical data customised for your location... 10-day predictions for satel...</span></span></span>
 
-**Satellite constellations.** Large constellations create especially frequent confusion. Newly launched Starlink groups can appear as chains of lights moving together across the sky and are regularly reported as UFOs by observers unfamiliar with their appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 5 May 2026 — In fact, Starlink satellite trains are...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
+**Satellite constellations.** Large constellations create especially frequent confusion. Newly launched Starlink groups can appear as chains of lights moving together across the sky and are regularly reported as UFOs by observers unfamiliar with their appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 5 May 2026 — In fact, Starlink satellite trains are...</span><span class="citation-popover-meta">Published: June 1, 2026</span></span></span>
 
-**Rocket stages and debris.** Objects other than active satellites can reflect sunlight and generate unusual-looking motion or brightness changes. Ephemeris databases often include these catalogued objects as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
+**Rocket stages and debris.** Objects other than active satellites can reflect sunlight and generate unusual-looking motion or brightness changes. Ephemeris databases often include these catalogued objects as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
 
-**Geostationary and high-altitude objects.** Some objects appear nearly stationary relative to the stars while still producing brightness variations. Orbital prediction allows these objects to be distinguished from genuinely unknown stationary lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.janss.kr/archive/view_article?pid=jass-36-3-169" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[Janss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">Determination of Geostationary Orbits (GEO) Satellite...by B Shin · 2019 · Cited by 4 — The accuracy of the determined orbit is eva...</span></span></span>
+**Geostationary and high-altitude objects.** Some objects appear nearly stationary relative to the stars while still producing brightness variations. Orbital prediction allows these objects to be distinguished from genuinely unknown stationary lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.janss.kr/archive/view_article?pid=jass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: janss.kr">[Janss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">janss.kr</span><span class="citation-popover-title">view article</span><span class="citation-popover-snippet">Determination of Geostationary Orbits (GEO) Satellite...by B Shin · 2019 · Cited by 4 — The accuracy of the determined orbit is eva...</span></span></span>
 
 The governance implication is simple: a detection system that does not perform these checks is effectively choosing to generate avoidable [false alarms]({{ 'false-alarms/' | relative_url }}).
 
@@ -325,7 +325,7 @@ The governance implication is simple: a detection system that does not perform t
 
 Position matching alone is not enough. Brightness behaviour must also be checked.
 
-Many UFO reports are triggered not by motion but by sudden changes in intensity. Satellites can brighten dramatically when reflective surfaces align with the Sun and observer. Historically, Iridium satellites produced famous flares visible across large regions of Earth. More recent observations have documented systematic flaring and bright reflections from [Starlink satellites]({{ 'starlink/' | relative_url }}) under specific geometric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today+2Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
+Many UFO reports are triggered not by motion but by sudden changes in intensity. Satellites can brighten dramatically when reflective surfaces align with the Sun and observer. Historically, Iridium satellites produced famous flares visible across large regions of Earth. More recent observations have documented systematic flaring and bright reflections from [Starlink satellites]({{ 'starlink/' | relative_url }}) under specific geometric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today+2Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
 
 This matters because an observer may see:
 
@@ -347,7 +347,7 @@ A robust alert system therefore evaluates three geometric relationships simultan
 * Satellite position.
 * Solar position.
 
-A satellite may be physically present in the correct location but invisible because it is in Earth's shadow. Conversely, a satellite in sunlight can become conspicuous when reflective surfaces direct sunlight toward the observer. The event is explained not merely by orbital position but by orbital position combined with illumination geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today+2Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
+A satellite may be physically present in the correct location but invisible because it is in Earth's shadow. Conversely, a satellite in sunlight can become conspicuous when reflective surfaces direct sunlight toward the observer. The event is explained not merely by orbital position but by orbital position combined with illumination geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today+2Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
 
 For this reason, the correct question is not "Was a satellite nearby?" but "Was a satellite nearby and expected to be visible under the observed lighting conditions?"
 
@@ -358,17 +358,17 @@ For this reason, the correct question is not "Was a satellite nearby?" but "Was 
 
 Although satellite screening is essential, it is not perfect.
 
-The most common limitation is ephemeris quality. Public orbital data are predictions, not exact measurements. TLE-based tracking gradually loses accuracy as data age and orbital conditions change. Researchers and tracking organisations have repeatedly noted that prediction errors increase over time, especially for low Earth orbit objects affected by atmospheric drag and manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[arXiv+3rhodesmill.org+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</span></span></span>
+The most common limitation is ephemeris quality. Public orbital data are predictions, not exact measurements. TLE-based tracking gradually loses accuracy as data age and orbital conditions change. Researchers and tracking organisations have repeatedly noted that prediction errors increase over time, especially for low Earth orbit objects affected by atmospheric drag and manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[arXiv+3rhodesmill.org+3MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</span></span></span>
 
 Several specific failure modes matter for UFO detectors:
 
-**Stale orbital data.** If a catalogue has not been updated recently, predicted positions can drift from reality. Some low-orbit satellites can accumulate meaningful errors within days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[rhodesmill.org+2satfleetlive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</span></span></span>
+**Stale orbital data.** If a catalogue has not been updated recently, predicted positions can drift from reality. Some low-orbit satellites can accumulate meaningful errors within days.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[rhodesmill.org+2satfleetlive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</span></span></span>
 
-**Satellite manoeuvres.** Constellation satellites frequently adjust their orbits. Newly launched objects and manoeuvring spacecraft can temporarily deviate from publicly available predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
+**Satellite manoeuvres.** Constellation satellites frequently adjust their orbits. Newly launched objects and manoeuvring spacecraft can temporarily deviate from publicly available predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">how to spot and track satellites</span><span class="citation-popover-snippet">Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</span></span></span>
 
-**Incomplete catalogues.** Not every object in orbit is equally well tracked or publicly represented. Classification restrictions, recent launches and tracking uncertainties can leave temporary gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[Space-Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Help DocumentationWhat is 18 SDS&#x27;s reporting criteria for conjunction data messages (CDMs) in the following orbital regimes: L...</span></span></span>
+**Incomplete catalogues.** Not every object in orbit is equally well tracked or publicly represented. Classification restrictions, recent launches and tracking uncertainties can leave temporary gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[Space-Track]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Help DocumentationWhat is 18 SDS&#x27;s reporting criteria for conjunction data messages (CDMs) in the following orbital regimes: L...</span></span></span>
 
-**Brightness [uncertainty]({{ 'uncertainty/' | relative_url }}).** Even when position predictions are accurate, brightness forecasts are much harder. Satellite orientation, surface properties and attitude changes can alter [visibility]({{ 'visibility/' | relative_url }}) in ways not captured by simple orbit propagation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweatherarchive.com">[Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweatherarchive.com</span><span class="citation-popover-title">“Some of them showed very systematic flaring, ...Read more</span><span class="citation-popover-snippet">Satellite Flares (Part 1) - Spaceweather.com29 May 2019 — “I saw a pass of the Starlink Train about 15 degrees from zenith over Tuscaloos...</span></span></span>
+**Brightness [uncertainty]({{ 'uncertainty/' | relative_url }}).** Even when position predictions are accurate, brightness forecasts are much harder. Satellite orientation, surface properties and attitude changes can alter [visibility]({{ 'visibility/' | relative_url }}) in ways not captured by simple orbit propagation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweatherarchive.com">[Spaceweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweatherarchive.com</span><span class="citation-popover-title">“Some of them showed very systematic flaring, ...Read more</span><span class="citation-popover-snippet">Satellite Flares (Part 1) - Spaceweather.com29 May 2019 — “I saw a pass of the Starlink Train about 15 degrees from zenith over Tuscaloos...</span></span></span>
 
 Because of these limitations, a failed satellite match should not automatically elevate an alert to anomalous status. Instead, it should trigger additional checks, such as obtaining fresher orbital data, consulting multiple catalogues or comparing observations from additional sensors.
 
@@ -380,201 +380,201 @@ The most effective policy is to treat satellite identification as a mandatory pr
 
 An automated detector should store the results of every satellite comparison alongside the original observation: candidate object identifiers, angular separation from predicted tracks, illumination state, orbital-data age and confidence scores. Events that strongly match known orbital traffic should be closed automatically. Events that narrowly miss a match should be flagged for secondary review rather than immediately labelled unexplained.
 
-This approach creates a documented audit trail and reduces analyst time spent on ordinary orbital traffic. More importantly, it prevents the system from mistaking the increasingly crowded and reflective near-Earth environment for evidence of genuinely unidentified phenomena. In a sky containing tens of thousands of tracked objects and growing satellite constellations, ephemeris validation is no longer a specialist enhancement. It is the baseline check that determines whether a UFO alert deserves further attention at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2noirlab.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
+This approach creates a documented audit trail and reduces analyst time spent on ordinary orbital traffic. More importantly, it prevents the system from mistaking the increasingly crowded and reflective near-Earth environment for evidence of genuinely unidentified phenomena. In a sky containing tens of thousands of tracked objects and growing satellite constellations, ephemeris validation is no longer a specialist enhancement. It is the baseline check that determines whether a UFO alert deserves further attention at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak+2noirlab.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3WQApciWVAU" title="CelesTrak&#x27;s New Orbit Visualization Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3WQApciWVAU" target="_blank" rel="noopener noreferrer">CelesTrak&#x27;s New Orbit Visualization Demo</a></p><p class="youtube-embed-meta">Channel: Ansys Government Initiatives (AGI)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3WQApciWVAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3WQApciWVAU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Satellite Check Every UFO Alert Needs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Satellite Check Every UFO Alert Needs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
+</h4>
+<p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
         
-        <p class="fr-book-desc">Directly covers ephemerides, orbit propagation and satellite tracking used to eliminate false UFO alerts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers ephemerides, orbit propagation and satellite tracking used to eliminate false UFO alerts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtJK8cetqGkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Astrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics">Fundamentals of Astrodynamics</a>
-        </h4>
-        <p class="fr-book-author">By Roger R. Bate, Donald D. Mueller et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
-        <p class="fr-book-desc">Explains orbital mechanics underlying satellite trajectory prediction and visibility analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtJK8cetqGkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Astrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics">Fundamentals of Astrodynamics</a>
+</h4>
+<p class="fr-book-author">By Roger R. Bate, Donald D. Mueller et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
+<p class="fr-book-desc">Explains orbital mechanics underlying satellite trajectory prediction and visibility analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers understand common celestial objects and observational misidentifications in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand common celestial objects and observational misidentifications in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers practical skywatching, satellite observations and techniques useful for identifying known objects before classifying anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers practical skywatching, satellite observations and techniques useful for identifying known objects before classifying anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade DIY Solar Satellite Model for Home Decor"><img src="{{ '/assets/images/marketplace-covers/87b7df0115ea70d84fcb.jpg' | relative_url }}" alt="Listing image for Handmade DIY Solar Satellite Model for Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Handmade DIY Solar Satellite Model for Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade DIY Solar Satellite Model for Home Decor"><img src="{{ '/assets/images/marketplace-covers/87b7df0115ea70d84fcb.jpg' | relative_url }}" alt="Listing image for Handmade DIY Solar Satellite Model for Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Handmade DIY Solar Satellite Model for Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="{{ '/assets/images/marketplace-covers/c5d2eb571b6fbccf54b4.jpg' | relative_url }}" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="{{ '/assets/images/marketplace-covers/c5d2eb571b6fbccf54b4.jpg' | relative_url }}" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!"><img src="{{ '/assets/images/marketplace-covers/9bf58eaacb4a953fd330.jpg' | relative_url }}" alt="Listing image for Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Moebius 1215 1965 Plymouth Satellite 1/25 Scale Model Kit MISB Last One!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="ephemeris-checks-the-satellite-check-every-ufo-alert-needs-automated-instrumented-ufo-detectors-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,188 +780,188 @@ This approach creates a documented audit trail and reduces analyst time spent on
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</p></details>
+   Link:<a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataBrightest Active Satellites. A set of graphs and tables that show everything from the age dist...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location... 10-day predictions for satel...</p></details>
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location... 10-day predictions for satel...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/columns/v03n01/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/columns/v03n01/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observing Earth SatellitesOne of the most satisfying aspects of satellite predictions comes when you get to actually te...</p></details>
+   Link:<a href="https://celestrak.org/columns/v03n01/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/columns/v03n01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observing Earth SatellitesOne of the most satisfying aspects of satellite predictions comes when you get to actually te...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space-track.org  
-   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationWhat is 18 SDS&#x27;s reporting criteria for conjunction data messages (CDMs) in the following orbital regimes: L...</p></details>
+   Link:<a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationWhat is 18 SDS&#x27;s reporting criteria for conjunction data messages (CDMs) in the following orbital regimes: L...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak uses OLDEST with the Active satellites list to only show those satellite&#x27;s whose GP data...</p></details>
+   Link:<a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak uses OLDEST with the Active satellites list to only show those satellite&#x27;s whose GP data...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/SOCRATES/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/SOCRATES/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plus5 Apr 2023 — This service provides regular information on pending conjunctions on orbit over the coming week.Read more...</p></details>
+   Link:<a href="https://celestrak.org/SOCRATES/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/SOCRATES/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plus5 Apr 2023 — This service provides regular information on pending conjunctions on orbit over the coming week.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 5 May 2026 — In fact, Starlink satellite trains are...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night skyJune 1, 2026 — 5 May 2026 — In fact, Starlink satellite trains are...</p></details>
    Published: June 1, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: janss.kr  
    Title: view article  
-   Link: <a href="https://www.janss.kr/archive/view_article?pid=jass-36-3-169" target="_blank" rel="noopener noreferrer nofollow">https://www.janss.kr/archive/view_article?pid=jass-36-3-169</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Determination of Geostationary Orbits (GEO) Satellite...by B Shin · 2019 · Cited by 4 — The accuracy of the determined orbit is eva...</p></details>
+   Link:<a href="https://www.janss.kr/archive/view_article?pid=jass" target="_blank" rel="noopener noreferrer nofollow">https://www.janss.kr/archive/view_article?pid=jass</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determination of Geostationary Orbits (GEO) Satellite...by B Shin · 2019 · Cited by 4 — The accuracy of the determined orbit is eva...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rhodesmill.org  
    Title: Earth Satellites — Skyfield documentation  
-   Link: <a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</p></details>
+   Link:<a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In general, TLE data is accurate to about a kilometer or so at epoch...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/10/6/532</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 24 — The position accuracy from TLE data is primarily inf...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/10/6/532</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 24 — The position accuracy from TLE data is primarily inf...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: satfleetlive.com  
-   Link: <a href="https://satfleetlive.com/blogs/what-is-a-tle/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/what-is-a-tle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a TLE and How to Read ItFor most LEO satellites, a TLE that is more than 7–10 days old will start to show meaningful position err...</p></details>
+   Link:<a href="https://satfleetlive.com/blogs/what-is-a-tle/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/what-is-a-tle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a TLE and How to Read ItFor most LEO satellites, a TLE that is more than 7–10 days old will start to show meaningful position err...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2212.08662" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.08662</a>  
+   Link:<a href="https://arxiv.org/abs/2212.08662" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.08662</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/publications/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. T.S. Kelso: Publications10 Apr 2026 — Consideration of Collision &quot;Consequence&quot; in Satellite Conjunction Assessment and Risk Analysis...</p></details>
+   Link:<a href="https://celestrak.org/publications/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. T.S. Kelso: Publications10 Apr 2026 — Consideration of Collision &quot;Consequence&quot; in Satellite Conjunction Assessment and Risk Analysis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
+   Link:<a href="https://arxiv.org/abs/2208.03226" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.03226</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: noirlab.edu  
-   Link: <a href="https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Group ReportsBy 2030, there may be more than 100,000. A massive cloud of satellites presents significant to existential impacts o...</p></details>
+   Link:<a href="https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working Group ReportsBy 2030, there may be more than 100,000. A massive cloud of satellites presents significant to existential impacts o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2506.13034" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2506.13034</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It offers...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2506.13034" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2506.13034</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It offers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
+   Link:<a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Celes Trak's New Orbit Visualization Demo  
-   Link: <a href="https://www.youtube.com/watch?v=3WQApciWVAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3WQApciWVAU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3WQApciWVAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3WQApciWVAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
    Title: how to spot and track satellites  
-   Link: <a href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/how-to-spot-and-track-satellites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/how-to-spot-and-track-satellites" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/how-to-spot-and-track-satellites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayHow to Spot and Track Satellites11 Jul 2013 — CALSky and Heavens-Above will also predict these events for your location. Di...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spaceweatherarchive.com  
-   Link: <a href="https://spaceweatherarchive.com/2019/05/29/starlink-[satellite-flares" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2019/05/29/starlink-[satellite-flares</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Flares (Part 1) - Spaceweather.com29 May 2019 — “I saw a pass of the Starlink Train about 15 degrees from zenith over Tuscaloos...</p></details>
+   Link:<a href="https://spaceweatherarchive.com/2019/05/29/starlink-[satellite-flares" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2019/05/29/starlink-[satellite-flares</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Flares (Part 1) - Spaceweather.com29 May 2019 — “I saw a pass of the Starlink Train about 15 degrees from zenith over Tuscaloos...</p></details>
    Published: May 2019  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Orbit EphemerisCelesTrak Spacecraft Orbit. A 3D view of Earth surrounded by Global Navigation Satellite System (GNSS) satellit...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Orbit EphemerisCelesTrak Spacecraft Orbit. A 3D view of Earth surrounded by Global Navigation Satellite System (GNSS) satellit...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Celes Trak Orbit Visualization  
-   Link: <a href="https://www.youtube.com/watch?v=SmI5gx7ifS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SmI5gx7ifS0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrak Orbit Visualization - Spacecast 26Dr. T.S. Kelso presents a brief overview of the new CelesTrak orbit visualization tool (Celes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SmI5gx7ifS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SmI5gx7ifS0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrak Orbit Visualization - Spacecast 26Dr. T.S. Kelso presents a brief overview of the new CelesTrak orbit visualization tool (Celes...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scss.tcd.ie  
-   Link: <a href="https://www.scss.tcd.ie/Stephen.Farrell/ipn/background/computers-and-satellites/v03n01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.scss.tcd.ie/Stephen.Farrell/ipn/background/computers-and-satellites/v03n01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tcd.ieCelesTrak: &quot;Visually Observing Earth Satellites&quot;8 Feb 2001 — One of the most satisfying aspects of satellite predictions comes when...</p></details>
+   Link:<a href="https://www.scss.tcd.ie/Stephen.Farrell/ipn/background/computers-and-satellites/v03n01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.scss.tcd.ie/Stephen.Farrell/ipn/background/computers-and-satellites/v03n01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tcd.ieCelesTrak: &quot;Visually Observing Earth Satellites&quot;8 Feb 2001 — One of the most satisfying aspects of satellite predictions comes when...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.stackexchange.com  
    Title: what is the accuracy uncertainty of two line elements tles  
-   Link: <a href="https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the accuracy / uncertainty of Two Line Elements...3 Dec 2014 — I use TLE sets supplied on this website to find the future position of...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the accuracy / uncertainty of Two Line Elements...3 Dec 2014 — I use TLE sets supplied on this website to find the future position of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space.stackexchange.com  
    Title: We know that models of satellite  
-   Link: <a href="https://space.stackexchange.com/questions/7978/how-accurately-maximum-possible-accuracy-can-future-satellite-positions-be-pre" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/7978/how-accurately-maximum-possible-accuracy-can-future-satellite-positions-be-pre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accurately (maximum possible accuracy) can future...Jan 29, 2015 — Agencies/organizations who own/operate satellites want to know their...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/7978/how-accurately-maximum-possible-accuracy-can-future-satellite-positions-be-pre" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/7978/how-accurately-maximum-possible-accuracy-can-future-satellite-positions-be-pre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accurately (maximum possible accuracy) can future...Jan 29, 2015 — Agencies/organizations who own/operate satellites want to know their...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ai-solutions.com  
-   Link: <a href="https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/" target="_blank" rel="noopener noreferrer nofollow">https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay Prediction: Machine Learning AdvancesDiscover how machine learning transforms orbital decay predictions with innovative atm...</p></details>
+   Link:<a href="https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/" target="_blank" rel="noopener noreferrer nofollow">https://ai-solutions.com/newsroom/machine-learned-atmospheric-force-model-trained-with-two-line-elements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Decay Prediction: Machine Learning AdvancesDiscover how machine learning transforms orbital decay predictions with innovative atm...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/moonlitwonderspage/posts/this-week-a-train-of-60-satellites-is-crossingyour-sky-in-a-perfect-lineif-you-h/122173616552960741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moonlitwonderspage/posts/this-week-a-train-of-60-satellites-is-crossingyour-sky-in-a-perfect-lineif-you-h/122173616552960741/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THIS WEEK, A TRAIN OF 60 SATELLITES IS CROSSING...If you have seen a string of bright evenly-spaced points of light moving slowly across...</p></details>
+   Link:<a href="https://www.facebook.com/moonlitwonderspage/posts/this-week-a-train-of-60-satellites-is-crossingyour-sky-in-a-perfect-lineif-you-h/122173616552960741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/moonlitwonderspage/posts/this-week-a-train-of-60-satellites-is-crossingyour-sky-in-a-perfect-lineif-you-h/122173616552960741/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THIS WEEK, A TRAIN OF 60 SATELLITES IS CROSSING...If you have seen a string of bright evenly-spaced points of light moving slowly across...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: themoonlight.io  
-   Link: <a href="https://www.themoonlight.io/en/review/spacetrack-timeseries-time-series-dataset-towards-satellite-orbit-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/spacetrack-timeseries-time-series-dataset-towards-satellite-orbit-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Series Dataset towards Satellite Orbit AnalysisThe paper presents SpaceTrack-TimeSeries, a novel, publicly accessible dataset design...</p></details>
+   Link:<a href="https://www.themoonlight.io/en/review/spacetrack-timeseries-time-series-dataset-towards-satellite-orbit-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/spacetrack-timeseries-time-series-dataset-towards-satellite-orbit-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Series Dataset towards Satellite Orbit AnalysisThe paper presents SpaceTrack-TimeSeries, a novel, publicly accessible dataset design...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/ekr000/is_there_a_good_tracker_for_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/ekr000/is_there_a_good_tracker_for_these/</a>  
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/ekr000/is_there_a_good_tracker_for_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/ekr000/is_there_a_good_tracker_for_these/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: issfd.org  
-   Link: <a href="https://issfd.org/ISSFD_2009/CollisionRiskII/AIDA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://issfd.org/ISSFD_2009/CollisionRiskII/AIDA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. accuracy is therefore required to reveal the inherent modelling accuracy of the SGP4 analytical orbit model, as well...</p></details>
+   Link:<a href="https://issfd.org/ISSFD_2009/CollisionRiskII/AIDA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://issfd.org/ISSFD_2009/CollisionRiskII/AIDA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. accuracy is therefore required to reveal the inherent modelling accuracy of the SGP4 analytical orbit model, as well...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: indico.esa.int  
-   Link: <a href="https://indico.esa.int/event/111/contributions/370/attachments/511/556/6th-ICATT-presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.esa.int/event/111/contributions/370/attachments/511/556/6th-ICATT-presentation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>➢Accurate and fast orbit prediction information is a necessary requirement for the space applicatons, such as conjunction analysis...</p></details>
+   Link:<a href="https://indico.esa.int/event/111/contributions/370/attachments/511/556/6th-ICATT-presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.esa.int/event/111/contributions/370/attachments/511/556/6th-ICATT-presentation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>➢Accurate and fast orbit prediction information is a necessary requirement for the space applicatons, such as conjunction analysis...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271035873_Accuracy_of_Two-Line-Element_Data_for_Geostationary_and_High-Eccentricity_Orbits" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271035873_Accuracy_of_Two-Line-Element_Data_for_Geostationary_and_High-Eccentricity_Orbits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy of Two-Line-Element Data for Geostationary and...TLEs have a limited accuracy, and come without information about the uncertain...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/271035873_Accuracy_of_Two-Line-Element_Data_for_Geostationary_and_High-Eccentricity_Orbits" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271035873_Accuracy_of_Two-Line-Element_Data_for_Geostationary_and_High-Eccentricity_Orbits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy of Two-Line-Element Data for Geostationary and...TLEs have a limited accuracy, and come without information about the uncertain...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/5282358921786436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/5282358921786436/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>people below, their solar panels are aligned so that the sunlight skims...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/5282358921786436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/5282358921786436/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>people below, their solar panels are aligned so that the sunlight skims...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: amostech.com  
-   Link: <a href="https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Operator ephemeris data (found at [https://www.space-track...&quot;](https://www.space-track...&quot;)...</p></details>
+   Link:<a href="https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Operator ephemeris data (found at [https://www.space-track...&quot;](https://www.space-track...&quot;)...</p></details>

@@ -284,7 +284,7 @@ A sky station should not begin high-value recording simply because a camera dete
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-1-dark.svg" | relative_url }}" alt="Trigger Rules illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach aligns with the direction recommended by NASA's independent UAP study, which argues that reliable investigation depends on calibrated sensors, multiple measurements, complete metadata and systematic data collection rather than isolated images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This approach aligns with the direction recommended by NASA's independent UAP study, which argues that reliable investigation depends on calibrated sensors, multiple measurements, complete metadata and systematic data collection rather than isolated images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why motion alone is a weak trigger
 
@@ -340,7 +340,7 @@ Coincidence rules only work if every measurement shares a common clock.
 
 An infrared camera detecting a target two seconds before the visible camera, or an ADS-B message arriving with an unknown delay, can produce false matches or hide genuine ones. Scientific systems therefore place considerable emphasis on precise timestamps and complete metadata.
 
-NASA's UAP study repeatedly identifies accurate metadata, calibration and multiple simultaneous measurements as prerequisites for meaningful analysis, noting that some apparent anomalies disappear once sensor calibration and contextual metadata are examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+NASA's UAP study repeatedly identifies accurate metadata, calibration and multiple simultaneous measurements as prerequisites for meaningful analysis, noting that some apparent anomalies disappear once sensor calibration and contextual metadata are examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 For this reason, trigger logic should compare events within carefully defined time windows rather than assuming perfect simultaneity. A visible track and infrared detection occurring within tens or hundreds of milliseconds may represent the same object, whereas events separated by several seconds usually should not be fused automatically.
 
@@ -365,7 +365,7 @@ Common rejection conditions include:
 
 Rejecting these conditions may seem conservative, but preserving known-poor data often wastes review effort while reducing confidence in genuinely unusual observations.
 
-NASA similarly emphasises that incomplete metadata and poorly characterised sensors limit scientific interpretation even when interesting imagery exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA similarly emphasises that incomplete metadata and poorly characterised sensors limit scientific interpretation even when interesting imagery exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-2-dark.svg" | relative_url }}" alt="Trigger Rules illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,9 +397,9 @@ This layered approach keeps ordinary events available for later auditing without
 
 Commercial and research-oriented UAP instrumentation has increasingly moved towards integrated trigger architectures rather than standalone cameras.
 
-[UFODAP]({{ 'ufodap/' | relative_url }})'s Optical Tracking Data Acquisition Unit (OTDAU) generates triggers when qualified tracking events begin, while its Multi-Sensor Data Acquisition Unit (MSDAU) can also trigger from non-optical sensors, including configurable radio-frequency measurements. The accompanying documentation explicitly describes comparing signals across multiple sensors during trigger periods rather than relying on a single observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[Handprint+2UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-snippet">Preliminary addition to the UFODAP User Guide With...December 5, 2024 — In the case of the OTDAU, a trigger occurs when a quali...</span><span class="citation-popover-meta">Published: December 5, 2024</span></span></span>
+[UFODAP]({{ 'ufodap/' | relative_url }})'s Optical Tracking Data Acquisition Unit (OTDAU) generates triggers when qualified tracking events begin, while its Multi-Sensor Data Acquisition Unit (MSDAU) can also trigger from non-optical sensors, including configurable radio-frequency measurements. The accompanying documentation explicitly describes comparing signals across multiple sensors during trigger periods rather than relying on a single observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[Handprint+2UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-snippet">Preliminary addition to the UFODAP User Guide With...December 5, 2024 — In the case of the OTDAU, a trigger occurs when a quali...</span><span class="citation-popover-meta">Published: December 5, 2024</span></span></span>
 
-Similarly, the Galileo Project's observatory architecture combines multiple calibrated sensing modalities with edge computing so that local systems can evaluate events before forwarding them for more extensive analysis. Recent technical papers describe calibration methods using ADS-B aircraft data and emphasise integrated, multimodal observations rather than isolated camera footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Similarly, the Galileo Project's observatory architecture combines multiple calibrated sensing modalities with edge computing so that local systems can evaluate events before forwarding them for more extensive analysis. Recent technical papers describe calibration methods using ADS-B aircraft data and emphasise integrated, multimodal observations rather than isolated camera footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Governance principles for trigger rules
 
@@ -426,194 +426,194 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
 <img src="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-3-dark.svg" | relative_url }}" alt="Trigger Rules illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_edge_computing_ad654a_multisensor_trigger_cf360a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should a sky station hit record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should a sky station hit record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Useful background for probabilistic sensor fusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Useful background for probabilistic sensor fusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Data-Intensive Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p1heDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Designing Data-Intensive Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
-        </h4>
-        <p class="fr-book-author">By Martin Kleppmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Data-Intensive Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p1heDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Designing Data-Intensive Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
+</h4>
+<p class="fr-book-author">By Martin Kleppmann</p>
         
-        <p class="fr-book-desc">Explains event-driven processing architectures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains event-driven processing architectures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Data+Intensive+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Data Intensive Applications</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Data+Intensive+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Data Intensive Applications</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="trigger-rules-when-should-a-sky-station-hit-record-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,140 +819,140 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_User_Guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary addition to the UFODAP User Guide With...December 5, 2024 — In the case of the OTDAU, a trigger occurs when a quali...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_User_Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary addition to the UFODAP User Guide With...December 5, 2024 — In the case of the OTDAU, a trigger occurs when a quali...</p></details>
    Published: December 5, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyThe MSDAU contains a high-speed Linux-based computer and a suite of precision sensors and Ethernet conn...</p></details>
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyThe MSDAU contains a high-speed Linux-based computer and a suite of precision sensors and Ethernet conn...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPMulti-Sensor Data Acquisition Unit (MSDAU)  
-   Link: <a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Sensor Data Acquisition Unit (MSDAU) - ufodapThe Multi-Sensor Data Acquisition Unit (MSDAU) hardware consists of a waterproof enclo...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Sensor Data Acquisition Unit (MSDAU) - ufodapThe Multi-Sensor Data Acquisition Unit (MSDAU) hardware consists of a waterproof enclo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — Their calibration includes a novel extrinsic cal...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — Their calibration includes a novel extrinsic cal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A Hardware and Software Platform for Aerial Object Localization  
-   Link: <a href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18555</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18555</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status of Existing Data. NASA collects an enormous amount of data using highly-calibrated, validated equipment from a variety of...Read...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status of Existing Data. NASA collects an enormous amount of data using highly-calibrated, validated equipment from a variety of...Read...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/mission/galileo/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/galileo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the entire Galileo mission with this 3D simulation that uses real spacecraft data to recreate the mission&#x27;s historic flight path. NASA/VT...</p></details>
+   Link:<a href="https://science.nasa.gov/mission/galileo/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/galileo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the entire Galileo mission with this 3D simulation that uses real spacecraft data to recreate the mission&#x27;s historic flight path. NASA/VT...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntific instrumentation, but its software is not reliable for object tracking and...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ntific instrumentation, but its software is not reliable for object tracking and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An [Uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An [Uncertainty](&amp;#123;&amp;#123; &#x27;uncertainty/&#x27; | relative_url &amp;#125;&amp;#125;) Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aerpaw.org  
-   Link: <a href="https://aerpaw.org/dataset/multi-modal-rf-sensor-and-radar-dataset-for-uav-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://aerpaw.org/dataset/multi-modal-rf-sensor-and-radar-dataset-for-uav-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Modal RF Sensor and Radar Dataset for UAV TrackingThe combined dataset provides ground-truth trajectories, RF sensor position estim...</p></details>
+   Link:<a href="https://aerpaw.org/dataset/multi-modal-rf-sensor-and-radar-dataset-for-uav-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://aerpaw.org/dataset/multi-modal-rf-sensor-and-radar-dataset-for-uav-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-Modal RF Sensor and Radar Dataset for UAV TrackingThe combined dataset provides ground-truth trajectories, RF sensor position estim...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: radacontrols.com  
-   Link: <a href="https://www.radacontrols.com/media/0ncns3fz/1143307-w2-d-rada-outlook-piezo-hand-sensor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radacontrols.com/media/0ncns3fz/1143307-w2-d-rada-outlook-piezo-hand-sensor.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRODUCT MANUALIsolate the power supply to the Sensor Box. BEFORE connecting the sensor wires. Minimum 150 mm. Dripping shower heads may c...</p></details>
+   Link:<a href="https://www.radacontrols.com/media/0ncns3fz/1143307-w2-d-rada-outlook-piezo-hand-sensor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.radacontrols.com/media/0ncns3fz/1143307-w2-d-rada-outlook-piezo-hand-sensor.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PRODUCT MANUALIsolate the power supply to the Sensor Box. BEFORE connecting the sensor wires. Minimum 150 mm. Dripping shower heads may c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: drbriankeating.medium.com  
-   Link: <a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project: Systematically Searching for Evidence of...The Galileo Project aims to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
+   Link:<a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project: Systematically Searching for Evidence of...The Galileo Project aims to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: st.com  
-   Link: <a href="https://www.st.com/resource/en/user_manual/um2133-timeofflight-longdistance-ranging-sensor-with-advanced-multizone-and-multiobject-detection-stmicroelectronics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.st.com/resource/en/user_manual/um2133-timeofflight-longdistance-ranging-sensor-with-advanced-multizone-and-multiobject-detection-stmicroelectronics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UM213316 Oct 2020 — The purpose of this user manual is to describe the possible integration models, and for each of them, the set of func...</p></details>
+   Link:<a href="https://www.st.com/resource/en/user_manual/um2133-timeofflight-longdistance-ranging-sensor-with-advanced-multizone-and-multiobject-detection-stmicroelectronics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.st.com/resource/en/user_manual/um2133-timeofflight-longdistance-ranging-sensor-with-advanced-multizone-and-multiobject-detection-stmicroelectronics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UM213316 Oct 2020 — The purpose of this user manual is to describe the possible integration models, and for each of them, the set of func...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: knowledge.faro.com  
-   Link: <a href="https://knowledge.faro.com/Hardware/Laser_Tracker/Tracker/Remote_Triggering_Device_Control_and_Measurements_with_the_Vantage_Laser_Trackers" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.faro.com/Hardware/Laser_Tracker/Tracker/Remote_Triggering_Device_Control_and_Measurements_with_the_Vantage_Laser_Trackers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triggering, Device Control and Measurements...18 Oct 2023 — This article guides you through Remote Triggering, Device Control and Measur...</p></details>
+   Link:<a href="https://knowledge.faro.com/Hardware/Laser_Tracker/Tracker/Remote_Triggering_Device_Control_and_Measurements_with_the_Vantage_Laser_Trackers" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.faro.com/Hardware/Laser_Tracker/Tracker/Remote_Triggering_Device_Control_and_Measurements_with_the_Vantage_Laser_Trackers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triggering, Device Control and Measurements...18 Oct 2023 — This article guides you through Remote Triggering, Device Control and Measur...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metabunk.org  
    Title: avi loebs galileo project posts first results to near total silence.13795  
-   Link: <a href="https://www.metabunk.org/threads/avi-loebs-galileo-project-posts-first-results-to-near-total-silence.13795/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/avi-loebs-galileo-project-posts-first-results-to-near-total-silence.13795/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb&#x27;s Galileo Project posts first results to near total...1 Dec 2024 — It is clear to the [NASA] panel that establishing a more rob...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/avi-loebs-galileo-project-posts-first-results-to-near-total-silence.13795/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/avi-loebs-galileo-project-posts-first-results-to-near-total-silence.13795/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb&#x27;s Galileo Project posts first results to near total...1 Dec 2024 — It is clear to the [NASA] panel that establishing a more rob...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bRuNVIVkd1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bRuNVIVkd1A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA UAP MeetingOutlining how to evaluate and study UAP by using data, technology, and the tools of science is a NASA priority. I...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bRuNVIVkd1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bRuNVIVkd1A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA UAP MeetingOutlining how to evaluate and study UAP by using data, technology, and the tools of science is a NASA priority. I...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectThe Galileo Project is billed as “the systematic scientific search for evidence of extraterrestrial technological arti...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectThe Galileo Project is billed as “the systematic scientific search for evidence of extraterrestrial technological arti...</p></details>

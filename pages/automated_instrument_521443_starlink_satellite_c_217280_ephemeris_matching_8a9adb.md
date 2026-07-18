@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_starlink_satellite_c_217280_ep
 
 ## Introduction
 
-Automated sky cameras can only treat a moving light as genuinely unexplained after asking a simpler question: **does its observed path match the predicted path of a known satellite?** For modern systems, especially those operating during twilight when low-Earth-orbit [satellites]({{ 'satellites/' | relative_url }}) are brightest, ephemeris matching is the primary method for excluding Starlink and other satellite constellations before an event reaches a human analyst. The challenge is no longer simply downloading orbital data. [Starlink satellites]({{ 'starlink/' | relative_url }}) manoeuvre frequently, are launched in large groups, and can produce brief specular reflections that appear far brighter than an ordinary satellite. A reliable detector therefore needs a reproducible orbit-matching pipeline, continuous orbital updates, and an auditable record showing why a candidate was accepted or rejected as a satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Automated sky cameras can only treat a moving light as genuinely unexplained after asking a simpler question: **does its observed path match the predicted path of a known satellite?** For modern systems, especially those operating during twilight when low-Earth-orbit [satellites]({{ 'satellites/' | relative_url }}) are brightest, ephemeris matching is the primary method for excluding Starlink and other satellite constellations before an event reaches a human analyst. The challenge is no longer simply downloading orbital data. [Starlink satellites]({{ 'starlink/' | relative_url }}) manoeuvre frequently, are launched in large groups, and can produce brief specular reflections that appear far brighter than an ordinary satellite. A reliable detector therefore needs a reproducible orbit-matching pipeline, continuous orbital updates, and an auditable record showing why a candidate was accepted or rejected as a satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280_ephemeris_matching_8a9adb-Illustration-1-dark.svg" | relative_url }}" alt="Orbit Matching illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280_ephemeris_matching_8a9adb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280_ephemeris_matching_8a9adb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,17 +299,17 @@ For an automated UFO or UAP detector, the comparison should involve more than a 
 
 Using multiple tests reduces accidental matches in crowded low-Earth-orbit environments, where hundreds of satellites may be above the horizon simultaneously.
 
-Most implementations rely on publicly available General Perturbations (GP) element sets—commonly distributed as Two-Line Elements (TLEs)—propagated with the standard SGP4 orbital model. Modern libraries such as Skyfield use these data directly and explicitly warn that prediction quality depends on the age and quality of the underlying orbital elements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">TLE element set&#x27;s predictions are...</span></span></span>
+Most implementations rely on publicly available General Perturbations (GP) element sets—commonly distributed as Two-Line Elements (TLEs)—propagated with the standard SGP4 orbital model. Modern libraries such as Skyfield use these data directly and explicitly warn that prediction quality depends on the age and quality of the underlying orbital elements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">TLE element set&#x27;s predictions are...</span></span></span>
 
 ## Why Starlink Makes Orbit Matching Harder
 
 Starlink introduces several complications that distinguish it from older satellite populations.
 
-First, satellites are frequently manoeuvred. During launch deployment they actively climb through a sequence of parking and operational orbits, meaning their trajectories diverge from simple ballistic predictions. Researchers developing automated tracking methods found that newly deployed Starlink spacecraft required recursive orbit updates rather than relying on a single initial TLE, achieving reliable associations only by continually incorporating fresh observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raa-journal.org">[RAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raa-journal.org</span><span class="citation-popover-snippet">RAA JournalTracklet-to-object Matching for Climbing Starlink Satellites...October 14, 2022 — by B Li · 2022 · Cited by 14 — This paper p...</span><span class="citation-popover-meta">Published: October 14, 2022</span></span></span>
+First, satellites are frequently manoeuvred. During launch deployment they actively climb through a sequence of parking and operational orbits, meaning their trajectories diverge from simple ballistic predictions. Researchers developing automated tracking methods found that newly deployed Starlink spacecraft required recursive orbit updates rather than relying on a single initial TLE, achieving reliable associations only by continually incorporating fresh observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raa-journal.org">[RAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raa-journal.org</span><span class="citation-popover-snippet">RAA JournalTracklet-to-object Matching for Climbing Starlink Satellites...October 14, 2022 — by B Li · 2022 · Cited by 14 — This paper p...</span><span class="citation-popover-meta">Published: October 14, 2022</span></span></span>
 
 Second, Starlink satellites often travel in dense groups. A wide-field camera may record several nearly parallel tracks simultaneously, so the matching software must identify which prediction corresponds to which observation instead of merely confirming that "a Starlink was nearby".
 
-Third, optical appearance is a poor discriminator. The same satellite may be almost invisible during one pass yet produce an intense specular glint on another because of changing Sun-spacecraft-observer geometry. The orbital match therefore carries more evidential weight than brightness alone. AARO's analysis of satellite flaring emphasises that such reflections can readily be mistaken for anomalous objects unless orbital context is considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Third, optical appearance is a poor discriminator. The same satellite may be almost invisible during one pass yet produce an intense specular glint on another because of changing Sun-spacecraft-observer geometry. The orbital match therefore carries more evidential weight than brightness alone. AARO's analysis of satellite flaring emphasises that such reflections can readily be mistaken for anomalous objects unless orbital context is considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_VmrRGln1XA" title="Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_VmrRGln1XA" target="_blank" rel="noopener noreferrer">Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 28.3K &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_VmrRGln1XA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_VmrRGln1XA">Open on YouTube</a></p></div></div></div>
@@ -318,9 +318,9 @@ Third, optical appearance is a poor discriminator. The same satellite may be alm
 
 Ephemeris matching is only as reliable as the orbital data supplied to it.
 
-Public TLEs are snapshots of an orbit at a particular epoch. As atmospheric drag, attitude changes and propulsion alter a spacecraft's motion, prediction errors grow with time. Skyfield's documentation cautions that TLE accuracy naturally degrades as one moves away from the epoch for which the elements were generated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">TLE element set&#x27;s predictions are...</span></span></span>
+Public TLEs are snapshots of an orbit at a particular epoch. As atmospheric drag, attitude changes and propulsion alter a spacecraft's motion, prediction errors grow with time. Skyfield's documentation cautions that TLE accuracy naturally degrades as one moves away from the epoch for which the elements were generated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">TLE element set&#x27;s predictions are...</span></span></span>
 
-For Starlink this matters because satellites manoeuvre routinely. Recent empirical work comparing propagated public TLEs with later operator-derived orbital information found that median position errors increase substantially over periods of several days, with kilometre-scale errors appearing even after relatively short intervals and much larger along-track divergence after a week. While this 2026 study has not yet undergone full peer [review]({{ 'review/' | relative_url }}), its findings are consistent with the operational expectation that frequently updated element sets are essential for precision matching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
+For Starlink this matters because satellites manoeuvre routinely. Recent empirical work comparing propagated public TLEs with later operator-derived orbital information found that median position errors increase substantially over periods of several days, with kilometre-scale errors appearing even after relatively short intervals and much larger along-track divergence after a week. While this 2026 study has not yet undergone full peer [review]({{ 'review/' | relative_url }}), its findings are consistent with the operational expectation that frequently updated element sets are essential for precision matching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
 
 The practical consequences for an automated detector include:
 
@@ -342,7 +342,7 @@ A detector that claims a "non-match" without recording the age of the orbital ca
 
 Many operational systems now supplement traditional public TLE catalogues with higher-quality orbital products where available.
 
-CelesTrak distributes Supplemental GP (SupGP) element sets derived from operator-provided ephemerides for several constellations, including Starlink. These products are intended to reduce latency and improve positional accuracy compared with element sets derived solely from surveillance observations, making them particularly useful for exclusion pipelines where false positives are costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Current Supplemental GP Element SetsSupplemental GP Data. Starlink Matching Results, All Launches: 3,654* Derived from latest St...</span></span></span>
+CelesTrak distributes Supplemental GP (SupGP) element sets derived from operator-provided ephemerides for several constellations, including Starlink. These products are intended to reduce latency and improve positional accuracy compared with element sets derived solely from surveillance observations, making them particularly useful for exclusion pipelines where false positives are costly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Current Supplemental GP Element SetsSupplemental GP Data. Starlink Matching Results, All Launches: 3,654* Derived from latest St...</span></span></span>
 
 For automated instrumented detectors, a sensible priority order is:
 
@@ -405,194 +405,194 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Track Match a Known Satellite?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Track Match a Known Satellite?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
+</h4>
+<p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
         
-        <p class="fr-book-desc">Directly covers ephemerides and orbit prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers ephemerides and orbit prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtJK8cetqGkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Astrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics">Fundamentals of Astrodynamics</a>
-        </h4>
-        <p class="fr-book-author">By Roger R. Bate, Donald D. Mueller et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
-        <p class="fr-book-desc">Explains orbit propagation principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UtJK8cetqGkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fundamentals of Astrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics">Fundamentals of Astrodynamics</a>
+</h4>
+<p class="fr-book-author">By Roger R. Bate, Donald D. Mueller et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 12 Google Books ratings</p>
+<p class="fr-book-desc">Explains orbit propagation principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+by+Roger+R.+Bate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Provides observational context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides observational context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Includes practical positional calculations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes practical positional calculations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)"><img src="{{ '/assets/images/marketplace-covers/ef2f4eefbd7b314a2bcd.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)"><img src="{{ '/assets/images/marketplace-covers/ef2f4eefbd7b314a2bcd.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit Gen 3 Satellite Dish &amp; Wi-Fi 6 Router( Read Description)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink"><img src="{{ '/assets/images/marketplace-covers/5958c27c052a89bee553.jpg' | relative_url }}" alt="Listing image for Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink"><img src="{{ '/assets/images/marketplace-covers/5958c27c052a89bee553.jpg' | relative_url }}" alt="Listing image for Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Gen 3 Cable 23M/75FT, Waterproof Starlink Cable Extension for Starlink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233"><img src="{{ '/assets/images/marketplace-covers/51939c21c8f1d98c6bf5.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233"><img src="{{ '/assets/images/marketplace-covers/51939c21c8f1d98c6bf5.jpg' | relative_url }}" alt="Listing image for Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Starlink Standard Kit satellite Dish With Router UTA-232-UTR-233</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for spacex starlink"><img src="{{ '/assets/images/marketplace-covers/a704701bd45c877d7be9.jpg' | relative_url }}" alt="Listing image for spacex starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">spacex starlink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for spacex starlink"><img src="{{ '/assets/images/marketplace-covers/a704701bd45c877d7be9.jpg' | relative_url }}" alt="Listing image for spacex starlink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">spacex starlink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Starlink satellite model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Starlink satellite model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Starlink+satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink satellite model" data-ebay-reference="orbit-matching-can-the-track-match-a-known-satellite-automated-instrumented-ufo-detectors-starlink-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -798,130 +798,130 @@ For automated instrumented UFO detection, ephemeris matching is therefore not me
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP...January 24, 2025 — by A An · 2024 — This paper discusses specular and diffuse...</p></details>
    Published: January 24, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/supplemental/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsSupplemental GP Data. Starlink Matching Results, All Launches: 3,654* Derived from latest St...</p></details>
+   Link:<a href="https://celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/supplemental/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsSupplemental GP Data. Starlink Matching Results, All Launches: 3,654* Derived from latest St...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: raa-journal.org  
-   Link: <a href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAA JournalTracklet-to-[object Matching](&amp;#123;&amp;#123; &#x27;object-matching/&#x27; | relative_url &amp;#125;&amp;#125;) for Climbing Starlink Satellites...October 14, 2022 — by B Li · 2022 · Cited by 14 — This paper p...</p></details>
+   Link:<a href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAA JournalTracklet-to-[object Matching](&amp;#123;&amp;#123; &#x27;object-matching/&#x27; | relative_url &amp;#125;&amp;#125;) for Climbing Starlink Satellites...October 14, 2022 — by B Li · 2022 · Cited by 14 — This paper p...</p></details>
    Published: October 14, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+   Link:<a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.19850v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.19850v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical...19 May 2026 — An empirical comparison of SGP4 and high-fidelity propagation agains...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.19850v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.19850v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical...19 May 2026 — An empirical comparison of SGP4 and high-fidelity propagation agains...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak uses OLDEST with the Active satellites list to only show those satellite&#x27;s whose GP data...</p></details>
+   Link:<a href="https://celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak uses OLDEST with the Active satellites list to only show those satellite&#x27;s whose GP data...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
+   Link:<a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: celestrak.org  
    Title: IA C-25-A6.7.1 Page 1 of 7 IAC-25  
-   Link: <a href="https://celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAC-25-A6.7.1 Page 1 of 7 IAC-25-...Abstract. Increasing orbital congestion, with satellites that maneuver more frequently, has uncovere...</p></details>
+   Link:<a href="https://celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAC-25-A6.7.1 Page 1 of 7 IAC-25-...Abstract. Increasing orbital congestion, with satellites that maneuver more frequently, has uncovere...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: celestrak.org  
-   Link: <a href="https://celestrak.org/publications/AAS/07-127/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/AAS/07-127/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publications [AAS 07-127]1 Jul 2022 — This paper will assess the suitability of these approaches by comparing SGP4 ephemerides to precisi...</p></details>
+   Link:<a href="https://celestrak.org/publications/AAS/07-127/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/publications/AAS/07-127/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publications [AAS 07-127]1 Jul 2022 — This paper will assess the suitability of these approaches by comparing SGP4 ephemerides to precisi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.13034v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.13034v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Series Dataset towards Satellite Orbit Analysis16 Jun 2025 — This study seeks to address this gap by collecting and curating a repre...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.13034v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.13034v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Series Dataset towards Satellite Orbit Analysis16 Jun 2025 — This study seeks to address this gap by collecting and curating a repre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rhodesmill.org  
    Title: Rhodes Mill Earth Satellites — Skyfield documentation  
-   Link: <a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TLE element set&#x27;s predictions are...</p></details>
+   Link:<a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TLE element set&#x27;s predictions are...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pypi.org  
-   Link: <a href="https://pypi.org/project/sgp4/" target="_blank" rel="noopener noreferrer nofollow">https://pypi.org/project/sgp4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track Earth satellites given TLE data, using up-to-date 2020 SGP4 routines. uses it to compute the positions of satellites in Earth orbit...</p></details>
+   Link:<a href="https://pypi.org/project/sgp4/" target="_blank" rel="noopener noreferrer nofollow">https://pypi.org/project/sgp4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Track Earth satellites given TLE data, using up-to-date 2020 SGP4 routines. uses it to compute the positions of satellites in Earth orbit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apify.com  
    Title: celestrak tle satellites scraper  
-   Link: <a href="https://apify.com/parseforge/celestrak-tle-satellites-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/celestrak-tle-satellites-scraper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celestrak Satellite TLE Tracker Scraper15 May 2026 — The CelesTrak Satellites Orbital Catalog Scraper pulls the official CelesTrak orbita...</p></details>
+   Link:<a href="https://apify.com/parseforge/celestrak-tle-satellites-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/celestrak-tle-satellites-scraper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celestrak Satellite TLE Tracker Scraper15 May 2026 — The CelesTrak Satellites Orbital Catalog Scraper pulls the official CelesTrak orbita...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc5/paper/57/SDC5-paper57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc5/paper/57/SDC5-paper57.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>determination issues and results to incorporate optical...by DA Vallado · Cited by 12 — The data center concept conclusively demonstrate...</p></details>
+   Link:<a href="https://conference.sdo.esoc.esa.int/proceedings/sdc5/paper/57/SDC5-paper57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc5/paper/57/SDC5-paper57.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>determination issues and results to incorporate optical...by DA Vallado · Cited by 12 — The data center concept conclusively demonstrate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/</a>  
+   Link:<a href="https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381565374_Maneuver_strategies_of_Starlink_satellite_based_on_SpaceX-released_ephemeris" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381565374_Maneuver_strategies_of_Starlink_satellite_based_on_SpaceX-released_ephemeris</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maneuver strategies of Starlink satellite based on SpaceX...13 Jun 2024 — PDF | On Jun 1, 2024, Airong Liu and others published Maneuver...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/381565374_Maneuver_strategies_of_Starlink_satellite_based_on_SpaceX-released_ephemeris" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381565374_Maneuver_strategies_of_Starlink_satellite_based_on_SpaceX-released_ephemeris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maneuver strategies of Starlink satellite based on SpaceX...13 Jun 2024 — PDF | On Jun 1, 2024, Airong Liu and others published Maneuver...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: satchecker.readthedocs.io  
-   Link: <a href="https://satchecker.readthedocs.io/en/latest/api.html" target="_blank" rel="noopener noreferrer nofollow">https://satchecker.readthedocs.io/en/latest/api.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GET /tle/. Calculate [satellite ephemeris](&amp;#123;&amp;#123; &#x27;ephemeris-checks/&#x27; | relative_url &amp;#125;&amp;#125;) with a user-specified TLE at a specific Julian Date. Query...Read more...</p></details>
+   Link:<a href="https://satchecker.readthedocs.io/en/latest/api.html" target="_blank" rel="noopener noreferrer nofollow">https://satchecker.readthedocs.io/en/latest/api.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GET /tle/. Calculate [satellite ephemeris](&amp;#123;&amp;#123; &#x27;ephemeris-checks/&#x27; | relative_url &amp;#125;&amp;#125;) with a user-specified TLE at a specific Julian Date. Query...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.moonbooks.org  
    Title: How to Plot Satellite Ground Tracks with Python Using Skyfield  
-   Link: <a href="https://en.moonbooks.org/Articles/How-to-Plot-Satellite-Ground-Tracks-with-Python-Using-Skyfield-/" target="_blank" rel="noopener noreferrer nofollow">https://en.moonbooks.org/Articles/How-to-Plot-Satellite-Ground-Tracks-with-Python-Using-Skyfield-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Plot Satellite Ground Tracks with Python Using Skyfield?12 Jan 2026 — Skyfield performs high-precision orbital propagation using the...</p></details>
+   Link:<a href="https://en.moonbooks.org/Articles/How-to-Plot-Satellite-Ground-Tracks-with-Python-Using-Skyfield-/" target="_blank" rel="noopener noreferrer nofollow">https://en.moonbooks.org/Articles/How-to-Plot-Satellite-Ground-Tracks-with-Python-Using-Skyfield-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Plot Satellite Ground Tracks with Python Using Skyfield?12 Jan 2026 — Skyfield performs high-precision orbital propagation using the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.stackexchange.com  
-   Link: <a href="https://space.stackexchange.com/questions/63850/given-historical-tle-s-how-do-i-determine-the-path-orbit-lla-of-a-satellite-for" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/63850/given-historical-tle-s-how-do-i-determine-the-path-orbit-lla-of-a-satellite-for</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TLE&#x27;s are not very accurate. Every time SGP4 changes to a new TLE, you will see a &quot;jump&quot; in the orbital...</p></details>
+   Link:<a href="https://space.stackexchange.com/questions/63850/given-historical-tle-s-how-do-i-determine-the-path-orbit-lla-of-a-satellite-for" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/63850/given-historical-tle-s-how-do-i-determine-the-path-orbit-lla-of-a-satellite-for</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TLE&#x27;s are not very accurate. Every time SGP4 changes to a new TLE, you will see a &quot;jump&quot; in the orbital...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: astron.nl  
    Title: Second-Generation Starlink Satellites Leak 30  
-   Link: <a href="https://www.astron.nl/starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.astron.nl/starlink-satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The second generation &#x27;V2-mini&#x27; Starlink satellites emit up to 32 times brighter unintended radio waves than satellites from the pr...</p></details>
+   Link:<a href="https://www.astron.nl/starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.astron.nl/starlink-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The second generation &#x27;V2-mini&#x27; Starlink satellites emit up to 32 times brighter unintended radio waves than satellites from the pr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: github.com  
-   Link: <a href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tannerkoza/celestrak-orbital-data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onstellations in LEO. The data is sourced from CelesTrak...Read more...</p></details>
+   Link:<a href="https://github.com/tannerkoza/celestrak-orbital-data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/tannerkoza/celestrak-orbital-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onstellations in LEO. The data is sourced from CelesTrak...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oas.inaf.it  
    Title: satconst AstroTalk OAS 3Nov2020  
-   Link: <a href="https://www.oas.inaf.it/wp-content/uploads/2020/11/satconst_AstroTalk-OAS_3Nov2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oas.inaf.it/wp-content/uploads/2020/11/satconst_AstroTalk-OAS_3Nov2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND OTHER SATELLITE CONSTELLATIONS:24 Oct 2020 — Ephemeris: accurate, public, frequently updated, new format (now TLE) including covarian...</p></details>
+   Link:<a href="https://www.oas.inaf.it/wp-content/uploads/2020/11/satconst_AstroTalk-OAS_3Nov2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oas.inaf.it/wp-content/uploads/2020/11/satconst_AstroTalk-OAS_3Nov2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND OTHER SATELLITE CONSTELLATIONS:24 Oct 2020 — Ephemeris: accurate, public, frequently updated, new format (now TLE) including covarian...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why "Racetrack" UFOs are mostly Starlink Flares  
-   Link: <a href="https://www.youtube.com/watch?v=_VmrRGln1XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_VmrRGln1XA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West satellite tracking ufo Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_VmrRGln1XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_VmrRGln1XA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West satellite tracking ufo Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares Mick West...</p></details>

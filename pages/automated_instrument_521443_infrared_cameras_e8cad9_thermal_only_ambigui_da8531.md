@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_infrared_cameras_e8cad9_therma
 
 ## Introduction
 
-A thermal track can demonstrate that an infrared sensor detected a real source of radiation moving across the sky, but it rarely identifies what produced that radiation on its own. This distinction is central to automated instrumented UAP detection. Long-wave infrared (LWIR) cameras are excellent at detecting heat contrast in darkness, yet a single thermal recording normally lacks the independent measurements needed to determine an object's true distance, physical size, speed or identity. As a result, an apparently striking infrared video may still represent a distant aircraft, a nearby bird, an insect close to the lens, an atmospheric effect or another ordinary object whose geometry cannot be reconstructed from thermal imagery alone. NASA's independent UAP study reached a similar conclusion at the programme level: without calibrated sensors, complete metadata and multiple independent measurements, even genuine observations often remain scientifically ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span>
+A thermal track can demonstrate that an infrared sensor detected a real source of radiation moving across the sky, but it rarely identifies what produced that radiation on its own. This distinction is central to automated instrumented UAP detection. Long-wave infrared (LWIR) cameras are excellent at detecting heat contrast in darkness, yet a single thermal recording normally lacks the independent measurements needed to determine an object's true distance, physical size, speed or identity. As a result, an apparently striking infrared video may still represent a distant aircraft, a nearby bird, an insect close to the lens, an atmospheric effect or another ordinary object whose geometry cannot be reconstructed from thermal imagery alone. NASA's independent UAP study reached a similar conclusion at the programme level: without calibrated sensors, complete metadata and multiple independent measurements, even genuine observations often remain scientifically ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-1-dark.svg" | relative_url }}" alt="Thermal Ambiguity illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,11 +293,11 @@ Several factors complicate this measurement.
 * **Emissivity:** Different materials emit infrared radiation with different efficiencies. Two objects at the same physical temperature may appear different simply because one emits thermal radiation more effectively than the other.
 * **Reflected infrared radiation:** Some surfaces reflect infrared energy from their surroundings, making the apparent temperature differ from the object's actual temperature.
 * **Atmospheric transmission:** Water vapour, humidity and other atmospheric effects absorb and scatter infrared radiation before it reaches the sensor.
-* **Camera calibration:** Accurate temperature estimation depends on calibration against known reference sources and knowledge of detector characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR+2FLIR Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">How Does Emissivity Affect Thermal Imaging?</span><span class="citation-popover-snippet">How Does Emissivity Affect Thermal Imaging?November 1, 2021 — 1 Nov 2021 — Emissivity is a measure of how efficiently an object radia...</span><span class="citation-popover-meta">Published: November 1, 2021</span></span></span>
+* **Camera calibration:** Accurate temperature estimation depends on calibration against known reference sources and knowledge of detector characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR+2FLIR Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-title">How Does Emissivity Affect Thermal Imaging?</span><span class="citation-popover-snippet">How Does Emissivity Affect Thermal Imaging?November 1, 2021 — 1 Nov 2021 — Emissivity is a measure of how efficiently an object radia...</span><span class="citation-popover-meta">Published: November 1, 2021</span></span></span>
 
 For scientific sky surveys this distinction matters. A bright thermal target is not necessarily hotter than a dim one, nor does greater brightness imply a larger object. The recorded signal is the combined result of the object's thermal properties, viewing geometry, atmosphere and instrument response.
 
-The [Galileo]({{ 'galileo/' | relative_url }}) Project's Dalek system reflects this challenge. Rather than assuming factory output represents true temperatures, its researchers performed their own radiometric calibration using blackbody reference targets so that raw detector values could be interpreted more consistently. Even with that effort, calibration is only one step towards identifying an airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</span></span></span>
+The [Galileo]({{ 'galileo/' | relative_url }}) Project's Dalek system reflects this challenge. Rather than assuming factory output represents true temperatures, its researchers performed their own radiometric calibration using blackbody reference targets so that raw detector values could be interpreted more consistently. Even with that effort, calibration is only one step towards identifying an airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ The apparent angular motion of an object across the sky does not uniquely determ
 
 **Pixel size limits interpretation**
 
-Many airborne targets occupy only a handful of detector pixels. Once a target becomes effectively [unresolved]({{ 'unresolved/' | relative_url }}), changes in brightness or shape often reflect the optics and detector response more than the object's actual structure. Studies of thermal imaging performance consistently show that detection range, recognition range and identification range are fundamentally different capabilities. A system may detect that something exists long before it can reliably classify what it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</span></span></span>
+Many airborne targets occupy only a handful of detector pixels. Once a target becomes effectively [unresolved]({{ 'unresolved/' | relative_url }}), changes in brightness or shape often reflect the optics and detector response more than the object's actual structure. Studies of thermal imaging performance consistently show that detection range, recognition range and identification range are fundamentally different capabilities. A system may detect that something exists long before it can reliably classify what it is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</span></span></span>
 
 This is why an isolated thermal video often appears more informative than it really is. Human observers naturally interpret a bright moving spot as representing a solid object with known dimensions, whereas the camera has only measured incoming infrared radiation from one viewing direction.
 
@@ -332,7 +332,7 @@ Thermal imagery often carries an impression of objectivity because it appears to
 
 A changing viewing angle can alter the apparent thermal signature of an aircraft as engines, fuselage and exhaust become more or less visible. Atmospheric turbulence can distort the apparent shape of distant heat sources. Automatic gain control within the camera may continually adjust image contrast, making targets brighten or dim even when their actual thermal emission changes little.
 
-[Weather]({{ 'weather/' | relative_url }}) introduces additional [uncertainty]({{ 'uncertainty/' | relative_url }}). Humidity, precipitation and airborne particles reduce infrared transmission, while warm cloud edges or atmospheric gradients can create changing backgrounds that complicate automated detection. Ground-based LWIR systems therefore experience variable performance depending on environmental conditions rather than operating with constant sensitivity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</span></span></span>
+[Weather]({{ 'weather/' | relative_url }}) introduces additional [uncertainty]({{ 'uncertainty/' | relative_url }}). Humidity, precipitation and airborne particles reduce infrared transmission, while warm cloud edges or atmospheric gradients can create changing backgrounds that complicate automated detection. Ground-based LWIR systems therefore experience variable performance depending on environmental conditions rather than operating with constant sensitivity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</span></span></span>
 
 These limitations do not make thermal observations unreliable; they define what information the observations genuinely contain.
 
@@ -352,9 +352,9 @@ When multiple sensors observe the same event simultaneously, several previously 
 * **Weather data** help identify clouds, atmospheric effects and changing transmission conditions.
 * **Acoustic or radio sensors** may provide further evidence consistent with conventional aircraft or other known sources.
 
-The Galileo Project's observing architecture follows precisely this philosophy. Its infrared array is designed as one component within a multimodal observatory rather than as a standalone identification system. Early commissioning data illustrate why: although hundreds of thousands of trajectories were detected, a small subset remained ambiguous after automated filtering, demonstrating that ambiguity is an expected outcome rather than evidence of extraordinary objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">144 trajectories remained ambiguous, information,</span><span class="citation-popover-snippet">An all-sky infrared camera named Dalek continues the...April 9, 2025 — 9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
+The Galileo Project's observing architecture follows precisely this philosophy. Its infrared array is designed as one component within a multimodal observatory rather than as a standalone identification system. Early commissioning data illustrate why: although hundreds of thousands of trajectories were detected, a small subset remained ambiguous after automated filtering, demonstrating that ambiguity is an expected outcome rather than evidence of extraordinary objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">144 trajectories remained ambiguous, information,</span><span class="citation-popover-snippet">An all-sky infrared camera named Dalek continues the...April 9, 2025 — 9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera...</span><span class="citation-popover-meta">Published: April 9, 2025</span></span></span>
 
-NASA's independent UAP study likewise emphasised that future progress depends on multiple calibrated sensors, complete metadata and systematic data collection rather than reliance on isolated imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span>
+NASA's independent UAP study likewise emphasised that future progress depends on multiple calibrated sensors, complete metadata and systematic data collection rather than reliance on isolated imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-3-dark.svg" | relative_url }}" alt="Thermal Ambiguity illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_thermal_only_ambigui_da8531-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,201 +364,201 @@ Within an automated instrumented observatory, a thermal-only track should be tre
 
 Its scientific value lies in confirming that an event occurred, preserving precise timing and geometry, and triggering [cross-checks]({{ 'cross-checks/' | relative_url }}) against other instruments. If multiple independent measurements agree, confidence in the reconstructed object increases substantially. If only a single thermal signature exists, the correct conclusion is usually not that the object is extraordinary, but that the available measurements are insufficient to determine what it was.
 
-For this reason, modern scientific UAP detection projects increasingly judge success not by producing dramatic infrared footage, but by reducing ambiguity through calibrated instrumentation, sensor fusion and reproducible measurements. That approach transforms thermal imaging from an apparent endpoint into one component of a broader evidence chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</span></span></span>
+For this reason, modern scientific UAP detection projects increasingly judge success not by producing dramatic infrared footage, but by reducing ambiguity through calibrated instrumentation, sensor fusion and reproducible measurements. That approach transforms thermal imaging from an apparent endpoint into one component of a broader evidence chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Heat Alone Does Not Identify a UAP. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Heat Alone Does Not Identify a UAP. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
-        </h4>
-        <p class="fr-book-author">By Ronald G. Driggers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
+</h4>
+<p class="fr-book-author">By Ronald G. Driggers</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="thermal-ambiguity-why-heat-alone-does-not-identify-a-uap-automated-instrumented-ufo-detectors-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,121 +764,121 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIndeed, several apparent UAP have been demonstrated to be sensor artifacts once appropriate cali...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — NASA can help the whole-of-government UAP effort through systematic data c...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — NASA can help the whole-of-government UAP effort through systematic data c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flir.com  
    Title: How Does Emissivity Affect Thermal Imaging?  
-   Link: <a href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Emissivity Affect Thermal Imaging?November 1, 2021 — 1 Nov 2021 — Emissivity is a measure of how efficiently an object radia...</p></details>
+   Link:<a href="https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/professional-tools/how-does-emissivity-affect-thermal-imaging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Emissivity Affect Thermal Imaging?November 1, 2021 — 1 Nov 2021 — Emissivity is a measure of how efficiently an object radia...</p></details>
    Published: November 1, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: support.flir.com  
-   Link: <a href="https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR SupportReference documentation Thermography13 Aug 2019 — Calibration of a thermal camera is a prerequisite for temperature measureme...</p></details>
+   Link:<a href="https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR SupportReference documentation Thermography13 Aug 2019 — Calibration of a thermal camera is a prerequisite for temperature measureme...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: flir.com  
-   Link: <a href="https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared Camera Accuracy and Uncertainty in Plain...12 Sept 2023 — Looking at this data, it would be tempting to claim an expected a...</p></details>
+   Link:<a href="https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/en-gb/discover/rd-science/infrared-camera-accuracy-and-uncertainty-in-plain-language/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared Camera Accuracy and Uncertainty in Plain...12 Sept 2023 — Looking at this data, it would be tempting to claim an expected a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensors 2025, This paper describes the commissioning process and results. The 16-bit data can be used for thermal radiometry...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Imaging system range defines the maximal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: phys.org  
    Title: 144 trajectories remained ambiguous, information,  
-   Link: <a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...April 9, 2025 — 9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera...</p></details>
+   Link:<a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...April 9, 2025 — 9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera...</p></details>
    Published: April 9, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — NASA commissioned the study to examine UAP from a scientific perspectiv...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — NASA commissioned the study to examine UAP from a scientific perspectiv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flir.custhelp.com  
    Title: flir cameras temperature measurement formula  
-   Link: <a href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow">https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras - Temperature Measurement Formula6 Dec 2025 — Most FLIR software calculates temperature automatically. Any infrared camera detect...</p></details>
+   Link:<a href="https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula" target="_blank" rel="noopener noreferrer nofollow">https://flir.custhelp.com/app/answers/detail/a_id/3321/~/flir-cameras---temperature-measurement-formula</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras - Temperature Measurement Formula6 Dec 2025 — Most FLIR software calculates temperature automatically. Any infrared camera detect...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — The Galileo Project&#x27;s simultaneous multi-channel recording arch...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — The Galileo Project&#x27;s simultaneous multi-channel recording arch...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-[infrared-cameras" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-[infrared-cameras</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
+   Link:<a href="https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-[infrared-cameras" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40omarvferro/seriously-are-all-those-blurry-dots-in-[infrared-cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Are All Those Blurry Dots in Infrared Cameras...NASA UAP Report Analysis: Evaluating Extraterrestrial Evidence, Infrared Sens...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — NASA always takes a scientific approach of systematic data collection that involves...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — NASA always takes a scientific approach of systematic data collection that involves...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena...NASA defines UAP as observations of events in the sky that cannot be identified as aircr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena...NASA defines UAP as observations of events in the sky that cannot be identified as aircr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceref.com  
    Title: nasa shares unidentified anomalous phenomena independent study report  
-   Link: <a href="https://spaceref.com/newspace-and-tech/nasa-shares-unidentified-anomalous-phenomena-independent-study-report/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/newspace-and-tech/nasa-shares-unidentified-anomalous-phenomena-independent-study-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://spaceref.com/newspace-and-tech/nasa-shares-unidentified-anomalous-phenomena-independent-study-report/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/newspace-and-tech/nasa-shares-unidentified-anomalous-phenomena-independent-study-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: salon.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial partner  
-   Link: <a href="https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial19 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2023/09/19/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial_partner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial19 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/348876089_Spot_size_distance_and_emissivity_errors_in_field_applications_of_infrared_thermography" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348876089_Spot_size_distance_and_emissivity_errors_in_field_applications_of_infrared_thermography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stimates of known, calibrated temperature sources, with similar results...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/348876089_Spot_size_distance_and_emissivity_errors_in_field_applications_of_infrared_thermography" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348876089_Spot_size_distance_and_emissivity_errors_in_field_applications_of_infrared_thermography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stimates of known, calibrated temperature sources, with similar results...Read more...</p></details>

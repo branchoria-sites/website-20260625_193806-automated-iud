@@ -280,30 +280,30 @@ image: /assets/images/automated_instrument_521443_magnetometers_088bec_galileo_v
 
 ## Introduction
 
-The Galileo Project's first geomagnetic variometer test did not demonstrate that unidentified aerial phenomena produce distinctive magnetic signatures. Instead, it demonstrated something more fundamental: before any magnetic anomaly can be interpreted as unusual, the measuring system must first prove that it accurately records ordinary geomagnetic behaviour under real-world conditions. This distinction is central to modern automated UAP detector design. Rather than treating [magnetometers]({{ 'magnetometers/' | relative_url }}) as standalone "mystery detectors", the Galileo team used a carefully calibrated station in Colorado to show that its measurements closely matched those from a nearby professional magnetic observatory and responded correctly during both quiet conditions and a major [space-weather]({{ 'space-weather/' | relative_url }}) event. That approach raises the evidential standard for future magnetic claims by showing that calibration, comparison and environmental context must come before interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+The Galileo Project's first geomagnetic variometer test did not demonstrate that unidentified aerial phenomena produce distinctive magnetic signatures. Instead, it demonstrated something more fundamental: before any magnetic anomaly can be interpreted as unusual, the measuring system must first prove that it accurately records ordinary geomagnetic behaviour under real-world conditions. This distinction is central to modern automated UAP detector design. Rather than treating [magnetometers]({{ 'magnetometers/' | relative_url }}) as standalone "mystery detectors", the Galileo team used a carefully calibrated station in Colorado to show that its measurements closely matched those from a nearby professional magnetic observatory and responded correctly during both quiet conditions and a major [space-weather]({{ 'space-weather/' | relative_url }}) event. That approach raises the evidential standard for future magnetic claims by showing that calibration, comparison and environmental context must come before interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-1-dark.svg" | relative_url }}" alt="Galileo Test illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Colorado variometer setup
 
-The [Galileo]({{ 'galileo/' | relative_url }}) Project installed its first geomagnetic variometer station at a magnetically [quiet site]({{ 'quiet-site/' | relative_url }}) in Colorado as part of its broader multi-sensor observatory. The instrument is a three-axis fluxgate magnetometer with an integrated temperature sensor and a dedicated data acquisition system that continuously records changes in Earth's magnetic field. Rather than operating in isolation, it is intended to work alongside optical cameras, infrared sensors, weather instruments and acoustic monitoring so that any future anomaly can be examined across multiple independent measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+The [Galileo]({{ 'galileo/' | relative_url }}) Project installed its first geomagnetic variometer station at a magnetically [quiet site]({{ 'quiet-site/' | relative_url }}) in Colorado as part of its broader multi-sensor observatory. The instrument is a three-axis fluxgate magnetometer with an integrated temperature sensor and a dedicated data acquisition system that continuously records changes in Earth's magnetic field. Rather than operating in isolation, it is intended to work alongside optical cameras, infrared sensors, weather instruments and acoustic monitoring so that any future anomaly can be examined across multiple independent measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
-The most important design decision was the station's proximity to the long-established magnetic observatory operated by the US Geological Survey (USGS) in Boulder, roughly 60 km away. This provided an external benchmark. If both stations observed nearly identical large-scale geomagnetic variations despite being independent installations, the Galileo station could be trusted to distinguish regional geomagnetic activity from faults in its own instrumentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+The most important design decision was the station's proximity to the long-established magnetic observatory operated by the US Geological Survey (USGS) in Boulder, roughly 60 km away. This provided an external benchmark. If both stations observed nearly identical large-scale geomagnetic variations despite being independent installations, the Galileo station could be trusted to distinguish regional geomagnetic activity from faults in its own instrumentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
-The researchers also calibrated the magnetometer for temperature effects in collaboration with personnel at the Boulder observatory before deployment. Temperature compensation matters because small thermal drifts can imitate genuine magnetic changes if left uncorrected. By addressing this before operational use, the project reduced one of the common sources of false magnetic anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+The researchers also calibrated the magnetometer for temperature effects in collaboration with personnel at the Boulder observatory before deployment. Temperature compensation matters because small thermal drifts can imitate genuine magnetic changes if left uncorrected. By addressing this before operational use, the project reduced one of the common sources of false magnetic anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
 
 ## Lessons from the 2024 geomagnetic storm
 
-A particularly valuable aspect of the six-month trial was that it included the extreme G5 geomagnetic storm of May 2024, the strongest global geomagnetic disturbance in more than two decades. Instead of treating this event as unwanted noise, the Galileo team used it as a demanding real-world validation test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+A particularly valuable aspect of the six-month trial was that it included the extreme G5 geomagnetic storm of May 2024, the strongest global geomagnetic disturbance in more than two decades. Instead of treating this event as unwanted noise, the Galileo team used it as a demanding real-world validation test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
-During the storm, the Colorado variometer recorded the expected large magnetic fluctuations that were simultaneously observed by established geomagnetic monitoring networks. The close agreement with the Boulder observatory demonstrated that the Galileo system was measuring genuine geophysical signals rather than producing idiosyncratic readings. According to the published results, the data quality met or exceeded the project's own science traceability requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+During the storm, the Colorado variometer recorded the expected large magnetic fluctuations that were simultaneously observed by established geomagnetic monitoring networks. The close agreement with the Boulder observatory demonstrated that the Galileo system was measuring genuine geophysical signals rather than producing idiosyncratic readings. According to the published results, the data quality met or exceeded the project's own science traceability requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 This matters because a detector intended to identify rare local anomalies must first prove that it responds correctly to known global phenomena. Had the Galileo station failed to reproduce the storm accurately, any later claim of an unexplained magnetic event would have been difficult to trust.
 
-The May 2024 storm also illustrated how dramatic natural magnetic disturbances can be. The event produced worldwide magnetic variations, auroral displays at unusually low latitudes and significant impacts on technological systems. For an automated UAP observatory, such episodes reinforce the need to identify space-[weather]({{ 'weather/' | relative_url }}) conditions before interpreting any magnetic excursion as something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The geomagnetic and geoelectric response to the May</span><span class="citation-popover-snippet">FrontiersThe geomagnetic and geoelectric response to the May...April 24, 2025 — by E Lawrence · 2025 · Cited by 18 — The “Gannon” geomag...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
+The May 2024 storm also illustrated how dramatic natural magnetic disturbances can be. The event produced worldwide magnetic variations, auroral displays at unusually low latitudes and significant impacts on technological systems. For an automated UAP observatory, such episodes reinforce the need to identify space-[weather]({{ 'weather/' | relative_url }}) conditions before interpreting any magnetic excursion as something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers The geomagnetic and geoelectric response to the May</span><span class="citation-popover-snippet">FrontiersThe geomagnetic and geoelectric response to the May...April 24, 2025 — by E Lawrence · 2025 · Cited by 18 — The “Gannon” geomag...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-2-dark.svg" | relative_url }}" alt="Galileo Test illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,7 +311,7 @@ The May 2024 storm also illustrated how dramatic natural magnetic disturbances c
 
 Perhaps the most significant outcome of the variometer paper is what it deliberately does not claim.
 
-The study does not report detecting unexplained magnetic signals associated with unidentified aerial phenomena. Instead, it establishes the measurement chain needed before such claims could be evaluated scientifically. The emphasis throughout is on instrument performance, calibration, environmental characterisation and comparison with certified reference measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+The study does not report detecting unexplained magnetic signals associated with unidentified aerial phenomena. Instead, it establishes the measurement chain needed before such claims could be evaluated scientifically. The emphasis throughout is on instrument performance, calibration, environmental characterisation and comparison with certified reference measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 This represents an important methodological shift from many historical magnetic claims associated with UFO reports. Earlier reports often relied on isolated observations, hand-held compasses or single instruments with limited documentation. In contrast, the Galileo approach requires that any candidate event be interpreted only after excluding known influences such as:
 
@@ -319,7 +319,7 @@ This represents an important methodological shift from many historical magnetic 
 * temperature-related sensor drift;
 * local magnetic contamination from nearby equipment or infrastructure;
 * instrument malfunction or calibration errors; and
-* inconsistencies with simultaneous measurements from reference observatories or other sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+* inconsistencies with simultaneous measurements from reference observatories or other sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 Only after those ordinary explanations have been examined would a magnetic anomaly become scientifically interesting enough to compare with simultaneous optical, infrared or acoustic observations.
 
@@ -342,206 +342,206 @@ The practical lesson is that an isolated magnetic excursion has little evidentia
 * regional geomagnetic conditions at the time;
 * whether nearby reference stations observed the same disturbance;
 * whether local sources could explain the signal; and
-* whether independent sensors detected a coincident event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+* whether independent sensors detected a coincident event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 </div>
 
 In effect, the Galileo Project treated its variometer not as a detector of extraordinary phenomena but as an environmental reference instrument. Its role is to help eliminate ordinary magnetic explanations before any remaining observations are considered unusual.
 
-That is the principal scientific contribution of the test. The hard problem is not detecting magnetic fluctuations—Earth's magnetic field varies continuously—but proving that an observatory can reliably separate ordinary geomagnetic behaviour from local effects and instrument artefacts. The Colorado deployment shows that this validation step is achievable and should precede any attempt to argue that a magnetic anomaly supports an exotic interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
+That is the principal scientific contribution of the test. The hard problem is not detecting magnetic fluctuations—Earth's magnetic field varies continuously—but proving that an observatory can reliably separate ordinary geomagnetic behaviour from local effects and instrument artefacts. The Colorado deployment shows that this validation step is achievable and should precede any attempt to argue that a magnetic anomaly supports an exotic interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-3-dark.svg" | relative_url }}" alt="Galileo Test illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Galileo learned from magnetic monitoring. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Galileo learned from magnetic monitoring. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cosmic Connection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mhJAAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cosmic Connection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cosmic Connection">The Cosmic Connection</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cosmic Connection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mhJAAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cosmic Connection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cosmic Connection">The Cosmic Connection</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides accessible scientific context for observational astronomy and careful evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible scientific context for observational astronomy and careful evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cosmic+Connection+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/92086-M.jpg" alt="Cover for Introduction to electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electrodynamics">Introduction to electrodynamics</a>
-        </h4>
-        <p class="fr-book-author">By David Jeffrey Griffiths</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to electrodynamics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/92086-M.jpg" alt="Cover for Introduction to electrodynamics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electrodynamics">Introduction to electrodynamics</a>
+</h4>
+<p class="fr-book-author">By David Jeffrey Griffiths</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: Electrodynamics, Elektrodynamica, Électrodynamique, Textbooks, 33.16 electromagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: Electrodynamics, Elektrodynamica, Électrodynamique, Textbooks, 33.16 electromagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
-        </h4>
-        <p class="fr-book-author">By Wallace H. Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
+</h4>
+<p class="fr-book-author">By Wallace H. Campbell</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Physics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10685311-M.jpg" alt="Cover for Space Physics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Physics">Space Physics</a>
-        </h4>
-        <p class="fr-book-author">By C. T. Russell, J. G. Luhmann et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Physics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10685311-M.jpg" alt="Cover for Space Physics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Physics">Space Physics</a>
+</h4>
+<p class="fr-book-author">By C. T. Russell, J. G. Luhmann et al.</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Astrophysics, Outer space, Sun, Solar wind, Space plasmas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Astrophysics, Outer space, Sun, Solar wind, Space plasmas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cosmic+Connection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cosmic Connection</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electrodynamics books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cosmic+Connection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cosmic Connection</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+electrodynamics+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to electrodynamics books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="galileo-test-what-galileo-learned-from-magnetic-monitoring-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ That is the principal scientific contribution of the test. The hard problem is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ That is the principal scientific contribution of the test. The hard problem is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ That is the principal scientific contribution of the test. The hard problem is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ That is the principal scientific contribution of the test. The hard problem is n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ That is the principal scientific contribution of the test. The hard problem is n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,98 +747,98 @@ That is the principal scientific contribution of the test. The hard problem is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gi.copernicus.org  
    Title: Gi Copernicus The deployment of a geomagnetic variometer station as  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</p></details>
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11602687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11602687/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With a peak negative excursion of Sym‐H below −500 nT, this storm is the...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11602687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11602687/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With a peak negative excursion of Sym‐H below −500 nT, this storm is the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: egusphere.copernicus.org  
    Title: egusphere 2025 3431  
-   Link: <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deployment of a geomagnetic variometer station as auxiliary...These reports have motivated the incorporation of a magnetometer into the...</p></details>
+   Link:<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deployment of a geomagnetic variometer station as auxiliary...These reports have motivated the incorporation of a magnetometer into the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gi.copernicus.org  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025-assets.html" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025-assets.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>deployment of a geomagnetic variometer station as auxiliary...Magnetic field and temperature data obtained at the geomagnetic variometer...</p></details>
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025-assets.html" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025-assets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deployment of a geomagnetic variometer station as auxiliary...Magnetic field and temperature data obtained at the geomagnetic variometer...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Galileo Project News: Join the Search for UAP  
-   Link: <a href="http://www.youtube.com/watch?v=HHz9otVMa58" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HHz9otVMa58</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=HHz9otVMa58" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HHz9otVMa58</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Galileo Project  
-   Link: <a href="http://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low wavelengths we haven&#x27;t detected yet? Could we use this for UAP detection?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low wavelengths we haven&#x27;t detected yet? Could we use this for UAP detection?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
    Title: Frontiers The geomagnetic and geoelectric response to the May  
-   Link: <a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe geomagnetic and geoelectric response to the May...April 24, 2025 — by E Lawrence · 2025 · Cited by 18 — The “Gannon” geomag...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2025.1550923/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe geomagnetic and geoelectric response to the May...April 24, 2025 — by E Lawrence · 2025 · Cited by 18 — The “Gannon” geomag...</p></details>
    Published: April 24, 2025  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The deployment of a geomagnetic variometer station as...by F Vervelidou · 2025 — We describe the calibration and deployment of the instr...</p></details>
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The deployment of a geomagnetic variometer station as...by F Vervelidou · 2025 — We describe the calibration and deployment of the instr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393724632_The_deployment_of_a_geomagnetic_variometer_station_as_auxiliary_instrumentation_for_the_study_of_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393724632_The_deployment_of_a_geomagnetic_variometer_station_as_auxiliary_instrumentation_for_the_study_of_Unidentified_Aerial_Phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The deployment of a geomagnetic variometer station as...Jul 15, 2025 — We presented the first geomagnetic variometer station deployed wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393724632_The_deployment_of_a_geomagnetic_variometer_station_as_auxiliary_instrumentation_for_the_study_of_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393724632_The_deployment_of_a_geomagnetic_variometer_station_as_auxiliary_instrumentation_for_the_study_of_Unidentified_Aerial_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The deployment of a geomagnetic variometer station as...Jul 15, 2025 — We presented the first geomagnetic variometer station deployed wi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/scientific-coalitionfor-uap-studies-scu_the-deployment-of-a-geomagnetic-variometer-activity-7404944395302731776-j_3B" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scientific-coalitionfor-uap-studies-scu_the-deployment-of-a-geomagnetic-variometer-activity-7404944395302731776-j_3B</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project&#x27;s Geomagnetic Variometer Station for UAP StudiesNew Publication: The deployment of a geomagnetic variometer station as au...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/scientific-coalitionfor-uap-studies-scu_the-deployment-of-a-geomagnetic-variometer-activity-7404944395302731776-j_3B" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scientific-coalitionfor-uap-studies-scu_the-deployment-of-a-geomagnetic-variometer-activity-7404944395302731776-j_3B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project&#x27;s Geomagnetic Variometer Station for UAP StudiesNew Publication: The deployment of a geomagnetic variometer station as au...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/541134/1/Space%20Weather%20-%202026%20-%20Malone%E2%80%90Leigh%20-%20The%20MANA%20Magnetometer%20Array%20%20and%20Magnetic%20Observations%20Across%20New%20Zealand%20From%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/541134/1/Space%20Weather%20-%202026%20-%20Malone%E2%80%90Leigh%20-%20The%20MANA%20Magnetometer%20Array%20%20and%20Magnetic%20Observations%20Across%20New%20Zealand%20From%202024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MANA Magnetometer Array, and Magnetic Observations...by J Malone‐Leigh · 2026 · Cited by 2 — The paper shares examples of two very signi...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/541134/1/Space%20Weather%20-%202026%20-%20Malone%E2%80%90Leigh%20-%20The%20MANA%20Magnetometer%20Array%20%20and%20Magnetic%20Observations%20Across%20New%20Zealand%20From%202024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/541134/1/Space%20Weather%20-%202026%20-%20Malone%E2%80%90Leigh%20-%20The%20MANA%20Magnetometer%20Array%20%20and%20Magnetic%20Observations%20Across%20New%20Zealand%20From%202024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MANA Magnetometer Array, and Magnetic Observations...by J Malone‐Leigh · 2026 · Cited by 2 — The paper shares examples of two very signi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.dtu.dk  
-   Link: <a href="https://www.space.dtu.dk/english/research/scientific_data_and_models/magnetic-ground-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.space.dtu.dk/english/research/scientific_data_and_models/magnetic-ground-stations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ground StationsDTU Space operates the Greenland magnetometer array, including 19 variometer stations whereof 3 are geomagnetic observator...</p></details>
+   Link:<a href="https://www.space.dtu.dk/english/research/scientific_data_and_models/magnetic-ground-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.space.dtu.dk/english/research/scientific_data_and_models/magnetic-ground-stations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ground StationsDTU Space operates the Greenland magnetometer array, including 19 variometer stations whereof 3 are geomagnetic observator...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: A forecast performance assessment of the geomagnetic index ap Read  
-   Link: <a href="https://arxiv.org/abs/2406.08617" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.08617</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Drag Analysis During the May 2024 Gannon...by WE Parker · 2024 · Cited by 82 — In this note, we investigate the various impact...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.08617" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.08617</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Drag Analysis During the May 2024 Gannon...by WE Parker · 2024 · Cited by 82 — In this note, we investigate the various impact...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/societyforuapstudies_the-deployment-of-a-geomagnetic-variometer-activity-7402348045394210816-Upuq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/societyforuapstudies_the-deployment-of-a-geomagnetic-variometer-activity-7402348045394210816-Upuq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt and performance of its first geomagnetic variometer station—a...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/societyforuapstudies_the-deployment-of-a-geomagnetic-variometer-activity-7402348045394210816-Upuq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/societyforuapstudies_the-deployment-of-a-geomagnetic-variometer-activity-7402348045394210816-Upuq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt and performance of its first geomagnetic variometer station—a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/1m25t0g/galileo_project_successfully_tests_variometric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1m25t0g/galileo_project_successfully_tests_variometric/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ve installed a geomagnetic variometer (a type of instrument that...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/1m25t0g/galileo_project_successfully_tests_variometric/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1m25t0g/galileo_project_successfully_tests_variometric/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ve installed a geomagnetic variometer (a type of instrument that...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectThe deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectThe deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: New Results from the Galileo Project Observatory and the Pacific Expedition  
-   Link: <a href="http://www.youtube.com/watch?v=QYl9d8wjjKM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QYl9d8wjjKM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QYl9d8wjjKM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QYl9d8wjjKM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>

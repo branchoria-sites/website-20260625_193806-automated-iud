@@ -452,7 +452,7 @@ Machine vision filters are the part of an automated UFO or UAP detector that tri
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7-overview.webp" | relative_url }}" alt="Overview image for Vision Filters" loading="eager" decoding="sync" fetchpriority="high">
-The practical answer is that software can spot many false UFO alarms, but only when it is treated as a filtering and triage tool rather than an oracle. Modern systems use motion detection, bounding boxes, object tracking, aircraft databases, labelled training data and sometimes thermal imagery. The strongest published UAP-related example is the [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared array, which uses YOLO object detection and SORT tracking to reconstruct aerial trajectories, while also showing why automated labels still need cautious human and multi-sensor [review]({{ 'review/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+The practical answer is that software can spot many false UFO alarms, but only when it is treated as a filtering and triage tool rather than an oracle. Modern systems use motion detection, bounding boxes, object tracking, aircraft databases, labelled training data and sometimes thermal imagery. The strongest published UAP-related example is the [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared array, which uses YOLO object detection and SORT tracking to reconstruct aerial trajectories, while also showing why automated labels still need cautious human and multi-sensor [review]({{ 'review/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mwsEatnZ358" title="Inventor says his new radar network could spot UAPs | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer">Inventor says his new radar network could spot UAPs | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 174.9K &middot; Uploaded: July 2025</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mwsEatnZ358">Open on YouTube</a></p></div></div></div>
@@ -461,11 +461,11 @@ The practical answer is that software can spot many false UFO alarms, but only w
 
 The first layer of a machine-vision sky watcher is usually not “identify the UFO”. It is “notice something moving and keep following it”. In many systems, software marks a region of interest around a moving target, draws a bounding box, then updates that box as the object crosses the frame. This is a simple idea with difficult edge cases: a bird may flutter, an aircraft may blink, leaves may sway, insects may pass near the lens, and a distant object may occupy only a few pixels.
 
-[UFODAP]({{ 'ufodap/' | relative_url }}) describes this mechanism in practical terms. Its optical tracking and data acquisition unit detects and tracks an object as it moves into a bounding-box area, then shrinks the box around the target to avoid being distracted by background objects. The same system says it uses automatic processes to reduce false triggers from flickering stars, birds and moving foliage, and at night samples the background sky to decide what to ignore during runtime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
+[UFODAP]({{ 'ufodap/' | relative_url }}) describes this mechanism in practical terms. Its optical tracking and data acquisition unit detects and tracks an object as it moves into a bounding-box area, then shrinks the box around the target to avoid being distracted by background objects. The same system says it uses automatic processes to reduce false triggers from flickering stars, birds and moving foliage, and at night samples the background sky to decide what to ignore during runtime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
 
-The Galileo Project’s published camera work gives a more research-grade version of the same pattern. Its infrared array uses eight long-wave infrared FLIR Boson 640 cameras and processes detections with YOLOv5, a version of the “You Only Look Once” object-detection family, followed by SORT, a real-time tracking algorithm. In plain language, YOLO proposes boxes around objects in images, while SORT links detections across frames into tracks. The original YOLO paper framed object detection as predicting bounding boxes and class probabilities from full images in one pass, while the SORT paper showed that fast multi-object tracking can be built from detector outputs, Kalman filtering and frame-to-frame association. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+The Galileo Project’s published camera work gives a more research-grade version of the same pattern. Its infrared array uses eight long-wave infrared FLIR Boson 640 cameras and processes detections with YOLOv5, a version of the “You Only Look Once” object-detection family, followed by SORT, a real-time tracking algorithm. In plain language, YOLO proposes boxes around objects in images, while SORT links detections across frames into tracks. The original YOLO paper framed object detection as predicting bounding boxes and class probabilities from full images in one pass, while the SORT paper showed that fast multi-object tracking can be built from detector outputs, Kalman filtering and frame-to-frame association.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
-That pairing is attractive for automated UAP stations because it is fast enough for continuous monitoring. The trade-off is that fast detection is not the same as confident identification. The Galileo commissioning paper reports that its model can detect many true objects while still producing [false positives]({{ 'false-positives/' | relative_url }}), and that a later “toy” outlier search based on unusually sinuous two-dimensional tracks flagged about 16% of trajectories before manual review reduced the ambiguous set to 144. Those remaining cases were considered likely mundane, but not fully explainable at that development stage without better distance, kinematics or other sensor data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+That pairing is attractive for automated UAP stations because it is fast enough for continuous monitoring. The trade-off is that fast detection is not the same as confident identification. The Galileo commissioning paper reports that its model can detect many true objects while still producing [false positives]({{ 'false-positives/' | relative_url }}), and that a later “toy” outlier search based on unusually sinuous two-dimensional tracks flagged about 16% of trajectories before manual review reduced the ambiguous set to 144. Those remaining cases were considered likely mundane, but not fully explainable at that development stage without better distance, kinematics or other sensor data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This is exactly the level at which machine vision is most useful in automated UFO detection: not as a final judge of origin, but as a disciplined event sorter. It can say, “this moved; this track persisted; this path looks like a candidate; this one resembles a known category; this one deserves review”.
 
@@ -475,13 +475,13 @@ This is exactly the level at which machine vision is most useful in automated UF
 
 Aircraft are the most important “false UFO” class because they are common, bright, structured and often surprising to casual observers. A detector that cannot filter normal aircraft traffic will drown its reviewer in clips. The strongest systems therefore combine visual tracking with external aircraft information, especially ADS-B, the broadcast data many aircraft transmit with position and identity information.
 
-The Galileo Project’s infrared-camera commissioning work used synchronised ADS-B data both for calibration and for generating a real-world aircraft dataset. The paper reports a method for extrinsic calibration using airplane positions from ADS-B collected on site, then uses real-world ADS-B-derived data, synthetic trajectories and hand-labelled images to evaluate detection performance over five months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The Galileo Project’s infrared-camera commissioning work used synchronised ADS-B data both for calibration and for generating a real-world aircraft dataset. The paper reports a method for extrinsic calibration using airplane positions from ADS-B collected on site, then uses real-world ADS-B-derived data, synthetic trajectories and hand-labelled images to evaluate detection performance over five months.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 That matters because an aircraft label should not rest only on what a blob looks like. A distant aircraft can appear as a point, a short streak, a blinking light or a warm shape in infrared. Matching a visual track against ADS-B gives the software a way to say: this object was where a known aircraft should have been. In a wider UAP workflow, that does not solve every case, because not all aircraft broadcast ADS-B and not all tracks are easy to associate. But it turns a large class of ordinary alarms into documented exclusions.
 
-Birds are harder in a different way. They are small, deformable, numerous and often erratic. They can look anomalous when they are out of focus, close to the camera, seen in infrared, or crossing the frame quickly. AARO’s official imagery page includes a case from Africa in 2023 that was resolved as migratory birds after initially being submitted as a UAP report from an infrared sensor, illustrating why bird filtering is not just a hobbyist concern but a real issue in formal UAP review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Birds are harder in a different way. They are small, deformable, numerous and often erratic. They can look anomalous when they are out of focus, close to the camera, seen in infrared, or crossing the frame quickly. AARO’s official imagery page includes a case from Africa in 2023 that was resolved as migratory birds after initially being submitted as a UAP report from an infrared sensor, illustrating why bird filtering is not just a hobbyist concern but a real issue in formal UAP review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-Bird-detection research shows why a single still frame is often inadequate. A 2023 flying-bird detection paper describes the problem as one of small size, low signal-to-noise ratio and weak single-frame features, then uses motion information across adjacent frames to improve detection. Another panoramic-video bird-tracking study focuses specifically on small, fast birds, where both detection and association across frames become difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.01917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Bird-detection research shows why a single still frame is often inadequate. A 2023 flying-bird detection paper describes the problem as one of small size, low signal-to-noise ratio and weak single-frame features, then uses motion information across adjacent frames to improve detection. Another panoramic-video bird-tracking study focuses specifically on small, fast birds, where both detection and association across frames become difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.01917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For UFO detectors, the lesson is straightforward: a bird filter should pay attention to motion, scale, shape change and track behaviour, not just a one-frame label. A bird close to the lens may cross the sky faster than a distant aircraft. A flock may split into several [moving targets]({{ 'moving-targets/' | relative_url }}). A gliding bird may look steadier than expected. Machine vision can catch many of these patterns, but only after being trained and tested on ordinary sky footage from the same kind of camera, lens, weather and location.
 
@@ -492,9 +492,9 @@ For UFO detectors, the lesson is straightforward: a bird filter should pay atten
 
 Moving foliage sounds trivial until a detector is left running all day. A camera pointed at the sky often includes treetops, rooflines, wires, masts or vegetation at the edge of the frame. Wind turns those static background features into motion. Sunlight can change contrast. Thermal cameras can see heated surfaces shift in intensity. A naïve motion detector will happily record every branch, leaf shimmer or shadow flicker.
 
-This is why background modelling remains important even in systems that also use neural networks. Classical techniques such as background subtraction compare the current frame with an expected background image and flag the difference. They are well suited to fixed cameras but fragile when the background itself changes. A bird-detection system design from KTH explicitly included trees, clouds, windmill blades and birds as categories to be separated using grayscale background subtraction, which shows how closely “real target” and “moving background” problems overlap in sky-facing video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">Diva Portal Bird Detection System</span><span class="citation-popover-snippet">Diva Portal Bird Detection System</span></span></span>
+This is why background modelling remains important even in systems that also use neural networks. Classical techniques such as background subtraction compare the current frame with an expected background image and flag the difference. They are well suited to fixed cameras but fragile when the background itself changes. A bird-detection system design from KTH explicitly included trees, clouds, windmill blades and birds as categories to be separated using grayscale background subtraction, which shows how closely “real target” and “moving background” problems overlap in sky-facing video.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">Diva Portal Bird Detection System</span><span class="citation-popover-snippet">Diva Portal Bird Detection System</span></span></span>
 
-Thermal imagery adds another trap. In long-wave infrared bird-detection work, researchers note that false positives can arise from differing absorption and emissivity of materials; in one example, grass heated unevenly by the sun produced a false detection even though the scene looked effectively unchanged to a human viewer. For a UAP detector, that kind of effect matters because a warm, changing patch near the horizon or frame edge can be treated as motion unless the software understands the local background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2313-433X/7/12/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">2313 433X</span></span></span>
+Thermal imagery adds another trap. In long-wave infrared bird-detection work, researchers note that false positives can arise from differing absorption and emissivity of materials; in one example, grass heated unevenly by the sun produced a false detection even though the scene looked effectively unchanged to a human viewer. For a UAP detector, that kind of effect matters because a warm, changing patch near the horizon or frame edge can be treated as motion unless the software understands the local background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2313-433X/7/12/272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2313 433X</span><span class="citation-popover-snippet">2313 433X</span></span></span>
 
 Practical foliage filtering therefore needs several safeguards working together:
 
@@ -516,13 +516,13 @@ The last point is easy to overlook. A clever model can reduce false triggers, bu
 
 The central caution is that a machine-vision label is a probability, not a fact. “Aircraft”, “bird” or “unknown” is the output of a model trained on particular data, under particular lighting, weather, sensor and viewing conditions. Change the camera, lens, exposure, sky background or local wildlife, and performance can change.
 
-NASA’s 2023 UAP independent study report makes the broader version of this point: the field needs high-quality, calibrated data, and artificial intelligence or machine learning is useful only when there is suitable data to analyse. The report argues for better sensors, metadata and data standards rather than treating AI as a magic shortcut. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s 2023 UAP independent study report makes the broader version of this point: the field needs high-quality, calibrated data, and artificial intelligence or machine learning is useful only when there is suitable data to analyse. The report argues for better sensors, metadata and data standards rather than treating AI as a magic shortcut.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-The 2021 ODNI preliminary assessment made a similar point about pattern recognition. It said machine learning could become useful as databases accumulate examples of known objects such as balloons, wildlife and other aerial items, allowing future reports to be pre-assessed against similar events. That is a conservative use of machine learning: not “the computer found aliens”, but “the computer found that this resembles a known class of ordinary event”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
+The 2021 ODNI preliminary assessment made a similar point about pattern recognition. It said machine learning could become useful as databases accumulate examples of known objects such as balloons, wildlife and other aerial items, allowing future reports to be pre-assessed against similar events. That is a conservative use of machine learning: not “the computer found aliens”, but “the computer found that this resembles a known class of ordinary event”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
 
-Published field work also shows the limits. UAPx’s first field expedition reported practical difficulties with its software and hardware integration, including criticisms of object tracking and identification reliability in the UFODAP setup used during that expedition. The team’s paper is valuable because it is candid about failures as well as findings: in real outdoor conditions, a sky detector has to contend with incomplete metadata, imperfect triggers, and ambiguous events that may require later manual analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Published field work also shows the limits. UAPx’s first field expedition reported practical difficulties with its software and hardware integration, including criticisms of object tracking and identification reliability in the UFODAP setup used during that expedition. The team’s paper is valuable because it is candid about failures as well as findings: in real outdoor conditions, a sky detector has to contend with incomplete metadata, imperfect triggers, and ambiguous events that may require later manual analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-The Galileo Project’s half-million-trajectory commissioning dataset is a useful benchmark for how to be careful. The system reconstructed around 500,000 aerial-object trajectories over five months, used an outlier search to flag unusual tracks, then manually reviewed candidates and treated the remaining ambiguous cases as likely mundane but [unresolved]({{ 'unresolved/' | relative_url }}) at that stage. That is a healthier model than either overclaiming every anomaly or dismissing every odd-looking track without evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The Galileo Project’s half-million-trajectory commissioning dataset is a useful benchmark for how to be careful. The system reconstructed around 500,000 aerial-object trajectories over five months, used an outlier search to flag unusual tracks, then manually reviewed candidates and treated the remaining ambiguous cases as likely mundane but [unresolved]({{ 'unresolved/' | relative_url }}) at that stage. That is a healthier model than either overclaiming every anomaly or dismissing every odd-looking track without evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mcmP8LbjYLI" title="Mystery Objects in the Night Sky plus a UAP Sighting Feb. - March 2024." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mcmP8LbjYLI" target="_blank" rel="noopener noreferrer">Mystery Objects in the Night Sky plus a UAP Sighting Feb. - March 2024.</a></p><p class="youtube-embed-meta">Channel: plenum88 &middot; Views: 6.0K &middot; Uploaded: March 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mcmP8LbjYLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mcmP8LbjYLI">Open on YouTube</a></p></div></div></div>
@@ -541,178 +541,178 @@ In automated instrumented UFO detection, machine vision is therefore best unders
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7-Illustration-3-dark.svg" | relative_url }}" alt="Vision Filters illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Software Spot False UFO Alarms?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Software Spot False UFO Alarms?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explains neural networks used in image classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explains neural networks used in image classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader context for automated decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides broader context for automated decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="vision-filters-can-software-spot-false-ufo-alarms-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -728,7 +728,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -748,7 +748,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -780,7 +780,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -832,7 +832,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -877,7 +877,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -918,191 +918,191 @@ In automated instrumented UFO detection, machine vision is therefore best unders
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</p></details>
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv You Only Look Once: Unified, Real-Time Object Detection  
-   Link: <a href="https://arxiv.org/abs/1506.02640" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1506.02640</a>  
+   Link:<a href="https://arxiv.org/abs/1506.02640" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1506.02640</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Simple Online and Realtime Tracking  
-   Link: <a href="https://arxiv.org/abs/1602.00763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.00763</a>  
+   Link:<a href="https://arxiv.org/abs/1602.00763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.00763</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2301.01917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.01917</a>  
+   Link:<a href="https://arxiv.org/abs/2301.01917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.01917</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.17323" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.17323</a>  
+   Link:<a href="https://arxiv.org/abs/2405.17323" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.17323</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: diva-portal.org  
    Title: Diva Portal Bird Detection System  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02</a>  
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mdpi.com  
    Title: 2313 433X  
-   Link: <a href="https://www.mdpi.com/2313-433X/7/12/272" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/7/12/272</a>  
+   Link:<a href="https://www.mdpi.com/2313-433X/7/12/272" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2313-433X/7/12/272</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/13/13/7787" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/13/13/7787</a>  
+   Link:<a href="https://www.mdpi.com/2076-3417/13/13/7787" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/13/13/7787</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/14/19/3831" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/19/3831</a>  
+   Link:<a href="https://www.mdpi.com/2079-9292/14/19/3831" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/19/3831</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/14/17/3536" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/17/3536</a>  
+   Link:<a href="https://www.mdpi.com/2079-9292/14/17/3536" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/14/17/3536</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.04048v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.04048v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.04048v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.04048v1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
+   Link:<a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2403.12573v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.12573v1</a>  
+   Link:<a href="https://arxiv.org/html/2403.12573v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.12573v1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2601.08319v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.08319v1</a>  
+   Link:<a href="https://arxiv.org/html/2601.08319v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2601.08319v1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1506.02640" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1506.02640</a>  
+   Link:<a href="https://arxiv.org/pdf/1506.02640" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1506.02640</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ntrs.nasa.gov  
    Title: JAIS Detection and Tracking of Aircraft Systems R1b4  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ufodap.com  
    Title: UFODA P  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2301.01917" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2301.01917</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2301.01917" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2301.01917</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: trackers.roboflow.com  
-   Link: <a href="https://trackers.roboflow.com/latest/trackers/sort/" target="_blank" rel="noopener noreferrer nofollow">https://trackers.roboflow.com/latest/trackers/sort/</a>  
+   Link:<a href="https://trackers.roboflow.com/latest/trackers/sort/" target="_blank" rel="noopener noreferrer nofollow">https://trackers.roboflow.com/latest/trackers/sort/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Inventor says his new [radar](&#123;&#123; 'radar/' | relative_url &#125;&#125;) network could spot UAPs | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwsEatnZ358</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YOLOv8-Based Object Detection from UAV Aerial Imagery | Computer Vision &amp; Artificial Intelligence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwsEatnZ358</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YOLOv8-Based Object Detection from UAV Aerial Imagery | Computer Vision &amp; Artificial Intelligence...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Real-Time Detection & Tracking With YOLO | Real Traffic Project (Part 1)  
-   Link: <a href="https://www.youtube.com/watch?v=By7EyE-WsxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=By7EyE-WsxI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Data Acquisition Project UFODAP | Ronald Olch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=By7EyE-WsxI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=By7EyE-WsxI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Data Acquisition Project UFODAP | Ronald Olch...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The UFO Data Acquisition Project UFODAP | Ronald Olch  
-   Link: <a href="https://www.youtube.com/watch?v=6bDGoVNyvh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bDGoVNyvh8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6bDGoVNyvh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bDGoVNyvh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs | Reality Check...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Bird's Eye View Traffic Analysis with YOLO26  
-   Link: <a href="https://www.youtube.com/watch?v=jlfMyvnxdh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jlfMyvnxdh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Detection &amp; Tracking With YOLO | Real Traffic Project (Part 1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jlfMyvnxdh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jlfMyvnxdh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-Time Detection &amp; Tracking With YOLO | Real Traffic Project (Part 1)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/294823923_Evaluation_of_the_DTBird_video-system_at_the_Smola_wind-power_plant_Detection_capabilities_for_capturing_near-turbine_avian_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294823923_Evaluation_of_the_DTBird_video-system_at_the_Smola_wind-power_plant_Detection_capabilities_for_capturing_near-turbine_avian_behaviour</a>  
+   Link:<a href="https://www.researchgate.net/publication/294823923_Evaluation_of_the_DTBird_video-system_at_the_Smola_wind-power_plant_Detection_capabilities_for_capturing_near-turbine_avian_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294823923_Evaluation_of_the_DTBird_video-system_at_the_Smola_wind-power_plant_Detection_capabilities_for_capturing_near-turbine_avian_behaviour</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/48839724/Real_Time_Object_Detection_using_YOLO_A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48839724/Real_Time_Object_Detection_using_YOLO_A_review</a>  
+   Link:<a href="https://www.academia.edu/48839724/Real_Time_Object_Detection_using_YOLO_A_review" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48839724/Real_Time_Object_Detection_using_YOLO_A_review</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340562522_Automatic_Identification_of_Flying_Bird_Species_Using_Computer_Vision_Technique_for_Ecological_Data_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340562522_Automatic_Identification_of_Flying_Bird_Species_Using_Computer_Vision_Technique_for_Ecological_Data_Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/340562522_Automatic_Identification_of_Flying_Bird_Species_Using_Computer_Vision_Technique_for_Ecological_Data_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340562522_Automatic_Identification_of_Flying_Bird_Species_Using_Computer_Vision_Technique_for_Ecological_Data_Analysis</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform</a>  
+   Link:<a href="https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382636106_Automated_Detection_of_Satellite_Trails_in_Ground-Based_Observations_Using_U-Net_and_Hough_Transform</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  

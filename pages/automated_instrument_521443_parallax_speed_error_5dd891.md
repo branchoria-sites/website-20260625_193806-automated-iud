@@ -452,13 +452,13 @@ Claims that a UAP has crossed the sky at impossible speed often rest on a hidden
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-overview.webp" | relative_url }}" alt="Overview image for Parallax" loading="eager" decoding="sync" fetchpriority="high">
-This is why parallax and distance error sit near the centre of automated instrumented UFO detector design. A single camera can record bearing — where in the sky something appears — but bearing alone does not give range. Without range, there is no reliable size, altitude, velocity, or [acceleration]({{ 'acceleration/' | relative_url }}). NASA’s UAP study highlighted this broader problem in 2023: UAP analysis is hampered by poor calibration, missing sensor metadata, lack of multiple measurements, and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+This is why parallax and distance error sit near the centre of automated instrumented UFO detector design. A single camera can record bearing — where in the sky something appears — but bearing alone does not give range. Without range, there is no reliable size, altitude, velocity, or [acceleration]({{ 'acceleration/' | relative_url }}). NASA’s UAP study highlighted this broader problem in 2023: UAP analysis is hampered by poor calibration, missing sensor metadata, lack of multiple measurements, and lack of [baseline data]({{ 'baseline-data/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 ## How parallax makes ordinary motion look extraordinary
 
 Parallax is the apparent shift of an object against its background when the observer moves. It is not a camera trick in the sense of a fake image; it is normal geometry. The same effect lets a passenger in a moving car see nearby fence posts sweep past quickly while distant hills barely appear to move. In UAP footage, the problem becomes sharper because the observer may be an aircraft, drone, or fast pan-tilt camera rather than a stationary person.
 
-AARO’s 2024 information paper on forced perspective and parallax warns that these effects can frequently explain reports of excessive size or high speed. The key risk is that a fast-moving observer can make a slow or stationary object appear to race across the scene, especially when the object is seen against clouds, sea, or sky without a firm distance reference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — the effects of forced perspective and parallax can frequently...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
+AARO’s 2024 information paper on forced perspective and parallax warns that these effects can frequently explain reports of excessive size or high speed. The key risk is that a fast-moving observer can make a slow or stationary object appear to race across the scene, especially when the object is seen against clouds, sea, or sky without a firm distance reference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP</span><span class="citation-popover-snippet">Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — the effects of forced perspective and parallax can frequently...</span><span class="citation-popover-meta">Published: May 8, 2024</span></span></span>
 
 The mistake is usually not “the object did not move”. The mistake is “the object moved the way it appears to move in the frame”. A dot crossing a video frame is not a speed measurement until the analyst knows:
 
@@ -480,11 +480,11 @@ That distinction matters for automated sky detectors because automation can crea
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-1-dark.svg" | relative_url }}" alt="Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “Go Fast” case shows the trap clearly
 
-The best public example is the U.S. Navy “[Go Fast]({{ 'go-fast/' | relative_url }})” video, recorded by a Forward Looking Infrared sensor on an F/A-18F off the eastern coast of Florida in January 2015. The clip appeared to show a round object moving rapidly near the ocean surface. AARO’s later case-resolution card assessed the object instead as being about 13,000 feet above the Atlantic, not near the water, with no anomalous performance characteristics. Its wind-compensated speed was assessed at roughly 5 to 92 mph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+The best public example is the U.S. Navy “[Go Fast]({{ 'go-fast/' | relative_url }})” video, recorded by a Forward Looking Infrared sensor on an F/A-18F off the eastern coast of Florida in January 2015. The clip appeared to show a round object moving rapidly near the ocean surface. AARO’s later case-resolution card assessed the object instead as being about 13,000 feet above the Atlantic, not near the water, with no anomalous performance characteristics. Its wind-compensated speed was assessed at roughly 5 to 92 mph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
-That is not a minor correction. It changes the interpretation from “a small object screaming just above the sea” to “an unidentified object at altitude whose apparent motion is strongly affected by the observing aircraft’s motion”. Defence reporting on AARO’s presentation described the same conclusion: geospatial analysis and trigonometry put the object nearer 13,000 feet, while parallax from the moving platform made it look much faster over the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto</span><span class="citation-popover-snippet">Defense Scoop Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto</span></span></span>
+That is not a minor correction. It changes the interpretation from “a small object screaming just above the sea” to “an unidentified object at altitude whose apparent motion is strongly affected by the observing aircraft’s motion”. Defence reporting on AARO’s presentation described the same conclusion: geospatial analysis and trigonometry put the object nearer 13,000 feet, while parallax from the moving platform made it look much faster over the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto</span><span class="citation-popover-snippet">Defense Scoop Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto</span></span></span>
 
-The case also shows why a detector system should not treat “unidentified” and “extraordinary” as synonyms. AARO did not definitively identify the Go Fast object; it narrowed the behaviour. That is a more useful scientific result than a dramatic label. The claim that matters most — anomalous speed — was not supported once distance and wind were considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+The case also shows why a detector system should not treat “unidentified” and “extraordinary” as synonyms. AARO did not definitively identify the Go Fast object; it narrowed the behaviour. That is a more useful scientific result than a dramatic label. The claim that matters most — anomalous speed — was not supported once distance and wind were considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 For automated instrumented detectors, the lesson is practical: every apparent high-speed event should be processed first as a geometry problem. Before asking what propulsion system could explain a track, the system should ask whether the track can be produced by a slow object at a different range, a moving camera, wind drift, or a distant aircraft.
 
@@ -496,7 +496,7 @@ This creates a family of possible solutions rather than one answer. A small obje
 
 That ambiguity is especially severe in skywatching because many normal reference cues are missing. The sky has no ruler. Clouds may be at uncertain altitude. The sea surface can look close beneath a target even when the target is thousands of feet above it. Infrared glare can make objects appear larger than their physical outline. Digital zoom, stabilisation, compression and sensor overlays can also mislead a viewer about the object’s true motion or size.
 
-NASA’s UAP report therefore places unusual emphasis on calibration, metadata and multiple measurements, not merely on collecting more clips. Calibrated instruments and contextual metadata are needed so that later analysts know what the sensor was doing, where it was [pointing]({{ 'pointing/' | relative_url }}), and how its measurements should be interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
+NASA’s UAP report therefore places unusual emphasis on calibration, metadata and multiple measurements, not merely on collecting more clips. Calibrated instruments and contextual metadata are needed so that later analysts know what the sensor was doing, where it was [pointing]({{ 'pointing/' | relative_url }}), and how its measurements should be interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">Responses to Statement of Task</span></span></span>
 
 This is the difference between a video archive and a measurement system. A video archive can preserve mystery. A measurement system can reduce it.
 
@@ -522,7 +522,7 @@ If any of those are missing, the result should be framed as a conditional estima
 
 The same caution applies to acceleration. Acceleration claims are even more fragile because they depend on changes in velocity, so small errors in pointing, [timing]({{ 'timing/' | relative_url }}), range, stabilisation, or object association can be amplified. A dot that appears to “jump” may reflect sensor lock, image stabilisation, background motion, rolling shutter, compression artefacts, or a wrong distance model before it reflects an actual high-g manoeuvre.
 
-The scientific dispute is not whether extraordinary motion is physically interesting. It is whether the observation has enough independent geometry to establish that motion. AARO’s 2024 annual report shows the institutional version of this caution: many cases remain unresolved because they lack sufficient data, while resolved cases in that reporting period were attributed to prosaic objects such as balloons, birds and uncrewed systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+The scientific dispute is not whether extraordinary motion is physically interesting. It is whether the observation has enough independent geometry to establish that motion. AARO’s 2024 annual report shows the institutional version of this caution: many cases remain unresolved because they lack sufficient data, while resolved cases in that reporting period were attributed to prosaic objects such as balloons, birds and uncrewed systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-2-dark.svg" | relative_url }}" alt="Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -530,11 +530,11 @@ The scientific dispute is not whether extraordinary motion is physically interes
 
 The simplest way to break the single-camera ambiguity is to observe the same object from more than one known location. If two separated stations see the same target at the same time, their lines of sight can be triangulated. The object is no longer merely “somewhere along this ray”; it can be placed in three-dimensional space, with uncertainty bounds.
 
-That is why serious automated UAP detector concepts keep returning to networks, baselines and multimodal sensing. The Galileo Project’s ground-based observatory concept includes wide-field cameras for tracking and deriving positions and kinematics through triangulation, narrow-field instruments for characterisation, passive radar-style receivers, radio spectrum analysers, acoustic sensors and environmental sensors. Its stated purpose is not simply to catch unusual imagery, but to classify aerial objects by measured position, velocity and context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+That is why serious automated UAP detector concepts keep returning to networks, baselines and multimodal sensing. The Galileo Project’s ground-based observatory concept includes wide-field cameras for tracking and deriving positions and kinematics through triangulation, narrow-field instruments for characterisation, passive radar-style receivers, radio spectrum analysers, acoustic sensors and environmental sensors. Its stated purpose is not simply to catch unusual imagery, but to classify aerial objects by measured position, velocity and context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-Passive multistatic [radar]({{ 'radar/' | relative_url }}) is another route to the same goal. A Galileo Project SkyWatch paper describes a receiver network intended to estimate three-dimensional object position and velocity using broadcast FM signals, delay, Doppler and triangulation. In principle, that kind of system directly attacks the range problem that makes optical-only speed claims so weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Passive multistatic [radar]({{ 'radar/' | relative_url }}) is another route to the same goal. A Galileo Project SkyWatch paper describes a receiver network intended to estimate three-dimensional object position and velocity using broadcast FM signals, delay, Doppler and triangulation. In principle, that kind of system directly attacks the range problem that makes optical-only speed claims so weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-There is also an older practical precedent in the Hessdalen Automatic Measurement Station in Norway. Its second system used two colour cameras mounted 171 metres apart so that, when a light appeared in both, the system could calculate distance and write that value onto the images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
+There is also an older practical precedent in the Hessdalen Automatic Measurement Station in Norway. Its second system used two colour cameras mounted 171 metres apart so that, when a light appeared in both, the system could calculate distance and write that value onto the images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
 
 The baseline does not have to be enormous for nearby objects, but the required separation grows with target distance and desired precision. Two cameras a few metres apart may help reject insects and close birds. Stations hundreds of metres apart may help with local aerial objects. Wider networks or radar may be needed for high-altitude aircraft, balloons, satellites, or distant luminous events. The design question is not “can we see it?” but “can we locate it well enough to calculate motion?”
 
@@ -561,9 +561,9 @@ For parallax-resistant analysis, an automated UAP station should preserve:
 
 </div>
 
-This is why open sky-observation networks and observatory-style projects matter more than individual viral clips. Sky360, for example, describes itself as an open-source global sky-observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena. Its value, if the network matures, would lie in repeatable station geometry and shared data standards rather than in any single spectacular recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
+This is why open sky-observation networks and observatory-style projects matter more than individual viral clips. Sky360, for example, describes itself as an open-source global sky-observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena. Its value, if the network matures, would lie in repeatable station geometry and shared data standards rather than in any single spectacular recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
 
-The same principle appears in newer Galileo Project system work, which frames the problem as one of comprehensive, calibrated, transparent data capture with provenance management. In plain terms: keep enough information that the event can be remeasured, not merely rewatched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
+The same principle appears in newer Galileo Project system work, which frames the problem as one of comprehensive, calibrated, transparent data capture with provenance management. In plain terms: keep enough information that the event can be remeasured, not merely rewatched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-3-dark.svg" | relative_url }}" alt="Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -582,194 +582,194 @@ The strongest future systems will not be the ones that produce the most dramatic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UAP Speed Can Look Impossible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UAP Speed Can Look Impossible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for evidence-based UAP discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evidence-based UAP discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages careful interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful interpretation of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Explains parallax and positional calculations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains parallax and positional calculations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience, A Scientific Inquiry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience, A Scientific Inquiry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey"><img src="{{ '/assets/images/marketplace-covers/5c425c6e928e887d9e6e.jpg' | relative_url }}" alt="Listing image for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey"><img src="{{ '/assets/images/marketplace-covers/5c425c6e928e887d9e6e.jpg' | relative_url }}" alt="Listing image for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="parallax-why-uap-speed-can-look-impossible-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -785,7 +785,7 @@ The strongest future systems will not be the ones that produce the most dramatic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -805,7 +805,7 @@ The strongest future systems will not be the ones that produce the most dramatic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -837,7 +837,7 @@ The strongest future systems will not be the ones that produce the most dramatic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -889,7 +889,7 @@ The strongest future systems will not be the ones that produce the most dramatic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -934,7 +934,7 @@ The strongest future systems will not be the ones that produce the most dramatic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -975,206 +975,206 @@ The strongest future systems will not be the ones that produce the most dramatic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Effect of Forced Perspective and Parallax View on UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — the effects of forced perspective and parallax can frequently...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...May 8, 2024 — the effects of forced perspective and parallax can frequently...</p></details>
    Published: May 8, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Object Altitude (reported): Near ocean&#x27;s surface. Object Altitude (assess...</p></details>
    Published: February 24, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: defensescoop.com  
    Title: Defense Scoop Pentagon's UAP office reviews findings on Go Fast, Puerto  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: old.hessdalen.org  
    Title: Automatic Measurement Station (AMS)  
-   Link: <a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.ca  
-   Link: <a href="https://www.aaro.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.ca/</a>  
+   Link:<a href="https://www.aaro.ca/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.ca/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
+   Link:<a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: navair.navy.mil  
    Title: mil Documents | NAVAIR  
-   Link: <a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
+   Link:<a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988676/pr-018-unresolved-uap-report-europe-2024</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Quantum physicists analyze pentagon US navy UFO video footage  
-   Link: <a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cwACSrLEPeM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cwACSrLEPeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
-   Link: <a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Breakdown of the Pentagon UFO videos with Mick West  
-   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantum physicists analyze pentagon US navy UFO video footage...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantum physicists analyze pentagon US navy UFO video footage...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: How scientists use math to help explain UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick West...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/a-pentagon-report-released-to-congress-confirms-the-reality-of-videos-involving-/10158502963443721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/a-pentagon-report-released-to-congress-confirms-the-reality-of-videos-involving-/10158502963443721/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/a-pentagon-report-released-to-congress-confirms-the-reality-of-videos-involving-/10158502963443721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/a-pentagon-report-released-to-congress-confirms-the-reality-of-videos-involving-/10158502963443721/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10aa9mt/aaro_the_us_government_anomalous_phenomena/</a>  

@@ -274,17 +274,17 @@ image: /assets/images/automated_instrument_521443_hessdalen_station_356504_hessd
 
 ## Introduction
 
-The Hessdalen Automatic Measurement Station (AMS) is often presented as one of the longest-running automated sky-monitoring projects associated with unexplained aerial lights. Its records are valuable precisely because they were collected continuously over many years. Yet the station was never intended, and never capable, of providing a complete census of every light event in the valley. The combination of mountainous terrain, a fixed observing position, camera sensitivity limits, software thresholds, maintenance constraints and incomplete spatial coverage meant that some events were inevitably missed. The Hessdalen project itself repeatedly acknowledged these limitations and proposed additional cameras and instruments as a remedy. The lesson for automated UFO and UAP detection is important: long duration does not automatically equal full coverage. A detector can operate for decades and still observe only a subset of what occurs within its target area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+The Hessdalen Automatic Measurement Station (AMS) is often presented as one of the longest-running automated sky-monitoring projects associated with unexplained aerial lights. Its records are valuable precisely because they were collected continuously over many years. Yet the station was never intended, and never capable, of providing a complete census of every light event in the valley. The combination of mountainous terrain, a fixed observing position, camera sensitivity limits, software thresholds, maintenance constraints and incomplete spatial coverage meant that some events were inevitably missed. The Hessdalen project itself repeatedly acknowledged these limitations and proposed additional cameras and instruments as a remedy. The lesson for automated UFO and UAP detection is important: long duration does not automatically equal full coverage. A detector can operate for decades and still observe only a subset of what occurs within its target area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-1-dark.svg" | relative_url }}" alt="Blind Spots illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Field of View and Blocked Horizons
 
-The most obvious limitation of the [Hessdalen station]({{ 'hessdalen/' | relative_url }}) was geography. The AMS was installed on the side of Rognefjell mountain and was aimed primarily westward toward the mountain Finnsåhøgda. This placement provided a useful observing corridor but did not give the system a view of the entire valley. Project Hessdalen's own documentation explicitly noted that only part of the valley was being covered and that more cameras were needed to observe additional areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+The most obvious limitation of the [Hessdalen station]({{ 'hessdalen/' | relative_url }}) was geography. The AMS was installed on the side of Rognefjell mountain and was aimed primarily westward toward the mountain Finnsåhøgda. This placement provided a useful observing corridor but did not give the system a view of the entire valley. Project Hessdalen's own documentation explicitly noted that only part of the valley was being covered and that more cameras were needed to observe additional areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
-This matters because the reported Hessdalen lights have appeared across a valley roughly 12 kilometres long and at varying altitudes. Some reports describe lights near the horizon, others high above ridges, and others appearing in different sectors of the valley. A fixed camera looking in one direction inevitably leaves blind zones behind hills, ridgelines and terrain features. Even when a phenomenon occurs within the broader Hessdalen region, it may never enter the monitored viewing sector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">August 8, 2004 — The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hes...</span><span class="citation-popover-meta">Published: August 8, 2004</span></span></span>
+This matters because the reported Hessdalen lights have appeared across a valley roughly 12 kilometres long and at varying altitudes. Some reports describe lights near the horizon, others high above ridges, and others appearing in different sectors of the valley. A fixed camera looking in one direction inevitably leaves blind zones behind hills, ridgelines and terrain features. Even when a phenomenon occurs within the broader Hessdalen region, it may never enter the monitored viewing sector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen lights</span><span class="citation-popover-snippet">August 8, 2004 — The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hes...</span><span class="citation-popover-meta">Published: August 8, 2004</span></span></span>
 
-The later AMS configuration improved coverage by adding multiple cameras facing different directions and placing one camera at a second location about 171 metres away. Nevertheless, these additions expanded the monitored volume rather than eliminating all blind spots. The system remained a local observatory, not a valley-wide sensor network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen - AMS21 Jan 2019 — There are three CCD cameras which transmit live TV all the time (24/7). Two of thos...</span></span></span>
+The later AMS configuration improved coverage by adding multiple cameras facing different directions and placing one camera at a second location about 171 metres away. Nevertheless, these additions expanded the monitored volume rather than eliminating all blind spots. The system remained a local observatory, not a valley-wide sensor network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen - AMS21 Jan 2019 — There are three CCD cameras which transmit live TV all the time (24/7). Two of thos...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/keDOI_nndVU" title="What are Mysterious Hessdalen Lights?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=keDOI_nndVU" target="_blank" rel="noopener noreferrer">What are Mysterious Hessdalen Lights?</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 5.8K &middot; Uploaded: February 2025 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=keDOI_nndVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=keDOI_nndVU">Open on YouTube</a></p></div></div></div>
@@ -293,13 +293,13 @@ The later AMS configuration improved coverage by adding multiple cameras facing 
 
 Coverage was constrained not only by where the cameras looked but also by what they could detect.
 
-The first AMS relied on software that compared successive camera images and triggered an alarm only when a sufficiently large and sufficiently bright change appeared in the field of view. Project documentation states that detection depended on both intensity and apparent motion, and that these thresholds were adjustable in software. Importantly, the project acknowledged that not all phenomena were being detected at the chosen sensitivity settings. Observers reported events that the station failed to record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+The first AMS relied on software that compared successive camera images and triggered an alarm only when a sufficiently large and sufficiently bright change appeared in the field of view. Project documentation states that detection depended on both intensity and apparent motion, and that these thresholds were adjustable in software. Importantly, the project acknowledged that not all phenomena were being detected at the chosen sensitivity settings. Observers reported events that the station failed to record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
-This created a classic detection trade-off. If sensitivity was set too high, the station produced excessive [false alarms]({{ 'false-alarms/' | relative_url }}) from ordinary lights, reflections, atmospheric effects or image noise. If sensitivity was reduced to keep the system manageable, dimmer or more subtle events could be missed. Project Hessdalen specifically stated that a second camera would allow sensitivity to be increased because cross-checking between cameras would reduce false detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+This created a classic detection trade-off. If sensitivity was set too high, the station produced excessive [false alarms]({{ 'false-alarms/' | relative_url }}) from ordinary lights, reflections, atmospheric effects or image noise. If sensitivity was reduced to keep the system manageable, dimmer or more subtle events could be missed. Project Hessdalen specifically stated that a second camera would allow sensitivity to be increased because cross-checking between cameras would reduce false detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
-Short-duration events posed another challenge. The original system analysed images at intervals of roughly one second or less and reacted when a significant change appeared. Extremely brief flashes, faint transients or events occurring between sampling moments could potentially escape detection. Likewise, phenomena obscured by [weather]({{ 'weather/' | relative_url }}), cloud, precipitation or terrain would never be visible to the camera regardless of their brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen - AMS28 Dec 2019 — The station consisted of one black-and-white CCD-camera, connected to a SGI-compute...</span></span></span>
+Short-duration events posed another challenge. The original system analysed images at intervals of roughly one second or less and reacted when a significant change appeared. Extremely brief flashes, faint transients or events occurring between sampling moments could potentially escape detection. Likewise, phenomena obscured by [weather]({{ 'weather/' | relative_url }}), cloud, precipitation or terrain would never be visible to the camera regardless of their brightness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen - AMS28 Dec 2019 — The station consisted of one black-and-white CCD-camera, connected to a SGI-compute...</span></span></span>
 
-The nature of the reported lights amplified this problem. Accounts describe a wide range of behaviours, from long-lasting luminous objects to rapid spark-like flashes. A detection system optimised for one class of event may be less effective for another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturphilosophie.co.uk">[NaturPhilosophie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturphilosophie.co.uk</span><span class="citation-popover-title">Natur Philosophie The Hessdalen Light Phenomenon, Norway</span><span class="citation-popover-snippet">The Hessdalen Light Phenomenon, Norway - NaturPhilosophieMay 7, 2023 — 7 May 2023 — The Hessdalen light phenomenon starte...</span><span class="citation-popover-meta">Published: May 7, 2023</span></span></span>
+The nature of the reported lights amplified this problem. Accounts describe a wide range of behaviours, from long-lasting luminous objects to rapid spark-like flashes. A detection system optimised for one class of event may be less effective for another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naturphilosophie.co.uk">[NaturPhilosophie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naturphilosophie.co.uk</span><span class="citation-popover-title">Natur Philosophie The Hessdalen Light Phenomenon, Norway</span><span class="citation-popover-snippet">The Hessdalen Light Phenomenon, Norway - NaturPhilosophieMay 7, 2023 — 7 May 2023 — The Hessdalen light phenomenon starte...</span><span class="citation-popover-meta">Published: May 7, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-2-dark.svg" | relative_url }}" alt="Blind Spots illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -307,11 +307,11 @@ The nature of the reported lights amplified this problem. Accounts describe a wi
 
 A single observation point also limits what can be learned about an event that is detected.
 
-Project documentation from the early AMS period emphasised that one camera could not reliably determine the distance to a target. Without distance information, apparent brightness, size and speed become difficult to interpret. This was one reason the project later introduced multiple cameras separated by a baseline, allowing triangulation of some observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+Project documentation from the early AMS period emphasised that one camera could not reliably determine the distance to a target. Without distance information, apparent brightness, size and speed become difficult to interpret. This was one reason the project later introduced multiple cameras separated by a baseline, allowing triangulation of some observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
-The inability to determine distance creates a hidden completeness problem. Even when a light is recorded, researchers may not know whether it was a small nearby object or a larger distant one. Two apparently similar detections could represent very different physical events. Thus the station's catalogue was never a complete inventory of objectively characterised phenomena; it was a collection of events filtered through the geometry and capabilities of the observing system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project+2Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+The inability to determine distance creates a hidden completeness problem. Even when a light is recorded, researchers may not know whether it was a small nearby object or a larger distant one. Two apparently similar detections could represent very different physical events. Thus the station's catalogue was never a complete inventory of objectively characterised phenomena; it was a collection of events filtered through the geometry and capabilities of the observing system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project+2Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
-The station also measured only a limited set of parameters. Cameras, a magnetometer and later additional instruments could capture some aspects of an event, but not every relevant physical characteristic. The AMS itself has been described as measuring a restricted number of parameters and therefore being unable to explain all recorded observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen AMS</span><span class="citation-popover-snippet">Hessdalen AMS</span></span></span>
+The station also measured only a limited set of parameters. Cameras, a magnetometer and later additional instruments could capture some aspects of an event, but not every relevant physical characteristic. The AMS itself has been described as measuring a restricted number of parameters and therefore being unable to explain all recorded observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen AMS</span><span class="citation-popover-snippet">Hessdalen AMS</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ve7k-msyXk" title="THE HESSDALEN PHENOMENON - English trailer (2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ve7k-msyXk" target="_blank" rel="noopener noreferrer">THE HESSDALEN PHENOMENON - English trailer (2023)</a></p><p class="youtube-embed-meta">Channel: Hessdalsfenomenet &middot; Views: 38.2K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ve7k-msyXk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ve7k-msyXk">Open on YouTube</a></p></div></div></div>
@@ -323,202 +323,202 @@ The station also measured only a limited set of parameters. Cameras, a magnetome
 
 One reason Hessdalen remains important is that it demonstrates both the strengths and weaknesses of persistent monitoring.
 
-Running continuously for years solved a problem that short expeditions could not solve: rare events had a greater chance of being captured. The station produced statistics on seasonal and hourly patterns and accumulated a large archive of detections. Yet even those long-term records contain gaps. Published analyses note incomplete years in the dataset, while project descriptions repeatedly discuss the need for additional sensors, more cameras and broader coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A long-term scientific survey of the Hessdalen phenomenonTemporal statistics of luminous events in Hessdalen obtained by the...</span></span></span>
+Running continuously for years solved a problem that short expeditions could not solve: rare events had a greater chance of being captured. The station produced statistics on seasonal and hourly patterns and accumulated a large archive of detections. Yet even those long-term records contain gaps. Published analyses note incomplete years in the dataset, while project descriptions repeatedly discuss the need for additional sensors, more cameras and broader coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A long-term scientific survey of the Hessdalen phenomenonTemporal statistics of luminous events in Hessdalen obtained by the...</span></span></span>
 
-The key lesson for automated UFO and UAP observatories is therefore methodological rather than mysterious. A fixed detector is never a neutral window onto everything occurring in the sky. It sees only what enters its field of view, exceeds its detection thresholds, survives weather and terrain masking, and occurs while the system is operating as intended. Hessdalen's AMS generated some of the best long-term data available from a reported aerial-light hotspot, but its own operators recognised that the station observed only part of the environment it was designed to watch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project+2Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
+The key lesson for automated UFO and UAP observatories is therefore methodological rather than mysterious. A fixed detector is never a neutral window onto everything occurring in the sky. It sees only what enters its field of view, exceeds its detection thresholds, survives weather and terrain masking, and occurs while the system is operating as intended. Hessdalen's AMS generated some of the best long-term data available from a reported aerial-light hotspot, but its own operators recognised that the station observed only part of the environment it was designed to watch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen Project+2Hessdalen Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Hessdal article2000.shtml</span><span class="citation-popover-snippet">Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-3-dark.svg" | relative_url }}" alt="Blind Spots illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hessdalen_station_356504_hessdalen_monitoring_4dfc4a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Blind Spots in Hessdalen&#x27;s Sky Watch. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Blind Spots in Hessdalen&#x27;s Sky Watch. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence, observation quality, and limitations of aerial-anomaly reporting, closely matching discussions of monitoring coverage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, observation quality, and limitations of aerial-anomaly reporting, closely matching discussions of monitoring coverage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines how data collection, observation systems, and missing information affect understanding of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how data collection, observation systems, and missing information affect understanding of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses classification, observation reliability, and the challenge of incomplete data in anomaly studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses classification, observation reliability, and the challenge of incomplete data in anomaly studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Highlights the importance and limits of instrumented observation, witness reports, and long-term monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance and limits of instrumented observation, witness reports, and long-term monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="blind-spots-the-blind-spots-in-hessdalen-s-sky-watch-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,116 +724,116 @@ The key lesson for automated UFO and UAP observatories is therefore methodologic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: old.hessdalen.org  
    Title: Hessdal article2000.shtml  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen18 Mar 1983 — Hessdalen AMS (Automatic Measurement Station) was installed in Hessdalen on 7th August 19...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen - AMS21 Jan 2019 — There are three CCD cameras which transmit live TV all the time (24/7). Two of thos...</p></details>
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen - AMS21 Jan 2019 — There are three CCD cameras which transmit live TV all the time (24/7). Two of thos...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 8, 2004 — The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hes...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 8, 2004 — The Hessdalen lights are unidentified lights which have been observed in a 12-kilometre-long (7.5 mi) stretch of the Hes...</p></details>
    Published: August 8, 2004  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: old.hessdalen.org  
    Title: Project Automatic Measurement Station (AMS)  
-   Link: <a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If a light show up in both cameras, all videorecorders startet, direction measured...Read more...</p></details>
+   Link:<a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If a light show up in both cameras, all videorecorders startet, direction measured...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/first.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen - AMS28 Dec 2019 — The station consisted of one black-and-white CCD-camera, connected to a SGI-compute...</p></details>
+   Link:<a href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/first.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen ProjectProject Hessdalen - AMS28 Dec 2019 — The station consisted of one black-and-white CCD-camera, connected to a SGI-compute...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Hessdalen AMS  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonTemporal statistics of luminous events in Hessdalen obtained by the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonTemporal statistics of luminous events in Hessdalen obtained by the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 228559449 The EMBLA 2000 Mission in Hessdalen  
-   Link: <a href="https://www.researchgate.net/publication/228559449_The_EMBLA_2000_Mission_in_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228559449_The_EMBLA_2000_Mission_in_Hessdalen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The EMBLA 2000 Mission in HessdalenPDF | In August 2000 a team of italian physical scientists, working in collaboration with Norweg...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228559449_The_EMBLA_2000_Mission_in_Hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228559449_The_EMBLA_2000_Mission_in_Hessdalen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The EMBLA 2000 Mission in HessdalenPDF | In August 2000 a team of italian physical scientists, working in collaboration with Norweg...</p></details>
    Published: August 2000  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: naturphilosophie.co.uk  
    Title: Natur Philosophie The Hessdalen Light Phenomenon, Norway  
-   Link: <a href="https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/" target="_blank" rel="noopener noreferrer nofollow">https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Light Phenomenon, Norway - NaturPhilosophieMay 7, 2023 — 7 May 2023 — The Hessdalen light phenomenon starte...</p></details>
+   Link:<a href="https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/" target="_blank" rel="noopener noreferrer nofollow">https://naturphilosophie.co.uk/2023/05/07/identifying-the-unidentified-the-hessdalen-light-phenomenon-norway/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Light Phenomenon, Norway - NaturPhilosophieMay 7, 2023 — 7 May 2023 — The Hessdalen light phenomenon starte...</p></details>
    Published: May 7, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wiki.bambulab.com  
-   Link: <a href="https://wiki.bambulab.com/en/ams/maintenance" target="_blank" rel="noopener noreferrer nofollow">https://wiki.bambulab.com/en/ams/maintenance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How To guidesParts wear or faults are unavoidable during its long service. There are many guides here that could help people to do se...</p></details>
+   Link:<a href="https://wiki.bambulab.com/en/ams/maintenance" target="_blank" rel="noopener noreferrer nofollow">https://wiki.bambulab.com/en/ams/maintenance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How To guidesParts wear or faults are unavoidable during its long service. There are many guides here that could help people to do se...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/genetec/comments/1sn6lb0/missing_green_event_highlights_in_timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/genetec/comments/1sn6lb0/missing_green_event_highlights_in_timeline/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Green Event Highlights in Timeline: r/genetecFor some reason our cameras at one of our sites are missing the green highlights in...</p></details>
+   Link:<a href="https://www.reddit.com/r/genetec/comments/1sn6lb0/missing_green_event_highlights_in_timeline/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/genetec/comments/1sn6lb0/missing_green_event_highlights_in_timeline/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing Green Event Highlights in Timeline: r/genetecFor some reason our cameras at one of our sites are missing the green highlights in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: societyforuapstudies.org  
-   Link: <a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenFifty-three light observations were made during the field investigation. You... An automatic measurement station was pu...</p></details>
+   Link:<a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenFifty-three light observations were made during the field investigation. You... An automatic measurement station was pu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing the famous Hessdalen LightsSix independent viewers. One blind target. A Norwegian valley that has defied explanation for o...</p></details>
+   Link:<a href="https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40krindiri/six-minds-one-valley-one-big-mistery-remote-viewing-the-famous-hessdalen-lights-bca46c64c9a8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing the famous Hessdalen LightsSix independent viewers. One blind target. A Norwegian valley that has defied explanation for o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: the hessdalen lights have stumped scientists for 40 yearsin a remote valley in n  
-   Link: <a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years...May 2025, something moved through their camera field so fast it appeared in...</p></details>
+   Link:<a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years...May 2025, something moved through their camera field so fast it appeared in...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: community.amplitude.com  
-   Link: <a href="https://community.amplitude.com/data-instrumentation-57/amplitude-events-data-missing-4620" target="_blank" rel="noopener noreferrer nofollow">https://community.amplitude.com/data-instrumentation-57/amplitude-events-data-missing-4620</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amplitude.com[https://community.amplitude.com/data-instrumentati...No](https://community.amplitude.com/data-instrumentati...No) information is available for this page...</p></details>
+   Link:<a href="https://community.amplitude.com/data-instrumentation-57/amplitude-events-data-missing-4620" target="_blank" rel="noopener noreferrer nofollow">https://community.amplitude.com/data-instrumentation-57/amplitude-events-data-missing-4620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amplitude.com[https://community.amplitude.com/data-instrumentati...No](https://community.amplitude.com/data-instrumentati...No) information is available for this page...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
    Title: The Norwegian Valley Where Strange Lights Have Glowed for Decades  
-   Link: <a href="https://www.instagram.com/reel/DX7LS5SxHsV/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX7LS5SxHsV/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tucked into the quiet mountains of central Norway, there&#x27;s a small valley called Hessdalen where something genuinely puzzling has been ha...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DX7LS5SxHsV/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DX7LS5SxHsV/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tucked into the quiet mountains of central Norway, there&#x27;s a small valley called Hessdalen where something genuinely puzzling has been ha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42146727/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42146727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latency Measurements of Event Camerasby RV Chassagnol · 2025 · Cited by 1 — We describe such a solution and report pixel latency measurem...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/42146727/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42146727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latency Measurements of Event Camerasby RV Chassagnol · 2025 · Cited by 1 — We describe such a solution and report pixel latency measurem...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: What are Mysterious Hessdalen Lights?  
-   Link: <a href="https://www.youtube.com/watch?v=keDOI_nndVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keDOI_nndVU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years - YouTube The Hessdalen Lights Have Stumped Scientists for 40 Years - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=keDOI_nndVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keDOI_nndVU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years - YouTube The Hessdalen Lights Have Stumped Scientists for 40 Years - YouTube...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/388012498516204/posts/1169604847023628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/388012498516204/posts/1169604847023628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen light phenomenon in NorwayProject H essdalen ran a field investigation in 1984 and 1985, and are now running Hessdalen Automati...</p></details>
+   Link:<a href="https://www.facebook.com/groups/388012498516204/posts/1169604847023628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/388012498516204/posts/1169604847023628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen light phenomenon in NorwayProject H essdalen ran a field investigation in 1984 and 1985, and are now running Hessdalen Automati...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: community.synology.com  
-   Link: <a href="https://community.synology.com/enu/forum/3/post/146175" target="_blank" rel="noopener noreferrer nofollow">https://community.synology.com/enu/forum/3/post/146175</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>missing in Timeline - Surveillance9 Aug 2021 — I think there is possibility that your timeline filter might filter out the event. you cou...</p></details>
+   Link:<a href="https://community.synology.com/enu/forum/3/post/146175" target="_blank" rel="noopener noreferrer nofollow">https://community.synology.com/enu/forum/3/post/146175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>missing in Timeline - Surveillance9 Aug 2021 — I think there is possibility that your timeline filter might filter out the event. you cou...</p></details>

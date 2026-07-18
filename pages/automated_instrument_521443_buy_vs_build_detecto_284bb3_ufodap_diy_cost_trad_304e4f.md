@@ -274,15 +274,15 @@ image: /assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_uf
 
 ## Introduction
 
-For anyone considering an automated instrumented UFO detector, the apparent price difference between a commercial system such as [UFODAP]({{ 'ufodap/' | relative_url }}) and a DIY build can be misleading. A commercial package usually costs more upfront because much of the engineering, software integration and hardware compatibility work has already been done. A DIY system can reduce hardware expenditure, especially if you already own components, but it often replaces cash costs with many hours of design, testing, troubleshooting and long-term maintenance. The practical question is therefore not simply "Which is cheaper?" but "What is your own time worth over the life of the system?" That distinction becomes increasingly important as a project evolves from a weekend experiment into a permanently installed sky-monitoring station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP+2DigiKey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
+For anyone considering an automated instrumented UFO detector, the apparent price difference between a commercial system such as [UFODAP]({{ 'ufodap/' | relative_url }}) and a DIY build can be misleading. A commercial package usually costs more upfront because much of the engineering, software integration and hardware compatibility work has already been done. A DIY system can reduce hardware expenditure, especially if you already own components, but it often replaces cash costs with many hours of design, testing, troubleshooting and long-term maintenance. The practical question is therefore not simply "Which is cheaper?" but "What is your own time worth over the life of the system?" That distinction becomes increasingly important as a project evolves from a weekend experiment into a permanently installed sky-monitoring station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP+2DigiKey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-1-dark.svg" | relative_url }}" alt="Cost Tradeoff illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the starter prices leave out
 
-At first glance, DIY appears significantly less expensive. [Open-source]({{ 'open-source/' | relative_url }}) all-sky camera projects typically require only a Raspberry Pi, camera, storage, power supply, enclosure and free software. Depending on the camera selected and whether surplus parts are available, builders have documented hardware costs ranging from well under US$100 for very simple partial-sky systems to roughly £220–US$400 for more capable [weather]({{ 'weather/' | relative_url }})-resistant installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andyfelong.com">[andyfelong.com+2markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andyfelong.com</span><span class="citation-popover-title">An Inexpensive &amp; Compact Allsky Camera?</span><span class="citation-popover-snippet">20 Feb 2023 — A decent DIY Allsky Camera can easily cost over $400 USD to build. A “low-cost” Raspberry Pi 4B based system with HQ camera...</span></span></span>
+At first glance, DIY appears significantly less expensive. [Open-source]({{ 'open-source/' | relative_url }}) all-sky camera projects typically require only a Raspberry Pi, camera, storage, power supply, enclosure and free software. Depending on the camera selected and whether surplus parts are available, builders have documented hardware costs ranging from well under US$100 for very simple partial-sky systems to roughly £220–US$400 for more capable [weather]({{ 'weather/' | relative_url }})-resistant installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andyfelong.com">[andyfelong.com+2markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andyfelong.com</span><span class="citation-popover-title">An Inexpensive &amp; Compact Allsky Camera?</span><span class="citation-popover-snippet">20 Feb 2023 — A decent DIY Allsky Camera can easily cost over $400 USD to build. A “low-cost” Raspberry Pi 4B based system with HQ camera...</span></span></span>
 
-UFODAP presents a different pricing model. Rather than selling only hardware, it offers integrated tracking software, complete camera systems, sensor modules, mounts and accessories designed to work together. Entry-level software licences are relatively inexpensive, but complete installations quickly become more costly once cameras, weatherproof equipment, networking hardware and optional multi-sensor components are added. The company openly describes systems ranging from a few hundred dollars for basic configurations to several thousand dollars for more advanced installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
+UFODAP presents a different pricing model. Rather than selling only hardware, it offers integrated tracking software, complete camera systems, sensor modules, mounts and accessories designed to work together. Entry-level software licences are relatively inexpensive, but complete installations quickly become more costly once cameras, weatherproof equipment, networking hardware and optional multi-sensor components are added. The company openly describes systems ranging from a few hundred dollars for basic configurations to several thousand dollars for more advanced installations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
 
 The sticker prices also omit several expenses that affect both approaches:
 
@@ -294,7 +294,7 @@ The sticker prices also omit several expenses that affect both approaches:
 * High-capacity storage for continuous recording.
 * Network infrastructure.
 * Replacement of failed SD cards, fans or cameras.
-* Consumables such as desiccant packs and cleaning supplies for optical domes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digikey.lt">[DigiKey+2markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digikey.lt</span><span class="citation-popover-snippet">This article goes over the parts, setup, enclosure, and...Read more...</span></span></span>
+* Consumables such as desiccant packs and cleaning supplies for optical domes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digikey.lt">[DigiKey+2markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digikey.lt</span><span class="citation-popover-snippet">This article goes over the parts, setup, enclosure, and...Read more...</span></span></span>
 
 </div>
 
@@ -319,13 +319,13 @@ A simple proof-of-concept may be assembled over a weekend, but a permanently dep
 * Adjusting focus after installation.
 * Managing storage capacity and automated file deletion.
 * Updating software without breaking camera support.
-* Diagnosing intermittent network or power faults. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digikey.lt">[Stargazers Lounge+3DigiKey+3markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digikey.lt</span><span class="citation-popover-snippet">This article goes over the parts, setup, enclosure, and...Read more...</span></span></span>
+* Diagnosing intermittent network or power faults.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digikey.lt">[Stargazers Lounge+3DigiKey+3markmcintyreastro.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digikey.lt</span><span class="citation-popover-snippet">This article goes over the parts, setup, enclosure, and...Read more...</span></span></span>
 
 </div>
 
-Enclosure design illustrates this well. Several experienced builders describe discovering leaks only after months of exposure to rain, requiring complete rebuilds or replacement housings despite initially successful installations. Others report ongoing battles against dew, frost and condensation that require heater systems, ventilation or periodic cleaning. These are not unusual failures but common operational realities for outdoor sky cameras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andyfelong.com">[andyfelong.com+2Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andyfelong.com</span><span class="citation-popover-title">Raspberry Pi 4 Based All Sky Cameras</span><span class="citation-popover-snippet">This project was a joint effort with other members of the observatory.Read more...</span></span></span>
+Enclosure design illustrates this well. Several experienced builders describe discovering leaks only after months of exposure to rain, requiring complete rebuilds or replacement housings despite initially successful installations. Others report ongoing battles against dew, frost and condensation that require heater systems, ventilation or periodic cleaning. These are not unusual failures but common operational realities for outdoor sky cameras.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: andyfelong.com">[andyfelong.com+2Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">andyfelong.com</span><span class="citation-popover-title">Raspberry Pi 4 Based All Sky Cameras</span><span class="citation-popover-snippet">This project was a joint effort with other members of the observatory.Read more...</span></span></span>
 
-Software maintenance follows a similar pattern. Open-source projects evolve continuously, meaning operating system updates, camera firmware changes and library upgrades may occasionally disrupt previously stable installations. While community support is often excellent, the builder remains responsible for diagnosing and resolving compatibility problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/AllskyTeam/allsky/discussions/3653" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">New to Allsky and overwhelmed by hardware options #365323 May 2024 — Hey, I&#x27;m new to allsky and raspberry camera stuff (I&#x27;m familia...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Software maintenance follows a similar pattern. Open-source projects evolve continuously, meaning operating system updates, camera firmware changes and library upgrades may occasionally disrupt previously stable installations. While community support is often excellent, the builder remains responsible for diagnosing and resolving compatibility problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/AllskyTeam/allsky/discussions/3653" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">New to Allsky and overwhelmed by hardware options #365323 May 2024 — Hey, I&#x27;m new to allsky and raspberry camera stuff (I&#x27;m familia...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-2-dark.svg" | relative_url }}" alt="Cost Tradeoff illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,7 +333,7 @@ Software maintenance follows a similar pattern. Open-source projects evolve cont
 
 UFODAP's higher purchase price largely reflects reduced integration effort rather than dramatically different hardware.
 
-Instead of assembling independent software, motion detection, camera control and logging components, buyers receive software intended specifically for automated object tracking together with hardware recommendations and optional sensor packages. This shortens the period between unpacking equipment and collecting usable observations, particularly for users with limited experience administering Linux systems or integrating cameras with custom software. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
+Instead of assembling independent software, motion detection, camera control and logging components, buyers receive software intended specifically for automated object tracking together with hardware recommendations and optional sensor packages. This shortens the period between unpacking equipment and collecting usable observations, particularly for users with limited experience administering Linux systems or integrating cameras with custom software.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
 
 This convenience can be valuable in several situations:
 
@@ -347,9 +347,9 @@ This convenience can be valuable in several situations:
 
 </div>
 
-Importantly, paying for convenience does not eliminate operational responsibilities. Cameras still require cleaning, calibration, alignment, firmware updates and occasional replacement. Environmental effects continue to influence image quality regardless of whether the detector was purchased or built. The commercial system reduces integration work, not the ongoing realities of operating outdoor scientific equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</span></span></span>
+Importantly, paying for convenience does not eliminate operational responsibilities. Cameras still require cleaning, calibration, alignment, firmware updates and occasional replacement. Environmental effects continue to influence image quality regardless of whether the detector was purchased or built. The commercial system reduces integration work, not the ongoing realities of operating outdoor scientific equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</span></span></span>
 
-A useful example comes from the [UAPx Catalina]({{ 'uapx-catalina/' | relative_url }}) Island expedition. Researchers selected UFODAP because it simplified optical tracking and data collection, yet the published [review]({{ 'review/' | relative_url }}) emphasised that successful field operations still depended upon broader experimental design, calibration, deployment procedures and careful interpretation of the resulting data rather than the detector alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</span></span></span>
+A useful example comes from the [UAPx Catalina]({{ 'uapx-catalina/' | relative_url }}) Island expedition. Researchers selected UFODAP because it simplified optical tracking and data collection, yet the published [review]({{ 'review/' | relative_url }}) emphasised that successful field operations still depended upon broader experimental design, calibration, deployment procedures and careful interpretation of the resulting data rather than the detector alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7TGpGz5SeVI" title="Create Your Own AllSky Camera (UPDATED!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7TGpGz5SeVI" target="_blank" rel="noopener noreferrer">Create Your Own AllSky Camera (UPDATED!)</a></p><p class="youtube-embed-meta">Channel: Patriot Astro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7TGpGz5SeVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7TGpGz5SeVI">Open on YouTube</a></p></div></div></div>
@@ -361,7 +361,7 @@ A useful example comes from the [UAPx Catalina]({{ 'uapx-catalina/' | relative_u
 
 The answer depends more on the owner's priorities than on the price of individual components.
 
-For hobbyists who enjoy electronics, programming and experimentation, DIY often provides better educational value and greater flexibility. Time spent modifying hardware or improving software is part of the hobby rather than an unwanted expense. Replacing individual components can also be cheaper than replacing integrated commercial hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Building a Sky Hub UAP Tracker</span><span class="citation-popover-snippet">Building a Sky Hub UAP TrackerOctober 5, 2020 — The Tracker can be built using readily available hardware. It leverages the NVidia...</span><span class="citation-popover-meta">Published: October 5, 2020</span></span></span>
+For hobbyists who enjoy electronics, programming and experimentation, DIY often provides better educational value and greater flexibility. Time spent modifying hardware or improving software is part of the hobby rather than an unwanted expense. Replacing individual components can also be cheaper than replacing integrated commercial hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Building a Sky Hub UAP Tracker</span><span class="citation-popover-snippet">Building a Sky Hub UAP TrackerOctober 5, 2020 — The Tracker can be built using readily available hardware. It leverages the NVidia...</span><span class="citation-popover-meta">Published: October 5, 2020</span></span></span>
 
 For users whose goal is simply to begin collecting consistent observations as quickly as possible, the commercial premium can represent good value. The purchase effectively outsources much of the integration work that DIY builders must perform themselves.
 
@@ -371,194 +371,194 @@ The most common budgeting mistake is assuming that hardware dominates total proj
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-3-dark.svg" | relative_url }}" alt="Cost Tradeoff illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_ufodap_diy_cost_trad_304e4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does DIY Really Cost Less Than UFODAP?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does DIY Really Cost Less Than UFODAP?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for why instrumentation matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why instrumentation matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maker&#x27;s Guide to the Zombie Apocalypse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14385859-M.jpg" alt="Cover for Maker&#x27;s Guide to the Zombie Apocalypse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maker&#x27;s Guide to the Zombie Apocalypse">Maker&#x27;s Guide to the Zombie Apocalypse</a>
-        </h4>
-        <p class="fr-book-author">By Simon Monk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maker&#x27;s Guide to the Zombie Apocalypse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14385859-M.jpg" alt="Cover for Maker&#x27;s Guide to the Zombie Apocalypse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maker&#x27;s Guide to the Zombie Apocalypse">Maker&#x27;s Guide to the Zombie Apocalypse</a>
+</h4>
+<p class="fr-book-author">By Simon Monk</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Electronics, Programmable controllers, Electronic apparatus and appliances, Arduino (Programmable control...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Electronics, Programmable controllers, Electronic apparatus and appliances, Arduino (Programmable control...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Maker%27s+Guide+to+the+Zombie+Apocalypse+Simon+Monk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
-        </h4>
-        <p class="fr-book-author">By Mr. Carl Laufer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
+</h4>
+<p class="fr-book-author">By Mr. Carl Laufer</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Maker%27s+to+the+Zombie+Apocalypse+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Maker&#x27;s to the Zombie Apocalypse books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Maker%27s+to+the+Zombie+Apocalypse+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Maker&#x27;s to the Zombie Apocalypse books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="cost-tradeoff-does-diy-really-cost-less-than-ufodap-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ The most common budgeting mistake is assuming that hardware dominates total proj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ The most common budgeting mistake is assuming that hardware dominates total proj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ The most common budgeting mistake is assuming that hardware dominates total proj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ The most common budgeting mistake is assuming that hardware dominates total proj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ The most common budgeting mistake is assuming that hardware dominates total proj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,120 +764,120 @@ The most common budgeting mistake is assuming that hardware dominates total proj
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digikey.lt  
-   Link: <a href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow">https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This article goes over the parts, setup, enclosure, and...Read more...</p></details>
+   Link:<a href="https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a" target="_blank" rel="noopener noreferrer nofollow">https://www.digikey.lt/en/maker/projects/build-your-own-all-sky-camera-with-a-raspberry-pi/1b3c0333e1824bacadb491f7337fc60a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This article goes over the parts, setup, enclosure, and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: markmcintyreastro.co.uk  
    Title: building a raspberry pi allsky camera  
-   Link: <a href="https://markmcintyreastro.co.uk/2024/06/03/building-a-raspberry-pi-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://markmcintyreastro.co.uk/2024/06/03/building-a-raspberry-pi-allsky-camera/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2024 — Costs In 2024, the parts cost me about £220: £60 for the pi (4GB model) + fan, Pi HQ camera £48, 1.8mm lens + adapter £15...</p></details>
+   Link:<a href="https://markmcintyreastro.co.uk/2024/06/03/building-a-raspberry-pi-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://markmcintyreastro.co.uk/2024/06/03/building-a-raspberry-pi-allsky-camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2024 — Costs In 2024, the parts cost me about £220: £60 for the pi (4GB model) + fan, Pi HQ camera £48, 1.8mm lens + adapter £15...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: andyfelong.com  
    Title: An Inexpensive & Compact Allsky Camera?  
-   Link: <a href="https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2023 — A decent DIY Allsky Camera can easily cost over $400 USD to build. A “low-cost” Raspberry Pi 4B based system with HQ camera...</p></details>
+   Link:<a href="https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://andyfelong.com/2023/02/an-inexpensive-compact-allsky-camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2023 — A decent DIY Allsky Camera can easily cost over $400 USD to build. A “low-cost” Raspberry Pi 4B based system with HQ camera...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: andyfelong.com  
    Title: Raspberry Pi 4 Based All Sky Cameras  
-   Link: <a href="https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/" target="_blank" rel="noopener noreferrer nofollow">https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This project was a joint effort with other members of the observatory.Read more...</p></details>
+   Link:<a href="https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/" target="_blank" rel="noopener noreferrer nofollow">https://andyfelong.com/2022/12/raspberry-pi-4-allsky-cameras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This project was a joint effort with other members of the observatory.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: github.com  
-   Link: <a href="https://github.com/AllskyTeam/allsky/discussions/3653" target="_blank" rel="noopener noreferrer nofollow">https://github.com/AllskyTeam/allsky/discussions/3653</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New to Allsky and overwhelmed by hardware options #365323 May 2024 — Hey, I&#x27;m new to allsky and raspberry camera stuff (I&#x27;m familia...</p></details>
+   Link:<a href="https://github.com/AllskyTeam/allsky/discussions/3653" target="_blank" rel="noopener noreferrer nofollow">https://github.com/AllskyTeam/allsky/discussions/3653</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New to Allsky and overwhelmed by hardware options #365323 May 2024 — Hey, I&#x27;m new to allsky and raspberry camera stuff (I&#x27;m familia...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</p></details>
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to...This paper reviews both the hardware and software techniques which thi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
    Title: Building a Sky Hub UAP Tracker  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Sky Hub UAP TrackerOctober 5, 2020 — The Tracker can be built using readily available hardware. It leverages the NVidia...</p></details>
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Sky Hub UAP TrackerOctober 5, 2020 — The Tracker can be built using readily available hardware. It leverages the NVidia...</p></details>
    Published: October 5, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: stargazerslounge.com  
    Title: Stargazers Lounge All Sky Cam Resurrected  
-   Link: <a href="https://stargazerslounge.com/topic/429643-allsky-cam-resurrected/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/429643-allsky-cam-resurrected/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AllSky Cam Resurrected - DIY Astronomer18 Jan 2025 — I put together an AllSky Cam using a Raspberry PI 4b, POE HAT and Module 3 camera in...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/429643-allsky-cam-resurrected/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/429643-allsky-cam-resurrected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AllSky Cam Resurrected - DIY Astronomer18 Jan 2025 — I put together an AllSky Cam using a Raspberry PI 4b, POE HAT and Module 3 camera in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stargazerslounge.com  
    Title: Stargazers Lounge Sky Camera build  
-   Link: <a href="https://stargazerslounge.com/topic/348367-all-sky-camera-build-with-rpi-power-supply-suggestions-or-advice/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/348367-all-sky-camera-build-with-rpi-power-supply-suggestions-or-advice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But I have never tried to print anything waterproof...Read more...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/348367-all-sky-camera-build-with-rpi-power-supply-suggestions-or-advice/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/348367-all-sky-camera-build-with-rpi-power-supply-suggestions-or-advice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But I have never tried to print anything waterproof...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dswo82/ufodap_system_looks_like_its_based_on_raspberrypi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dswo82/ufodap_system_looks_like_its_based_on_raspberrypi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP system looks like it&#x27;s based on RaspberryPiThe software is $95; $3,500 is for a complete system with all the hardware. You can bui...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1dswo82/ufodap_system_looks_like_its_based_on_raspberrypi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dswo82/ufodap_system_looks_like_its_based_on_raspberrypi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP system looks like it&#x27;s based on RaspberryPiThe software is $95; $3,500 is for a complete system with all the hardware. You can bui...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329603209_3D_Calibration_Test-Field_for_Digital_Cameras_Mounted_on_Unmanned_Aerial_Systems_UAS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329603209_3D_Calibration_Test-Field_for_Digital_Cameras_Mounted_on_Unmanned_Aerial_Systems_UAS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) 3D Calibration Test-Field for Digital Cameras...11 Jun 2026 — In order to test the proposed calibration field, a digital camera mo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329603209_3D_Calibration_Test-Field_for_Digital_Cameras_Mounted_on_Unmanned_Aerial_Systems_UAS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329603209_3D_Calibration_Test-Field_for_Digital_Cameras_Mounted_on_Unmanned_Aerial_Systems_UAS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) 3D Calibration Test-Field for Digital Cameras...11 Jun 2026 — In order to test the proposed calibration field, a digital camera mo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/5889909863/posts/10160991291534864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10160991291534864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All sky camera build with Raspberry Pi 4B and Pi HQ camMy idea was to make the enclosure waterproof because rain is very frequent at that...</p></details>
+   Link:<a href="https://www.facebook.com/groups/5889909863/posts/10160991291534864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/5889909863/posts/10160991291534864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All sky camera build with Raspberry Pi 4B and Pi HQ camMy idea was to make the enclosure waterproof because rain is very frequent at that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7TGpGz5SeVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7TGpGz5SeVI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create Your Own AllSky Camera (UPDATED!)I&#x27;ll take you through building your own all sky camera. The all sky project I&#x27;ll cover in this vi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7TGpGz5SeVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7TGpGz5SeVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create Your Own AllSky Camera (UPDATED!)I&#x27;ll take you through building your own all sky camera. The all sky project I&#x27;ll cover in this vi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tYb3G9jzpCA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection &amp; Tracking | David HooperDavid Hooper showcases his work on a multispectral UAP detection system at the UAP Hackathon 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tYb3G9jzpCA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection &amp; Tracking | David HooperDavid Hooper showcases his work on a multispectral UAP detection system at the UAP Hackathon 2025...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: support.micasense.com  
    Title: 224893167 Best practices Collecting Data with MicaSense Sensors  
-   Link: <a href="https://support.micasense.com/hc/en-us/articles/224893167-Best-practices-Collecting-Data-with-MicaSense-Sensors" target="_blank" rel="noopener noreferrer nofollow">https://support.micasense.com/hc/en-us/articles/224893167-Best-practices-Collecting-Data-with-MicaSense-Sensors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practices: Collecting Data with MicaSense Sensors2 Jun 2026 — MicaSense Sensors enable you to capture great data. This article offers som...</p></details>
+   Link:<a href="https://support.micasense.com/hc/en-us/articles/224893167-Best-practices-Collecting-Data-with-MicaSense-Sensors" target="_blank" rel="noopener noreferrer nofollow">https://support.micasense.com/hc/en-us/articles/224893167-Best-practices-Collecting-Data-with-MicaSense-Sensors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practices: Collecting Data with MicaSense Sensors2 Jun 2026 — MicaSense Sensors enable you to capture great data. This article offers som...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instructables.com  
-   Link: <a href="https://www.instructables.com/Wireless-All-Sky-Camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.instructables.com/Wireless-All-Sky-Camera/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amount of time, usually to monitor meteor showers or other...Read more...</p></details>
+   Link:<a href="https://www.instructables.com/Wireless-All-Sky-Camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.instructables.com/Wireless-All-Sky-Camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amount of time, usually to monitor meteor showers or other...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1259815724605976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1259815724605976/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enclosure will cost over $250 USD to build. If that price...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/172438633343696/posts/1259815724605976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1259815724605976/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enclosure will cost over $250 USD to build. If that price...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain - YouTube...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cloudynights.com  
    Title: 898714 allsky camera for less than 200  
-   Link: <a href="https://www.cloudynights.com/forums/topic/898714-allsky-camera-for-less-than-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/898714-allsky-camera-for-less-than-200/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allsky Camera for less than $2007 Nov 2023 — The IMX462 sensor is amazing. Really sensitive and low noise. Make sure you order the camera...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/898714-allsky-camera-for-less-than-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/898714-allsky-camera-for-less-than-200/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allsky Camera for less than $2007 Nov 2023 — The IMX462 sensor is amazing. Really sensitive and low noise. Make sure you order the camera...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: astrofotografen.se  
    Title: allsky camera build  
-   Link: <a href="https://astrofotografen.se/en/allsky-camera-build/" target="_blank" rel="noopener noreferrer nofollow">https://astrofotografen.se/en/allsky-camera-build/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2023 — You have several different options for controlling an allsky camera. I choose to use a Raspberry Pi and use the Allsky soft...</p></details>
+   Link:<a href="https://astrofotografen.se/en/allsky-camera-build/" target="_blank" rel="noopener noreferrer nofollow">https://astrofotografen.se/en/allsky-camera-build/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2023 — You have several different options for controlling an allsky camera. I choose to use a Raspberry Pi and use the Allsky soft...</p></details>

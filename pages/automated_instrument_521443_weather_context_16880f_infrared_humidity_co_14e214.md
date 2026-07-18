@@ -280,17 +280,17 @@ image: /assets/images/automated_instrument_521443_weather_context_16880f_infrare
 
 ## Introduction
 
-Infrared (IR) cameras do not measure an object's identity; they measure differences in thermal radiation between a target and its background. That distinction is especially important when reviewing unusual aerial observations. In humid conditions, the apparent brightness or darkness of an object can change even when the object's temperature remains the same because water vapour, clouds and the thermal background all influence the infrared signal reaching the sensor. For automated instrumented UAP detectors, this means that [weather]({{ 'weather/' | relative_url }}) can alter apparent contrast without changing the underlying object. Recording humidity, cloud conditions and atmospheric temperature alongside thermal imagery therefore makes later analysis far more reliable and helps distinguish genuine anomalies from changing viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NASA PACE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
+Infrared (IR) cameras do not measure an object's identity; they measure differences in thermal radiation between a target and its background. That distinction is especially important when reviewing unusual aerial observations. In humid conditions, the apparent brightness or darkness of an object can change even when the object's temperature remains the same because water vapour, clouds and the thermal background all influence the infrared signal reaching the sensor. For automated instrumented UAP detectors, this means that [weather]({{ 'weather/' | relative_url }}) can alter apparent contrast without changing the underlying object. Recording humidity, cloud conditions and atmospheric temperature alongside thermal imagery therefore makes later analysis far more reliable and helps distinguish genuine anomalies from changing viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NASA PACE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-1-dark.svg" | relative_url }}" alt="IR Contrast illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How humidity and cloud temperature change thermal contrast
 
-Thermal cameras operate within atmospheric "windows" where infrared radiation passes through the air relatively efficiently. These windows are not perfectly transparent. Water vapour absorbs portions of the infrared spectrum, reducing transmission between a distant object and the camera. The effect grows with increasing humidity and path length, meaning the same aircraft, bird or balloon may appear with weaker or altered thermal contrast on a humid evening than on a dry winter night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NASA PACE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
+Thermal cameras operate within atmospheric "windows" where infrared radiation passes through the air relatively efficiently. These windows are not perfectly transparent. Water vapour absorbs portions of the infrared spectrum, reducing transmission between a distant object and the camera. The effect grows with increasing humidity and path length, meaning the same aircraft, bird or balloon may appear with weaker or altered thermal contrast on a humid evening than on a dry winter night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NASA PACE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
 
 Humidity also changes the apparent temperature of the atmosphere itself. Instead of viewing a target against an effectively empty sky, the camera increasingly receives infrared radiation emitted by warm, moist air. This reduces the temperature difference between target and background, making some objects blend into the scene while causing others to stand out unexpectedly depending on their own temperature and emissivity.
 
-Clouds introduce another layer of complexity. A cloud is not simply an obstruction; it is an infrared emitter with its own brightness temperature. High, cold cloud tops may provide a very cold background against which a moderately warm object appears exceptionally bright. Low cloud, however, often has a temperature much closer to objects near the ground, reducing apparent contrast. Satellite meteorology relies on precisely these thermal brightness differences to identify cloud properties, illustrating that cloud temperature itself is a measurable part of an infrared scene rather than merely an obstruction. American Meteorological Society Journals+2atmosphere-imager.gsfc.nasa.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</span></span></span>
+Clouds introduce another layer of complexity. A cloud is not simply an obstruction; it is an infrared emitter with its own brightness temperature. High, cold cloud tops may provide a very cold background against which a moderately warm object appears exceptionally bright. Low cloud, however, often has a temperature much closer to objects near the ground, reducing apparent contrast. Satellite meteorology relies on precisely these thermal brightness differences to identify cloud properties, illustrating that cloud temperature itself is a measurable part of an infrared scene rather than merely an obstruction. American Meteorological Society Journals+2atmosphere-imager.gsfc.nasa.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[journals.ametsoc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</span></span></span>
 
 The practical result is that a thermal target can appear to brighten or fade during a recording simply because the background temperature changed as clouds moved, not because the target itself changed.
 
@@ -310,7 +310,7 @@ For automated UAP detection, background selection influences several processing 
 * [False positives]({{ 'false-positives/' | relative_url }}) become more likely when cloud edges produce rapidly changing thermal gradients.
 * Apparent fluctuations in object brightness may reflect environmental changes rather than changes in propulsion or energy output.
 
-Modern thermal imaging literature therefore treats scene contrast as a property of both target and environment rather than of the target alone. Studies comparing infrared imaging performance consistently show that atmospheric transmission, scene temperature distribution and environmental conditions influence detection range and apparent target [visibility]({{ 'visibility/' | relative_url }}) alongside sensor performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2wp.optics.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
+Modern thermal imaging literature therefore treats scene contrast as a property of both target and environment rather than of the target alone. Studies comparing infrared imaging performance consistently show that atmospheric transmission, scene temperature distribution and environmental conditions influence detection range and apparent target [visibility]({{ 'visibility/' | relative_url }}) alongside sensor performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2wp.optics.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-2-dark.svg" | relative_url }}" alt="IR Contrast illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,13 +318,13 @@ Modern thermal imaging literature therefore treats scene contrast as a property 
 
 Several mechanisms can combine during humid weather to produce recordings that appear unusual without requiring an unusual object.
 
-**Reduced atmospheric transmission.** Water vapour absorbs infrared radiation, weakening signals from distant targets. This makes distant objects appear dimmer and can reduce measured temperature contrast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flirmedia.com">[Flir Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flirmedia.com</span><span class="citation-popover-snippet">Summer month atmospheres usually have a higher attenuation compared to winter months due to increased...Read more...</span></span></span>
+**Reduced atmospheric transmission.** Water vapour absorbs infrared radiation, weakening signals from distant targets. This makes distant objects appear dimmer and can reduce measured temperature contrast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flirmedia.com">[Flir Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flirmedia.com</span><span class="citation-popover-snippet">Summer month atmospheres usually have a higher attenuation compared to winter months due to increased...Read more...</span></span></span>
 
-**Changing cloud background.** Moving cloud layers replace one thermal background with another. An object crossing between clear sky and cloud can appear to brighten or darken abruptly even if it maintains constant temperature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</span></span></span>
+**Changing cloud background.** Moving cloud layers replace one thermal background with another. An object crossing between clear sky and cloud can appear to brighten or darken abruptly even if it maintains constant temperature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ametsoc.org">[American Meteorological Society Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ametsoc.org</span><span class="citation-popover-snippet">American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</span></span></span>
 
-**Compressed temperature differences.** Rain, moist ground and saturated air often reduce temperature differences between natural objects and their surroundings. Thermal scenes become flatter, making automatic detection more difficult and increasing [uncertainty]({{ 'uncertainty/' | relative_url }}) in object classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-snippet">Can Thermal Imaging See Through Fog and Rain?December 30, 2020 — 30 Dec 2020 — Thermal imaging cameras see in total darkness, produci...</span><span class="citation-popover-meta">Published: December 30, 2020</span></span></span>
+**Compressed temperature differences.** Rain, moist ground and saturated air often reduce temperature differences between natural objects and their surroundings. Thermal scenes become flatter, making automatic detection more difficult and increasing [uncertainty]({{ 'uncertainty/' | relative_url }}) in object classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flir.com">[FLIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flir.com</span><span class="citation-popover-snippet">Can Thermal Imaging See Through Fog and Rain?December 30, 2020 — 30 Dec 2020 — Thermal imaging cameras see in total darkness, produci...</span><span class="citation-popover-meta">Published: December 30, 2020</span></span></span>
 
-**Variable apparent range.** Increasing humidity reduces useful detection distance. A target may appear to weaken or disappear with distance because atmospheric absorption increases, not because the object has changed course or ceased emitting heat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
+**Variable apparent range.** Increasing humidity reduces useful detection distance. A target may appear to weaken or disappear with distance because atmospheric absorption increases, not because the object has changed course or ceased emitting heat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</span></span></span>
 
 These mechanisms are well understood in military surveillance, industrial thermography and environmental remote sensing. They illustrate why apparent thermal behaviour alone is insufficient evidence for unusual object characteristics.
 
@@ -351,7 +351,7 @@ Useful metadata include:
 
 </div>
 
-These measurements make it possible to compare a thermal event with nearby weather observations, aviation reports and satellite cloud products. If an apparent brightness change coincides with a transition from clear sky to low cloud, or with rapidly increasing atmospheric moisture, the thermal behaviour has a conventional mechanism that can be evaluated quantitatively rather than assumed to represent unusual physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airs.jpl.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airs.jpl.nasa.gov">[AIRS+2atmosphere-imager.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airs.jpl.nasa.gov</span><span class="citation-popover-snippet">AIRS, the Atmospheric Infrared Sounder on NASA&#x27;s Aqua satellite, gathers infrared energy emitted from Earth&#x27;s surface and atmosphere...</span></span></span>
+These measurements make it possible to compare a thermal event with nearby weather observations, aviation reports and satellite cloud products. If an apparent brightness change coincides with a transition from clear sky to low cloud, or with rapidly increasing atmospheric moisture, the thermal behaviour has a conventional mechanism that can be evaluated quantitatively rather than assumed to represent unusual physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airs.jpl.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airs.jpl.nasa.gov">[AIRS+2atmosphere-imager.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airs.jpl.nasa.gov</span><span class="citation-popover-snippet">AIRS, the Atmospheric Infrared Sounder on NASA&#x27;s Aqua satellite, gathers infrared energy emitted from Earth&#x27;s surface and atmosphere...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-3-dark.svg" | relative_url }}" alt="IR Contrast illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_infrared_humidity_co_14e214-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -368,194 +368,194 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why infrared skies can fool detectors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why infrared skies can fool detectors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Explains humidity, clouds, atmospheric temperature, and weather conditions that affect infrared observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains humidity, clouds, atmospheric temperature, and weather conditions that affect infrared observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
-        </h4>
-        <p class="fr-book-author">By Ronald G. Driggers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
+</h4>
+<p class="fr-book-author">By Ronald G. Driggers</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Sensing of the Environment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/90678-M.jpg" alt="Cover for Remote Sensing of the Environment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Sensing of the Environment">Remote Sensing of the Environment</a>
-        </h4>
-        <p class="fr-book-author">By John R. Jensen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remote Sensing of the Environment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/90678-M.jpg" alt="Cover for Remote Sensing of the Environment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Sensing of the Environment">Remote Sensing of the Environment</a>
+</h4>
+<p class="fr-book-author">By John R. Jensen</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Remote sensing, Image processing, digital techniques, Earth sciences, Earth sciences--remote sensing, Sen...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Remote sensing, Image processing, digital techniques, Earth sciences, Earth sciences--remote sensing, Sen...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The infrared handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13327214-M.jpg" alt="Cover for The infrared handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The infrared handbook">The infrared handbook</a>
-        </h4>
-        <p class="fr-book-author">By William L. Wolfe, George J. Zissis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The infrared handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13327214-M.jpg" alt="Cover for The infrared handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The infrared handbook">The infrared handbook</a>
+</h4>
+<p class="fr-book-author">By William L. Wolfe, George J. Zissis</p>
         
-        <p class="fr-book-desc">First published 1985. Subjects: Infrared technology, Handbooks, manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1985. Subjects: Infrared technology, Handbooks, manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Sensing of the Environment</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remote Sensing of the Environment</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/98b821c4e3dce92ed034.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/98b821c4e3dce92ed034.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="ir-contrast-why-infrared-skies-can-fool-detectors-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,199 +761,199 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6696215/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager Range: Predictions, Expectations, and Realityby D Perić · 2019 · Cited by 98 — Thermal imagers are designed to use targ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pace.oceansciences.org  
    Title: NASA PACESection III: Light & the Atmosphere  
-   Link: <a href="https://pace.oceansciences.org/atmos_light.cgi" target="_blank" rel="noopener noreferrer nofollow">https://pace.oceansciences.org/atmos_light.cgi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA PACEApr 3, 2026 — Notice the greenhouse gases (i.e., carbon dioxide, water vapor) have high absorption in the infrared wavelengths...</p></details>
+   Link:<a href="https://pace.oceansciences.org/atmos_light.cgi" target="_blank" rel="noopener noreferrer nofollow">https://pace.oceansciences.org/atmos_light.cgi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA PACEApr 3, 2026 — Notice the greenhouse gases (i.e., carbon dioxide, water vapor) have high absorption in the infrared wavelengths...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: airs.jpl.nasa.gov  
-   Link: <a href="https://airs.jpl.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://airs.jpl.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRS, the Atmospheric Infrared Sounder on NASA&#x27;s Aqua satellite, gathers infrared energy emitted from Earth&#x27;s surface and atmosphere...</p></details>
+   Link:<a href="https://airs.jpl.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://airs.jpl.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIRS, the Atmospheric Infrared Sounder on NASA&#x27;s Aqua satellite, gathers infrared energy emitted from Earth&#x27;s surface and atmosphere...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: atmosphere-imager.gsfc.nasa.gov  
-   Link: <a href="https://atmosphere-imager.gsfc.nasa.gov/products/cloud" target="_blank" rel="noopener noreferrer nofollow">https://atmosphere-imager.gsfc.nasa.gov/products/cloud</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud (06_L2) | Atmosphere Discipline Team Imager ProductsThe MODIS Cloud Product combines infrared emission and solar reflectance techni...</p></details>
+   Link:<a href="https://atmosphere-imager.gsfc.nasa.gov/products/cloud" target="_blank" rel="noopener noreferrer nofollow">https://atmosphere-imager.gsfc.nasa.gov/products/cloud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud (06_L2) | Atmosphere Discipline Team Imager ProductsThe MODIS Cloud Product combines infrared emission and solar reflectance techni...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: isccp.giss.nasa.gov  
    Title: ISCC P C2/D2 Selected Variable Descriptions  
-   Link: <a href="https://isccp.giss.nasa.gov/products/variables.html" target="_blank" rel="noopener noreferrer nofollow">https://isccp.giss.nasa.gov/products/variables.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISCCP C2/D2 Selected Variable Descriptions - NASAThe temperature represents the amount of infrared radiation emitted by the cloud and the...</p></details>
+   Link:<a href="https://isccp.giss.nasa.gov/products/variables.html" target="_blank" rel="noopener noreferrer nofollow">https://isccp.giss.nasa.gov/products/variables.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISCCP C2/D2 Selected Variable Descriptions - NASAThe temperature represents the amount of infrared radiation emitted by the cloud and the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wp.optics.arizona.edu  
    Title: Comparison Of Scene Contrast Temperature In MWIRand LWIR  
-   Link: <a href="https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2024/06/ComparisonOfSceneContrastTemperatureInMWIRandLWIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2024/06/ComparisonOfSceneContrastTemperatureInMWIRandLWIR.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Comparison of Scene Contrast Temperature in MWIR and...by S Jordan · 2024 · Cited by 3 — effect on both LWIR and MWIR scene contrast d...</p></details>
+   Link:<a href="https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2024/06/ComparisonOfSceneContrastTemperatureInMWIRandLWIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.optics.arizona.edu/alumni/wp-content/uploads/sites/113/2024/06/ComparisonOfSceneContrastTemperatureInMWIRandLWIR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Comparison of Scene Contrast Temperature in MWIR and...by S Jordan · 2024 · Cited by 3 — effect on both LWIR and MWIR scene contrast d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: flir.com  
-   Link: <a href="https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Thermal Imaging See Through Fog and Rain?December 30, 2020 — 30 Dec 2020 — Thermal imaging cameras see in total darkness, produci...</p></details>
+   Link:<a href="https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.flir.com/discover/rd-science/can-thermal-imaging-see-through-fog-and-rain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Thermal Imaging See Through Fog and Rain?December 30, 2020 — 30 Dec 2020 — Thermal imaging cameras see in total darkness, produci...</p></details>
    Published: December 30, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: modis-land.gsfc.nasa.gov  
    Title: MOD21 ATBD Hulley v2.4  
-   Link: <a href="https://modis-land.gsfc.nasa.gov/pdf/MOD21_ATBD_Hulley_v2.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modis-land.gsfc.nasa.gov/pdf/MOD21_ATBD_Hulley_v2.4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mod21 land surface temperature and emissivity atbdby G Hulley · 2016 · Cited by 6 — The remainder of the document will discuss the MODIS...</p></details>
+   Link:<a href="https://modis-land.gsfc.nasa.gov/pdf/MOD21_ATBD_Hulley_v2.4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modis-land.gsfc.nasa.gov/pdf/MOD21_ATBD_Hulley_v2.4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mod21 land surface temperature and emissivity atbdby G Hulley · 2016 · Cited by 6 — The remainder of the document will discuss the MODIS...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: viirsland.gsfc.nasa.gov  
-   Link: <a href="https://viirsland.gsfc.nasa.gov/Products/NASA/LSTESDR.html" target="_blank" rel="noopener noreferrer nofollow">https://viirsland.gsfc.nasa.gov/Products/NASA/LSTESDR.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Sensing of Environment...Read more...</p></details>
+   Link:<a href="https://viirsland.gsfc.nasa.gov/Products/NASA/LSTESDR.html" target="_blank" rel="noopener noreferrer nofollow">https://viirsland.gsfc.nasa.gov/Products/NASA/LSTESDR.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Sensing of Environment...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: viirsland.gsfc.nasa.gov  
    Title: VNP21 LSTE ATBD v2.1  
-   Link: <a href="https://viirsland.gsfc.nasa.gov/PDF/VNP21_LSTE_ATBD_v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://viirsland.gsfc.nasa.gov/PDF/VNP21_LSTE_ATBD_v2.1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publication 09 - VIIRS Land Team - NASAby G Hulley · 2016 · Cited by 18 — Numerical simulations have shown that TES is able to recover te...</p></details>
+   Link:<a href="https://viirsland.gsfc.nasa.gov/PDF/VNP21_LSTE_ATBD_v2.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://viirsland.gsfc.nasa.gov/PDF/VNP21_LSTE_ATBD_v2.1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publication 09 - VIIRS Land Team - NASAby G Hulley · 2016 · Cited by 18 — Numerical simulations have shown that TES is able to recover te...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: spacecraft maps earths global emissivity  
-   Link: <a href="https://science.nasa.gov/photojournal/nasa-spacecraft-maps-earths-global-emissivity/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/nasa-spacecraft-maps-earths-global-emissivity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Maps Earth&#x27;s Global EmissivityOct 20, 2014 — Our planet emits energy as thermal infrared radiation at wavelengths we cannot no...</p></details>
+   Link:<a href="https://science.nasa.gov/photojournal/nasa-spacecraft-maps-earths-global-emissivity/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/nasa-spacecraft-maps-earths-global-emissivity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacecraft Maps Earth&#x27;s Global EmissivityOct 20, 2014 — Our planet emits energy as thermal infrared radiation at wavelengths we cannot no...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: 13 radiationbudget  
-   Link: <a href="https://science.nasa.gov/ems/13_radiationbudget/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/ems/13_radiationbudget/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s Radiation Budget4 Aug 2023 — Greenhouse gases in the atmosphere (such as water vapor and carbon dioxide) absorb most of the Earth...</p></details>
+   Link:<a href="https://science.nasa.gov/ems/13_radiationbudget/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/ems/13_radiationbudget/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s Radiation Budget4 Aug 2023 — Greenhouse gases in the atmosphere (such as water vapor and carbon dioxide) absorb most of the Earth...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airs.jpl.nasa.gov  
-   Link: <a href="https://airs.jpl.nasa.gov/publications/315/" target="_blank" rel="noopener noreferrer nofollow">https://airs.jpl.nasa.gov/publications/315/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of atmospheric-temperature and water-vapor...by SP Ho · 2002 · Cited by 18 — During the past 30 years, considerable progress has been ma...</p></details>
+   Link:<a href="https://airs.jpl.nasa.gov/publications/315/" target="_blank" rel="noopener noreferrer nofollow">https://airs.jpl.nasa.gov/publications/315/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of atmospheric-temperature and water-vapor...by SP Ho · 2002 · Cited by 18 — During the past 30 years, considerable progress has been ma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20010072848" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20010072848</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Infrared Radiation Parameterization...by MD Chou · 2001 · Cited by 436 — This technical memorandum documents the longwave radiat...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20010072848" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20010072848</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Infrared Radiation Parameterization...by MD Chou · 2001 · Cited by 436 — This technical memorandum documents the longwave radiat...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: modis.gsfc.nasa.gov  
    Title: atbd mod11  
-   Link: <a href="https://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A., &#x27;&#x27;The water vapor continuum and its role in remote sensing,&#x27;&#x27; in Proc. of Conference on Optical Remote. Sensing of the Atmosphere, Sa...</p></details>
+   Link:<a href="https://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://modis.gsfc.nasa.gov/data/atbd/atbd_mod11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A., &#x27;&#x27;The water vapor continuum and its role in remote sensing,&#x27;&#x27; in Proc. of Conference on Optical Remote. Sensing of the Atmosphere, Sa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hytes.jpl.nasa.gov  
    Title: Hy TES L2 ATBD  
-   Link: <a href="https://hytes.jpl.nasa.gov/downloads/atbds/HyTES_L2_ATBD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hytes.jpl.nasa.gov/downloads/atbds/HyTES_L2_ATBD.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Emission Spectrometer (HyTES) Level...by G Hulley · Cited by 8 — TES has been shown to accurately recover temperatures within 1...</p></details>
+   Link:<a href="https://hytes.jpl.nasa.gov/downloads/atbds/HyTES_L2_ATBD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hytes.jpl.nasa.gov/downloads/atbds/HyTES_L2_ATBD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Emission Spectrometer (HyTES) Level...by G Hulley · Cited by 8 — TES has been shown to accurately recover temperatures within 1...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19990100634/downloads/19990100634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990100634/downloads/19990100634.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emissivity Maps for Use in Retrievals of Longwave...by AC Wilber · 1999 · Cited by 190 — An accurate accounting of the surface emissivit...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19990100634/downloads/19990100634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19990100634/downloads/19990100634.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emissivity Maps for Use in Retrievals of Longwave...by AC Wilber · 1999 · Cited by 190 — An accurate accounting of the surface emissivit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ecostress.jpl.nasa.gov  
    Title: govecostress level-2 atbd  
-   Link: <a href="https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>level-2 atbd - NASA23 Feb 2016 — Generally the radiance in the thermal infrared region is insensitive to aerosols in the troposphere so...</p></details>
+   Link:<a href="https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>level-2 atbd - NASA23 Feb 2016 — Generally the radiance in the thermal infrared region is insensitive to aerosols in the troposphere so...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210026338/downloads/Wu_remotesensing-13-04578.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210026338/downloads/Wu_remotesensing-13-04578.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager (CTI) for Atmospheric Remote...by DL Wu · 2021 · Cited by 7 — PBL cloud detection poses a greater challenge for passive I...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210026338/downloads/Wu_remotesensing-13-04578.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210026338/downloads/Wu_remotesensing-13-04578.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal Imager (CTI) for Atmospheric Remote...by DL Wu · 2021 · Cited by 7 — PBL cloud detection poses a greater challenge for passive I...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20080030345/downloads/20080030345.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20080030345/downloads/20080030345.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Relationship between the Mean, the Maximum and the Minimum of the. Thermal Infrared Emissivity...Read...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20080030345/downloads/20080030345.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20080030345/downloads/20080030345.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Relationship between the Mean, the Maximum and the Minimum of the. Thermal Infrared Emissivity...Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: asapdata.arc.nasa.gov  
-   Link: <a href="https://asapdata.arc.nasa.gov/emas/reference/mas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asapdata.arc.nasa.gov/emas/reference/mas.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning Spectrometer for Remote Sensing of Cloud...by MD KING · Cited by 310 — An airborne scanning spectrometer was developed for meas...</p></details>
+   Link:<a href="https://asapdata.arc.nasa.gov/emas/reference/mas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asapdata.arc.nasa.gov/emas/reference/mas.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning Spectrometer for Remote Sensing of Cloud...by MD KING · Cited by 310 — An airborne scanning spectrometer was developed for meas...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: support.flir.com  
-   Link: <a href="https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>documentation Thermography13 Aug 2019 — Figure 3.4 Images from a FLIR T440 with temperature ranges of –20 to... Kern: Evaluation of infr...</p></details>
+   Link:<a href="https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://support.flir.com/DSDownload/Assets/T810442-en-US_A4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>documentation Thermography13 Aug 2019 — Figure 3.4 Images from a FLIR T440 with temperature ranges of –20 to... Kern: Evaluation of infr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: flirmedia.com  
-   Link: <a href="https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summer month atmospheres usually have a higher attenuation compared to winter months due to increased...Read more...</p></details>
+   Link:<a href="https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.flirmedia.com/MMC/CVS/Tech_Notes/TN_0001_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summer month atmospheres usually have a higher attenuation compared to winter months due to increased...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/apme/47/2/2007jamc1615.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteorological Society JournalsMeasuring Cloud Cover and Brightness Temperature with a...by S Smith · 2008 · Cited by 53 — In t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.ametsoc.org  
-   Link: <a href="https://journals.ametsoc.org/view/journals/atot/40/6/JTECH-D-22-0128.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atot/40/6/JTECH-D-22-0128.1.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Polar Radiant Energy in the Far Infrared Experiment (PREFIRE) mission will measure Earth&#x27;s emission at wavelengths ranging from 3 to...</p></details>
+   Link:<a href="https://journals.ametsoc.org/view/journals/atot/40/6/JTECH-D-22-0128.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/atot/40/6/JTECH-D-22-0128.1.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Polar Radiant Energy in the Far Infrared Experiment (PREFIRE) mission will measure Earth&#x27;s emission at wavelengths ranging from 3 to...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5579559/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5579559/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Ambient Temperature and Relative Humidity on...by QH Tran · 2017 · Cited by 152 — To address this problem, thermal imaging/infrared t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5579559/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5579559/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Ambient Temperature and Relative Humidity on...by QH Tran · 2017 · Cited by 152 — To address this problem, thermal imaging/infrared t...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385323581_Integrating_Thermal_Infrared_Imaging_and_Weather_Data_for_Short-Term_Prediction_of_Building_Envelope_Thermal_Appearance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385323581_Integrating_Thermal_Infrared_Imaging_and_Weather_Data_for_Short-Term_Prediction_of_Building_Envelope_Thermal_Appearance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Thermal Infrared Imaging and [Weather Data](&amp;#123;&amp;#123; &#x27;weather-data/&#x27; | relative_url &amp;#125;&amp;#125;) for...1 Oct 2024 — This study presents a novel deep-learning framework for predict...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385323581_Integrating_Thermal_Infrared_Imaging_and_Weather_Data_for_Short-Term_Prediction_of_Building_Envelope_Thermal_Appearance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385323581_Integrating_Thermal_Infrared_Imaging_and_Weather_Data_for_Short-Term_Prediction_of_Building_Envelope_Thermal_Appearance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating Thermal Infrared Imaging and [Weather Data](&amp;#123;&amp;#123; &#x27;weather-data/&#x27; | relative_url &amp;#125;&amp;#125;) for...1 Oct 2024 — This study presents a novel deep-learning framework for predict...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322110603_NASA%27s_MODIS_and_VIIRS_Land_Surface_Temperature_and_Emissivity_Products_A_Long-Term_and_Consistent_Earth_System_Data_Record" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322110603_NASA%27s_MODIS_and_VIIRS_Land_Surface_Temperature_and_Emissivity_Products_A_Long-Term_and_Consistent_Earth_System_Data_Record</a>  
+   Link:<a href="https://www.researchgate.net/publication/322110603_NASA%27s_MODIS_and_VIIRS_Land_Surface_Temperature_and_Emissivity_Products_A_Long-Term_and_Consistent_Earth_System_Data_Record" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322110603_NASA%27s_MODIS_and_VIIRS_Land_Surface_Temperature_and_Emissivity_Products_A_Long-Term_and_Consistent_Earth_System_Data_Record</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: infraredadaptations.co.uk  
-   Link: <a href="https://www.infraredadaptations.co.uk/atmosphere-ir-windows/" target="_blank" rel="noopener noreferrer nofollow">https://www.infraredadaptations.co.uk/atmosphere-ir-windows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The dotted lines are the thermal emission spectra for bodies at 5700°C and 20°C.Read more...</p></details>
+   Link:<a href="https://www.infraredadaptations.co.uk/atmosphere-ir-windows/" target="_blank" rel="noopener noreferrer nofollow">https://www.infraredadaptations.co.uk/atmosphere-ir-windows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The dotted lines are the thermal emission spectra for bodies at 5700°C and 20°C.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237352823_THE_USE_OF_INFRARED_RADIATION_FOR_THERMAL_SIGNATURES_DETERMINATION_OF_GROUND_TARGETS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237352823_THE_USE_OF_INFRARED_RADIATION_FOR_THERMAL_SIGNATURES_DETERMINATION_OF_GROUND_TARGETS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arget and its background or, in other words, adjusting the target&#x27;s thermal...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237352823_THE_USE_OF_INFRARED_RADIATION_FOR_THERMAL_SIGNATURES_DETERMINATION_OF_GROUND_TARGETS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237352823_THE_USE_OF_INFRARED_RADIATION_FOR_THERMAL_SIGNATURES_DETERMINATION_OF_GROUND_TARGETS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arget and its background or, in other words, adjusting the target&#x27;s thermal...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pixfra.com  
    Title: how does weather affect thermal imaging  
-   Link: <a href="https://www.pixfra.com/how-does-weather-affect-thermal-imaging" target="_blank" rel="noopener noreferrer nofollow">https://www.pixfra.com/how-does-weather-affect-thermal-imaging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?18 Jul 2025 — Atmospheric attenuation increases with humidity as water vapor absorbs certain infrared wavelengths. This effect reduces s...</p></details>
+   Link:<a href="https://www.pixfra.com/how-does-weather-affect-thermal-imaging" target="_blank" rel="noopener noreferrer nofollow">https://www.pixfra.com/how-does-weather-affect-thermal-imaging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?18 Jul 2025 — Atmospheric attenuation increases with humidity as water vapor absorbs certain infrared wavelengths. This effect reduces s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: lightpath.com  
    Title: ir imaging comparison the basics  
-   Link: <a href="https://www.lightpath.com/insights/ir-imaging-comparison-the-basics" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpath.com/insights/ir-imaging-comparison-the-basics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IR Imaging Comparison: The Basics2 Mar 2026 — Explore an IR imaging comparison, covering LWIR vs MWIR, key metrics, environmental factors...</p></details>
+   Link:<a href="https://www.lightpath.com/insights/ir-imaging-comparison-the-basics" target="_blank" rel="noopener noreferrer nofollow">https://www.lightpath.com/insights/ir-imaging-comparison-the-basics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IR Imaging Comparison: The Basics2 Mar 2026 — Explore an IR imaging comparison, covering LWIR vs MWIR, key metrics, environmental factors...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: [WAPORCV] Unit 1.1.2 Thermal Infrared Sensors  
-   Link: <a href="https://www.youtube.com/watch?v=DtivZX11RUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtivZX11RUg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric transmission infrared humidity absorption Astronomy - Ch. 9.1: Earth&#x27;s Atmosphere (19 of 61) How H2O Absorption Spectrum Comp...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DtivZX11RUg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DtivZX11RUg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric transmission infrared humidity absorption Astronomy - Ch. 9.1: Earth&#x27;s Atmosphere (19 of 61) How H2O Absorption Spectrum Comp...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XIBsjBvRTew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIBsjBvRTew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 36: Thermal Infrared Remote Sensing – Part 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XIBsjBvRTew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIBsjBvRTew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture 36: Thermal Infrared Remote Sensing – Part 2...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: downloads.regulations.gov  
    Title: attachment 10  
-   Link: <a href="https://downloads.regulations.gov/NOAA-NMFS-2016-0008-0019/attachment_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/NOAA-NMFS-2016-0008-0019/attachment_10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF MEDIUM AND LONG WAVE...Infrared thermal imagers convert the radiation received by a detector into a false colour visual image which r...</p></details>
+   Link:<a href="https://downloads.regulations.gov/NOAA-NMFS-2016-0008-0019/attachment_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/NOAA-NMFS-2016-0008-0019/attachment_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF MEDIUM AND LONG WAVE...Infrared thermal imagers convert the radiation received by a detector into a false colour visual image which r...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Atmospheric Windows, Spectral Bands & Absorption | Remote Sensing & GIS  
-   Link: <a href="https://www.youtube.com/watch?v=l-zkUPorETs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l-zkUPorETs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EGM703: Week 1, Part 1: Principles of Thermal Remote Sensing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l-zkUPorETs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l-zkUPorETs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EGM703: Week 1, Part 1: Principles of Thermal Remote Sensing...</p></details>

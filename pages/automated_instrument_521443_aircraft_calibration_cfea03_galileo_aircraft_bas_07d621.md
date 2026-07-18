@@ -280,22 +280,22 @@ image: /assets/images/automated_instrument_521443_aircraft_calibration_cfea03_ga
 
 ## Introduction
 
-For automated instrumented UFO or UAP detectors, the [Galileo]({{ 'galileo/' | relative_url }}) Project’s aircraft baseline is important because it transforms ordinary aeroplanes from objects to be filtered out into tools for measuring whether the observatory is working correctly. During the commissioning of its first all-sky infrared observatory, the Galileo team used aircraft with known ADS-B (Automatic Dependent Surveillance–Broadcast) positions to test camera calibration, tracking accuracy and detection performance under real operating conditions. Rather than beginning with claims about anomalies, the project first built a large reference dataset of ordinary aerial traffic. The resulting baseline showed not only what the system could detect, but also where it failed, how weather affected performance and how frequently [known aircraft]({{ 'known-aircraft/' | relative_url }}) were missed. That information is crucial because any later claim that an object is unusual depends on understanding the detector’s behaviour on normal targets first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+For automated instrumented UFO or UAP detectors, the [Galileo]({{ 'galileo/' | relative_url }}) Project’s aircraft baseline is important because it transforms ordinary aeroplanes from objects to be filtered out into tools for measuring whether the observatory is working correctly. During the commissioning of its first all-sky infrared observatory, the Galileo team used aircraft with known ADS-B (Automatic Dependent Surveillance–Broadcast) positions to test camera calibration, tracking accuracy and detection performance under real operating conditions. Rather than beginning with claims about anomalies, the project first built a large reference dataset of ordinary aerial traffic. The resulting baseline showed not only what the system could detect, but also where it failed, how weather affected performance and how frequently [known aircraft]({{ 'known-aircraft/' | relative_url }}) were missed. That information is crucial because any later claim that an object is unusual depends on understanding the detector’s behaviour on normal targets first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-1-dark.svg" | relative_url }}" alt="Galileo Baseline illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Galileo system used aircraft as test objects
 
-A recurring problem in UAP research is the lack of calibrated, ground-truthed observations. Aircraft provide something rare in sky-surveillance work: an independently measured object whose location, altitude and trajectory are already known through external data. The Galileo Project exploited this advantage by synchronising its infrared camera observations with [ADS-B]({{ 'ads-b/' | relative_url }}) broadcasts received on site. Those broadcasts allowed the team to compare what the cameras should have seen with what they actually recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+A recurring problem in UAP research is the lack of calibrated, ground-truthed observations. Aircraft provide something rare in sky-surveillance work: an independently measured object whose location, altitude and trajectory are already known through external data. The Galileo Project exploited this advantage by synchronising its infrared camera observations with [ADS-B]({{ 'ads-b/' | relative_url }}) broadcasts received on site. Those broadcasts allowed the team to compare what the cameras should have seen with what they actually recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
 This approach solved several commissioning challenges simultaneously:
 
 * It enabled extrinsic camera calibration, meaning the alignment between image pixels and real sky coordinates.
 * It provided thousands of real [moving targets]({{ 'moving-targets/' | relative_url }}) across different ranges, headings and elevations.
 * It allowed performance measurements under changing atmospheric conditions.
-* It created a statistically meaningful dataset far larger than any collection of alleged anomalous events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+* It created a statistically meaningful dataset far larger than any collection of alleged anomalous events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-One of the notable technical contributions reported by the project was the development of an infrared calibration method based on ADS-B aircraft. Conventional astronomical calibration often relies on stars, but stars are not easily visible in the long-wave infrared imagery used by the Dalek camera array. Aircraft therefore became the practical calibration reference for orienting and validating the system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+One of the notable technical contributions reported by the project was the development of an infrared calibration method based on ADS-B aircraft. Conventional astronomical calibration often relies on stars, but stars are not easily visible in the long-wave infrared imagery used by the Dalek camera array. Aircraft therefore became the practical calibration reference for orienting and validating the system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -304,7 +304,7 @@ One of the notable technical contributions reported by the project was the devel
 
 The most revealing aspect of the aircraft baseline is that it produced quantitative measures of system performance rather than subjective judgments.
 
-The Galileo team reported an acceptance rate of approximately 41% for ADS-B-equipped aircraft. In this context, acceptance rate means the fraction of aircraft passing through the effective field of view that were successfully recorded by at least one camera. They also reported a mean frame-by-frame detection efficiency of roughly 36%, meaning that even when aircraft appeared in recorded imagery, the automated detection pipeline identified them in only about a third of relevant frames on average. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium+2LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Commissioning Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast...</span></span></span>
+The Galileo team reported an acceptance rate of approximately 41% for ADS-B-equipped aircraft. In this context, acceptance rate means the fraction of aircraft passing through the effective field of view that were successfully recorded by at least one camera. They also reported a mean frame-by-frame detection efficiency of roughly 36%, meaning that even when aircraft appeared in recorded imagery, the automated detection pipeline identified them in only about a third of relevant frames on average.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium+2LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Commissioning Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast...</span></span></span>
 
 At first glance these numbers may seem surprisingly low. However, that is precisely why the baseline is valuable. The measurements revealed that performance depends strongly on factors such as:
 
@@ -315,7 +315,7 @@ At first glance these numbers may seem surprisingly low. However, that is precis
 * Distance to the aircraft.
 * Aircraft size.
 * Viewing geometry.
-* Infrared contrast between the aircraft and background sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sensors MDPI&#x27;s Postwe find an acceptance rate of 41% for ADS-B-equipped aircraft, and a mean frame-by-frame aircraft detection ef...</span></span></span>
+* Infrared contrast between the aircraft and background sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sensors MDPI&#x27;s Postwe find an acceptance rate of 41% for ADS-B-equipped aircraft, and a mean frame-by-frame aircraft detection ef...</span></span></span>
 
 </div>
 
@@ -325,11 +325,11 @@ Without this baseline, an observer might incorrectly assume that every aircraft 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-2-dark.svg" | relative_url }}" alt="Galileo Baseline illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the five-month aerial census revealed
 
-The aircraft baseline was not based on a handful of examples. During approximately five months of commissioning, the observatory reconstructed around half a million aerial-object trajectories. The resulting dataset linked sensor observations to environmental conditions and known aircraft behaviour, creating a detailed map of what the local airspace looked like to the instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+The aircraft baseline was not based on a handful of examples. During approximately five months of commissioning, the observatory reconstructed around half a million aerial-object trajectories. The resulting dataset linked sensor observations to environmental conditions and known aircraft behaviour, creating a detailed map of what the local airspace looked like to the instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-This census accomplished something more important than simply identifying aeroplanes. It characterised the normal operating environment of the observatory. Researchers could see how detection rates changed with weather, how tracking algorithms behaved under different conditions and how reconstructed trajectories compared with known aircraft movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+This census accomplished something more important than simply identifying aeroplanes. It characterised the normal operating environment of the observatory. Researchers could see how detection rates changed with weather, how tracking algorithms behaved under different conditions and how reconstructed trajectories compared with known aircraft movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-In practical terms, the project was establishing the detector's phenomenological envelope: the range of signatures produced by known objects under real observing conditions. That envelope becomes the benchmark against which future candidate anomalies are judged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">We are developing a multi-modal...</span></span></span>
+In practical terms, the project was establishing the detector's phenomenological envelope: the range of signatures produced by known objects under real observing conditions. That envelope becomes the benchmark against which future candidate anomalies are judged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">We are developing a multi-modal...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/87POecVP-s4" title="Listening for UFOs - The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer">Listening for UFOs - The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115</a></p><p class="youtube-embed-meta">Channel: Merged Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=87POecVP-s4">Open on YouTube</a></p></div></div></div>
@@ -338,213 +338,213 @@ In practical terms, the project was establishing the detector's phenomenological
 
 The most significant lesson from the Galileo aircraft dataset is methodological rather than astronomical. The baseline shifts the burden of proof.
 
-In many historical UFO cases, unusual appearance alone was treated as evidence that something unusual existed. The Galileo approach reverses that logic. Before asking whether an object is anomalous, researchers first ask whether the detector is behaving as expected when observing known targets. A claimed anomaly must therefore be compared against measured detector performance, known failure modes and established distributions of ordinary objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+In many historical UFO cases, unusual appearance alone was treated as evidence that something unusual existed. The Galileo approach reverses that logic. Before asking whether an object is anomalous, researchers first ask whether the detector is behaving as expected when observing known targets. A claimed anomaly must therefore be compared against measured detector performance, known failure modes and established distributions of ordinary objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-The commissioning paper explicitly frames aircraft-derived datasets as a way to establish performance envelopes and support statistical outlier searches. In other words, the project is not merely using aircraft to reject [false positives]({{ 'false-positives/' | relative_url }}). It is using them to define what “normal” looks like quantitatively so that any future outlier can be evaluated against a calibrated reference population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+The commissioning paper explicitly frames aircraft-derived datasets as a way to establish performance envelopes and support statistical outlier searches. In other words, the project is not merely using aircraft to reject [false positives]({{ 'false-positives/' | relative_url }}). It is using them to define what “normal” looks like quantitatively so that any future outlier can be evaluated against a calibrated reference population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-This distinction matters. An unexplained object detected by a system with unknown efficiency tells researchers very little. An unexplained object detected by a system whose response to hundreds of thousands of ordinary targets has already been measured is potentially far more informative. The Galileo baseline therefore serves as a credibility framework: any future anomaly claim can be judged against known detection rates, known uncertainties and known observational biases rather than against intuition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+This distinction matters. An unexplained object detected by a system with unknown efficiency tells researchers very little. An unexplained object detected by a system whose response to hundreds of thousands of ordinary targets has already been measured is potentially far more informative. The Galileo baseline therefore serves as a credibility framework: any future anomaly claim can be judged against known detection rates, known uncertainties and known observational biases rather than against intuition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-3-dark.svg" | relative_url }}" alt="Galileo Baseline illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_galileo_aircraft_bas_07d621-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The broader lesson for automated UFO detectors
 
-The Galileo Project’s aircraft baseline demonstrates that ordinary aircraft are not merely background clutter. They are calibration standards, performance probes and statistical reference points. By measuring how a detector responds to thousands of known targets, researchers can estimate detection efficiency, identify [blind spots]({{ 'blind-spots/' | relative_url }}) and quantify [uncertainty]({{ 'uncertainty/' | relative_url }}) before searching for anything genuinely unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+The Galileo Project’s aircraft baseline demonstrates that ordinary aircraft are not merely background clutter. They are calibration standards, performance probes and statistical reference points. By measuring how a detector responds to thousands of known targets, researchers can estimate detection efficiency, identify [blind spots]({{ 'blind-spots/' | relative_url }}) and quantify [uncertainty]({{ 'uncertainty/' | relative_url }}) before searching for anything genuinely unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
-For automated instrumented UFO detection systems, this may be the most important result of the commissioning phase. The project showed that the path toward credible anomaly detection begins not with extraordinary events but with a large, carefully measured catalogue of ordinary ones. Aircraft provided the reference population that made such measurement possible, turning calibration from a technical detail into a foundational requirement for any serious search for aerial anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
+For automated instrumented UFO detection systems, this may be the most important result of the commissioning phase. The project showed that the path toward credible anomaly detection begins not with extraordinary events but with a large, carefully measured catalogue of ordinary ones. Aircraft provided the reference population that made such measurement possible, turning calibration from a technical detail into a foundational requirement for any serious search for aerial anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ePxdVE8TCIs" title="The Galileo Project: In Search for Technological Interstellar Objects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ePxdVE8TCIs" target="_blank" rel="noopener noreferrer">The Galileo Project: In Search for Technological Interstellar Objects</a></p><p class="youtube-embed-meta">Channel: Hamptons Observatory</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ePxdVE8TCIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ePxdVE8TCIs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Galileo learned from ordinary planes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Galileo learned from ordinary planes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Connects directly to Loeb’s scientific case for systematic observation of unusual aerial or interstellar phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects directly to Loeb’s scientific case for systematic observation of unusual aerial or interstellar phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides the reporting context for why calibrated, credible observation matters in UAP research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the reporting context for why calibrated, credible observation matters in UAP research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the page’s emphasis on baselines, measurement discipline and avoiding premature anomaly claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page’s emphasis on baselines, measurement discipline and avoiding premature anomaly claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how technology, belief and scientific communities shape the interpretation of anomalous aerial evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technology, belief and scientific communities shape the interpretation of anomalous aerial evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraterrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraterrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="galileo-baseline-what-galileo-learned-from-ordinary-planes-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For automated instrumented UFO detection systems, this may be the most important
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For automated instrumented UFO detection systems, this may be the most important
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For automated instrumented UFO detection systems, this may be the most important
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For automated instrumented UFO detection systems, this may be the most important
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For automated instrumented UFO detection systems, this may be the most important
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,115 +750,115 @@ For automated instrumented UFO detection systems, this may be the most important
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — This paper describes the innovative commissi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — Their calibration includes a novel extrinsic cal...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — Their calibration includes a novel extrinsic cal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — One of the key instruments is an all-sky infrared camera array using eight uncooled long-wave infrared FLIR B...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — One of the key instruments is an all-sky infrared camera array using eight uncooled long-wave infrared FLIR B...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensors MDPI&#x27;s Postwe find an acceptance rate of 41% for ADS-B-equipped aircraft, and a mean frame-by-frame aircraft detection ef...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sensors-mdpi_commissioning-an-all-sky-infrared-camera-activity-7467448571252895745-PmR7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensors MDPI&#x27;s Postwe find an acceptance rate of 41% for ADS-B-equipped aircraft, and a mean frame-by-frame aircraft detection ef...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Objects detected by detection cameras are correlated with ADS-B receiver data using camera extrinsic calibrat...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — Objects detected by detection cameras are correlated with ADS-B receiver data using camera extrinsic calibrat...</p></details>
    Published: May 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Galileo Project's Search for UAP  
-   Link: <a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Galileo Project  
-   Link: <a href="https://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Search for Technological Interstellar Objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Search for Technological Interstellar Objects...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOoo_LzB2SZw7ExidU9ae5VQRrfVqvDZBtV4Znhl1BQEE8ABNDCH0" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOoo_LzB2SZw7ExidU9ae5VQRrfVqvDZBtV4Znhl1BQEE8ABNDCH0</a>  
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOoo_LzB2SZw7ExidU9ae5VQRrfVqvDZBtV4Znhl1BQEE8ABNDCH0" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOoo_LzB2SZw7ExidU9ae5VQRrfVqvDZBtV4Znhl1BQEE8ABNDCH0</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We are developing a multi-modal...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOopWBm-IS0bKx4HC3VglOqIYUiuERZ_uyuvu9JakR58_SI3Iusnv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are developing a multi-modal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition to performing...Read more...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In addition to performing...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — Galileo Project is designing, building, and commissioning a mul...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — Galileo Project is designing, building, and commissioning a mul...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project has released the commissioning data from its f...</p></details>
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project has released the commissioning data from its f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digitalcameraworld.com  
-   Link: <a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The researchers&#x27; goal is to scan the sky across infrared, optical, ra...</p></details>
+   Link:<a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The researchers&#x27; goal is to scan the sky across infrared, optical, ra...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aireon.com  
    Title: White Paper Independent Estimation of Aircraft Positions  
-   Link: <a href="https://aireon.com/wp-content/uploads/2025/04/Aireon-White-Paper-Independent-Estimation-of-Aircraft-Positions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/wp-content/uploads/2025/04/Aireon-White-Paper-Independent-Estimation-of-Aircraft-Positions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent estimation of aircraft positions using space-...by G Sirigu · 2025 — Aireon has developed an algorithm able to independently...</p></details>
+   Link:<a href="https://aireon.com/wp-content/uploads/2025/04/Aireon-White-Paper-Independent-Estimation-of-Aircraft-Positions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/wp-content/uploads/2025/04/Aireon-White-Paper-Independent-Estimation-of-Aircraft-Positions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Independent estimation of aircraft positions using space-...by G Sirigu · 2025 — Aireon has developed an algorithm able to independently...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Infrared Camera Array for Detection Of Airborne Objects&#x27;.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Infrared Camera Array for Detection Of Airborne Objects&#x27;.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QYl9d8wjjKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QYl9d8wjjKM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QYl9d8wjjKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QYl9d8wjjKM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Galileo Project's First Data on Half a Million Objects with Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nvlpubs.nist.gov  
    Title: jresv45n1p1 A1b  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/jres/045/jresv45n1p1_A1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/jres/045/jresv45n1p1_A1b.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of precision airplane mapping camerasby FE Washer · Cited by 19 — This instrument was designed and built to make the calibration of preci...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/jres/045/jresv45n1p1_A1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/jres/045/jresv45n1p1_A1b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of precision airplane mapping camerasby FE Washer · Cited by 19 — This instrument was designed and built to make the calibration of preci...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Galileo Project: In Search for Technological Interstellar Objects  
-   Link: <a href="https://www.youtube.com/watch?v=ePxdVE8TCIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ePxdVE8TCIs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115 - YouTube Merged Podcast · 46K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ePxdVE8TCIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ePxdVE8TCIs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115 - YouTube Merged Podcast · 46K views...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Commissioning-an-All-Sky-Infrared-Camera-Array-for-Domin%C3%A9-Biswas/847f764c0f580f631ac16f5e37b42ba40688301d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Commissioning-an-All-Sky-Infrared-Camera-Array-for-Domin%C3%A9-Biswas/847f764c0f580f631ac16f5e37b42ba40688301d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Commissioning an All-Sky Infrared Camera Array for...The Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aid...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Commissioning-an-All-Sky-Infrared-Camera-Array-for-Domin%C3%A9-Biswas/847f764c0f580f631ac16f5e37b42ba40688301d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Commissioning-an-All-Sky-Infrared-Camera-Array-for-Domin%C3%A9-Biswas/847f764c0f580f631ac16f5e37b42ba40688301d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Commissioning an All-Sky Infrared Camera Array for...The Galileo Project&#x27;s acoustic monitoring, omni-directional system (AMOS) aid...</p></details>

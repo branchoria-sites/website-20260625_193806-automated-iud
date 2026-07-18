@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_metadata_gaps_e215b4_camera_po
 
 ## Introduction
 
-A UFO video becomes much easier to analyse when investigators know not only where the camera was located, but exactly where it was pointing. The camera’s horizontal direction (azimuth), vertical angle (elevation), and line of sight often narrow the list of possible explanations far more effectively than the apparent shape of the object itself. A bright light filmed low in the western sky shortly after sunset suggests a very different set of candidates than a light recorded high overhead, facing north, near an airport approach corridor. In many cases, the difference between an unexplained sighting and an ordinary explanation comes down to a few missing degrees of camera orientation. NASA’s UAP study highlighted the broader problem: many reports lack the sensor metadata needed to reconstruct what was actually observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+A UFO video becomes much easier to analyse when investigators know not only where the camera was located, but exactly where it was pointing. The camera’s horizontal direction (azimuth), vertical angle (elevation), and line of sight often narrow the list of possible explanations far more effectively than the apparent shape of the object itself. A bright light filmed low in the western sky shortly after sunset suggests a very different set of candidates than a light recorded high overhead, facing north, near an airport approach corridor. In many cases, the difference between an unexplained sighting and an ordinary explanation comes down to a few missing degrees of camera orientation. NASA’s UAP study highlighted the broader problem: many reports lack the sensor metadata needed to reconstruct what was actually observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6-Illustration-1-dark.svg" | relative_url }}" alt="Pointing illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_camera_pointing_dire_0668f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,7 +305,7 @@ Three measurements matter most:
 
 Together, these values define a specific patch of sky. Once known, they can be compared with aircraft transponder data, satellite ephemerides, astronomical catalogues, weather observations, and other sensor records.
 
-The importance of line-of-sight geometry is well established in surveillance, astronomy, and tracking systems. A sensor's ability to observe an object depends not merely on range, but on the exact geometric relationship between observer and target. Terrain, horizon position, viewing angle, and object altitude all affect what can be seen and how it appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counteruavradar.com">[Counter UAV Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counteruavradar.com</span><span class="citation-popover-title">Counter UAV Radar What is Line of Sight in Surveillance?</span><span class="citation-popover-snippet">Counter UAV RadarSeptember 8, 2025 — 8 Sept 2025 — A beginner-friendly guide to what line of sight means in surveillance, why nominal ran...</span><span class="citation-popover-meta">Published: September 8, 2025</span></span></span>
+The importance of line-of-sight geometry is well established in surveillance, astronomy, and tracking systems. A sensor's ability to observe an object depends not merely on range, but on the exact geometric relationship between observer and target. Terrain, horizon position, viewing angle, and object altitude all affect what can be seen and how it appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: counteruavradar.com">[Counter UAV Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">counteruavradar.com</span><span class="citation-popover-title">Counter UAV Radar What is Line of Sight in Surveillance?</span><span class="citation-popover-snippet">Counter UAV RadarSeptember 8, 2025 — 8 Sept 2025 — A beginner-friendly guide to what line of sight means in surveillance, why nominal ran...</span><span class="citation-popover-meta">Published: September 8, 2025</span></span></span>
 
 This is why the same bright light can produce entirely different hypotheses depending on where the camera was aimed:
 
@@ -340,7 +340,7 @@ One of the fastest ways to recover pointing information from a video is through 
 
 Buildings, mountains, coastlines, roads, towers, and distinctive terrain features can often be matched to maps. Once matched, investigators can estimate camera orientation and reconstruct the observed sky region.
 
-The horizon is especially valuable. In imaging science and navigation, horizon position is routinely used to estimate camera attitude and orientation. Researchers have demonstrated that horizon geometry can be used to infer viewing direction and improve orientation estimates even when other reference information is unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Automatic orientation of historical terrestrial images...November 1, 2022 — In a first step, the whole horizon was use...</span><span class="citation-popover-meta">Published: November 1, 2022</span></span></span>
+The horizon is especially valuable. In imaging science and navigation, horizon position is routinely used to estimate camera attitude and orientation. Researchers have demonstrated that horizon geometry can be used to infer viewing direction and improve orientation estimates even when other reference information is unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Automatic orientation of historical terrestrial images...November 1, 2022 — In a first step, the whole horizon was use...</span><span class="citation-popover-meta">Published: November 1, 2022</span></span></span>
 
 For UFO analysis, the horizon provides several benefits:
 
@@ -376,11 +376,11 @@ The visible object may look almost identical in both clips. The explanation chan
 
 Automated instrumented UFO detector networks attempt to eliminate this [uncertainty]({{ 'uncertainty/' | relative_url }}) by recording pointing information continuously and automatically.
 
-Modern astronomical and meteor-monitoring systems provide useful examples. Many all-sky camera networks calibrate their cameras against known star positions so that every pixel corresponds to a precise azimuth and elevation in the sky. This process is known as astrometric calibration. Once calibrated, analysts can determine exactly where an observed object appeared in the celestial sphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa35580 19</span><span class="citation-popover-snippet">a dedicated astrometric reduction is needed. azimuth (a)...</span></span></span>
+Modern astronomical and meteor-monitoring systems provide useful examples. Many all-sky camera networks calibrate their cameras against known star positions so that every pixel corresponds to a precise azimuth and elevation in the sky. This process is known as astrometric calibration. Once calibrated, analysts can determine exactly where an observed object appeared in the celestial sphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa35580 19</span><span class="citation-popover-snippet">a dedicated astrometric reduction is needed. azimuth (a)...</span></span></span>
 
-Meteor networks routinely rely on this capability. Systems such as CAMS and other multi-station monitoring networks use calibrated cameras to convert image positions into precise sky coordinates and trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cams.seti.org/CAMSoverviewpaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cams.seti.org">[SETI Cams+2SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cams.seti.org</span><span class="citation-popover-title">Cams Cameras for Allsky Meteor Surveillance to establish</span><span class="citation-popover-snippet">by P Jenniskens · 2011 · Cited by 286 — Sixty video cameras at three stations monitor the sky above 31° elevation. Goal of CAMS is to...</span></span></span>
+Meteor networks routinely rely on this capability. Systems such as CAMS and other multi-station monitoring networks use calibrated cameras to convert image positions into precise sky coordinates and trajectories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cams.seti.org/CAMSoverviewpaper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cams.seti.org">[SETI Cams+2SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cams.seti.org</span><span class="citation-popover-title">Cams Cameras for Allsky Meteor Surveillance to establish</span><span class="citation-popover-snippet">by P Jenniskens · 2011 · Cited by 286 — Sixty video cameras at three stations monitor the sky above 31° elevation. Goal of CAMS is to...</span></span></span>
 
-More advanced systems go further by automatically determining orientation relative to true north and the horizon using star tracking and calibration routines. Some modern all-sky imaging systems can continuously update camera orientation without human intervention, maintaining accurate azimuth and elevation references over long deployments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+More advanced systems go further by automatically determining orientation relative to true north and the horizon using star tracking and calibration routines. Some modern all-sky imaging systems can continuously update camera orientation without human intervention, maintaining accurate azimuth and elevation references over long deployments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
 For a UFO detector, this means every detected object can be stored with:
 
@@ -391,7 +391,7 @@ For a UFO detector, this means every detected object can be stored with:
 * Observer location.
 * Azimuth.
 * Elevation.
-* Camera calibration state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ilrs.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">in operational GUIs with predicted satellites or ADS-B relayed aircraft) as...Read more...</span></span></span>
+* Camera calibration state.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ilrs.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">in operational GUIs with predicted satellites or ADS-B relayed aircraft) as...Read more...</span></span></span>
 * Confidence estimates for the measurement.
 
 </div>
@@ -405,9 +405,9 @@ That metadata transforms a video from a visual anecdote into a measurable observ
 
 The value of pointing information increases dramatically when multiple stations are involved.
 
-If two calibrated cameras at different locations record the same object and both provide accurate lines of sight, analysts can triangulate its position and estimate distance. Once distance is known, apparent motion can be converted into real motion. Objects that seemed extraordinary in a single video often become easier to classify when their actual altitude and trajectory are measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolUnidentified Anomalous Phenomena: Science and Analysis4 days ago — Range can be estimated from triangulating lin...</span></span></span>
+If two calibrated cameras at different locations record the same object and both provide accurate lines of sight, analysts can triangulate its position and estimate distance. Once distance is known, apparent motion can be converted into real motion. Objects that seemed extraordinary in a single video often become easier to classify when their actual altitude and trajectory are measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Naval Postgraduate SchoolUnidentified Anomalous Phenomena: Science and Analysis4 days ago — Range can be estimated from triangulating lin...</span></span></span>
 
-This is one reason NASA's UAP study emphasised calibrated sensors, multiple measurements, and complete metadata. Better observations are not simply a matter of higher-resolution cameras; they require knowing exactly what the sensor was doing and where it was looking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This is one reason NASA's UAP study emphasised calibrated sensors, multiple measurements, and complete metadata. Better observations are not simply a matter of higher-resolution cameras; they require knowing exactly what the sensor was doing and where it was looking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 In practical terms, a camera's pointing direction is often the key that unlocks every subsequent analysis. Without it, investigators are left guessing which part of the sky they are examining. With it, they can begin testing explanations against measurable reality.
 
@@ -416,194 +416,194 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Was the Camera Really Pointing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Was the Camera Really Pointing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps identify landmarks and regions of the sky from viewing direction and time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify landmarks and regions of the sky from viewing direction and time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Illustrates how incomplete information and missing context can produce misleading conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how incomplete information and missing context can produce misleading conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital SLR Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9235575-M.jpg" alt="Cover for Digital SLR Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital SLR Astrophotography">Digital SLR Astrophotography</a>
-        </h4>
-        <p class="fr-book-author">By Michael A. Covington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital SLR Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9235575-M.jpg" alt="Cover for Digital SLR Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital SLR Astrophotography">Digital SLR Astrophotography</a>
+</h4>
+<p class="fr-book-author">By Michael A. Covington</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Photography, digital techniques, Astronomical photography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Photography, digital techniques, Astronomical photography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Provides methods for calculating object positions from time and viewing geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for calculating object positions from time and viewing geometry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital SLR Astrophotography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital SLR Astrophotography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="pointing-where-was-the-camera-really-pointing-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,171 +809,171 @@ In practical terms, a camera's pointing direction is often the key that unlocks 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Automatic orientation of historical terrestrial images...November 1, 2022 — In a first step, the whole horizon was use...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365334026_Automatic_orientation_of_historical_terrestrial_images_in_mountainous_terrain_using_the_visible_horizon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Automatic orientation of historical terrestrial images...November 1, 2022 — In a first step, the whole horizon was use...</p></details>
    Published: November 1, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aanda.org  
    Title: aa35580 19  
-   Link: <a href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a dedicated astrometric reduction is needed. azimuth (a)...</p></details>
+   Link:<a href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a dedicated astrometric reduction is needed. azimuth (a)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ilrs.gsfc.nasa.gov  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in operational GUIs with predicted satellites or [ADS-B](&amp;#123;&amp;#123; &#x27;ads-b/&#x27; | relative_url &amp;#125;&amp;#125;) relayed aircraft) as...Read more...</p></details>
+   Link:<a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in operational GUIs with predicted satellites or [ADS-B](&amp;#123;&amp;#123; &#x27;ads-b/&#x27; | relative_url &amp;#125;&amp;#125;) relayed aircraft) as...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cams.seti.org  
    Title: Cams Cameras for Allsky Meteor Surveillance to establish  
-   Link: <a href="https://cams.seti.org/CAMSoverviewpaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cams.seti.org/CAMSoverviewpaper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Jenniskens · 2011 · Cited by 286 — Sixty video cameras at three stations monitor the sky above 31° elevation. Goal of CAMS is to...</p></details>
+   Link:<a href="https://cams.seti.org/CAMSoverviewpaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cams.seti.org/CAMSoverviewpaper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Jenniskens · 2011 · Cited by 286 — Sixty video cameras at three stations monitor the sky above 31° elevation. Goal of CAMS is to...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</p></details>
+   Link:<a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing  
-   Link: <a href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19503</a>  
+   Link:<a href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19503</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.17146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.17146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</p></details>
    Published: August 23, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.08358v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>these images can exceed 180 degrees, readily recording atmospheric...</p></details>
+   Link:<a href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.08358v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>these images can exceed 180 degrees, readily recording atmospheric...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20210007696" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20210007696</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illuminated Feature Position Determination...by JY Liu · 2017 — This paper describes several approaches for the calibration of translati...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20210007696" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20210007696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illuminated Feature Position Determination...by JY Liu · 2017 — This paper describes several approaches for the calibration of translati...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — In 2023, NASA released an independent study Team (2023) which emphasized how studying the phenomenon using pa...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — In 2023, NASA released an independent study Team (2023) which emphasized how studying the phenomenon using pa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...23 May 2026 — Current data, often collected by instruments not calibrated for scie...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...23 May 2026 — Current data, often collected by instruments not calibrated for scie...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 377844698 Investigating UAP Events Using Astronomical Techniques  
-   Link: <a href="https://www.researchgate.net/publication/377844698_Investigating_UAP_Events_Using_Astronomical_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377844698_Investigating_UAP_Events_Using_Astronomical_Techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Events Using Astronomical Techniques31 Jan 2024 — A special emphasis is given on the techniques of magnetometry, photom...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377844698_Investigating_UAP_Events_Using_Astronomical_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377844698_Investigating_UAP_Events_Using_Astronomical_Techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Events Using Astronomical Techniques31 Jan 2024 — A special emphasis is given on the techniques of magnetometry, photom...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: counteruavradar.com  
    Title: Counter UAV [Radar](&#123;&#123; 'radar/' | relative_url &#125;&#125;) What is Line of Sight in Surveillance?  
-   Link: <a href="https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counter UAV RadarSeptember 8, 2025 — 8 Sept 2025 — A beginner-friendly guide to what line of sight means in surveillance, why nominal ran...</p></details>
+   Link:<a href="https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://www.counteruavradar.com/en/knowledge-base/what-is-line-of-sight-in-surveillance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Counter UAV RadarSeptember 8, 2025 — 8 Sept 2025 — A beginner-friendly guide to what line of sight means in surveillance, why nominal ran...</p></details>
    Published: September 8, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolUnidentified Anomalous Phenomena: Science and Analysis4 days ago — Range can be estimated from triangulating lin...</p></details>
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Postgraduate SchoolUnidentified Anomalous Phenomena: Science and Analysis4 days ago — Range can be estimated from triangulating lin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: coastalmonitoring.org  
-   Link: <a href="https://coastalmonitoring.org/anglian/index.php?cat=5%2FACM_photo_survey_info.pdf&amp;dla=download&amp;id=10&amp;link=" target="_blank" rel="noopener noreferrer nofollow">https://coastalmonitoring.org/anglian/index.php?cat=5%2FACM_photo_survey_info.pdf&amp;dla=download&amp;id=10&amp;link=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Photography SurveysThe camera system includes a Position and orientation system (POS) from a GPS receiver and an Inertial Measurem...</p></details>
+   Link:<a href="https://coastalmonitoring.org/anglian/index.php?cat=5%2FACM_photo_survey_info.pdf&amp;dla=download&amp;id=10&amp;link=" target="_blank" rel="noopener noreferrer nofollow">https://coastalmonitoring.org/anglian/index.php?cat=5%2FACM_photo_survey_info.pdf&amp;dla=download&amp;id=10&amp;link=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Photography SurveysThe camera system includes a Position and orientation system (POS) from a GPS receiver and an Inertial Measurem...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Quest for Unidentified Anomalous Phenomena (UAP)NASA can help the whole-of-government UAP effort through systematic data calibrati...</p></details>
+   Link:<a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Quest for Unidentified Anomalous Phenomena (UAP)NASA can help the whole-of-government UAP effort through systematic data calibrati...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/get-a-camera/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/get-a-camera/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get your own Meteor CameraBuilding your own will cost around £200. AllSky7 systems cost around £1,200 and are currently built in Germany...</p></details>
+   Link:<a href="https://ukfall.org.uk/get-a-camera/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/get-a-camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get your own Meteor CameraBuilding your own will cost around £200. AllSky7 systems cost around £1,200 and are currently built in Germany...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: suncam.com  
-   Link: <a href="https://www.suncam.com/miva/downloads/docs/359.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.suncam.com/miva/downloads/docs/359.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: This part of the course will apply the sightline control (SLC) fundamentals described in Part 1 to the geo-pointing and loc...</p></details>
+   Link:<a href="https://www.suncam.com/miva/downloads/docs/359.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.suncam.com/miva/downloads/docs/359.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: This part of the course will apply the sightline control (SLC) fundamentals described in Part 1 to the geo-pointing and loc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bu.edu  
    Title: nasas progress one month after the uap report with joshua semeter  
-   Link: <a href="https://www.bu.edu/photonics/2023/10/23/nasas-progress-one-month-after-the-uap-report-with-joshua-semeter/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/photonics/2023/10/23/nasas-progress-one-month-after-the-uap-report-with-joshua-semeter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Progress One Month After the UAP Report...23 Oct 2023 — NASA released a report detailing their newly branded UAP (Unidentified An...</p></details>
+   Link:<a href="https://www.bu.edu/photonics/2023/10/23/nasas-progress-one-month-after-the-uap-report-with-joshua-semeter/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/photonics/2023/10/23/nasas-progress-one-month-after-the-uap-report-with-joshua-semeter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Progress One Month After the UAP Report...23 Oct 2023 — NASA released a report detailing their newly branded UAP (Unidentified An...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebRubin Observatory in Chile will survey the entire southern sky every four days...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebRubin Observatory in Chile will survey the entire southern sky every four days...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO math error breakdown illustrates how calculating the precise camera angle and tracking direction can completely change a UFO exp...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This UFO math error breakdown illustrates how calculating the precise camera angle and tracking direction can completely change a UFO exp...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: houstonchronicle.com  
-   Link: <a href="https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-ufo-uap-independent-study-18364192.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-ufo-uap-independent-study-18364192.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA unveils steps to study UAP – the new term for UFO15 Sept 2023 — And they often lack metadata, such as time, location and sensor obse...</p></details>
+   Link:<a href="https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-ufo-uap-independent-study-18364192.php" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonchronicle.com/news/houston-texas/space/article/nasa-ufo-uap-independent-study-18364192.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA unveils steps to study UAP – the new term for UFO15 Sept 2023 — And they often lack metadata, such as time, location and sensor obse...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: unilad.com  
    Title: nasa study ufo official report 144381 20230914  
-   Link: <a href="https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of study into UFO&#x27;s released by NASA14 Sept 2023 — However, the report claims that &#x27;UAP data is hampered by poor sensor... sens...</p></details>
+   Link:<a href="https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/technology/nasa/nasa-study-ufo-official-report-144381-20230914</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of study into UFO&#x27;s released by NASA14 Sept 2023 — However, the report claims that &#x27;UAP data is hampered by poor sensor... sens...</p></details>

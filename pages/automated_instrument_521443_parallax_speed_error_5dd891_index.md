@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-parallax/
 description: Focused pages that expand on Parallax.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_parallax_speed_error_5dd891
 parent_title: Parallax
@@ -16,7 +16,7 @@ parent_permalink: /parallax/
 
 # Explore Topics in Parallax
 
-The following pages expand on the main **[Parallax]({{ '/parallax/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Parallax]({{ '/parallax/' | relative_url }})** page and cover its key branches in.
 
 - [Acceleration]({{ '/acceleration/' | relative_url }})
 - [Go Fast]({{ '/go-fast/' | relative_url }})

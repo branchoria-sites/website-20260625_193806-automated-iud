@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_porta
 
 ## Introduction
 
-Portable UAP detector stations are designed for one job that permanent observatories cannot perform as effectively: moving quickly to places where unusual reports, military activity, scientific field campaigns or repeated sightings make short-term monitoring worthwhile. Rather than waiting years for an event to occur over a fixed installation, a portable station follows the question. This makes portability especially valuable when interest is concentrated around a temporary hotspot, provided that the deployment uses calibrated instruments, records complete metadata and remains scientifically agnostic about what will be observed. NASA's independent UAP study emphasised that better data collection—not assumptions about causes—is the central requirement for progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Portable UAP detector stations are designed for one job that permanent observatories cannot perform as effectively: moving quickly to places where unusual reports, military activity, scientific field campaigns or repeated sightings make short-term monitoring worthwhile. Rather than waiting years for an event to occur over a fixed installation, a portable station follows the question. This makes portability especially valuable when interest is concentrated around a temporary hotspot, provided that the deployment uses calibrated instruments, records complete metadata and remains scientifically agnostic about what will be observed. NASA's independent UAP study emphasised that better data collection—not assumptions about causes—is the central requirement for progress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_portable_hotspot_sta_4812d6-Illustration-1-dark.svg" | relative_url }}" alt="Portable Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_portable_hotspot_sta_4812d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_portable_hotspot_sta_4812d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,7 +305,7 @@ Examples include:
 
 The key principle is that the location is selected because it offers an opportunity to answer a specific observational question rather than because it is assumed to be permanently anomalous.
 
-This mirrors how many other environmental sciences operate. Temporary observatories are routinely deployed to investigate volcanic activity, severe [weather]({{ 'weather/' | relative_url }}), atmospheric chemistry and geophysical events before moving elsewhere once the campaign ends. Portable UAP stations apply the same field-science logic: move the instruments rather than waiting indefinitely for an event to come to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anl.gov">[Argonne National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anl.gov</span><span class="citation-popover-snippet">Argonne National LaboratoryMobile climate observatory prepares for campaign aboard...16 Aug 2012 — Some sensors are located on the roof...</span></span></span>
+This mirrors how many other environmental sciences operate. Temporary observatories are routinely deployed to investigate volcanic activity, severe [weather]({{ 'weather/' | relative_url }}), atmospheric chemistry and geophysical events before moving elsewhere once the campaign ends. Portable UAP stations apply the same field-science logic: move the instruments rather than waiting indefinitely for an event to come to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anl.gov">[Argonne National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anl.gov</span><span class="citation-popover-snippet">Argonne National LaboratoryMobile climate observatory prepares for campaign aboard...16 Aug 2012 — Some sensors are located on the roof...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yAaO4P4Jc1U" title="UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer">UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 49.9K &middot; Uploaded: July 2025 &middot; Length: 2 hours 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yAaO4P4Jc1U">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ Modern multimodal designs proposed for scientific UAP investigations typically c
 * Weather and environmental instruments.
 * Accurate timing and positioning systems.
 
-Combining independent measurements reduces reliance on a single photograph or video, making it easier to distinguish ordinary aircraft, [satellites]({{ 'satellites/' | relative_url }}), insects, atmospheric effects or sensor artefacts from genuinely unexplained observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">We describe an approach for highlighting outlier...</span></span></span>
+Combining independent measurements reduces reliance on a single photograph or video, making it easier to distinguish ordinary aircraft, [satellites]({{ 'satellites/' | relative_url }}), insects, atmospheric effects or sensor artefacts from genuinely unexplained observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">We describe an approach for highlighting outlier...</span></span></span>
 
 Portability also supports controlled testing. Researchers can deliberately deploy instruments during known aviation exercises, astronomical events or drone trials to evaluate how well detection algorithms classify ordinary objects before claiming that any observation is anomalous.
 
@@ -354,7 +354,7 @@ Every new deployment begins without the historical baseline that a permanent obs
 
 An object that appears unusual during the first night at a new location may later prove to be a routine local phenomenon once additional observations accumulate.
 
-NASA's study repeatedly stresses the importance of metadata, calibration and contextual information because unidentified observations often become identifiable only after environmental conditions are reconstructed. A portable station therefore starts each campaign with greater [uncertainty]({{ 'uncertainty/' | relative_url }}) than a long-established fixed installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+NASA's study repeatedly stresses the importance of metadata, calibration and contextual information because unidentified observations often become identifiable only after environmental conditions are reconstructed. A portable station therefore starts each campaign with greater [uncertainty]({{ 'uncertainty/' | relative_url }}) than a long-established fixed installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 For this reason, operators typically spend part of a deployment characterising ordinary local activity before treating apparent anomalies as scientifically interesting.
 
@@ -365,9 +365,9 @@ For this reason, operators typically spend part of a deployment characterising o
 
 Historical field investigations provide useful examples of why mobility matters.
 
-The investigations in Norway's Hessdalen valley began as concentrated field campaigns using multiple portable instruments after repeated reports of unusual luminous phenomena. Those temporary deployments helped determine which measurements were worth continuing and eventually contributed to the development of longer-term monitoring in the valley. The progression from expedition to permanent instrumentation illustrates how portable systems often act as reconnaissance rather than final infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">Project HessdalenProject HessdalenHessdalen offers a rare opportunity to study a persistent natural mystery with modern tools. During the...</span></span></span>
+The investigations in Norway's Hessdalen valley began as concentrated field campaigns using multiple portable instruments after repeated reports of unusual luminous phenomena. Those temporary deployments helped determine which measurements were worth continuing and eventually contributed to the development of longer-term monitoring in the valley. The progression from expedition to permanent instrumentation illustrates how portable systems often act as reconnaissance rather than final infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">Project HessdalenProject HessdalenHessdalen offers a rare opportunity to study a persistent natural mystery with modern tools. During the...</span></span></span>
 
-More recent scientific proposals make a similar distinction. Publications associated with the Galileo Project describe portable systems as a separate class of instrument package intended for deployment where specific research opportunities arise. Compared with observatory-class installations, portable systems use fewer instruments, lower cost hardware and shorter operational periods while preserving multimodal observations wherever practical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — The Observatory system class is designed for the long-term study of UAP and is intended for comprehensiv...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+More recent scientific proposals make a similar distinction. Publications associated with the Galileo Project describe portable systems as a separate class of instrument package intended for deployment where specific research opportunities arise. Compared with observatory-class installations, portable systems use fewer instruments, lower cost hardware and shorter operational periods while preserving multimodal observations wherever practical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — The Observatory system class is designed for the long-term study of UAP and is intended for comprehensiv...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 This approach reflects an important implementation philosophy: begin with a deployable system that can gather credible data rapidly, then decide whether sustained monitoring justifies a permanent observatory.
 
@@ -417,194 +417,194 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Move a Detector to the Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Move a Detector to the Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes collecting credible evidence from multiple sources.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes collecting credible evidence from multiple sources.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Frames UFO investigation as structured field research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames UFO investigation as structured field research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Provides broader context for organized investigations of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for organized investigations of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="portable-hotspots-why-move-a-detector-to-the-mystery-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,98 +810,98 @@ Rather than treating reported [hotspots]({{ 'hotspots/' | relative_url }}) as in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
    Published: June 16, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hessdalen.org  
-   Link: <a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenProject HessdalenHessdalen offers a rare opportunity to study a persistent natural mystery with modern tools. During the...</p></details>
+   Link:<a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenProject HessdalenHessdalen offers a rare opportunity to study a persistent natural mystery with modern tools. During the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The Observatory system class is designed for the long-term study of UAP and is intended for comprehensiv...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The Observatory system class is designed for the long-term study of UAP and is intended for comprehensiv...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scienti¯c Investigation of Unidenti¯ed Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is t...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scienti¯c Investigation of Unidenti¯ed Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: anl.gov  
-   Link: <a href="https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship" target="_blank" rel="noopener noreferrer nofollow">https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argonne National LaboratoryMobile climate observatory prepares for campaign aboard...16 Aug 2012 — Some sensors are located on the roof...</p></details>
+   Link:<a href="https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship" target="_blank" rel="noopener noreferrer nofollow">https://www.anl.gov/article/mobile-climate-observatory-prepares-for-campaign-aboard-ship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argonne National LaboratoryMobile climate observatory prepares for campaign aboard...16 Aug 2012 — Some sensors are located on the roof...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We describe an approach for highlighting outlier...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We describe an approach for highlighting outlier...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2023JAI....1240006W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023JAI....1240006W/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — Our instrument package is multimodal and multispe...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2023JAI....1240006W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023JAI....1240006W/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — Our instrument package is multimodal and multispe...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abdn.elsevierpure.com  
    Title: the scientific investigation of unidentified aerial phenomena uap  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalThe Scientific Investigation of Unidentified Aerial...13 May 2023 — Our instrument package is multimodal and mul...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalThe Scientific Investigation of Unidentified Aerial...13 May 2023 — Our instrument package is multimodal and mul...</p></details>
    Published: May 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-Scientific-Investigation-of-Unidentified-Aerial-Watters-Loeb/8ca4ac9526333072a07108952912a53c7894239c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Scientific-Investigation-of-Unidentified-Aerial-Watters-Loeb/8ca4ac9526333072a07108952912a53c7894239c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ltimodal Ground-based Observatories · 14 Citations · 99 References.Read more...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-Scientific-Investigation-of-Unidentified-Aerial-Watters-Loeb/8ca4ac9526333072a07108952912a53c7894239c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Scientific-Investigation-of-Unidentified-Aerial-Watters-Loeb/8ca4ac9526333072a07108952912a53c7894239c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ltimodal Ground-based Observatories · 14 Citations · 99 References.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project employs various instruments...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project employs various instruments...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: UAP Revelations with AARO's Dep. Director Lt. Col. (ret.) Tim Phillips  
-   Link: <a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAaO4P4Jc1U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin knuth &quot;UFO Under Water, UAPX, A Tear In The Sky&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yAaO4P4Jc1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAaO4P4Jc1U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin knuth &quot;UFO Under Water, UAPX, A Tear In The Sky&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are often difficult to verify...</p></details>
+   Link:<a href="https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVAeducation/posts/there-have-been-reports-of-ufo-and-uap-sightings-for-decades-but-these-accounts-/1309792357853756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are often difficult to verify...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gi.copernicus.org  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</p></details>
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — We presented the first geomagnetic variometer station deployed within the context of the Galileo Project for t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Kevin knuth "UFO Under Water, UAPX, A Tear In The Sky"  
-   Link: <a href="https://www.youtube.com/watch?v=bIKUwmnPV94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bIKUwmnPV94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bIKUwmnPV94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bIKUwmnPV94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs | Reality Check...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: authors.library.caltech.edu  
    Title: rcjwj zr809  
-   Link: <a href="https://authors.library.caltech.edu/records/rcjwj-zr809" target="_blank" rel="noopener noreferrer nofollow">https://authors.library.caltech.edu/records/rcjwj-zr809</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial...by WA Watters · Cited by 47 — Our instrument package is multimodal and multispectral...</p></details>
+   Link:<a href="https://authors.library.caltech.edu/records/rcjwj-zr809" target="_blank" rel="noopener noreferrer nofollow">https://authors.library.caltech.edu/records/rcjwj-zr809</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial...by WA Watters · Cited by 47 — Our instrument package is multimodal and multispectral...</p></details>

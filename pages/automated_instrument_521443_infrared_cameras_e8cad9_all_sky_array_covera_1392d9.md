@@ -280,17 +280,17 @@ image: /assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sk
 
 ## Introduction
 
-A single thermal camera can record only the part of the sky within its field of view. For automated night-time UAP detection, that is a fundamental limitation because unexpected aerial events are, by definition, not scheduled to appear where a fixed camera is [pointing]({{ 'pointing/' | relative_url }}). An all-sky infrared array addresses this problem by dividing the sky between several overlapping cameras, allowing continuous unattended monitoring across almost the entire hemisphere while retaining enough angular resolution to detect and track moving objects. Rather than making individual images dramatically sharper, the principal advantage of an array is that it greatly increases the chance of capturing an event at all, while also providing overlapping observations that improve tracking, calibration and quality control. This design philosophy has become central to modern instrumented UAP observatories, including the [Galileo]({{ 'galileo/' | relative_url }}) Project's "Dalek" infrared array. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+A single thermal camera can record only the part of the sky within its field of view. For automated night-time UAP detection, that is a fundamental limitation because unexpected aerial events are, by definition, not scheduled to appear where a fixed camera is [pointing]({{ 'pointing/' | relative_url }}). An all-sky infrared array addresses this problem by dividing the sky between several overlapping cameras, allowing continuous unattended monitoring across almost the entire hemisphere while retaining enough angular resolution to detect and track moving objects. Rather than making individual images dramatically sharper, the principal advantage of an array is that it greatly increases the chance of capturing an event at all, while also providing overlapping observations that improve tracking, calibration and quality control. This design philosophy has become central to modern instrumented UAP observatories, including the [Galileo]({{ 'galileo/' | relative_url }}) Project's "Dalek" infrared array.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-1-dark.svg" | relative_url }}" alt="Array Coverage illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The field-of-view problem
 
-Wide-angle imaging always involves a compromise. A camera fitted with an extremely wide lens can observe much of the sky, but each object occupies fewer pixels on the detector. Conversely, a narrow-field camera provides more detail but watches only a small patch of sky.
+Wide-angle imaging always involves a compromise. A camera fitted with an extremely wide lens can observe much of the sky, but each object occupies fewer pixels on the detector. Conversely, a narrow-field camera provides but watches only a small patch of sky.
 
 For an unattended monitoring station, missing an event altogether is usually a greater problem than recording it at modest resolution. Most reported anomalous aerial events are brief and unpredictable. A camera aimed at a fixed azimuth may never see an object that passes overhead or behind it, regardless of image quality.
 
-An all-sky array tackles this geometrical problem by assigning neighbouring sectors of the sky to multiple cameras. Instead of forcing [one sensor]({{ 'one-sensor/' | relative_url }}) to cover everything through an extreme fisheye lens, each camera observes a more manageable region. Together they provide nearly continuous hemispherical coverage with intentional overlap between adjacent views. The Galileo Project selected an eight-camera arrangement after evaluating configurations ranging from four to fourteen cameras, balancing sky coverage, angular resolution, system complexity and cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+An all-sky array tackles this geometrical problem by assigning neighbouring sectors of the sky to multiple cameras. Instead of forcing [one sensor]({{ 'one-sensor/' | relative_url }}) to cover everything through an extreme fisheye lens, each camera observes a more manageable region. Together they provide nearly continuous hemispherical coverage with intentional overlap between adjacent views. The Galileo Project selected an eight-camera arrangement after evaluating configurations ranging from four to fourteen cameras, balancing sky coverage, angular resolution, system complexity and cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 ## Coverage versus image detail
 
@@ -305,7 +305,7 @@ Splitting the sky across multiple sensors provides several practical benefits:
 * **Improved tracking.** Objects travelling across the sky can pass smoothly from one camera into another instead of disappearing at the edge of a single frame.
 * **Overlap for verification.** Adjacent cameras intentionally observe common regions, reducing [blind spots]({{ 'blind-spots/' | relative_url }}) and providing consistency checks during calibration.
 
-The Galileo Project reports that its eight-camera configuration was specifically chosen because it offered better angular resolution and a larger effective detection volume than lower-camera-count alternatives while remaining practical to build and calibrate. The team is nevertheless developing a simpler four-camera version to quantify exactly how much performance is sacrificed for lower cost and complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+The Galileo Project reports that its eight-camera configuration was specifically chosen because it offered better angular resolution and a larger effective detection volume than lower-camera-count alternatives while remaining practical to build and calibrate. The team is nevertheless developing a simpler four-camera version to quantify exactly how much performance is sacrificed for lower cost and complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oDAY0_wRjxA" title="Inside the AI Alien Hunting Project at Harvard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer">Inside the AI Alien Hunting Project at Harvard</a></p><p class="youtube-embed-meta">Channel: Bloomberg Originals &middot; Views: 542.8K &middot; Uploaded: June 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oDAY0_wRjxA">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ The value of an array extends beyond simply covering more sky.
 
 When neighbouring cameras observe the same object during a handover, engineers gain additional information about whether the detection is genuine or the result of image noise, thermal reflections or processing artefacts. Overlap also makes geometric calibration easier because the same aircraft or moving target can appear simultaneously in multiple views.
 
-For infrared systems this is particularly important because stars, commonly used to calibrate visible-light astronomical cameras, are generally not detectable in long-wave infrared. The Galileo Project therefore developed an alternative calibration approach using aircraft broadcasting Automatic Dependent Surveillance–Broadcast ([ADS-B]({{ 'ads-b/' | relative_url }})) positions to determine precisely where each infrared camera is pointing. Consistent observations across overlapping fields help validate those calibrations over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+For infrared systems this is particularly important because stars, commonly used to calibrate visible-light astronomical cameras, are generally not detectable in long-wave infrared. The Galileo Project therefore developed an alternative calibration approach using aircraft broadcasting Automatic Dependent Surveillance–Broadcast ([ADS-B]({{ 'ads-b/' | relative_url }})) positions to determine precisely where each infrared camera is pointing. Consistent observations across overlapping fields help validate those calibrations over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-3-dark.svg" | relative_url }}" alt="Array Coverage illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ Imagine an aircraft, meteor, bird or unexplained light entering from behind a bu
 
 </div>
 
-This continuous coverage is especially valuable because automated observatories increasingly rely on machine-learning pipelines that analyse complete trajectories rather than isolated images. Longer tracks generally provide stronger evidence for distinguishing ordinary aircraft, birds or insects from unusual-looking detections created by viewing geometry or environmental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+This continuous coverage is especially valuable because automated observatories increasingly rely on machine-learning pipelines that analyse complete trajectories rather than isolated images. Longer tracks generally provide stronger evidence for distinguishing ordinary aircraft, birds or insects from unusual-looking detections created by viewing geometry or environmental conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-2-dark.svg" | relative_url }}" alt="Array Coverage illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,7 +358,7 @@ Single-camera systems also offer practical advantages:
 
 </div>
 
-For exploratory scientific surveys, however, these advantages come at the cost of greatly reduced observational coverage. Since the overwhelming majority of the sky is outside a single camera's view at any moment, the probability of recording an unexpected transient event is correspondingly lower. Modern survey instruments in astronomy often solve the same problem by deploying arrays of cameras or telescopes that collectively monitor much larger areas of sky than any individual sensor could observe efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1702.03931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Multi-site All-Sky CAmeRA: Finding transiting exoplanets around bright ($m_V &lt; 8$) starsFebruary 13, 2017...</span><span class="citation-popover-meta">Published: February 13, 2017</span></span></span>
+For exploratory scientific surveys, however, these advantages come at the cost of greatly reduced observational coverage. Since the overwhelming majority of the sky is outside a single camera's view at any moment, the probability of recording an unexpected transient event is correspondingly lower. Modern survey instruments in astronomy often solve the same problem by deploying arrays of cameras or telescopes that collectively monitor much larger areas of sky than any individual sensor could observe efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1702.03931" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Multi-site All-Sky CAmeRA: Finding transiting exoplanets around bright ($m_V &lt; 8$) starsFebruary 13, 2017...</span><span class="citation-popover-meta">Published: February 13, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YHK_SY3cmA8" title="Sky360 UAP Tracking Project v1promo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YHK_SY3cmA8" target="_blank" rel="noopener noreferrer">Sky360 UAP Tracking Project v1promo</a></p><p class="youtube-embed-meta">Channel: UAP Tracker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YHK_SY3cmA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YHK_SY3cmA8">Open on YouTube</a></p></div></div></div>
@@ -367,186 +367,186 @@ For exploratory scientific surveys, however, these advantages come at the cost o
 
 Within automated instrumented UAP detection, the chief contribution of an all-sky infrared array is not that it produces spectacular thermal images. Its main contribution is statistical: it observes vastly more of the available sky, continuously and without requiring an operator to guess where an event will occur.
 
-That broader coverage supports better trajectory reconstruction, more reliable calibration, smoother integration with complementary sensors and a larger baseline of ordinary aerial traffic against which genuinely unusual observations can be assessed. In this sense, the transition from one thermal camera to an overlapping all-sky array represents a shift from opportunistic observation towards systematic sky surveillance, where reducing missed events is often more valuable than maximising the detail in any single frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
+That broader coverage supports better trajectory reconstruction, more reliable calibration, smoother integration with complementary sensors and a larger baseline of ordinary aerial traffic against which genuinely unusual observations can be assessed. In this sense, the transition from one thermal camera to an overlapping all-sky array represents a shift from opportunistic observation towards systematic sky surveillance, where reducing missed events is often more valuable than maximising the detail in any single frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WuSgvaweBtE" title="Meteor Moment: What is the All-Sky Camera Network?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WuSgvaweBtE" target="_blank" rel="noopener noreferrer">Meteor Moment: What is the All-Sky Camera Network?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WuSgvaweBtE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WuSgvaweBtE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Thermal Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Thermal Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
-        </h4>
-        <p class="fr-book-author">By Ronald G. Driggers</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to infrared and electro-optical systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1646792-M.jpg" alt="Cover for Introduction to infrared and electro-optical systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
+</h4>
+<p class="fr-book-author">By Ronald G. Driggers</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Steve B. Howell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
+</h4>
+<p class="fr-book-author">By Steve B. Howell</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building scientific apparatus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4606248-M.jpg" alt="Cover for Building scientific apparatus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building scientific apparatus">Building scientific apparatus</a>
-        </h4>
-        <p class="fr-book-author">By Moore, John H., John H. Moore et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building scientific apparatus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4606248-M.jpg" alt="Cover for Building scientific apparatus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building scientific apparatus">Building scientific apparatus</a>
+</h4>
+<p class="fr-book-author">By Moore, John H., John H. Moore et al.</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Design and construction, Handbooks, manuals, Instrument manufacture, Scientific apparatus and instruments...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Design and construction, Handbooks, manuals, Instrument manufacture, Scientific apparatus and instruments...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+scientific+apparatus+Moore%2C+John+H.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — One of the key instruments is an all-sky inf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — The Galileo Project is designing, building, and...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for...by L Dominé · 2024 · Cited by 11 — The Galileo Project is designing, building, and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1702.03931" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03931</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Multi-site All-Sky CAmeRA: Finding transiting exoplanets around bright ($m_V &lt; 8$) starsFebruary 13, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1702.03931" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03931</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Multi-site All-Sky CAmeRA: Finding transiting exoplanets around bright ($m_V &lt; 8$) starsFebruary 13, 2017...</p></details>
    Published: February 13, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: GOTO (telescope array)  
-   Link: <a href="https://en.wikipedia.org/wiki/GOTO_%28telescope_array%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GOTO_%28telescope_array%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GOTO_%28telescope_array%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GOTO_%28telescope_array%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Sky360 UAP Tracking Project v1promo  
-   Link: <a href="https://www.youtube.com/watch?v=YHK_SY3cmA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHK_SY3cmA8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project | Prof. Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YHK_SY3cmA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHK_SY3cmA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project | Prof. Avi Loeb...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Galileo Project | Prof. Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHNqktsrMSY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Moment: What is the All-Sky Camera Network?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHNqktsrMSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Moment: What is the All-Sky Camera Network?...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqER2ZyWD6zE3YJBgLcMBke13x0fVLko3E-8dlXqwQZ1NQdh9Gr" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqER2ZyWD6zE3YJBgLcMBke13x0fVLko3E-8dlXqwQZ1NQdh9Gr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqER2ZyWD6zE3YJBgLcMBke13x0fVLko3E-8dlXqwQZ1NQdh9Gr" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqER2ZyWD6zE3YJBgLcMBke13x0fVLko3E-8dlXqwQZ1NQdh9Gr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — The Galileo Project&#x27;s simultaneous multi-channel recording arch...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — The Galileo Project&#x27;s simultaneous multi-channel recording arch...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The workhorse of the uniquely designed GP Observatories is called Dalek, an array of ei...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The workhorse of the uniquely designed GP Observatories is called Dalek, an array of ei...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcameraworld.com  
-   Link: <a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The Galileo Project&#x27;s Dalek uses eight infared cameras to scan the en...</p></details>
+   Link:<a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The Galileo Project&#x27;s Dalek uses eight infared cameras to scan the en...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: phys.org  
    Title: 2025 04 sky infrared camera dalek alien  
-   Link: <a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...9 Apr 2025 — A new study led by the Harvard-Smithsonian Center for Astrophysics (...</p></details>
+   Link:<a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...9 Apr 2025 — A new study led by the Harvard-Smithsonian Center for Astrophysics (...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: universetoday.com  
    Title: an all sky infrared camera could search for alien spacecraft 1  
-   Link: <a href="https://www.universetoday.com/articles/an-all-sky-infrared-camera-could-search-for-alien-spacecraft-1" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/an-all-sky-infrared-camera-could-search-for-alien-spacecraft-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An All-Sky Infrared Camera Named Dalek Continues...8 Apr 2025 — A new study led by the Harvard-Smithsonian Center for Astrophysics (CfA)...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/an-all-sky-infrared-camera-could-search-for-alien-spacecraft-1" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/an-all-sky-infrared-camera-could-search-for-alien-spacecraft-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An All-Sky Infrared Camera Named Dalek Continues...8 Apr 2025 — A new study led by the Harvard-Smithsonian Center for Astrophysics (CfA)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Meteor Moment: What is the All-Sky Camera Network?  
-   Link: <a href="https://www.youtube.com/watch?v=WuSgvaweBtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WuSgvaweBtE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WuSgvaweBtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WuSgvaweBtE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hou.usra.edu  
-   Link: <a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF AN ALL-SKY INFRARED CAMERA...To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</p></details>
+   Link:<a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF AN ALL-SKY INFRARED CAMERA...To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using AI to detect strange events in the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using AI to detect strange events in the sky...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Using AI to detect strange events in the sky  
-   Link: <a href="https://www.youtube.com/watch?v=nHMEfP68jqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nHMEfP68jqI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360 UAP Tracking Project v1promo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nHMEfP68jqI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nHMEfP68jqI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360 UAP Tracking Project v1promo...</p></details>

@@ -284,11 +284,11 @@ For an automated instrumented UAP detector, internet time is often good enough t
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-1-dark.svg" | relative_url }}" alt="Network Time illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Ordinary computer clock synchronisation using the Network Time Protocol (NTP) is designed to keep computers broadly aligned to Coordinated Universal Time (UTC) over ordinary IP networks. Precision Time Protocol (PTP), standardised as IEEE 1588, is intended for distributed measurement and control systems that require clocks to remain synchronised at far finer levels. Which approach is appropriate depends less on the subject being observed than on the strength of the [timing]({{ 'timing/' | relative_url }}) claim the system intends to support. For many detector stations, NTP is entirely adequate for logging and administration. For frame-level [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) or precise event reconstruction, a locally disciplined precision timing system becomes increasingly important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2IEEE Standards Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Introduction to IEEE 1588 &#124; NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</span></span></span>
+Ordinary computer clock synchronisation using the Network Time Protocol (NTP) is designed to keep computers broadly aligned to Coordinated Universal Time (UTC) over ordinary IP networks. Precision Time Protocol (PTP), standardised as IEEE 1588, is intended for distributed measurement and control systems that require clocks to remain synchronised at far finer levels. Which approach is appropriate depends less on the subject being observed than on the strength of the [timing]({{ 'timing/' | relative_url }}) claim the system intends to support. For many detector stations, NTP is entirely adequate for logging and administration. For frame-level [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) or precise event reconstruction, a locally disciplined precision timing system becomes increasingly important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2IEEE Standards Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Introduction to IEEE 1588 &#124; NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</span></span></span>
 
 ## What ordinary network time can and cannot do
 
-NTP has become the default timing service for computers because it is inexpensive, mature and works across the public internet. Properly configured systems can often remain synchronised within a few milliseconds on well-managed networks, although performance varies with network congestion, routing asymmetry, operating-system scheduling and hardware. Internet-scale networks are inherently unpredictable, so the actual [uncertainty]({{ 'uncertainty/' | relative_url }}) can fluctuate over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safranfederalsystems.com">[SafranFederalSystems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safranfederalsystems.com</span><span class="citation-popover-snippet">NTP vs PTP Understanding Time Synchronization...This post will explain and compare Network Time Protocol and Precisi...</span></span></span>
+NTP has become the default timing service for computers because it is inexpensive, mature and works across the public internet. Properly configured systems can often remain synchronised within a few milliseconds on well-managed networks, although performance varies with network congestion, routing asymmetry, operating-system scheduling and hardware. Internet-scale networks are inherently unpredictable, so the actual [uncertainty]({{ 'uncertainty/' | relative_url }}) can fluctuate over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safranfederalsystems.com">[SafranFederalSystems]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safranfederalsystems.com</span><span class="citation-popover-snippet">NTP vs PTP Understanding Time Synchronization...This post will explain and compare Network Time Protocol and Precisi...</span></span></span>
 
 For an automated detector station, this level of synchronisation is sufficient for tasks such as:
 
@@ -299,16 +299,16 @@ For an automated detector station, this level of synchronisation is sufficient f
 
 These are valuable capabilities because they preserve the chronology of observations and simplify later investigation.
 
-The limitation appears when analysts begin asking questions that depend on fractions of a video frame or precise arrival times. If one camera records at 60 frames per second, each frame spans about 16.7 milliseconds. A clock error comparable to—or larger than—that interval can make it difficult to determine whether two sensors captured the same transient feature simultaneously or merely observed similar-looking events close together in time. The timing uncertainty becomes part of the measurement uncertainty rather than simply an administrative detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+The limitation appears when analysts begin asking questions that depend on fractions of a video frame or precise arrival times. If one camera records at 60 frames per second, each frame spans about 16.7 milliseconds. A clock error comparable to—or larger than—that interval can make it difficult to determine whether two sensors captured the same transient feature simultaneously or merely observed similar-looking events close together in time. The timing uncertainty becomes part of the measurement uncertainty rather than simply an administrative detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCNvHlhcGJU" title="Introduction to Precision Time Protocol (PTP) for Network Synchronization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCNvHlhcGJU" target="_blank" rel="noopener noreferrer">Introduction to Precision Time Protocol (PTP) for Network Synchronization</a></p><p class="youtube-embed-meta">Channel: Cisco Industrial IoT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCNvHlhcGJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCNvHlhcGJU">Open on YouTube</a></p></div></div></div>
 
 ## Why local precision timing changes sensor fusion
 
-PTP was developed specifically for networked measurement systems where timestamps are themselves scientific data. Instead of relying solely on software timestamps after packets arrive, many PTP implementations use hardware timestamping within network interfaces and switches to minimise variable delays introduced by operating systems and network equipment. IEEE 1588 also includes mechanisms for compensating network delay and distributing a common reference clock throughout a local network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.ieee.org">[IEEE Standards Association+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.ieee.org</span><span class="citation-popover-title">Standards Association IEEE SA</span><span class="citation-popover-snippet">IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</span></span></span>
+PTP was developed specifically for networked measurement systems where timestamps are themselves scientific data. Instead of relying solely on software timestamps after packets arrive, many PTP implementations use hardware timestamping within network interfaces and switches to minimise variable delays introduced by operating systems and network equipment. IEEE 1588 also includes mechanisms for compensating network delay and distributing a common reference clock throughout a local network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.ieee.org">[IEEE Standards Association+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.ieee.org</span><span class="citation-popover-title">Standards Association IEEE SA</span><span class="citation-popover-snippet">IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</span></span></span>
 
-The practical consequence is that independent devices can often maintain synchronisation at sub-microsecond levels on appropriately designed local networks. Whether a particular installation achieves microsecond, hundreds-of-nanoseconds or better performance depends on network architecture, hardware support and configuration, but the protocol was created for precisely these measurement problems rather than ordinary office networking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.ieee.org">[IEEE Standards Association+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.ieee.org</span><span class="citation-popover-title">Standards Association IEEE SA</span><span class="citation-popover-snippet">IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</span></span></span>
+The practical consequence is that independent devices can often maintain synchronisation at sub-microsecond levels on appropriately designed local networks. Whether a particular installation achieves microsecond, hundreds-of-nanoseconds or better performance depends on network architecture, hardware support and configuration, but the protocol was created for precisely these measurement problems rather than ordinary office networking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.ieee.org">[IEEE Standards Association+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.ieee.org</span><span class="citation-popover-title">Standards Association IEEE SA</span><span class="citation-popover-snippet">IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</span></span></span>
 
 For a multi-sensor detector station, tighter synchronisation changes what becomes possible:
 
@@ -326,7 +326,7 @@ The benefit is not that PTP somehow improves the sensors themselves. Rather, it 
 
 The value of precision timing is well established outside UAP research. Multi-detector scientific instruments—including radiation detector arrays, particle experiments and industrial measurement systems—often depend on accurate synchronisation because event reconstruction requires combining observations made by physically separate sensors.
 
-One published detector system for radioactive gas measurements replaced dedicated timing cables by synchronising multiple detector modules over Ethernet using IEEE 1588. The researchers required timing substantially below their coincidence window in order to identify related detector events, demonstrating timing precision from hundreds of nanoseconds down to hundreds of picoseconds depending on configuration. Although the application differs completely from aerial observation, the underlying measurement problem is similar: independent sensors become more informative when their clocks agree closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1908.08009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Network Time Synchronization of the Readout Electronics for a New Radioactive Gas Detection SystemAugust 21, 2019...</span><span class="citation-popover-meta">Published: August 21, 2019</span></span></span>
+One published detector system for radioactive gas measurements replaced dedicated timing cables by synchronising multiple detector modules over Ethernet using IEEE 1588. The researchers required timing substantially below their coincidence window in order to identify related detector events, demonstrating timing precision from hundreds of nanoseconds down to hundreds of picoseconds depending on configuration. Although the application differs completely from aerial observation, the underlying measurement problem is similar: independent sensors become more informative when their clocks agree closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1908.08009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Network Time Synchronization of the Readout Electronics for a New Radioactive Gas Detection SystemAugust 21, 2019...</span><span class="citation-popover-meta">Published: August 21, 2019</span></span></span>
 
 This illustrates an important point for automated UAP detector stations. Precision timing is not unique to UAP investigations; it is a standard engineering solution wherever distributed measurements must later be combined into a single event timeline.
 
@@ -348,7 +348,7 @@ One common misconception is that synchronising every computer to an internet tim
 
 Even if two computers report identical wall-clock time, the instant when a sensor actually measured a signal may differ unless those internal delays have also been characterised or compensated.
 
-For this reason, modern measurement systems increasingly distinguish between the acquisition timestamp—when the sensor actually observed the signal—and later software timestamps associated with storage, transmission or processing. Precision timing infrastructure is most valuable when acquisition timestamps are preserved throughout the data pipeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Introduction to IEEE 1588 &#124; NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</span></span></span>
+For this reason, modern measurement systems increasingly distinguish between the acquisition timestamp—when the sensor actually observed the signal—and later software timestamps associated with storage, transmission or processing. Precision timing infrastructure is most valuable when acquisition timestamps are preserved throughout the data pipeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Introduction to IEEE 1588 &#124; NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wPGRXQYDAyQ" title="NTP vs. PTP: How Do You Get Accuracy?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wPGRXQYDAyQ" target="_blank" rel="noopener noreferrer">NTP vs. PTP: How Do You Get Accuracy?</a></p><p class="youtube-embed-meta">Channel: ATIS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wPGRXQYDAyQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wPGRXQYDAyQ">Open on YouTube</a></p></div></div></div>
@@ -368,196 +368,196 @@ The key engineering question is therefore not *How accurate can the clock become
 
 Discussions of UAP instrumentation sometimes imply that increasingly sophisticated clocks somehow increase the likelihood of detecting anomalous objects. They do not. Better synchronisation simply produces measurements whose timing uncertainty is known and can be quantified.
 
-This aligns with the broader recommendations from NASA's independent UAP study, which emphasised improved sensor calibration, richer metadata and consistent measurement practices rather than any specialised technology aimed at unusual phenomena. Likewise, the Galileo Project's published observatory architecture places considerable emphasis on coordinated multimodal acquisition and data provenance, reflecting the same measurement principle: multiple calibrated sensors are most valuable when their observations can be placed confidently on a common timeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
+This aligns with the broader recommendations from NASA's independent UAP study, which emphasised improved sensor calibration, richer metadata and consistent measurement practices rather than any specialised technology aimed at unusual phenomena. Likewise, the Galileo Project's published observatory architecture places considerable emphasis on coordinated multimodal acquisition and data provenance, reflecting the same measurement principle: multiple calibrated sensors are most valuable when their observations can be placed confidently on a common timeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-3-dark.svg" | relative_url }}" alt="Network Time illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_network_vs_precision_bdd6eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Internet Time Good Enough for UAP Video?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Internet Time Good Enough for UAP Video?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
-        </h4>
-        <p class="fr-book-author">By Ernest O. Doebelin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
+</h4>
+<p class="fr-book-author">By Ernest O. Doebelin</p>
         
-        <p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-search-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment merch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment merch on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20merch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20Merch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMerch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment merch on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">network equipment merch</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Merch</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment merch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment merch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment merch on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20merch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20Merch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMerch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment merch on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Top pick</p>
+<h4 class="fr-search-title">network equipment merch</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Merch</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment merch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment poster -book -books" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">network equipment poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment poster -book -books" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment poster -book -books" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment poster on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment poster on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">network equipment poster</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Poster</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment poster -book -books" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment patch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment patch on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment patch on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">network equipment patch</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Patch</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment patch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment patch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment patch on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment patch on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">network equipment patch</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Patch</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment patch" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
+</a>
+</div>
+</article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment t shirt" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment t shirt on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment t shirt on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">network equipment t shirt</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment t shirt" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card fr-search-card-visual">
+<a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment t shirt" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open network equipment t shirt on eBay">
+<img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20network%20equipment%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENetwork%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEquipment%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENetwork%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEquipment%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for network equipment t shirt on eBay" loading="lazy">
+</a>
+<div class="fr-search-info">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">network equipment t shirt</h4>
+<p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+<div class="fr-search-tags"><span class="fr-search-tag">Network</span><span class="fr-search-tag">Equipment</span><span class="fr-search-tag">Shirt</span></div>
+<a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="network equipment t shirt" data-ebay-reference="network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
-        </a>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+</a>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=network+equipment+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=network-time-is-internet-time-good-enough-for-uap-video-automated-instrumented-ufo-detectors-network-equipment-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,198 +763,198 @@ This aligns with the broader recommendations from NASA's independent UAP study, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to IEEE 1588 | NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</p></details>
+   Link:<a href="https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/introduction-ieee-1588</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to IEEE 1588 | NISTIEEE 1588 addresses the clock synchronization requirements of measurement and control systems. NIST h...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: standards.ieee.org  
    Title: Standards Association IEEE SA  
-   Link: <a href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow">https://standards.ieee.org/standard/1588-2008.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</p></details>
+   Link:<a href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow">https://standards.ieee.org/standard/1588-2008.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE Standards AssociationIEEE SA - IEEE 1588-2008This standard defines a network protocol, the Precision Time Protocol (PTP), enabling a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe panel notes that, at present, gathering data on UAP is hampered by sensor calibration challe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: safranfederalsystems.com  
-   Link: <a href="https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp" target="_blank" rel="noopener noreferrer nofollow">https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTP vs PTP Understanding Time Synchronization...This post will explain and compare Network Time Protocol and Precisi...</p></details>
+   Link:<a href="https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp" target="_blank" rel="noopener noreferrer nofollow">https://www.safranfederalsystems.com/pnt-library-content/ntp-vs-ptp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTP vs PTP Understanding Time Synchronization...This post will explain and compare Network Time Protocol and Precisi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nist.gov  
    Title: tutorial basicpdf  
-   Link: <a href="https://www.nist.gov/document/tutorial-basicpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/tutorial-basicpdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE-1588 Standard for a Precision Clock Synchronization...by J Eidson · 2005 · Cited by 426 — IEEE 1588 is a protocol designed to synch...</p></details>
+   Link:<a href="https://www.nist.gov/document/tutorial-basicpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/tutorial-basicpdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE-1588 Standard for a Precision Clock Synchronization...by J Eidson · 2005 · Cited by 426 — IEEE 1588 is a protocol designed to synch...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1908.08009" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.08009</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Network Time Synchronization of the Readout Electronics for a New Radioactive Gas Detection SystemAugust 21, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1908.08009" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1908.08009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Network Time Synchronization of the Readout Electronics for a New Radioactive Gas Detection SystemAugust 21, 2019...</p></details>
    Published: August 21, 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System Architectureby P Bridgham · 2025 — Abstract:Scientific investigation of Unidentified Anomalous P...</p></details>
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System Architectureby P Bridgham · 2025 — Abstract:Scientific investigation of Unidentified Anomalous P...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
+   Link:<a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nist.gov  
    Title: ieee 1588  
-   Link: <a href="https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 TM Standard for A Precision Clock Synchronization Protocol for Networked Measurement and Control SystemsRead more...</p></details>
+   Link:<a href="https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 TM Standard for A Precision Clock Synchronization Protocol for Networked Measurement and Control SystemsRead more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nist.gov  
    Title: ieee 1588 products implementations  
-   Link: <a href="https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588-products-implementations" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588-products-implementations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 Products &amp; Implementations | NISTOct 22, 2010 — TK-Active Client for recovering and measuring multisource NTP/PTP time and sync...</p></details>
+   Link:<a href="https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588-products-implementations" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/el/intelligent-systems-division-73500/ieee-1588-products-implementations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 Products &amp; Implementations | NISTOct 22, 2010 — TK-Active Client for recovering and measuring multisource NTP/PTP time and sync...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-powerex-enhance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-powerex-enhance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for U.S. Semiconductor Manufacturing...</p></details>
+   Link:<a href="https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-powerex-enhance" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-finalization-chips-incentives-powerex-enhance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for U.S. Semiconductor Manufacturing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/08odonoghueemergingsecurityoverviewpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/08odonoghueemergingsecurityoverviewpdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 6. IEEE/NIST Time...Read more...</p></details>
+   Link:<a href="https://www.nist.gov/document/08odonoghueemergingsecurityoverviewpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/08odonoghueemergingsecurityoverviewpdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 6. IEEE/NIST Time...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/publications/2005-conference-ieee-1588-standard-precision-clock-synchronization-protocol-networked" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/2005-conference-ieee-1588-standard-precision-clock-synchronization-protocol-networked</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2005 Conference on IEEE-1588 Standard for a Precision...by KB Lee · 2006 · Cited by 1 — 2005 Conference on IEEE-1588 Standard for a Prec...</p></details>
+   Link:<a href="https://www.nist.gov/publications/2005-conference-ieee-1588-standard-precision-clock-synchronization-protocol-networked" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/2005-conference-ieee-1588-standard-precision-clock-synchronization-protocol-networked</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2005 Conference on IEEE-1588 Standard for a Precision...by KB Lee · 2006 · Cited by 1 — 2005 Conference on IEEE-1588 Standard for a Prec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tsapps.nist.gov  
    Title: get pdf.cfm  
-   Link: <a href="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=906259" target="_blank" rel="noopener noreferrer nofollow">https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=906259</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 Time Synchronization Testbed for Assessing...The testbed provides an experimental venue to explore IEEE 1588 Precision Time Pr...</p></details>
+   Link:<a href="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=906259" target="_blank" rel="noopener noreferrer nofollow">https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=906259</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 Time Synchronization Testbed for Assessing...The testbed provides an experimental venue to explore IEEE 1588 Precision Time Pr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
    Published: May 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19780042273" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19780042273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timing accuracy requirements and procedures for...by GA Smith · 1978 — Although time accuracies of 100 milliseconds were sufficient when...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19780042273" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19780042273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timing accuracy requirements and procedures for...by GA Smith · 1978 — Although time accuracies of 100 milliseconds were sufficient when...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implement...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implement...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, at the agency&#x27;s headquarters in Washington to discuss the findings from an unidentified...Read more...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14, at the agency&#x27;s headquarters in Washington to discuss the findings from an unidentified...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ieeexplore.ieee.org  
-   Link: <a href="https://ieeexplore.ieee.org/document/7579503/" target="_blank" rel="noopener noreferrer nofollow">https://ieeexplore.ieee.org/document/7579503/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>time transfer using IEEE 1588 over OTN through...by M Weiss · 2016 · Cited by 11 — This paper provides an update on a joint project empl...</p></details>
+   Link:<a href="https://ieeexplore.ieee.org/document/7579503/" target="_blank" rel="noopener noreferrer nofollow">https://ieeexplore.ieee.org/document/7579503/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>time transfer using IEEE 1588 over OTN through...by M Weiss · 2016 · Cited by 11 — This paper provides an update on a joint project empl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sagroups.ieee.org  
    Title: learn about ptp  
-   Link: <a href="https://sagroups.ieee.org/1588/learn-about-ptp/" target="_blank" rel="noopener noreferrer nofollow">https://sagroups.ieee.org/1588/learn-about-ptp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Working Group - LearnThis page provides references to freely available material and books relevant for users and implementers of the...</p></details>
+   Link:<a href="https://sagroups.ieee.org/1588/learn-about-ptp/" target="_blank" rel="noopener noreferrer nofollow">https://sagroups.ieee.org/1588/learn-about-ptp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Working Group - LearnThis page provides references to freely available material and books relevant for users and implementers of the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: course.hevs.io  
-   Link: <a href="https://course.hevs.io/did/eda-docs/eda_libs/Ethernet/ptp.html" target="_blank" rel="noopener noreferrer nofollow">https://course.hevs.io/did/eda-docs/eda_libs/Ethernet/ptp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GitLabIEEE Std 1588-2008 Precision Time Protocol (PTP)The Precision Time Protocol allows to synchronize clocks over a distributed network...</p></details>
+   Link:<a href="https://course.hevs.io/did/eda-docs/eda_libs/Ethernet/ptp.html" target="_blank" rel="noopener noreferrer nofollow">https://course.hevs.io/did/eda-docs/eda_libs/Ethernet/ptp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GitLabIEEE Std 1588-2008 Precision Time Protocol (PTP)The Precision Time Protocol allows to synchronize clocks over a distributed network...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Precision Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Precision Time ProtocolPTP was originally defined in the IEEE 1588-2002 standard, officially titled Standard for a Precision Clock Syn...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Precision Time ProtocolPTP was originally defined in the IEEE 1588-2002 standard, officially titled Standard for a Precision Clock Syn...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eecis.udel.edu  
-   Link: <a href="https://www.eecis.udel.edu/~mills/ptp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eecis.udel.edu/~mills/ptp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Precision Time Protocol (PTP)May 18, 2012 — This document explores the similarities and differences between the Network Time Protoco...</p></details>
+   Link:<a href="https://www.eecis.udel.edu/~mills/ptp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eecis.udel.edu/~mills/ptp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Precision Time Protocol (PTP)May 18, 2012 — This document explores the similarities and differences between the Network Time Protoco...</p></details>
    Published: May 18, 2012  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pwkinternational.com  
    Title: uap unidentified anomaly or demand signal  
-   Link: <a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
+   Link:<a href="https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/" target="_blank" rel="noopener noreferrer nofollow">https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Not just better cameras or radars — sensor packages that generate actionable meta...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...The report acknowledges that analyzing UAP data faces challenges due to sensor calib...</p></details>
+   Link:<a href="https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstroAlexandraOfficial/posts/nasa-uap-ufo-report-released-today-offers-a-few-answers-but-doesnt-find-or-rule-/319484690604324/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few...The report acknowledges that analyzing UAP data faces challenges due to sensor calib...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: etherwan.com  
-   Link: <a href="https://www.etherwan.com/support/featured-articles/ntp-vs-ptp-decoding-time-synchronization" target="_blank" rel="noopener noreferrer nofollow">https://www.etherwan.com/support/featured-articles/ntp-vs-ptp-decoding-time-synchronization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTP Vs. PTP: Decoding Time SynchronizationPTP enables server time synchronization with sub-microsecond to nanosecond precision, surpassin...</p></details>
+   Link:<a href="https://www.etherwan.com/support/featured-articles/ntp-vs-ptp-decoding-time-synchronization" target="_blank" rel="noopener noreferrer nofollow">https://www.etherwan.com/support/featured-articles/ntp-vs-ptp-decoding-time-synchronization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTP Vs. PTP: Decoding Time SynchronizationPTP enables server time synchronization with sub-microsecond to nanosecond precision, surpassin...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/networking/comments/itir9t/precision_time_protocol_vs_network_time_protocol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/networking/comments/itir9t/precision_time_protocol_vs_network_time_protocol/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Precision Time Protocol vs. Network Time ProtocolPTP is a newer protocol to keep much tighter time than NTP, for highly specialized purpo...</p></details>
+   Link:<a href="https://www.reddit.com/r/networking/comments/itir9t/precision_time_protocol_vs_network_time_protocol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/networking/comments/itir9t/precision_time_protocol_vs_network_time_protocol/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Precision Time Protocol vs. Network Time ProtocolPTP is a newer protocol to keep much tighter time than NTP, for highly specialized purpo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: evidence-standards.vercel.app  
-   Link: <a href="https://evidence-standards.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://evidence-standards.vercel.app/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensor Data StandardsSensor data plays a critical role in analyzing UAP encounters. Various sensors, ranging from [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) to electromagneti...</p></details>
+   Link:<a href="https://evidence-standards.vercel.app/" target="_blank" rel="noopener noreferrer nofollow">https://evidence-standards.vercel.app/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensor Data StandardsSensor data plays a critical role in analyzing UAP encounters. Various sensors, ranging from [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) to electromagneti...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science and AnalysisJoshua Shank examine event-based sensing as an emerging technology for detecting, t...</p></details>
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science and AnalysisJoshua Shank examine event-based sensing as an emerging technology for detecting, t...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</p></details>
+   Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: timebeat.app  
    Title: the future of precision timing exploring ptp ntp grandmaster clocks  
-   Link: <a href="https://www.timebeat.app/post/the-future-of-precision-timing-exploring-ptp-ntp-grandmaster-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.timebeat.app/post/the-future-of-precision-timing-exploring-ptp-ntp-grandmaster-clocks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring PTP / NTP Grandmaster ClocksFeb 27, 2025 — IEEE-1588, also known as Precision Time Protocol (PTP), was developed to overcome th...</p></details>
+   Link:<a href="https://www.timebeat.app/post/the-future-of-precision-timing-exploring-ptp-ntp-grandmaster-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.timebeat.app/post/the-future-of-precision-timing-exploring-ptp-ntp-grandmaster-clocks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring PTP / NTP Grandmaster ClocksFeb 27, 2025 — IEEE-1588, also known as Precision Time Protocol (PTP), was developed to overcome th...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: trmc.osd.mil  
    Title: IEEE 1588 Precision Clock Synchronization Standard Update  
-   Link: <a href="https://www.trmc.osd.mil/wiki/download/attachments/113020139/IEEE%201588%20Precision%20Clock%20Synchronization%20Standard%20Update.pdf?api=v2" target="_blank" rel="noopener noreferrer nofollow">https://www.trmc.osd.mil/wiki/download/attachments/113020139/IEEE%201588%20Precision%20Clock%20Synchronization%20Standard%20Update.pdf?api=v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Precision Clock Synchronization Standard UpdateIEEE 1588 is a protocol designed to synchronize real-time clocks in the nodes of a di...</p></details>
+   Link:<a href="https://www.trmc.osd.mil/wiki/download/attachments/113020139/IEEE%201588%20Precision%20Clock%20Synchronization%20Standard%20Update.pdf?api=v2" target="_blank" rel="noopener noreferrer nofollow">https://www.trmc.osd.mil/wiki/download/attachments/113020139/IEEE%201588%20Precision%20Clock%20Synchronization%20Standard%20Update.pdf?api=v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1588 Precision Clock Synchronization Standard UpdateIEEE 1588 is a protocol designed to synchronize real-time clocks in the nodes of a di...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: maisvch.com  
    Title: ieee 1588 ptp vs ntp industrial time synchronization  
-   Link: <a href="https://maisvch.com/pt/blog/ieee-1588-ptp-vs-ntp-industrial-time-synchronization/" target="_blank" rel="noopener noreferrer nofollow">https://maisvch.com/pt/blog/ieee-1588-ptp-vs-ntp-industrial-time-synchronization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 PTP vs NTP: Industrial Time Sync GuideNTP or IEEE 1588 PTP for your industrial network? Compare accuracy, topology, and protoco...</p></details>
+   Link:<a href="https://maisvch.com/pt/blog/ieee-1588-ptp-vs-ntp-industrial-time-synchronization/" target="_blank" rel="noopener noreferrer nofollow">https://maisvch.com/pt/blog/ieee-1588-ptp-vs-ntp-industrial-time-synchronization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE 1588 PTP vs NTP: Industrial Time Sync GuideNTP or IEEE 1588 PTP for your industrial network? Compare accuracy, topology, and protoco...</p></details>

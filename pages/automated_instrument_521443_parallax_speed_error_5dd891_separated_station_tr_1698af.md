@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_parallax_speed_error_5dd891_se
 
 ## Introduction
 
-A single camera can tell you where an object appears in the sky, but not how far away it is. That missing distance is the largest source of error when estimating an object's size, altitude or speed. For automated instrumented UFO or UAP detection systems, one of the most effective ways to reduce that [uncertainty]({{ 'uncertainty/' | relative_url }}) is to observe the same target simultaneously from two or more known locations. By intersecting independent lines of sight, the system can estimate a three-dimensional position and attach measurable uncertainty to that estimate rather than relying on assumptions. This is the same geometric principle used in photogrammetry, surveying and astronomy, and it directly addresses the distance ambiguities that can make ordinary objects appear to move at extraordinary speeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2Bartol Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
+A single camera can tell you where an object appears in the sky, but not how far away it is. That missing distance is the largest source of error when estimating an object's size, altitude or speed. For automated instrumented UFO or UAP detection systems, one of the most effective ways to reduce that [uncertainty]({{ 'uncertainty/' | relative_url }}) is to observe the same target simultaneously from two or more known locations. By intersecting independent lines of sight, the system can estimate a three-dimensional position and attach measurable uncertainty to that estimate rather than relying on assumptions. This is the same geometric principle used in photogrammetry, surveying and astronomy, and it directly addresses the distance ambiguities that can make ordinary objects appear to move at extraordinary speeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2Bartol Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-1-dark.svg" | relative_url }}" alt="Triangulation illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ A single camera can tell you where an object appears in the sky, but not how far
 
 Triangulation begins with a simple idea. Each observing station measures the direction to the same object at the same instant. Every direction defines a line extending into space from a precisely known camera position. In an ideal world those lines intersect at a single point, revealing the object's location.
 
-Real systems are never perfect. Lens distortion, atmospheric effects, pixel resolution and [pointing]({{ 'pointing/' | relative_url }}) errors mean the lines usually pass close to one another rather than meeting exactly. Modern triangulation algorithms therefore compute the most probable three-dimensional point that best fits all available observations while also estimating confidence intervals around the solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrcal.secretsauce.net">[mrcal.secretsauce.net+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrcal.secretsauce.net</span><span class="citation-popover-title">Triangulation methods and uncertainty</span><span class="citation-popover-snippet">Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</span></span></span>
+Real systems are never perfect. Lens distortion, atmospheric effects, pixel resolution and [pointing]({{ 'pointing/' | relative_url }}) errors mean the lines usually pass close to one another rather than meeting exactly. Modern triangulation algorithms therefore compute the most probable three-dimensional point that best fits all available observations while also estimating confidence intervals around the solution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrcal.secretsauce.net">[mrcal.secretsauce.net+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrcal.secretsauce.net</span><span class="citation-popover-title">Triangulation methods and uncertainty</span><span class="citation-popover-snippet">Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</span></span></span>
 
 For an automated sky-monitoring network, the practical workflow is typically:
 
@@ -310,7 +310,7 @@ Triangulation is only as reliable as the geometry behind it. Several implementat
 
 The baseline is the separation between observing stations. If cameras are placed too close together, they see nearly identical views and the measured parallax becomes very small. Tiny measurement errors then translate into large distance uncertainties.
 
-Increasing the baseline generally improves range estimation, particularly for distant targets, because the viewing directions intersect at a larger angle. However, an excessively large baseline can reduce the overlap in visible sky and make it harder for both stations to observe the same object simultaneously. Practical systems therefore choose a baseline matched to the expected altitude range of interest rather than assuming that wider is always better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2ISPRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
+Increasing the baseline generally improves range estimation, particularly for distant targets, because the viewing directions intersect at a larger angle. However, an excessively large baseline can reduce the overlap in visible sky and make it harder for both stations to observe the same object simultaneously. Practical systems therefore choose a baseline matched to the expected altitude range of interest rather than assuming that wider is always better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2ISPRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
 
 ### Camera calibration
 
@@ -327,7 +327,7 @@ Accurate triangulation requires more than knowing where cameras are located. The
 
 </div>
 
-Even small calibration errors can bias reconstructed positions by hundreds of metres for distant targets. Photogrammetry systems therefore treat calibration as a routine maintenance task rather than a one-time installation procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2University of Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
+Even small calibration errors can bias reconstructed positions by hundreds of metres for distant targets. Photogrammetry systems therefore treat calibration as a routine maintenance task rather than a one-time installation procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geodetic.com">[Geodetic Systems+2University of Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geodetic.com</span><span class="citation-popover-snippet">Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-2-dark.svg" | relative_url }}" alt="Triangulation illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ Even small calibration errors can bias reconstructed positions by hundreds of me
 
 Fast-moving objects require closely synchronised observations. If one camera records even a fraction of a second earlier than another, the reconstruction may combine two different object positions instead of one.
 
-Research on unsynchronised camera systems shows that [timing]({{ 'timing/' | relative_url }}) offsets can significantly complicate two-view geometry, requiring additional estimation before reliable triangulation becomes possible. In automated detector networks, GPS-disciplined clocks or equivalent precision timing systems are therefore highly desirable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.06843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv On the Two-View Geometry of Unsynchronized Cameras</span><span class="citation-popover-snippet">On the Two-View Geometry of Unsynchronized CamerasApril 22, 2017...</span><span class="citation-popover-meta">Published: April 22, 2017</span></span></span>
+Research on unsynchronised camera systems shows that [timing]({{ 'timing/' | relative_url }}) offsets can significantly complicate two-view geometry, requiring additional estimation before reliable triangulation becomes possible. In automated detector networks, GPS-disciplined clocks or equivalent precision timing systems are therefore highly desirable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.06843" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv On the Two-View Geometry of Unsynchronized Cameras</span><span class="citation-popover-snippet">On the Two-View Geometry of Unsynchronized CamerasApril 22, 2017...</span><span class="citation-popover-meta">Published: April 22, 2017</span></span></span>
 
 ## Why triangulation reduces impossible-speed claims
 
@@ -343,7 +343,7 @@ The parent problem in UAP analysis is that apparent angular motion cannot by its
 
 Triangulation attacks this uncertainty directly by measuring distance instead of guessing it. Once range is known, angular motion can be converted into a physically meaningful velocity. If the reconstructed distance is much greater than originally assumed, dramatic apparent motion often becomes entirely consistent with ordinary aircraft, balloons or atmospheric objects.
 
-This approach complements the broader lessons highlighted by analyses of parallax and forced perspective. Rather than attempting to interpret extraordinary-looking footage from a single viewpoint, multi-station measurements provide an independent geometric check before claims of extreme [acceleration]({{ 'acceleration/' | relative_url }}) or impossible manoeuvres are made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Forced Perspective and Range Estimation. Figure 1: Example of...Read more...</span></span></span>
+This approach complements the broader lessons highlighted by analyses of parallax and forced perspective. Rather than attempting to interpret extraordinary-looking footage from a single viewpoint, multi-station measurements provide an independent geometric check before claims of extreme [acceleration]({{ 'acceleration/' | relative_url }}) or impossible manoeuvres are made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Forced Perspective and Range Estimation. Figure 1: Example of...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzIKWnZJ29s" title="B.o.B&#x27;s Flat Earth Conspiracy Explained (And Obviously Debunked)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzIKWnZJ29s" target="_blank" rel="noopener noreferrer">B.o.B&#x27;s Flat Earth Conspiracy Explained (And Obviously Debunked)</a></p><p class="youtube-embed-meta">Channel: Mashable</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzIKWnZJ29s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzIKWnZJ29s">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Triangulation is powerful, but it does not eliminate every ambiguity.
 
 A frequent practical difficulty is ensuring that each station has identified the same target. In crowded skies containing aircraft lights, satellites or birds, incorrect matching can generate false three-dimensional solutions. Automated systems therefore benefit from combining image appearance, motion history and precise timing when associating detections.
 
-Atmospheric conditions also matter. Heat shimmer, haze, clouds and low contrast reduce angular precision, widening the uncertainty region around the reconstructed position. At long ranges, even very small angular errors can produce substantial distance errors despite using multiple stations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrcal.secretsauce.net">[mrcal.secretsauce.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrcal.secretsauce.net</span><span class="citation-popover-title">Triangulation methods and uncertainty</span><span class="citation-popover-snippet">Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</span></span></span>
+Atmospheric conditions also matter. Heat shimmer, haze, clouds and low contrast reduce angular precision, widening the uncertainty region around the reconstructed position. At long ranges, even very small angular errors can produce substantial distance errors despite using multiple stations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrcal.secretsauce.net">[mrcal.secretsauce.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrcal.secretsauce.net</span><span class="citation-popover-title">Triangulation methods and uncertainty</span><span class="citation-popover-snippet">Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</span></span></span>
 
 Finally, triangulation reconstructs position, not identity. A system may accurately determine that an object is 12 kilometres away at a particular altitude while still being unable to determine whether it is a balloon, drone, aircraft or another object. Identification requires additional evidence such as higher-resolution imagery, spectral measurements, [radar]({{ 'radar/' | relative_url }}) returns or comparison with known traffic databases.
 
@@ -385,194 +385,194 @@ The result is a system that produces measurements with explicit confidence bound
 <img src="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-3-dark.svg" | relative_url }}" alt="Triangulation illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_parallax_speed_error_5dd891_separated_station_tr_1698af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Two Cameras Beat One Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Two Cameras Beat One Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
-        </h4>
-        <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
+</h4>
+<p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
         
-        <p class="fr-book-desc">Directly addresses triangulation and measurement from imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses triangulation and measurement from imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+</h4>
+<p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Introduces celestial coordinate calculations relevant to sky observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces celestial coordinate calculations relevant to sky observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="triangulation-f8259a-why-two-cameras-beat-one-mystery-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The result is a system that produces measurements with explicit confidence bound
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The result is a system that produces measurements with explicit confidence bound
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The result is a system that produces measurements with explicit confidence bound
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The result is a system that produces measurements with explicit confidence bound
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The result is a system that produces measurements with explicit confidence bound
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,137 +778,137 @@ The result is a system that produces measurements with explicit confidence bound
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: geodetic.com  
-   Link: <a href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow">https://www.geodetic.com/basics-of-photogrammetry/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</p></details>
+   Link:<a href="https://www.geodetic.com/basics-of-photogrammetry/" target="_blank" rel="noopener noreferrer nofollow">https://www.geodetic.com/basics-of-photogrammetry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geodetic SystemsBasics of PhotogrammetryThe fundamental principle used by photogrammetry is triangulation. By taking photographs from at...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forced Perspective and Range Estimation. Figure 1: Example of...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forced Perspective and Range Estimation. Figure 1: Example of...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mrcal.secretsauce.net  
    Title: Triangulation methods and uncertainty  
-   Link: <a href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow">https://mrcal.secretsauce.net/triangulation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</p></details>
+   Link:<a href="https://mrcal.secretsauce.net/triangulation.html" target="_blank" rel="noopener noreferrer nofollow">https://mrcal.secretsauce.net/triangulation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsics (lens behavior) and extrinsics (geometry) are required for both Pixel coordinates...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2107.04618" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2107.04618</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimal Triangulation Method is Not Really Optimalby SM Nasiri · 2021 · Cited by 11 — Abstract Triangulation refers to the problem of fin...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2107.04618" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2107.04618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optimal Triangulation Method is Not Really Optimalby SM Nasiri · 2021 · Cited by 11 — Abstract Triangulation refers to the problem of fin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Absolute Triangulation Algorithms for Space Exploration  
-   Link: <a href="https://arxiv.org/abs/2205.12197" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.12197</a>  
+   Link:<a href="https://arxiv.org/abs/2205.12197" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.12197</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: isprs.org  
-   Link: <a href="https://isprs.org/proceedings/XXXV/congress/comm5/papers/188.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isprs.org/proceedings/XXXV/congress/comm5/papers/188.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>delay systems can achieve relatively low measurement uncertainty fact...</p></details>
+   Link:<a href="https://isprs.org/proceedings/XXXV/congress/comm5/papers/188.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isprs.org/proceedings/XXXV/congress/comm5/papers/188.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>delay systems can achieve relatively low measurement uncertainty fact...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv On the Two-View Geometry of Unsynchronized Cameras  
-   Link: <a href="https://arxiv.org/abs/1704.06843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.06843</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Two-View Geometry of Unsynchronized CamerasApril 22, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1704.06843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.06843</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Two-View Geometry of Unsynchronized CamerasApril 22, 2017...</p></details>
    Published: April 22, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defensescoop.com  
    Title: uap aaro findings [go fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — “AARO and its partners disproved the obiect flew through the a...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — “AARO and its partners disproved the obiect flew through the a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — In that case, the object&#x27;s apparent speed in the video was actu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2306.04516" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2306.04516</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Perspectivesby R Dodson · 2023 · Cited by 3 — This development would bring order of magnitude improvements of sensitivity and...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2306.04516" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2306.04516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Perspectivesby R Dodson · 2023 · Cited by 3 — This development would bring order of magnitude improvements of sensitivity and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) explores how astronomers can enhance our understanding of these eni...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) explores how astronomers can enhance our understanding of these eni...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This informational paper provides an overview of these visual effects. Effect of Forced Perspective and...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — This informational paper provides an overview of these visual effects. Effect of Forced Perspective and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesEffect of Forced Perspective and Parallax View on UAP Observations · Correlations of Starlink Satellite Flaring with UAP Observa...</p></details>
+   Link:<a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesEffect of Forced Perspective and Parallax View on UAP Observations · Correlations of Starlink Satellite Flaring with UAP Observa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bartol.udel.edu  
-   Link: <a href="https://www.bartol.udel.edu/~owocki/phys133/3%20-%20Triangulation%20and%20Parallax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bartol.udel.edu/~owocki/phys133/3%20-%20Triangulation%20and%20Parallax.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bartol Research InstitutePHYS133 – Lab 3 Triangulation and ParallaxThis lab consists of two parts, a practical use of triangulation on la...</p></details>
+   Link:<a href="https://www.bartol.udel.edu/~owocki/phys133/3%20-%20Triangulation%20and%20Parallax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bartol.udel.edu/~owocki/phys133/3%20-%20Triangulation%20and%20Parallax.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bartol Research InstitutePHYS133 – Lab 3 Triangulation and ParallaxThis lab consists of two parts, a practical use of triangulation on la...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchportal.port.ac.uk  
-   Link: <a href="https://researchportal.port.ac.uk/files/27394406/Synchronization_and_calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/27394406/Synchronization_and_calibration.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of PortsmouthSynchronization and calibration of a stereo vision systemby X Chen · Cited by 11 — In this paper, we present a st...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/files/27394406/Synchronization_and_calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/27394406/Synchronization_and_calibration.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of PortsmouthSynchronization and calibration of a stereo vision systemby X Chen · Cited by 11 — In this paper, we present a st...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cris.fbk.eu  
-   Link: <a href="https://cris.fbk.eu/retrieve/ddb241a5-6766-ba8a-e053-3a05fe0afd55/Towardsreal-timelargescaleunderwaterphotogrammetryforsubseametrologyapplications_PID5934751.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.fbk.eu/retrieve/ddb241a5-6766-ba8a-e053-3a05fe0afd55/Towardsreal-timelargescaleunderwaterphotogrammetryforsubseametrologyapplications_PID5934751.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>real-time underwater photogrammetry for subsea...by C SA · Cited by 33 — This solution guarantees that 3D points are triangulated with a...</p></details>
+   Link:<a href="https://cris.fbk.eu/retrieve/ddb241a5-6766-ba8a-e053-3a05fe0afd55/Towardsreal-timelargescaleunderwaterphotogrammetryforsubseametrologyapplications_PID5934751.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.fbk.eu/retrieve/ddb241a5-6766-ba8a-e053-3a05fe0afd55/Towardsreal-timelargescaleunderwaterphotogrammetryforsubseametrologyapplications_PID5934751.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>real-time underwater photogrammetry for subsea...by C SA · Cited by 33 — This solution guarantees that 3D points are triangulated with a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amsdottorato.unibo.it  
-   Link: <a href="https://amsdottorato.unibo.it/id/eprint/9489/1/Chiara%20Francolini_PhD%20Thesis_XXXIII_AMS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amsdottorato.unibo.it/id/eprint/9489/1/Chiara%20Francolini_PhD%20Thesis_XXXIII_AMS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Francolini_PhD Thesis_XXXIII_AMSThey are the fundamental of the photogrammetry and are used for example in the spatial intersection, spac...</p></details>
+   Link:<a href="https://amsdottorato.unibo.it/id/eprint/9489/1/Chiara%20Francolini_PhD%20Thesis_XXXIII_AMS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amsdottorato.unibo.it/id/eprint/9489/1/Chiara%20Francolini_PhD%20Thesis_XXXIII_AMS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Francolini_PhD Thesis_XXXIII_AMSThey are the fundamental of the photogrammetry and are used for example in the spatial intersection, spac...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ccatobservatory.org  
-   Link: <a href="https://www.ccatobservatory.org/papers/" target="_blank" rel="noopener noreferrer nofollow">https://www.ccatobservatory.org/papers/</a>  
+   Link:<a href="https://www.ccatobservatory.org/papers/" target="_blank" rel="noopener noreferrer nofollow">https://www.ccatobservatory.org/papers/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theforestawakening.com  
    Title: effect of forced perspective and parallax view on uap observations 35a2093a  
-   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO explains how forced perspective and parallax effects can accou...</p></details>
+   Link:<a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...1 Jan 2024 — AARO explains how forced perspective and parallax effects can accou...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pl4ah_HvWkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pl4ah_HvWkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Math and Science of Forced PerspectiveForced perspective is just an optical illusion to make an object appear larger or smaller or cl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pl4ah_HvWkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pl4ah_HvWkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Math and Science of Forced PerspectiveForced perspective is just an optical illusion to make an object appear larger or smaller or cl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: This report remains [unresolved](&#123;&#123; 'unresolved/' | relative_url &#125;&#125;) due to lack of technical data.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UzIKWnZJ29s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzIKWnZJ29s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unidentified Aerial Objects Tracked by Military Systems - YouTube Top 10 Unidentified Aerial Objects Tracked by Military Systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UzIKWnZJ29s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UzIKWnZJ29s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unidentified Aerial Objects Tracked by Military Systems - YouTube Top 10 Unidentified Aerial Objects Tracked by Military Systems...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: armed-services.senate.gov  
    Title: aaro case slides 112024  
-   Link: <a href="https://www.armed-services.senate.gov/download/aaro-case-slides-112024" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-case-slides-112024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed AARO Branding Guide5. With the F/A-18 flying into the wind, the UAP apparent high speed due to parallax (right) is amplified com...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/aaro-case-slides-112024" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/aaro-case-slides-112024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed AARO Branding Guide5. With the F/A-18 flying into the wind, the UAP apparent high speed due to parallax (right) is amplified com...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17076062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17076062/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of motion parallax and perspective cues on...by J Tozawa · 2006 · Cited by 16 — In three experiments we examined the relative effectiven...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17076062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17076062/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of motion parallax and perspective cues on...by J Tozawa · 2006 · Cited by 16 — In three experiments we examined the relative effectiven...</p></details>

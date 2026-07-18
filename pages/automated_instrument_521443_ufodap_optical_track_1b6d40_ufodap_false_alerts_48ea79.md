@@ -280,11 +280,11 @@ image: /assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_uf
 
 ## Introduction
 
-An automated sky-watching system is useful only if it can reject far more ordinary events than it preserves. In practice, the overwhelming majority of detections made by [UFODAP]({{ 'ufodap/' | relative_url }})-style optical tracking systems are expected to be conventional aircraft, birds, insects, [satellites]({{ 'satellites/' | relative_url }}), atmospheric effects, or sensor artefacts rather than genuinely unexplained objects. The challenge is therefore not merely detecting motion but filtering routine traffic without accidentally discarding unusual events. NASA's recent UAP studies have repeatedly stressed that most reports ultimately involve conventional objects, environmental effects, or limitations in the available data, making careful discrimination the central problem of any instrumented detection programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
+An automated sky-watching system is useful only if it can reject far more ordinary events than it preserves. In practice, the overwhelming majority of detections made by [UFODAP]({{ 'ufodap/' | relative_url }})-style optical tracking systems are expected to be conventional aircraft, birds, insects, [satellites]({{ 'satellites/' | relative_url }}), atmospheric effects, or sensor artefacts rather than genuinely unexplained objects. The challenge is therefore not merely detecting motion but filtering routine traffic without accidentally discarding unusual events. NASA's recent UAP studies have repeatedly stressed that most reports ultimately involve conventional objects, environmental effects, or limitations in the available data, making careful discrimination the central problem of any instrumented detection programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-1-dark.svg" | relative_url }}" alt="False Alerts illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For hobbyist systems such as UFODAP, false alerts are not a side issue. They are the dominant operational reality. A detector that records every moving object may produce thousands of clips, but a detector that reliably labels common targets can reduce [review]({{ 'review/' | relative_url }}) time dramatically and allow attention to focus on the small fraction of events that remain unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
+For hobbyist systems such as UFODAP, false alerts are not a side issue. They are the dominant operational reality. A detector that records every moving object may produce thousands of clips, but a detector that reliably labels common targets can reduce [review]({{ 'review/' | relative_url }}) time dramatically and allow attention to focus on the small fraction of events that remain unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
 
 ## Common ordinary targets in sky footage
 
@@ -292,15 +292,15 @@ For hobbyist systems such as UFODAP, false alerts are not a side issue. They are
 
 Aircraft create many of the same visual signatures that trigger automated tracking systems. At long distances they may appear as small luminous points, flashing lights, elongated streaks, or slowly moving objects with no obvious structure. Changes in viewing angle can make a commercial airliner seem to stop, accelerate, brighten, dim, or alter direction unexpectedly.
 
-Because aircraft are common and highly variable in appearance, automated classification systems devote significant effort to recognising them. UFODAP specifically states that its analysis tools can identify aircraft and label recordings accordingly, optionally adding estimated target types and confidence values to recorded folders. The objective is not to prove identification with certainty but to reduce the amount of routine footage requiring manual inspection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
+Because aircraft are common and highly variable in appearance, automated classification systems devote significant effort to recognising them. UFODAP specifically states that its analysis tools can identify aircraft and label recordings accordingly, optionally adding estimated target types and confidence values to recorded folders. The objective is not to prove identification with certainty but to reduce the amount of routine footage requiring manual inspection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
 
-Research outside the UAP field reaches the same conclusion. Automated all-sky monitoring systems used in astronomy and satellite-laser-ranging operations increasingly employ machine learning specifically to detect and classify aircraft because conventional motion-trigger methods generate excessive nuisance detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Detection of aircraft traces in nighttime all-sky camera</span><span class="citation-popover-snippet">Detection of aircraft traces in nighttime all-sky camera...November 7, 2023 — In this work we demonstrate the automatic dete...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span>
+Research outside the UAP field reaches the same conclusion. Automated all-sky monitoring systems used in astronomy and satellite-laser-ranging operations increasingly employ machine learning specifically to detect and classify aircraft because conventional motion-trigger methods generate excessive nuisance detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Detection of aircraft traces in nighttime all-sky camera</span><span class="citation-popover-snippet">Detection of aircraft traces in nighttime all-sky camera...November 7, 2023 — In this work we demonstrate the automatic dete...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span>
 
 ### Birds are harder than many observers expect
 
 Birds are among the most persistent causes of apparent anomalies. A bird crossing near a camera can move much faster across the image than a distant aircraft. Wing beats create fluctuating brightness, irregular shapes and sudden changes in apparent speed. At night, birds illuminated by artificial lighting may appear as isolated luminous objects with no visible body.
 
-Computer-vision researchers working on bird-detection systems routinely describe false detections and classification difficulties caused by changing backgrounds, weather, vegetation movement and varying bird appearances. In many systems, substantial filtering is required before useful bird identification becomes possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">DIVA Portal Bird Detection System</span><span class="citation-popover-snippet">DIVA PortalBird Detection SystemApril 28, 2022 — by P Notla · 2022 · Cited by 1 — In addition to removing repeating false positives, the...</span><span class="citation-popover-meta">Published: April 28, 2022</span></span></span>
+Computer-vision researchers working on bird-detection systems routinely describe false detections and classification difficulties caused by changing backgrounds, weather, vegetation movement and varying bird appearances. In many systems, substantial filtering is required before useful bird identification becomes possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">DIVA Portal Bird Detection System</span><span class="citation-popover-snippet">DIVA PortalBird Detection SystemApril 28, 2022 — by P Notla · 2022 · Cited by 1 — In addition to removing repeating false positives, the...</span><span class="citation-popover-meta">Published: April 28, 2022</span></span></span>
 
 For a UAP hobbyist station, birds are especially troublesome because they can generate motion patterns that look less predictable than aircraft. A detector tuned only for movement may therefore flag birds disproportionately often.
 
@@ -328,9 +328,9 @@ Common artefact sources include:
 * PTZ camera movement creating apparent target motion.
 * [Weather effects]({{ 'weather-effects/' | relative_url }}) such as rain, snow, mist or blowing debris.
 
-A key lesson from both astronomy and UAP investigations is that isolated imagery can easily mislead. NASA's UAP study emphasised that poor calibration, missing metadata and lack of contextual measurements frequently prevent reliable interpretation of unusual-looking recordings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
+A key lesson from both astronomy and UAP investigations is that isolated imagery can easily mislead. NASA's UAP study emphasised that poor calibration, missing metadata and lack of contextual measurements frequently prevent reliable interpretation of unusual-looking recordings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
-This is why modern instrumented-observatory proposals increasingly rely on multiple sensors rather than a single camera. The Galileo Project's multimodal observatory concept, for example, explicitly treats cross-checking between independent instruments as a way to distinguish genuine targets from camera artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+This is why modern instrumented-observatory proposals increasingly rely on multiple sensors rather than a single camera. The Galileo Project's multimodal observatory concept, for example, explicitly treats cross-checking between independent instruments as a way to distinguish genuine targets from camera artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-2-dark.svg" | relative_url }}" alt="False Alerts illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ This is why modern instrumented-observatory proposals increasingly rely on multi
 
 The most practical response to false alerts is not attempting perfect identification but prioritising likely explanations.
 
-UFODAP's software architecture reflects this philosophy. Rather than declaring an object to be a UFO, it attempts to classify known categories such as aircraft and birds and attaches confidence estimates to recordings. Events matching common patterns can then be reviewed later or filtered from immediate attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
+UFODAP's software architecture reflects this philosophy. Rather than declaring an object to be a UFO, it attempts to classify known categories such as aircraft and birds and attaches confidence estimates to recordings. Events matching common patterns can then be reviewed later or filtered from immediate attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</span></span></span>
 
 This approach mirrors a broader trend in machine vision:
 
@@ -372,7 +372,7 @@ Context may include:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Flight-tracking data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[ufodap.myshopify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">It provides for three types of hardware and software</span><span class="citation-popover-snippet">Cameras for UFO/UAP tracking and data collection - ufodapOTDAU software requires one camera, and optionally two, to detect and then track...</span></span></span>
+* Flight-tracking data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[ufodap.myshopify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">It provides for three types of hardware and software</span><span class="citation-popover-snippet">Cameras for UFO/UAP tracking and data collection - ufodapOTDAU software requires one camera, and optionally two, to detect and then track...</span></span></span>
 * Weather conditions.
 * Astronomical object positions.
 * Camera orientation and zoom level.
@@ -383,204 +383,204 @@ Context may include:
 
 </div>
 
-NASA's UAP report repeatedly argues that better contextual data is more valuable than isolated imagery because anomalous appearances often arise from ordinary objects observed under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
+NASA's UAP report repeatedly argues that better contextual data is more valuable than isolated imagery because anomalous appearances often arise from ordinary objects observed under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</span></span></span>
 
 A distant aircraft viewed head-on, a bird crossing close to the lens, and a sensor artefact produced by [camera motion]({{ 'camera-motion/' | relative_url }}) may all appear unusual in a short clip. Once trajectory information, timing data and environmental measurements are added, the apparent anomaly frequently disappears.
 
-This creates an important principle for automated UFO detectors: the most valuable recording is not necessarily the most dramatic image. It is the recording with enough accompanying information to rule out aircraft, birds and artefacts. Only after those routine explanations have been systematically eliminated does a remaining track become genuinely interesting for further analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</span></span></span>
+This creates an important principle for automated UFO detectors: the most valuable recording is not necessarily the most dramatic image. It is the recording with enough accompanying information to rule out aircraft, birds and artefacts. Only after those routine explanations have been systematically eliminated does a remaining track become genuinely interesting for further analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-3-dark.svg" | relative_url }}" alt="False Alerts illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_false_alerts_48ea79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What keeps a detector from crying UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What keeps a detector from crying UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing unexplained cases from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing unexplained cases from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores UFO reports while emphasizing interpretation of observations and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO reports while emphasizing interpretation of observations and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of credible data, documentation, and careful case assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of credible data, documentation, and careful case assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers recognize common celestial objects and observational effects that can trigger false alerts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognize common celestial objects and observational effects that can trigger false alerts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-alerts-what-keeps-a-detector-from-crying-ufo-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ This creates an important principle for automated UFO detectors: the most valuab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ This creates an important principle for automated UFO detectors: the most valuab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ This creates an important principle for automated UFO detectors: the most valuab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ This creates an important principle for automated UFO detectors: the most valuab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ This creates an important principle for automated UFO detectors: the most valuab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,176 +786,176 @@ This creates an important principle for automated UFO detectors: the most valuab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — “We find no evidence to suggest that UAP are extraterrestrial...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — “We find no evidence to suggest that UAP are extraterrestrial...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</p></details>
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyThis feature can recognize aircraft and birds, modifying the video file name... folder name to include...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Detection of aircraft traces in nighttime all-sky camera  
-   Link: <a href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of aircraft traces in nighttime all-sky camera...November 7, 2023 — In this work we demonstrate the automatic dete...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of aircraft traces in nighttime all-sky camera...November 7, 2023 — In this work we demonstrate the automatic dete...</p></details>
    Published: November 7, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: diva-portal.org  
    Title: DIVA Portal Bird Detection System  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalBird Detection SystemApril 28, 2022 — by P Notla · 2022 · Cited by 1 — In addition to removing repeating [false positives](&amp;#123;&amp;#123; &#x27;false-positives/&#x27; | relative_url &amp;#125;&amp;#125;), the...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1653806/FULLTEXT02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIVA PortalBird Detection SystemApril 28, 2022 — by P Notla · 2022 · Cited by 1 — In addition to removing repeating [false positives](&amp;#123;&amp;#123; &#x27;false-positives/&#x27; | relative_url &amp;#125;&amp;#125;), the...</p></details>
    Published: April 28, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BirdRecorder&#x27;s AI on Sky: Safeguarding birds of prey by...25 Aug 2025 — To avoid false positive detections, we had to mask out cons...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BirdRecorder&#x27;s AI on Sky: Safeguarding birds of prey by...25 Aug 2025 — To avoid false positive detections, we had to mask out cons...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — NASA defines UAP as observations of events in the sky that cannot be id...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...12 Sept 2023 — NASA defines UAP as observations of events in the sky that cannot be id...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
    Title: s UAS.Read mo  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Tracking of Aircraft in the Far-Field from...by CV Dolph · 2021 · Cited by 18 — Another goal is the development of a perception syst...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Tracking of Aircraft in the Far-Field from...by CV Dolph · 2021 · Cited by 18 — Another goal is the development of a perception syst...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — In 2023, NASA commissioned the UAP Independent Study... To learn more, you may read the UAP Independent Study Team Final Re...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — In 2023, NASA commissioned the UAP Independent Study... To learn more, you may read the UAP Independent Study Team Final Re...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufodap.com  
    Title: UFODA P  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe UFO Data Acquisition Project objective is to enable UAP/UFO research by deployment of advanc...</p></details>
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe UFO Data Acquisition Project objective is to enable UAP/UFO research by deployment of advanc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFODAP Presentation V2 2  
-   Link: <a href="http://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=06osHBotcxk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=06osHBotcxk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Presentation V2 1...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Presentation V2 1...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFODAP Presentation V2 1  
-   Link: <a href="http://www.youtube.com/watch?v=Q9Q7BeXZBXw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q9Q7BeXZBXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyhub ufo tracker information [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) machine learning...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Q9Q7BeXZBXw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q9Q7BeXZBXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skyhub ufo tracker information [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) machine learning...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Skyhub ufo uap tracker detailed information  
-   Link: <a href="http://www.youtube.com/watch?v=jHRxopSeWqE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jHRxopSeWqE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP presentation software data collection UFODAP Hardware and Software Examples Ron Olch...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jHRxopSeWqE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jHRxopSeWqE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP presentation software data collection UFODAP Hardware and Software Examples Ron Olch...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software, came...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software, came...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufodap.myshopify.com  
    Title: It provides for three types of hardware and software  
-   Link: <a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras for UFO/UAP tracking and data collection - ufodapOTDAU software requires one camera, and optionally two, to detect and then track...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras for UFO/UAP tracking and data collection - ufodapOTDAU software requires one camera, and optionally two, to detect and then track...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VD6LteP-GPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD6LteP-GPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Data Tag TutorialThis content is now obsolete. Please reference recently uploaded videos for up-to-date information.* The Data T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VD6LteP-GPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD6LteP-GPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Data Tag TutorialThis content is now obsolete. Please reference recently uploaded videos for up-to-date information.* The Data T...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
    Published: May 31, 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1790723541046631/posts/5579976538787960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1790723541046631/posts/5579976538787960/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weight and other info is made with another program and pasted on top of the case. 3y · 1...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1790723541046631/posts/5579976538787960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1790723541046631/posts/5579976538787960/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weight and other info is made with another program and pasted on top of the case. 3y · 1...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: port.ac.uk  
    Title: ufos what well learn from the nasa panel investigating sightings  
-   Link: <a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
+   Link:<a href="https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.port.ac.uk/news-events-and-blogs/blogs/developing-enhanced-technologies/ufos-what-well-learn-from-the-nasa-panel-investigating-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what we&#x27;ll learn from the Nasa panel investigating sightings13 Jun 2023 — A committee set up by Nasa has examined about 800 reports of un...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: clementfung.me  
-   Link: <a href="https://clementfung.me/gallery/papers/iros24-robust-aircraft-detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clementfung.me/gallery/papers/iros24-robust-aircraft-detection.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DAA) problem deals with incorporating collision avoidance capabilities into current autopilot...Read more...</p></details>
+   Link:<a href="https://clementfung.me/gallery/papers/iros24-robust-aircraft-detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clementfung.me/gallery/papers/iros24-robust-aircraft-detection.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DAA) problem deals with incorporating collision avoidance capabilities into current autopilot...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: honda-ri.de  
-   Link: <a href="https://www.honda-ri.de/pubs/pdf/2796.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.honda-ri.de/pubs/pdf/2796.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d by analyzing the frames in a stream of images from a camera for static image parts.Read more...</p></details>
+   Link:<a href="https://www.honda-ri.de/pubs/pdf/2796.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.honda-ri.de/pubs/pdf/2796.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d by analyzing the frames in a stream of images from a camera for static image parts.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/record/3821139/files/Drone-Aircraft-and-Bird-Identification-in-Video-Images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/record/3821139/files/Drone-Aircraft-and-Bird-Identification-in-Video-Images.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Apr 2020 — Due to its design, missed detections and [false alarms](&amp;#123;&amp;#123; &#x27;false-alarms/&#x27; | relative_url &amp;#125;&amp;#125;) can occur frequently which can provide misleading information to the...</p></details>
+   Link:<a href="https://zenodo.org/record/3821139/files/Drone-Aircraft-and-Bird-Identification-in-Video-Images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/record/3821139/files/Drone-Aircraft-and-Bird-Identification-in-Video-Images.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Apr 2020 — Due to its design, missed detections and [false alarms](&amp;#123;&amp;#123; &#x27;false-alarms/&#x27; | relative_url &amp;#125;&amp;#125;) can occur frequently which can provide misleading information to the...</p></details>

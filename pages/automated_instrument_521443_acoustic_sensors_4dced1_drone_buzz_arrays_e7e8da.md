@@ -280,13 +280,13 @@ image: /assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_
 
 ## Introduction
 
-A single microphone can record an unusual buzzing sound, but it cannot reliably tell where it came from. A microphone array—multiple microphones with precisely known spacing and synchronised [timing]({{ 'timing/' | relative_url }})—can estimate the direction of a drone-like sound by measuring the tiny differences in when the same acoustic wave reaches each sensor. For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this provides an independent bearing that can be compared with camera tracks. If a low-altitude light and a buzzing sound point to the same place at the same time, the case for an ordinary drone becomes stronger. If the directions or timing disagree, the sound may belong to an unrelated source such as road traffic, machinery or another aircraft. Modern research on drone detection has shown that combining acoustic localisation with optical sensing improves tracking and reduces false associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
+A single microphone can record an unusual buzzing sound, but it cannot reliably tell where it came from. A microphone array—multiple microphones with precisely known spacing and synchronised [timing]({{ 'timing/' | relative_url }})—can estimate the direction of a drone-like sound by measuring the tiny differences in when the same acoustic wave reaches each sensor. For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this provides an independent bearing that can be compared with camera tracks. If a low-altitude light and a buzzing sound point to the same place at the same time, the case for an ordinary drone becomes stronger. If the directions or timing disagree, the sound may belong to an unrelated source such as road traffic, machinery or another aircraft. Modern research on drone detection has shown that combining acoustic localisation with optical sensing improves tracking and reduces false associations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-1-dark.svg" | relative_url }}" alt="Drone Buzz illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can a Buzz Point to a Drone?
 
-Small multirotor drones produce a distinctive mixture of sounds. Their electric motors generate narrow tonal components, while rapidly spinning propellers create harmonics and broadband aerodynamic noise. The exact spectrum varies with propeller design, motor speed, payload and manoeuvres, but the result is often recognisable enough that detection algorithms can distinguish drones from birds, vehicles or human speech under favourable conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
+Small multirotor drones produce a distinctive mixture of sounds. Their electric motors generate narrow tonal components, while rapidly spinning propellers create harmonics and broadband aerodynamic noise. The exact spectrum varies with propeller design, motor speed, payload and manoeuvres, but the result is often recognisable enough that detection algorithms can distinguish drones from birds, vehicles or human speech under favourable conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
 
 For a sky-monitoring station, however, recognising a drone-like sound is only the first step. The more useful question is whether the sound comes from the same direction as the object seen by the cameras. Direction estimation turns an ambiguous noise into evidence that can either support or weaken a visual interpretation.
 
@@ -294,7 +294,7 @@ For a sky-monitoring station, however, recognising a drone-like sound is only th
 
 Unlike many natural sounds, quadcopters produce several stable frequency components linked to their rotating propellers. As motor speed changes during climbing, braking or hovering, these tones shift in predictable ways.
 
-Researchers often exploit this behaviour by filtering incoming audio to emphasise the frequency bands where drone energy is strongest before attempting localisation. Focusing on the characteristic parts of the spectrum improves the signal-to-noise ratio and helps separate drones from unrelated background sounds. Some systems can even distinguish multiple drones if their dominant spectral patterns differ sufficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
+Researchers often exploit this behaviour by filtering incoming audio to emphasise the frequency bands where drone energy is strongest before attempting localisation. Focusing on the characteristic parts of the spectrum improves the signal-to-noise ratio and helps separate drones from unrelated background sounds. Some systems can even distinguish multiple drones if their dominant spectral patterns differ sufficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
 
 This does not mean every buzz identifies a drone. Electric scooters, lawn equipment, ventilation fans and some industrial machinery can produce overlapping frequencies. The advantage comes from combining spectral characteristics with directional information and synchronised camera observations.
 
@@ -309,10 +309,10 @@ For example, if a drone approaches from the east, the eastern microphone receive
 
 Most practical systems use one of two closely related approaches:
 
-* **Time Difference of Arrival (TDOA):** The software cross-correlates signals from microphone pairs to estimate the tiny arrival-time differences. Mathematical algorithms then calculate the direction—or, with sufficient geometry, the three-dimensional position—most consistent with all measured delays. GCC-PHAT (Generalised Cross-Correlation with Phase Transform) is widely used because it improves robustness in noisy environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
-* **Beamforming:** Instead of solving directly for arrival times, the processor electronically "points" the array in many candidate directions by delaying and summing microphone signals. When the assumed direction matches the true source, the signals reinforce one another and the measured energy peaks. The direction with the strongest response becomes the estimated bearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
+* **Time Difference of Arrival (TDOA):** The software cross-correlates signals from microphone pairs to estimate the tiny arrival-time differences. Mathematical algorithms then calculate the direction—or, with sufficient geometry, the three-dimensional position—most consistent with all measured delays. GCC-PHAT (Generalised Cross-Correlation with Phase Transform) is widely used because it improves robustness in noisy environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
+* **Beamforming:** Instead of solving directly for arrival times, the processor electronically "points" the array in many candidate directions by delaying and summing microphone signals. When the assumed direction matches the true source, the signals reinforce one another and the measured energy peaks. The direction with the strongest response becomes the estimated bearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
 
-Beamforming is intuitive and can produce useful directional maps, but exhaustive searches over many possible directions require more computation than direct TDOA methods. Comparative experiments using real drone flights have found that TDOA-based methods can provide substantially faster localisation, while beamforming remains valuable for visualising sound fields and handling complex situations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
+Beamforming is intuitive and can produce useful directional maps, but exhaustive searches over many possible directions require more computation than direct TDOA methods. Comparative experiments using real drone flights have found that TDOA-based methods can provide substantially faster localisation, while beamforming remains valuable for visualising sound fields and handling complex situations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-2-dark.svg" | relative_url }}" alt="Drone Buzz illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,15 +342,15 @@ This cross-check is valuable because it reduces accidental associations. A witne
 
 Acoustic localisation works best when the drone is relatively nearby and environmental noise is modest. Several factors can reduce reliability.
 
-**Wind noise.** Turbulence around microphone housings can overwhelm the frequencies of interest, making accurate arrival-time estimation difficult. Windshields and specialised processing reduce but do not eliminate the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</span></span></span>
+**Wind noise.** Turbulence around microphone housings can overwhelm the frequencies of interest, making accurate arrival-time estimation difficult. Windshields and specialised processing reduce but do not eliminate the problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</span></span></span>
 
 **Road traffic.** Cars and motorcycles produce broad, continuous low-frequency sound that can mask weaker drone signatures. Urban environments therefore require stronger filtering and more cautious confidence estimates.
 
 **Reflections.** Buildings, walls and terrain create echoes that cause the same sound to arrive along multiple paths. Multipath propagation can shift apparent direction if algorithms mistake reflections for the direct signal.
 
-**Long distance.** High frequencies are absorbed more strongly by the atmosphere than low frequencies, so the characteristic drone tones weaken rapidly with range. Beyond moderate distances, only fragments of the signature may remain, making localisation increasingly uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</span></span></span>
+**Long distance.** High frequencies are absorbed more strongly by the atmosphere than low frequencies, so the characteristic drone tones weaken rapidly with range. Beyond moderate distances, only fragments of the signature may remain, making localisation increasingly uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</span></span></span>
 
-**Multiple sound sources.** Two drones, or a drone flying near heavy machinery, complicate localisation because the array receives overlapping acoustic fields. Recent research addresses this using frequency-selective processing, improved beamforming and machine-learning approaches that separate simultaneous sources before estimating their directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
+**Multiple sound sources.** Two drones, or a drone flying near heavy machinery, complicate localisation because the array receives overlapping acoustic fields. Recent research addresses this using frequency-selective processing, improved beamforming and machine-learning approaches that separate simultaneous sources before estimating their directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-3-dark.svg" | relative_url }}" alt="Drone Buzz illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_drone_buzz_arrays_e7e8da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,201 +358,201 @@ Acoustic localisation works best when the drone is relatively nearby and environ
 
 A microphone array should not be viewed as a standalone drone detector or UFO identifier. Its strength lies in providing an independent directional measurement that can be fused with optical observations.
 
-When a camera records a low-altitude light and the array simultaneously estimates a matching bearing from a drone-like acoustic signature, the evidence for a conventional drone explanation becomes considerably stronger than either sensor could provide alone. Conversely, when the sound points elsewhere, arrives at an inconsistent time or lacks the expected spectral characteristics, the system gains evidence that the visual event and the recorded buzz probably originated from different sources. This [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) approach improves classification by replacing subjective impressions of "I heard a buzz" with quantitative measurements of direction, timing and confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
+When a camera records a low-altitude light and the array simultaneously estimates a matching bearing from a drone-like acoustic signature, the evidence for a conventional drone explanation becomes considerably stronger than either sensor could provide alone. Conversely, when the sound points elsewhere, arrives at an inconsistent time or lacks the expected spectral characteristics, the system gains evidence that the visual event and the recorded buzz probably originated from different sources. This [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) approach improves classification by replacing subjective impressions of "I heard a buzz" with quantitative measurements of direction, timing and confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">This plot is an...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7faGZumWRZ4" title="Acoustic drone detection sensor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7faGZumWRZ4" target="_blank" rel="noopener noreferrer">Acoustic drone detection sensor</a></p><p class="youtube-embed-meta">Channel: Advanced Protection Systems</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7faGZumWRZ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7faGZumWRZ4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Buzz Point to a Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Buzz Point to a Drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places drone elimination within UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places drone elimination within UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
+</h4>
+<p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Your Own Drones on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Your Own Drones">Building Your Own Drones</a>
-        </h4>
-        <p class="fr-book-author">By John Baichtal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Your Own Drones on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Your Own Drones">Building Your Own Drones</a>
+</h4>
+<p class="fr-book-author">By John Baichtal</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Drone aircraft, Remote submersibles, Handbooks, manuals, Design and construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Drone aircraft, Remote submersibles, Handbooks, manuals, Design and construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+Your+Own+Drones+John+Baichtal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of acoustics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of acoustics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="drone-buzz-can-a-buzz-point-to-a-drone-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ When a camera records a low-altitude light and the array simultaneously estimate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ When a camera records a low-altitude light and the array simultaneously estimate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ When a camera records a low-altitude light and the array simultaneously estimate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ When a camera records a low-altitude light and the array simultaneously estimate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ When a camera records a low-altitude light and the array simultaneously estimate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,109 +758,109 @@ When a camera records a low-altitude light and the array simultaneously estimate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This plot is an...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372556472_Comparison_of_Acoustic_Localisation_Techniques_for_Drone_Position_Estimation_Using_Real-World_Experimental_Data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This plot is an...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/11/4021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/22/11/4021" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/11/4021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Estimation of the Direction of Arrival of an...by N Itare · 2022 · Cited by 21 — This method enables to have a good robustn...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Read more  
-   Link: <a href="https://www.researchgate.net/publication/349466267_A_Real-Time_System_for_Joint_Acoustic_Detection_and_Localization_of_UAVs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349466267_A_Real-Time_System_for_Joint_Acoustic_Detection_and_Localization_of_UAVs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A Real-Time System for Joint Acoustic Detection and...24 Oct 2024 — The majority of the studies that address this topi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349466267_A_Real-Time_System_for_Joint_Acoustic_Detection_and_Localization_of_UAVs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349466267_A_Real-Time_System_for_Joint_Acoustic_Detection_and_Localization_of_UAVs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A Real-Time System for Joint Acoustic Detection and...24 Oct 2024 — The majority of the studies that address this topi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/22/7057</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/22/7057" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/22/7057</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The findings presented in this study provide a strong experimental basis for designing an acoustic UAV-detection microphone array.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In order to...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9182957/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In order to...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/6/1928" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/6/1928</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Enhancement of Drone Acoustic Source...by J Lim · 2025 · Cited by 12 — The TDOA is essential in drone localization, as it re...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/6/1928" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/6/1928</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance Enhancement of Drone Acoustic Source...by J Lim · 2025 · Cited by 12 — The TDOA is essential in drone localization, as it re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/26/6/1778" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/26/6/1778</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Source Drone Detection System Using...by MT Ghenescu · 2026 — Experimental validation was conducted using a custom dataset of r...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/26/6/1778" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/26/6/1778</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Source Drone Detection System Using...by MT Ghenescu · 2026 — Experimental validation was conducted using a custom dataset of r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/9/2/149" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/2/149</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic Algorithm-Based Acoustic Array Optimization for...by N Itare · 2025 · Cited by 8 — In this study, a genetic algorithm is used to...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/9/2/149" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/2/149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genetic Algorithm-Based Acoustic Array Optimization for...by N Itare · 2025 · Cited by 8 — In this study, a genetic algorithm is used to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: acoustic.com  
-   Link: <a href="https://www.acoustic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.acoustic.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intent-Driven Marketing for modern brandsTransform real-time consumer intent into resonant, omnichannel engagement. Acoustic he...</p></details>
+   Link:<a href="https://www.acoustic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.acoustic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intent-Driven Marketing for modern brandsTransform real-time consumer intent into resonant, omnichannel engagement. Acoustic he...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/acoustic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/acoustic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — ACOUSTIC definition: 1. relating to sound or hearing: 2. used to refer to a musical...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/acoustic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/acoustic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago — ACOUSTIC definition: 1. relating to sound or hearing: 2. used to refer to a musical...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/acoustic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/acoustic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACOUSTIC Definition &amp; Meaning6 days ago — The meaning of ACOUSTIC is of or relating to the sense or organs of hearing, to sound, or to th...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/acoustic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/acoustic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACOUSTIC Definition &amp; Meaning6 days ago — The meaning of ACOUSTIC is of or relating to the sense or organs of hearing, to sound, or to th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: acoustic-tech.com  
-   Link: <a href="https://acoustic-tech.com/?srsltid=AfmBOoogbmhV8oyd-S-YlPQ_h9I_9MO4vn2dRDQwOspu3FUJVggLt7Ic" target="_blank" rel="noopener noreferrer nofollow">https://acoustic-tech.com/?srsltid=AfmBOoogbmhV8oyd-S-YlPQ_h9I_9MO4vn2dRDQwOspu3FUJVggLt7Ic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We offer repair and system installation services, and used equipments. See our most recent promotions...</p></details>
+   Link:<a href="https://acoustic-tech.com/?srsltid=AfmBOoogbmhV8oyd-S-YlPQ_h9I_9MO4vn2dRDQwOspu3FUJVggLt7Ic" target="_blank" rel="noopener noreferrer nofollow">https://acoustic-tech.com/?srsltid=AfmBOoogbmhV8oyd-S-YlPQ_h9I_9MO4vn2dRDQwOspu3FUJVggLt7Ic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We offer repair and system installation services, and used equipments. See our most recent promotions...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: acousticguitar.com  
-   Link: <a href="https://acousticguitar.com/" target="_blank" rel="noopener noreferrer nofollow">https://acousticguitar.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ion, information, inspiration, advice, and a voice in the acoustic guitar community...</p></details>
+   Link:<a href="https://acousticguitar.com/" target="_blank" rel="noopener noreferrer nofollow">https://acousticguitar.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ion, information, inspiration, advice, and a voice in the acoustic guitar community...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: acousticvibesmusic.com  
-   Link: <a href="https://acousticvibesmusic.com/blogs/news/what-does-acoustic-mean-in-music?srsltid=AfmBOooU3DZOLpKChnYGSYMfAe5F31QXFkCXEUsg1t3ZZ2O-tSmC2Ta9" target="_blank" rel="noopener noreferrer nofollow">https://acousticvibesmusic.com/blogs/news/what-does-acoustic-mean-in-music?srsltid=AfmBOooU3DZOLpKChnYGSYMfAe5F31QXFkCXEUsg1t3ZZ2O-tSmC2Ta9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What does acoustic mean in music?May 23, 2025 — Acoustic music is defined by its use of instruments that produce sound naturally...</p></details>
+   Link:<a href="https://acousticvibesmusic.com/blogs/news/what-does-acoustic-mean-in-music?srsltid=AfmBOooU3DZOLpKChnYGSYMfAe5F31QXFkCXEUsg1t3ZZ2O-tSmC2Ta9" target="_blank" rel="noopener noreferrer nofollow">https://acousticvibesmusic.com/blogs/news/what-does-acoustic-mean-in-music?srsltid=AfmBOooU3DZOLpKChnYGSYMfAe5F31QXFkCXEUsg1t3ZZ2O-tSmC2Ta9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What does acoustic mean in music?May 23, 2025 — Acoustic music is defined by its use of instruments that produce sound naturally...</p></details>
    Published: May 23, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.spotify.com  
    Title: 37i9d QZF1DX4Vvf RBFClxm  
-   Link: <a href="https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HitsAcoustic Hits. A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan. Spotify. 1,464,973 saves. Th...</p></details>
+   Link:<a href="https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HitsAcoustic Hits. A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan. Spotify. 1,464,973 saves. Th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Acoustic Songs Rain Song Acoustic Guitar  
-   Link: <a href="https://www.youtube.com/playlist?list=PLygVSMl3xyks6zFuJKmTbE1Ztw8tvSfj6" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLygVSMl3xyks6zFuJKmTbE1Ztw8tvSfj6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic SongsRainSong Acoustic Guitar - Partial Capo - Fingerstyle Guitar. Darrell Braun Guitar · 3:54 · Doxology - Modern Fingerstyle G...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLygVSMl3xyks6zFuJKmTbE1Ztw8tvSfj6" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLygVSMl3xyks6zFuJKmTbE1Ztw8tvSfj6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic SongsRainSong Acoustic Guitar - Partial Capo - Fingerstyle Guitar. Darrell Braun Guitar · 3:54 · Doxology - Modern Fingerstyle G...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Lim · 2025 · Cited by 11 — The TDOA is essential in drone localization, as it represents the relative propagation time difference...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11946234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Lim · 2025 · Cited by 11 — The TDOA is essential in drone localization, as it represents the relative propagation time difference...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Handheld Acoustic Camera (Up to 208 MEMS Mics) | Beamforming & NVH  
-   Link: <a href="https://www.youtube.com/watch?v=mG7s88EfTgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mG7s88EfTgk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PAVIS - Drone Localization with Augmented Acoustic Imaging - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mG7s88EfTgk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mG7s88EfTgk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PAVIS - Drone Localization with Augmented Acoustic Imaging - YouTube...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microphone Range Tests and Spectral Analysis of...by G Jekateryńczuk · 2025 · Cited by 2 — The findings presented in this study provide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12656299/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Microphone Range Tests and Spectral Analysis of...by G Jekateryńczuk · 2025 · Cited by 2 — The findings presented in this study provide...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2209.15325" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.15325</a>  
+   Link:<a href="https://arxiv.org/abs/2209.15325" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.15325</a>  

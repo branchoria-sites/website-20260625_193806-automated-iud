@@ -452,15 +452,15 @@ Starlink flares and satellite trains are now one of the most important ordinary 
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-overview.webp" | relative_url }}" alt="Overview image for Starlink" loading="eager" decoding="sync" fetchpriority="high">
-The modern problem is bigger than the old one of an occasional satellite crossing a long exposure. Starlink combines high numbers, repeated launches, low Earth orbit, changing deployment phases and reflective flat surfaces. AARO’s 2024 UAP reporting noted that it is increasingly able to resolve cases to the Starlink constellation, and that some other [unresolved]({{ 'unresolved/' | relative_url }}) cases may be attributable to expanding low-Earth-orbit mega-constellations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+The modern problem is bigger than the old one of an occasional satellite crossing a long exposure. Starlink combines high numbers, repeated launches, low Earth orbit, changing deployment phases and reflective flat surfaces. AARO’s 2024 UAP reporting noted that it is increasingly able to resolve cases to the Starlink constellation, and that some other [unresolved]({{ 'unresolved/' | relative_url }}) cases may be attributable to expanding low-Earth-orbit mega-constellations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
 ## Why satellite flares look strange
 
-A satellite flare happens when sunlight reflects from a spacecraft towards an observer. Diffuse reflection spreads light in many directions, so an object may look like a moving star for several minutes. Specular reflection, or glint, is much narrower and mirror-like: when the reflection cone crosses the observer, the object can brighten dramatically and then fade quickly. AARO’s Starlink flaring paper describes this as a major reason [satellite flares]({{ 'satellite-flares/' | relative_url }}) can be misread as UAP, especially because Starlink spacecraft have flat antenna arrays, mirrored panels and solar-panel surfaces that can produce both kinds of reflection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
+A satellite flare happens when sunlight reflects from a spacecraft towards an observer. Diffuse reflection spreads light in many directions, so an object may look like a moving star for several minutes. Specular reflection, or glint, is much narrower and mirror-like: when the reflection cone crosses the observer, the object can brighten dramatically and then fade quickly. AARO’s Starlink flaring paper describes this as a major reason [satellite flares]({{ 'satellite-flares/' | relative_url }}) can be misread as UAP, especially because Starlink spacecraft have flat antenna arrays, mirrored panels and solar-panel surfaces that can produce both kinds of reflection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
 
-Starlink trains add a second source of confusion. Immediately after a launch, dozens of satellites can appear as a distinctive line of bright points before they separate and climb towards their working orbits. To a casual observer this may look less like a normal satellite and more like a coordinated formation. Space.com’s current observing guide describes the familiar post-launch “train” as a line of bright dots, usually best seen after sunset or before sunrise, while AARO notes that the train phase can last for several days after deployment before the satellites fade and spread out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
+Starlink trains add a second source of confusion. Immediately after a launch, dozens of satellites can appear as a distinctive line of bright points before they separate and climb towards their working orbits. To a casual observer this may look less like a normal satellite and more like a coordinated formation. Space.com’s current observing guide describes the familiar post-launch “train” as a line of bright dots, usually best seen after sunset or before sunrise, while AARO notes that the train phase can last for several days after deployment before the satellites fade and spread out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</span></span></span>
 
-The most deceptive cases are not always the obvious trains. Once satellites are in operational or transitional orbits, repeated flares near the horizon can appear as blinking, racing or looping lights. Research by Anthony Mallama and Richard Cole modelled “extreme flaring” from Starlink satellites and applied it to a case reported as UAP by commercial airline pilots, showing that a specular reflection from the satellite chassis can make a Starlink object appear far brighter than a typical moving satellite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+The most deceptive cases are not always the obvious trains. Once satellites are in operational or transitional orbits, repeated flares near the horizon can appear as blinking, racing or looping lights. Research by Anthony Mallama and Richard Cole modelled “extreme flaring” from Starlink satellites and applied it to a case reported as UAP by commercial airline pilots, showing that a specular reflection from the satellite chassis can make a Starlink object appear far brighter than a typical moving satellite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
 
 That matters for instrumented detectors because the apparent behaviour is not simply “a dot moving in a straight line”. A low-elevation Starlink flare can appear, brighten, fade and reappear in a way that looks discontinuous. A long exposure can turn a point-like flare into a streak. A wide-angle camera can exaggerate apparent speed near the edge of the frame. A human observer or single-camera system may not know whether the object is near the aircraft, high in the atmosphere, or hundreds of kilometres away in low Earth orbit.
 
@@ -468,11 +468,11 @@ That matters for instrumented detectors because the apparent behaviour is not si
 <img src="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-1-dark.svg" | relative_url }}" alt="Starlink illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The pilot cases show the detection risk
 
-The strongest modern warning comes from aviation. Commercial pilots are trained observers, but they are also looking through cockpit windows at night, often at low angles towards the horizon, with limited immediate access to space-object context. A 2024 single-case study examined an August 2022 incident over the Pacific in which five pilots on two commercial flights reported a UAP; the researchers used Starlink launch data, two-line element orbital data and [ADS-B]({{ 'ads-b/' | relative_url }}) [flight data]({{ 'flight-data/' | relative_url }}) to reconstruct the cockpit view and found that a recently launched Starlink train could account for the observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The strongest modern warning comes from aviation. Commercial pilots are trained observers, but they are also looking through cockpit windows at night, often at low angles towards the horizon, with limited immediate access to space-object context. A 2024 single-case study examined an August 2022 incident over the Pacific in which five pilots on two commercial flights reported a UAP; the researchers used Starlink launch data, two-line element orbital data and [ADS-B]({{ 'ads-b/' | relative_url }}) [flight data]({{ 'flight-data/' | relative_url }}) to reconstruct the cockpit view and found that a recently launched Starlink train could account for the observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This is a useful case family for automated detectors because it combines several risk factors: multiple witnesses, photographs or video, aviation context, unusual lighting, and a real object in the sky. In weakly instrumented UAP reporting, those factors can make the event sound stronger than it is. In a well-designed detector, they become testable variables: where was the observer, where was the camera [pointing]({{ 'pointing/' | relative_url }}), which satellites were sunlit, what was the Sun-satellite-observer geometry, and did the predicted apparent track match the recorded event?
 
-AARO’s FY2024 annual report gives the same issue institutional weight. It received 757 UAP reports for the reporting period, resolved some to prosaic objects, and said its ability to resolve cases remained constrained by a lack of timely, actionable sensor data. In the section on prosaic objects, AARO described a commercial-pilot report of white flashing lights that correlated with a Starlink launch from Cape Canaveral about an hour earlier and occurred along the known orbital path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+AARO’s FY2024 annual report gives the same issue institutional weight. It received 757 UAP reports for the reporting period, resolved some to prosaic objects, and said its ability to resolve cases remained constrained by a lack of timely, actionable sensor data. In the section on prosaic objects, AARO described a commercial-pilot report of white flashing lights that correlated with a Starlink launch from Cape Canaveral about an hour earlier and occurred along the known orbital path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
 The lesson is not that pilots are unreliable, nor that every flashing light is Starlink. The lesson is that credible observers can encounter unfamiliar satellite geometries before public tools, cockpit procedures or UAP reporting forms give them enough context. Automated instrumented detectors face the same problem in software form: an alert system may be precise, calibrated and always on, yet still classify a known satellite event as anomalous if its satellite model is stale or too simplistic.
 
@@ -485,10 +485,10 @@ For an automated UAP detector, Starlink should be treated as a first-tier exclus
 
 A practical detector needs several layers of satellite rejection:
 
-* **Ephemeris matching.** The system should compare the event time, observing location, pointing direction and angular track against current orbital elements for Starlink and other satellites. Public satellite trackers can show real-time Starlink positions, but research-grade systems need logged versions of those comparisons, not just a later visual check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satellitemap.space">[SatelliteMap.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satellitemap.space</span><span class="citation-popover-snippet">Open source on satellitemap.space.</span></span></span>
-* **Flare geometry.** A brightening event should be tested against Sun-satellite-observer angles, because the same satellite may be invisible, ordinary or intensely bright depending on geometry. The 2024 extreme-flaring work argues that specular reflection can explain events that look surprisingly bright to pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
-* **Launch-phase awareness.** Starlink trains are time-sensitive. A database that knows only mature orbital positions may miss the visual pattern of a fresh deployment, when dozens of objects are still clustered and conspicuous. AARO specifically distinguishes train behaviour after launch from later flaring behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
-* **Multi-sensor confirmation.** A satellite hundreds of kilometres away should have a different signature from a nearby drone, bird or aircraft. It may have no local acoustic trace, no ADS-B return, a predictable angular path and a visibility pattern tied to solar illumination. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s multimodal observatory concept is built around this broader principle: use multiple calibrated sensors and a census of ordinary aerial phenomena before declaring an anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+* **Ephemeris matching.** The system should compare the event time, observing location, pointing direction and angular track against current orbital elements for Starlink and other satellites. Public satellite trackers can show real-time Starlink positions, but research-grade systems need logged versions of those comparisons, not just a later visual check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satellitemap.space">[SatelliteMap.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satellitemap.space</span><span class="citation-popover-snippet">Open source on satellitemap.space.</span></span></span>
+* **Flare geometry.** A brightening event should be tested against Sun-satellite-observer angles, because the same satellite may be invisible, ordinary or intensely bright depending on geometry. The 2024 extreme-flaring work argues that specular reflection can explain events that look surprisingly bright to pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Extreme Flaring of Starlink Satellites</span><span class="citation-popover-snippet">Extreme Flaring of Starlink SatellitesMay 21, 2024...</span><span class="citation-popover-meta">Published: May 21, 2024</span></span></span>
+* **Launch-phase awareness.** Starlink trains are time-sensitive. A database that knows only mature orbital positions may miss the visual pattern of a fresh deployment, when dozens of objects are still clustered and conspicuous. AARO specifically distinguishes train behaviour after launch from later flaring behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
+* **Multi-sensor confirmation.** A satellite hundreds of kilometres away should have a different signature from a nearby drone, bird or aircraft. It may have no local acoustic trace, no ADS-B return, a predictable angular path and a visibility pattern tied to solar illumination. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s multimodal observatory concept is built around this broader principle: use multiple calibrated sensors and a census of ordinary aerial phenomena before declaring an anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 The hard part is that satellite rejection must preserve the original evidence. A detector should not delete a clip just because a Starlink match is likely. It should store the raw frames, the time synchronisation quality, the pointing solution, the candidate satellite IDs, the predicted and observed angular separation, and a confidence score. That makes the result auditable: future analysts can see whether the system genuinely matched the event or merely waved it away.
 
@@ -496,22 +496,22 @@ The hard part is that satellite rejection must preserve the original evidence. A
 <img src="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" alt="Starlink illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_starlink_satellite_c_217280-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “known object” does not mean “easy object”
 
-Starlink is ordinary in origin but not trivial in appearance. Brightness changes with geometry, satellite design and operating phase. A flat-panel brightness model for Starlink satellites found that their brightness depends strongly on solar and observer aspect angles, while later large photometric studies reported time-dependent phase functions and short flare behaviour that affect visibility predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Starlink is ordinary in origin but not trivial in appearance. Brightness changes with geometry, satellite design and operating phase. A flat-panel brightness model for Starlink satellites found that their brightness depends strongly on solar and observer aspect angles, while later large photometric studies reported time-dependent phase functions and short flare behaviour that affect visibility predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-The engineering baseline also keeps changing. Early Starlink satellites were bright enough to provoke major concern from astronomers. Subsequent mitigation attempts included darker surfaces, visors and other design changes. A 2023 assessment of Starlink brightness mitigation found that the original design was the most luminous, that VisorSat reduced luminosity by about a factor of three, and that newer generations had different mitigation approaches and brightness profiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span><span class="citation-popover-snippet">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span></span></span>
+The engineering baseline also keeps changing. Early Starlink satellites were bright enough to provoke major concern from astronomers. Subsequent mitigation attempts included darker surfaces, visors and other design changes. A 2023 assessment of Starlink brightness mitigation found that the original design was the most luminous, that VisorSat reduced luminosity by about a factor of three, and that newer generations had different mitigation approaches and brightness profiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span><span class="citation-popover-snippet">arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites</span></span></span>
 
 This matters for UAP detectors because a classifier trained on one year of satellite data can age quickly. A model trained to recognise early Starlink trains may fail on newer satellite shapes, altered deployment procedures, changed brightness mitigation, or a different constellation entirely. A static “satellite filter” is therefore a source of false confidence. The normal sky is not fixed; it is an operational environment that has to be maintained.
 
-Astronomy has already learned this lesson under harsher conditions. The Vera C. Rubin Observatory and other survey systems must plan around low-Earth-orbit satellite trails, model their impact on images, and develop mitigation methods. Research on Rubin found that darkening can reduce some artefacts, but trails can still remain at high signal-to-noise and generate systematic errors. That is directly relevant to UAP detectors: reducing confusion is not the same as eliminating it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.12417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Astronomy has already learned this lesson under harsher conditions. The Vera C. Rubin Observatory and other survey systems must plan around low-Earth-orbit satellite trails, model their impact on images, and develop mitigation methods. Research on Rubin found that darkening can reduce some artefacts, but trails can still remain at high signal-to-noise and generate systematic errors. That is directly relevant to UAP detectors: reducing confusion is not the same as eliminating it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.12417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ## Why modern baselines must keep changing
 
-NASA’s 2023 UAP independent study argued that UAP analysis is hampered by poor calibration, missing sensor metadata, lack of multiple measurements and lack of baseline data. Starlink flares show what “baseline data” means in practice. A detector cannot simply learn what meteors, planes and older satellites looked like ten years ago; it must know what the sky contains this month. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s 2023 UAP independent study argued that UAP analysis is hampered by poor calibration, missing sensor metadata, lack of multiple measurements and lack of baseline data. Starlink flares show what “baseline data” means in practice. A detector cannot simply learn what meteors, planes and older satellites looked like ten years ago; it must know what the sky contains this month.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-The growth of satellite mega-constellations makes this a moving target. AARO’s Starlink paper noted that, as of late 2024, there were over 6,700 Starlink satellites in orbit and nearly 10,000 artificial satellites in low Earth orbit overall, with the number expected to grow several-fold. The International Astronomical Union’s dark and quiet skies work similarly frames satellite constellations as a growing challenge for optical and radio astronomy, not a one-off nuisance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
+The growth of satellite mega-constellations makes this a moving target. AARO’s Starlink paper noted that, as of late 2024, there were over 6,700 Starlink satellites in orbit and nearly 10,000 artificial satellites in low Earth orbit overall, with the number expected to grow several-fold. The International Astronomical Union’s dark and quiet skies work similarly frames satellite constellations as a growing challenge for optical and radio astronomy, not a one-off nuisance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP Observations</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP Observations...</span></span></span>
 
 For automated UAP detection, the baseline should therefore be versioned. Each event should be evaluated against the satellite catalogue, launch history, aircraft data, weather, camera settings and software model available at the time of analysis. If new orbital data or better flare models become available, old unresolved cases should be re-runnable. A previously interesting light may become ordinary once a missing launch-phase dataset is added; conversely, a strong anomaly should survive better ordinary-object modelling.
 
@@ -532,194 +532,194 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Satellites Fool UAP Detectors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Satellites Fool UAP Detectors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames the importance of ruling out conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames the importance of ruling out conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satellite Orbits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tLU-wjQktoMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Satellite Orbits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
+</h4>
+<p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
         
-        <p class="fr-book-desc">Directly supports understanding of satellite motion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports understanding of satellite motion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Satellite+Orbits+by+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers recognise ordinary night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise ordinary night-sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Provides context for satellite observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for satellite observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="starlink-how-satellites-fool-uap-detectors-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,240 +925,240 @@ Starlink also changes the public meaning of “unidentified”. In many recent c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP Observations  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP Observations...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlations of Starlink Satellite Flaring with UAP Observations...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites initially travel in a tight, bright line resembling a &quot;train,&quot; captivating skywatchers and often being mistaken for UFOs...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
+   Link:<a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: satellitemap.space  
-   Link: <a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
+   Link:<a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
+   Link:<a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Assessment of Brightness Mitigation Practices for Starlink Satellites  
-   Link: <a href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14152</a>  
+   Link:<a href="https://arxiv.org/abs/2309.14152" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.14152</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.12417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.12417</a>  
+   Link:<a href="https://arxiv.org/abs/2006.12417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.12417</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age</a>  
+   Link:<a href="https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/astronomy/satellite-streaks-can-the-huge-new-vera-rubin-observatory-function-in-the-megaconstellation-age</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: starlink.com  
    Title: starlinkProgressReport 2024  
-   Link: <a href="https://www.starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOoqp0g7Kgai60q3_Zuy4HEQxgbVHyLQ9qVV0BmwWIWPyToE0A-03" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOoqp0g7Kgai60q3_Zuy4HEQxgbVHyLQ9qVV0BmwWIWPyToE0A-03</a>  
+   Link:<a href="https://www.starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOoqp0g7Kgai60q3_Zuy4HEQxgbVHyLQ9qVV0BmwWIWPyToE0A-03" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOoqp0g7Kgai60q3_Zuy4HEQxgbVHyLQ9qVV0BmwWIWPyToE0A-03</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOooWiZ6L8UFlbMloI1llHlT7v_a3xKCRwA0GKAljPLEx7D9RvVm0" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOooWiZ6L8UFlbMloI1llHlT7v_a3xKCRwA0GKAljPLEx7D9RvVm0</a>  
+   Link:<a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOooWiZ6L8UFlbMloI1llHlT7v_a3xKCRwA0GKAljPLEx7D9RvVm0" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOooWiZ6L8UFlbMloI1llHlT7v_a3xKCRwA0GKAljPLEx7D9RvVm0</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: starlink.com  
-   Link: <a href="https://www.starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOopKZCgZFStQX5mJaYIm8RWudq_KODemJAlr3QYrlJFCEflkr8GW" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOopKZCgZFStQX5mJaYIm8RWudq_KODemJAlr3QYrlJFCEflkr8GW</a>  
+   Link:<a href="https://www.starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOopKZCgZFStQX5mJaYIm8RWudq_KODemJAlr3QYrlJFCEflkr8GW" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOopKZCgZFStQX5mJaYIm8RWudq_KODemJAlr3QYrlJFCEflkr8GW</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: starlink.sx  
-   Link: <a href="https://starlink.sx/" target="_blank" rel="noopener noreferrer nofollow">https://starlink.sx/</a>  
+   Link:<a href="https://starlink.sx/" target="_blank" rel="noopener noreferrer nofollow">https://starlink.sx/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: astronomy.com  
    Title: reports of rising ufo sightings are greatly exaggerated  
-   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
+   Link:<a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: space x satellites are being mistaken for ufos in parts of the country  
-   Link: <a href="https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/</a>  
+   Link:<a href="https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/marspioneers/posts/2367498913592189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/marspioneers/posts/2367498913592189/</a>  
+   Link:<a href="https://www.facebook.com/groups/marspioneers/posts/2367498913592189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/marspioneers/posts/2367498913592189/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: earthsky.org  
    Title: spacex starlink satellites explained  
-   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+   Link:<a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2020AJ....160..226T/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2020AJ....160..226T/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2020AJ....160..226T/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2020AJ....160..226T/abstract</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: iauarchive.eso.org  
    Title: satellite constellations  
-   Link: <a href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow">https://iauarchive.eso.org/public/themes/satellite-constellations/</a>  
+   Link:<a href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow">https://iauarchive.eso.org/public/themes/satellite-constellations/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
+   Link:<a href="https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/spacex-starlink-extreme-flaring-increases-reported-uap-sightings-and-poses-aviation-risks-new-research-finds/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: planet4589.org  
-   Link: <a href="https://planet4589.org/astro/starsim/2022-05-07_SpaceX_Sustainability_for_FAS_V3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/astro/starsim/2022-05-07_SpaceX_Sustainability_for_FAS_V3.pdf</a>  
+   Link:<a href="https://planet4589.org/astro/starsim/2022-05-07_SpaceX_Sustainability_for_FAS_V3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/astro/starsim/2022-05-07_SpaceX_Sustainability_for_FAS_V3.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: spaceref.com  
    Title: spacex publishes update on starlink satellite brightness issue  
-   Link: <a href="https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/</a>  
+   Link:<a href="https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/spacex-publishes-update-on-starlink-satellite-brightness-issue/</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Oregon pilot puzzled by mysterious, bright lights in sky  
-   Link: <a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No UFO in Northeast Ohio! SpaceX Starlink satellites soar over area...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No UFO in Northeast Ohio! SpaceX Starlink satellites soar over area...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Pilot gives insight on mysterious lights over Oregon  
-   Link: <a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCm_0dsMxg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCm_0dsMxg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in sky...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/346429963_Mitigation_of_LEO_Satellite_Brightness_and_Trail_Effects_on_the_Rubin_Observatory_LSST" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346429963_Mitigation_of_LEO_Satellite_Brightness_and_Trail_Effects_on_the_Rubin_Observatory_LSST</a>  
+   Link:<a href="https://www.researchgate.net/publication/346429963_Mitigation_of_LEO_Satellite_Brightness_and_Trail_Effects_on_the_Rubin_Observatory_LSST" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346429963_Mitigation_of_LEO_Satellite_Brightness_and_Trail_Effects_on_the_Rubin_Observatory_LSST</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i91pz4/aaro_publishes_information_paper_correlations_of/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: iauoutreach.org  
-   Link: <a href="https://iauoutreach.org/global-projects/dark-and-quiet-skies" target="_blank" rel="noopener noreferrer nofollow">https://iauoutreach.org/global-projects/dark-and-quiet-skies</a>  
+   Link:<a href="https://iauoutreach.org/global-projects/dark-and-quiet-skies" target="_blank" rel="noopener noreferrer nofollow">https://iauoutreach.org/global-projects/dark-and-quiet-skies</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374382316_Detection_of_intended_and_unintended_emissions_from_Starlink_satellites_in_the_SKA-Low_frequency_range_at_the_SKA-Low_site_with_an_SKA-Low_station_analogue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374382316_Detection_of_intended_and_unintended_emissions_from_Starlink_satellites_in_the_SKA-Low_frequency_range_at_the_SKA-Low_site_with_an_SKA-Low_station_analogue</a>  
+   Link:<a href="https://www.researchgate.net/publication/374382316_Detection_of_intended_and_unintended_emissions_from_Starlink_satellites_in_the_SKA-Low_frequency_range_at_the_SKA-Low_site_with_an_SKA-Low_station_analogue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374382316_Detection_of_intended_and_unintended_emissions_from_Starlink_satellites_in_the_SKA-Low_frequency_range_at_the_SKA-Low_site_with_an_SKA-Low_station_analogue</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacexgroup/posts/10158615582536318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10158615582536318/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacexgroup/posts/10158615582536318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10158615582536318/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/btpord/elon_musks_starlink_train_looks_amazing_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/btpord/elon_musks_starlink_train_looks_amazing_but/</a>  
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/btpord/elon_musks_starlink_train_looks_amazing_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/btpord/elon_musks_starlink_train_looks_amazing_but/</a>  

@@ -274,13 +274,13 @@ image: /assets/images/automated_instrument_521443_time_synchronization_2e129d_cl
 
 ## Introduction
 
-[Automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}) are only as trustworthy as the [timestamps]({{ 'timestamps/' | relative_url }}) attached to their measurements. A small clock error rarely changes what a camera records, but it can dramatically change what analysts infer from that recording. If two cameras, a camera and radar, or a camera and aircraft transponder data disagree by even fractions of a second, an ordinary aircraft, meteor, drone, bird or insect can appear to move at an impossible speed, follow an implausible trajectory or fail to match a known object at all. For this reason, clock drift is not merely a technical inconvenience. It is a mechanism that can manufacture apparently anomalous motion from otherwise ordinary events. Modern timing systems and calibration procedures exist specifically to prevent this kind of false anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
+[Automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}) are only as trustworthy as the [timestamps]({{ 'timestamps/' | relative_url }}) attached to their measurements. A small clock error rarely changes what a camera records, but it can dramatically change what analysts infer from that recording. If two cameras, a camera and radar, or a camera and aircraft transponder data disagree by even fractions of a second, an ordinary aircraft, meteor, drone, bird or insect can appear to move at an impossible speed, follow an implausible trajectory or fail to match a known object at all. For this reason, clock drift is not merely a technical inconvenience. It is a mechanism that can manufacture apparently anomalous motion from otherwise ordinary events. Modern timing systems and calibration procedures exist specifically to prevent this kind of false anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO+2Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-1-dark.svg" | relative_url }}" alt="Clock Drift illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What clock drift means in a sky station
 
-Clock drift is the gradual divergence of a clock from true or reference time. Nearly every electronic clock drifts because the crystal oscillator controlling it is affected by temperature, ageing, manufacturing tolerances and supply voltage. Drift is commonly expressed in parts per million (ppm): a clock with a drift of 10 ppm gains or loses roughly 10 microseconds every second, accumulating almost one second of error over about 28 hours if left uncorrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
+Clock drift is the gradual divergence of a clock from true or reference time. Nearly every electronic clock drifts because the crystal oscillator controlling it is affected by temperature, ageing, manufacturing tolerances and supply voltage. Drift is commonly expressed in parts per million (ppm): a clock with a drift of 10 ppm gains or loses roughly 10 microseconds every second, accumulating almost one second of error over about 28 hours if left uncorrected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
 
 In an automated sky station, several independent clocks are usually involved:
 
@@ -291,7 +291,7 @@ In an automated sky station, several independent clocks are usually involved:
 * [weather]({{ 'weather/' | relative_url }}) sensors,
 * external [data sources]({{ 'data-sources/' | relative_url }}) such as ADS-B aircraft broadcasts.
 
-Each may drift differently unless they are regularly synchronised. The recorded event therefore becomes a combination of measurements that are only comparable if they share a common, accurately maintained timescale. Precision [timing]({{ 'timing/' | relative_url }}) systems such as GPS-disciplined clocks or IEEE 1588 Precision Time Protocol (PTP) exist because ordinary computer clocks are often insufficient for precise measurement tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</span></span></span>
+Each may drift differently unless they are regularly synchronised. The recorded event therefore becomes a combination of measurements that are only comparable if they share a common, accurately maintained timescale. Precision [timing]({{ 'timing/' | relative_url }}) systems such as GPS-disciplined clocks or IEEE 1588 Precision Time Protocol (PTP) exist because ordinary computer clocks are often insufficient for precise measurement tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nalWpxsFs5U" title="How Do Multi-Camera Setups Benefit from GigE Vision 2.0? – Vision Campus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nalWpxsFs5U" target="_blank" rel="noopener noreferrer">How Do Multi-Camera Setups Benefit from GigE Vision 2.0? – Vision Campus</a></p><p class="youtube-embed-meta">Channel: Basler AG</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nalWpxsFs5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nalWpxsFs5U">Open on YouTube</a></p></div></div></div>
@@ -309,7 +309,7 @@ The resulting errors can include:
 * **False [acceleration]({{ 'acceleration/' | relative_url }}).** Small timestamp errors between successive measurements can create apparent bursts of acceleration that never occurred.
 * **Altitude errors.** Triangulation assumes simultaneous viewing geometry; timing offsets shift the intersection of viewing lines and therefore the estimated height.
 
-These effects become increasingly severe as the target moves faster or lies closer to the observing stations. A nearby bird or insect crossing the field of view can travel a significant angular distance within a fraction of a second, making even modest timing errors appear dramatic. Conversely, slow-moving celestial objects are much less sensitive to the same timing offset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</span></span></span>
+These effects become increasingly severe as the target moves faster or lies closer to the observing stations. A nearby bird or insect crossing the field of view can travel a significant angular distance within a fraction of a second, making even modest timing errors appear dramatic. Conversely, slow-moving celestial objects are much less sensitive to the same timing offset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</span></span></span>
 
 ### Why nearby objects are especially vulnerable
 
@@ -354,19 +354,19 @@ Experienced investigators rarely accept surprising motion estimates without firs
 
 Several checks are particularly effective.
 
-**Independent time references.** GPS-disciplined clocks or verified one-pulse-per-second (1 PPS) timing signals provide an external reference that reveals whether local clocks have drifted. Recent evaluations of GPS flash timing show that externally referenced timestamps can be measured with very high accuracy for scientific video recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Astronomy Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">ADS Astronomy Database Timing Accuracy Using GPS Flash Timing</span><span class="citation-popover-snippet">The timing accuracy of short exposure video recordings that have been time stamped using GPS 1 PPS flashes has been measured.Read more...</span></span></span>
+**Independent time references.** GPS-disciplined clocks or verified one-pulse-per-second (1 PPS) timing signals provide an external reference that reveals whether local clocks have drifted. Recent evaluations of GPS flash timing show that externally referenced timestamps can be measured with very high accuracy for scientific video recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS Astronomy Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">ADS Astronomy Database Timing Accuracy Using GPS Flash Timing</span><span class="citation-popover-snippet">The timing accuracy of short exposure video recordings that have been time stamped using GPS 1 PPS flashes has been measured.Read more...</span></span></span>
 
 **Known targets.** Commercial aircraft following published flight paths, bright [satellites]({{ 'satellites/' | relative_url }}) and predictable celestial objects provide calibration opportunities. If reconstructed positions consistently lag or lead these references, clock offsets become apparent.
 
 **Round-trip consistency.** When two stations reconstruct an object's position independently, their solutions should agree within known uncertainty. Persistent disagreement often indicates synchronisation problems before it indicates unusual object behaviour.
 
-**Drift monitoring over time.** Clock errors generally accumulate gradually rather than appearing randomly. Logging clock corrections throughout an observing session can reveal steadily increasing offsets characteristic of oscillator drift rather than genuine changes in target motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
+**Drift monitoring over time.** Clock errors generally accumulate gradually rather than appearing randomly. Logging clock corrections throughout an observing session can reveal steadily increasing offsets characteristic of oscillator drift rather than genuine changes in target motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disco.ethz.ch">[DISCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disco.ethz.ch</span><span class="citation-popover-snippet">Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</span><span class="citation-popover-meta">Published: November 15, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-3-dark.svg" | relative_url }}" alt="Clock Drift illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_clock_drift_false_mo_2570b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why clock drift deserves attention before extraordinary explanations
 
-Clock drift has repeatedly been recognised as an operational problem in demanding engineering systems, including spacecraft, navigation networks and precision measurement platforms. Practical experience shows that uncompensated clocks affect pointing, attitude estimation, event scheduling and sensor fusion long before they cause complete system failure. On the Mars Exploration Rovers, accumulated clock drift eventually became large enough to degrade attitude estimation because the spacecraft no longer predicted the Sun's position correctly for a given timestamp. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-robotics.jpl.nasa.gov">[www-robotics.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-robotics.jpl.nasa.gov</span><span class="citation-popover-snippet">clock drift on the rovers, its relationship to temperature, how we measure it, what problems it causes...Read more...</span></span></span>
+Clock drift has repeatedly been recognised as an operational problem in demanding engineering systems, including spacecraft, navigation networks and precision measurement platforms. Practical experience shows that uncompensated clocks affect pointing, attitude estimation, event scheduling and sensor fusion long before they cause complete system failure. On the Mars Exploration Rovers, accumulated clock drift eventually became large enough to degrade attitude estimation because the spacecraft no longer predicted the Sun's position correctly for a given timestamp.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-robotics.jpl.nasa.gov">[www-robotics.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-robotics.jpl.nasa.gov</span><span class="citation-popover-snippet">clock drift on the rovers, its relationship to temperature, how we measure it, what problems it causes...Read more...</span></span></span>
 
 The same principle applies to automated UFO detection, although on a different scale. Before concluding that a recorded object performed extraordinary manoeuvres, investigators should first verify that every sensor agreed on *when* the observation occurred. In many cases, correcting a modest timing offset restores a trajectory that is entirely consistent with an ordinary aircraft, meteor, drone or nearby biological object rather than an unexplained aerial phenomenon.
 
@@ -375,194 +375,194 @@ The same principle applies to automated UFO detection, although on a different s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bad Timing Creates Strange Motion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bad Timing Creates Strange Motion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
-        </h4>
-        <p class="fr-book-author">By Ernest O. Doebelin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
+</h4>
+<p class="fr-book-author">By Ernest O. Doebelin</p>
         
-        <p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="clock-drift-when-bad-timing-creates-strange-motion-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ The same principle applies to automated UFO detection, although on a different s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ The same principle applies to automated UFO detection, although on a different s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ The same principle applies to automated UFO detection, although on a different s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ The same principle applies to automated UFO detection, although on a different s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ The same principle applies to automated UFO detection, although on a different s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,84 +768,84 @@ The same principle applies to automated UFO detection, although on a different s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: disco.ethz.ch  
-   Link: <a href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</p></details>
+   Link:<a href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time, Clocks &amp; GPSNovember 15, 2019 — Clock drift is indicated in parts per mil- lion (ppm). One ppm corresponds to a time error gro...</p></details>
    Published: November 15, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: www-robotics.jpl.nasa.gov  
-   Link: <a href="https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>clock drift on the rovers, its relationship to temperature, how we measure it, what problems it causes...Read more...</p></details>
+   Link:<a href="https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-robotics.jpl.nasa.gov/media/documents/AIAA2012_MER_Clock_Drift_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clock drift on the rovers, its relationship to temperature, how we measure it, what problems it causes...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Precision Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/about/office_org/headquarters_offices/ato/20120802TimingWhitePaperAPNT6-2012.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Precise time synchronization is an essential element for APNT technologies, such as wide area multi- lateration (WAM) and passive pseudo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ui.adsabs.harvard.edu  
    Title: ADS Astronomy Database Timing Accuracy Using GPS Flash Timing  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The timing accuracy of short exposure video recordings that have been time stamped using GPS 1 PPS flashes has been measured.Read more...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024JOA....14c...7C/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The timing accuracy of short exposure video recordings that have been time stamped using GPS 1 PPS flashes has been measured.Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GnG50qsUWbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GnG50qsUWbc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in GNSS/INS Systems | Positioning Engine Deep Dive (Part 1) Time Synchronization in GNSS/INS Systems | Positioning E...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GnG50qsUWbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GnG50qsUWbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in GNSS/INS Systems | Positioning Engine Deep Dive (Part 1) Time Synchronization in GNSS/INS Systems | Positioning E...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: inria.hal.science  
-   Link: <a href="https://inria.hal.science/hal-00725654/PDF/TOF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-00725654/PDF/TOF.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Flight Cameras: Principles, Methods, and...by M Hansard · Cited by 800 — For both sensors, we observe two major errors; data drift an...</p></details>
+   Link:<a href="https://inria.hal.science/hal-00725654/PDF/TOF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-00725654/PDF/TOF.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Flight Cameras: Principles, Methods, and...by M Hansard · Cited by 800 — For both sensors, we observe two major errors; data drift an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FJwhHFM0oDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJwhHFM0oDo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Have a look at [http://www.vision-campus.com](http://www.vision-campus.com) to find all of our exciting videos and articles about vision technology. Just make sure you s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FJwhHFM0oDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJwhHFM0oDo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have a look at [http://www.vision-campus.com](http://www.vision-campus.com) to find all of our exciting videos and articles about vision technology. Just make sure you s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=atoUpGgw2fE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atoUpGgw2fE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is image quality? [https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;](https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=atoUpGgw2fE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atoUpGgw2fE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is image quality? [https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;](https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: More from the Vision Campus  
-   Link: <a href="https://www.youtube.com/watch?v=HnAzL38pXeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnAzL38pXeI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is a vision system?: [https://www.youtube.com/watch?v=atoUpGgw2fE](https://www.youtube.com/watch?v=atoUpGgw2fE) What is image quality? [https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;](https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HnAzL38pXeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnAzL38pXeI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is a vision system?: [https://www.youtube.com/watch?v=atoUpGgw2fE](https://www.youtube.com/watch?v=atoUpGgw2fE) What is image quality? [https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;](https://www.youtube.com/watch?v=FJwhHFM0oDo...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12526708/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12526708/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic Error of A-PNAS High-Precision Time...by Z Wang · 2025 · Cited by 4 — Therefore, the time-varying effect errors and Doppler effe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12526708/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12526708/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dynamic Error of A-PNAS High-Precision Time...by Z Wang · 2025 · Cited by 4 — Therefore, the time-varying effect errors and Doppler effe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How Do Multi-Camera Setups Benefit from Gig E Vision 2.0?  
-   Link: <a href="https://www.youtube.com/watch?v=nalWpxsFs5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nalWpxsFs5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPGA Horizons 2026: Timing in Embedded Systems – PTP, Clocking &amp; RF Synchronization...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nalWpxsFs5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nalWpxsFs5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FPGA Horizons 2026: Timing in Embedded Systems – PTP, Clocking &amp; RF Synchronization...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/1869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/1869.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and time dissemination in a distributed space...by S Francis · Cited by 11 — This paper examines the timekeeping environments of several...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/1869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/1869.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and time dissemination in a distributed space...by S Francis · Cited by 11 — This paper examines the timekeeping environments of several...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Operational GPS Satellite Ranging, Pseudorange & Errors  
-   Link: <a href="https://www.youtube.com/watch?v=C1LtkzuzpoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C1LtkzuzpoY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OAK4 PTP Sync: Precise Multi-Camera Time/Data Sync Over Ethernet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C1LtkzuzpoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C1LtkzuzpoY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OAK4 PTP Sync: Precise Multi-Camera Time/Data Sync Over Ethernet...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/14/4385" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/14/4385</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Geometry Perception of Direct Time-of-Flight...by J Gimpelj · 2025 · Cited by 4 — This study addresses one of the key challeng...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/14/4385" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/14/4385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Geometry Perception of Direct Time-of-Flight...by J Gimpelj · 2025 · Cited by 4 — This study addresses one of the key challeng...</p></details>

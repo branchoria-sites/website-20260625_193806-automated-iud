@@ -274,19 +274,19 @@ image: /assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin
 
 ## Introduction
 
-GREMLIN’s central idea is simple: no single sensor is trusted to explain an unusual aerial event on its own. A radar return may be clutter, a video may be affected by perspective, a radio-frequency (RF) signal may come from an unrelated transmitter, and a missing transponder code does not automatically mean an object is unknown. GREMLIN therefore combines multiple sensor streams into a single time-synchronised record, allowing investigators to compare what different instruments saw at the same moment. According to AARO’s published system diagram, the suite integrates 2D and 3D radar, electro-optical and infrared imaging, RF spectrum monitoring, [ADS-B]({{ 'ads-b/' | relative_url }}) aircraft-transponder data, GPS [timing]({{ 'timing/' | relative_url }}) and networked storage. The goal is not merely to detect objects but to determine whether different measurements support the same explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+GREMLIN’s central idea is simple: no single sensor is trusted to explain an unusual aerial event on its own. A radar return may be clutter, a video may be affected by perspective, a radio-frequency (RF) signal may come from an unrelated transmitter, and a missing transponder code does not automatically mean an object is unknown. GREMLIN therefore combines multiple sensor streams into a single time-synchronised record, allowing investigators to compare what different instruments saw at the same moment. According to AARO’s published system diagram, the suite integrates 2D and 3D radar, electro-optical and infrared imaging, RF spectrum monitoring, [ADS-B]({{ 'ads-b/' | relative_url }}) aircraft-transponder data, GPS [timing]({{ 'timing/' | relative_url }}) and networked storage. The goal is not merely to detect objects but to determine whether different measurements support the same explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Fusion illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this is one of the most important design shifts in recent government UAP work. Instead of treating a dramatic image or [radar]({{ 'radar/' | relative_url }}) contact as the primary evidence, GREMLIN attempts to build a correlated evidence package in which each sensor either strengthens or weakens competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this is one of the most important design shifts in recent government UAP work. Instead of treating a dramatic image or [radar]({{ 'radar/' | relative_url }}) contact as the primary evidence, GREMLIN attempts to build a correlated evidence package in which each sensor either strengthens or weakens competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 ## Why Single-Sensor UAP Evidence Often Fails
 
 Many famous UAP debates have revolved around isolated sensor products: a short infrared clip, a radar track, or a witness observation. The problem is that each sensing method has characteristic failure modes.
 
-Radar can generate ambiguous returns from weather, birds, clutter, signal reflections or tracking artefacts. Optical and infrared systems can exaggerate apparent motion when the camera platform itself is moving. Thermal imagery may show a contrast region without clearly establishing the object's size, range or physical nature. AARO's published case analyses repeatedly note situations where infrared imagery alone could not determine whether a detected feature represented a physical object, a thermal reflection, an environmental effect or a sensor-display issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</span></span></span>
+Radar can generate ambiguous returns from weather, birds, clutter, signal reflections or tracking artefacts. Optical and infrared systems can exaggerate apparent motion when the camera platform itself is moving. Thermal imagery may show a contrast region without clearly establishing the object's size, range or physical nature. AARO's published case analyses repeatedly note situations where infrared imagery alone could not determine whether a detected feature represented a physical object, a thermal reflection, an environmental effect or a sensor-display issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</span></span></span>
 
-GREMLIN's architecture is designed around that lesson. Rather than asking one instrument to provide a complete answer, it treats every sensor as a partial witness whose claims must be checked against the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+GREMLIN's architecture is designed around that lesson. Rather than asking one instrument to provide a complete answer, it treats every sensor as a partial witness whose claims must be checked against the others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
@@ -295,39 +295,39 @@ GREMLIN's architecture is designed around that lesson. Rather than asking one in
 
 ### Radar: Position, Speed and Track Continuity
 
-The published GREMLIN configuration includes both multiple 2D search radars and a 3D radar. Together, they provide information about where an object is located, how fast it is moving and whether it maintains a coherent track over time. A 3D radar adds altitude information that is often unavailable from simpler surveillance systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+The published GREMLIN configuration includes both multiple 2D search radars and a 3D radar. Together, they provide information about where an object is located, how fast it is moving and whether it maintains a coherent track over time. A 3D radar adds altitude information that is often unavailable from simpler surveillance systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
-Radar is especially useful because it can continue tracking objects through darkness, haze or cloud conditions that may limit optical systems. However, radar alone may not reveal whether a contact is a drone, bird, aircraft or something else. That classification task requires comparison with other sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+Radar is especially useful because it can continue tracking objects through darkness, haze or cloud conditions that may limit optical systems. However, radar alone may not reveal whether a contact is a drone, bird, aircraft or something else. That classification task requires comparison with other sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Fusion illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Optical and Infrared Sensors: Shape and Behaviour
 
-Long-range electro-optical and infrared sensors provide imagery that radar cannot. They can reveal apparent shape, lighting characteristics, thermal behaviour and movement patterns. In AARO's resolved cases, image analysis has helped identify balloons, birds and conventional aircraft by comparing morphology and flight behaviour with known objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</span></span></span>
+Long-range electro-optical and infrared sensors provide imagery that radar cannot. They can reveal apparent shape, lighting characteristics, thermal behaviour and movement patterns. In AARO's resolved cases, image analysis has helped identify balloons, birds and conventional aircraft by comparing morphology and flight behaviour with known objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</span></span></span>
 
-Within GREMLIN, optical observations become more valuable when paired with radar-derived range and speed estimates. An object that appears to move rapidly in a video may look far less unusual once its actual distance and geometry are known. Conversely, a radar track that appears unusual may become understandable after visual identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+Within GREMLIN, optical observations become more valuable when paired with radar-derived range and speed estimates. An object that appears to move rapidly in a video may look far less unusual once its actual distance and geometry are known. Conversely, a radar track that appears unusual may become understandable after visual identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 ### RF Monitoring: Looking for Electronic Signatures
 
-AARO's system diagram includes an RF spectrum monitor. Rather than observing an object directly, this sensor watches the surrounding radio environment. It can detect emissions associated with drones, communications systems, telemetry links or other electronic activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+AARO's system diagram includes an RF spectrum monitor. Rather than observing an object directly, this sensor watches the surrounding radio environment. It can detect emissions associated with drones, communications systems, telemetry links or other electronic activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
-This creates an additional layer of evidence. If radar and cameras detect an airborne object while the RF monitor simultaneously detects control-link transmissions, investigators gain a possible clue that the target may be an unmanned aircraft system rather than an unexplained phenomenon. If no relevant emissions are detected, that finding also becomes part of the evidentiary record, although absence of RF signals is not proof of anything by itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+This creates an additional layer of evidence. If radar and cameras detect an airborne object while the RF monitor simultaneously detects control-link transmissions, investigators gain a possible clue that the target may be an unmanned aircraft system rather than an unexplained phenomenon. If no relevant emissions are detected, that finding also becomes part of the evidentiary record, although absence of RF signals is not proof of anything by itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
 
 ### ADS-B and Transponder Data: Eliminating Known Aircraft
 
-One of the most practical components of the system is ADS-B integration. ADS-B is a widely used aircraft surveillance technology that broadcasts position and identification information. By comparing radar contacts against ADS-B data, investigators can quickly determine whether a detected object corresponds to a [known aircraft]({{ 'known-aircraft/' | relative_url }}) operating in the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+One of the most practical components of the system is ADS-B integration. ADS-B is a widely used aircraft surveillance technology that broadcasts position and identification information. By comparing radar contacts against ADS-B data, investigators can quickly determine whether a detected object corresponds to a [known aircraft]({{ 'known-aircraft/' | relative_url }}) operating in the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
-This process is less glamorous than searching for anomalies, but it is crucial. A significant fraction of unexplained observations become less mysterious once ordinary air traffic is removed from the candidate list. GREMLIN's transponder correlation is therefore a filtering mechanism as much as a detection mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+This process is less glamorous than searching for anomalies, but it is crucial. A significant fraction of unexplained observations become less mysterious once ordinary air traffic is removed from the candidate list. GREMLIN's transponder correlation is therefore a filtering mechanism as much as a detection mechanism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4EnWX_qflQM" title="UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer">UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 16.2K &middot; Uploaded: November 2024</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4EnWX_qflQM">Open on YouTube</a></p></div></div></div>
 
 ## How Sensor Fusion Works in Practice
 
-The key mechanism is temporal and spatial correlation. Every sensor record is time-stamped and referenced to a common position framework using GPS and networked infrastructure. Investigators can then ask whether independent sensors are describing the same object at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
+The key mechanism is temporal and spatial correlation. Every sensor record is time-stamped and referenced to a common position framework using GPS and networked infrastructure. Investigators can then ask whether independent sensors are describing the same object at the same time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on ...November 14, 2024 — 14 Nov 2024 — AARO has begun collections using a p...</span></span></span>
 
 A simplified GREMLIN workflow looks like this:
 
@@ -364,194 +364,194 @@ The distinctive feature of GREMLIN is not any individual sensor but the requirem
 For automated instrumented UFO detection, that is arguably the most important methodological change. The question shifts from "What does this video show?" to "Which explanation best fits all available sensors simultaneously?" When multiple streams agree, confidence increases. When they disagree, investigators gain clues about where the [uncertainty]({{ 'uncertainty/' | relative_url }}) originates. Either outcome is more informative than relying on a single sensor record. [U.S. Department of War](https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Multiple Sensors Make UAP Evidence Clearer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Multiple Sensors Make UAP Evidence Clearer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how different forms of evidence, including military sensor data and witness reports, are evaluated in UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how different forms of evidence, including military sensor data and witness reports, are evaluated in UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context on advanced sensing, surveillance, and defense technologies relevant to multi-sensor detection systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced sensing, surveillance, and defense technologies relevant to multi-sensor detection systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408854-M.jpg" alt="Cover for Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pentagon&#x27;s Brain">Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context on advanced sensing, surveillance, and defense technologies relevant to multi-sensor detection systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on advanced sensing, surveillance, and defense technologies relevant to multi-sensor detection systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Covers aerospace development, sensor integration, and the challenges of interpreting advanced flight data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers aerospace development, sensor integration, and the challenges of interpreting advanced flight data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-fusion-can-multiple-sensors-make-uap-evidence-clearer-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For automated instrumented UFO detection, that is arguably the most important me
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For automated instrumented UFO detection, that is arguably the most important me
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For automated instrumented UFO detection, that is arguably the most important me
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For automated instrumented UFO detection, that is arguably the most important me
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For automated instrumented UFO detection, that is arguably the most important me
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,69 +757,69 @@ For automated instrumented UFO detection, that is arguably the most important me
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery(AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military platfo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: taskandpurpose.com  
    Title: military ufo gremlin  
-   Link: <a href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/military-ufo-gremlin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/military-ufo-gremlin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: darpa.mil  
-   Link: <a href="https://www.darpa.mil/research/programs/gremlins" target="_blank" rel="noopener noreferrer nofollow">https://www.darpa.mil/research/programs/gremlins</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GremlinsDARPA has launched the Gremlins program. Named for the imaginary, mischievous imps that became the good luck charms of many Briti...</p></details>
+   Link:<a href="https://www.darpa.mil/research/programs/gremlins" target="_blank" rel="noopener noreferrer nofollow">https://www.darpa.mil/research/programs/gremlins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GremlinsDARPA has launched the Gremlins program. Named for the imaginary, mischievous imps that became the good luck charms of many Briti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: twz.com  
    Title: dod to deploy [gremlin sensors](&#123;&#123; 'gremlin/' | relative_url &#125;&#125;) to collect intel on unidentified flying objects  
-   Link: <a href="https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD To Deploy &#x27;Gremlin&#x27; Sensors To Collect Intel On...8 Mar 2024 — New deployable hyperspectral sensors will be able to collect data acr...</p></details>
+   Link:<a href="https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD To Deploy &#x27;Gremlin&#x27; Sensors To Collect Intel On...8 Mar 2024 — New deployable hyperspectral sensors will be able to collect data acr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain - YouTube SOMETHING IS HAPPENING — We Are Detecting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4EnWX_qflQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4EnWX_qflQM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain - YouTube SOMETHING IS HAPPENING — We Are Detecting...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: pentagon ufo uap office aaro sensors anomalies orbit  
-   Link: <a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office developing &#x27;Gremlin&#x27; sensors to help...9 Mar 2024 — The Pentagon&#x27;s UFO office is developing sensor kits to help it c...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office developing &#x27;Gremlin&#x27; sensors to help...9 Mar 2024 — The Pentagon&#x27;s UFO office is developing sensor kits to help it c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE | UFO News Today 2024 | US Government Confirms 21 Unexplained UFO Sightings | N18G...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — GREMLIN, but no aliens: Pentagon UAP office plans first deployme...</p></details>
+   Link:<a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — GREMLIN, but no aliens: Pentagon UAP office plans first deployme...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon has new surveillance system for UFO reports | NewsNation Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon has new surveillance system for UFO reports | NewsNation Now...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Pentagon has new surveillance system for UFO reports | News Nation Now  
-   Link: <a href="https://www.youtube.com/watch?v=ZcN1DzdvB3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZcN1DzdvB3Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZcN1DzdvB3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZcN1DzdvB3Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The Pentagon&#x27;s UAP Taskforce, Dr. Jon Kosloski...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: amostech.com  
    Title: 2024 technical papers  
-   Link: <a href="https://amostech.com/2024-technical-papers/" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/2024-technical-papers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Determination with Passive RF Sensors. Department of Physics and Meteorology; for E-O Data and Imagery Event Detection. EO/IR...</p></details>
+   Link:<a href="https://amostech.com/2024-technical-papers/" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/2024-technical-papers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determination with Passive RF Sensors. Department of Physics and Meteorology; for E-O Data and Imagery Event Detection. EO/IR...</p></details>

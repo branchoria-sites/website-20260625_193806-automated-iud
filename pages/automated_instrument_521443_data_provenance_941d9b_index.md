@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-data/
 description: Focused pages that expand on Provenance.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_data_provenance_941d9b
 parent_title: Provenance
@@ -16,7 +16,7 @@ parent_permalink: /provenance/
 
 # Explore Topics in Provenance
 
-The following pages expand on the main **[Provenance]({{ '/provenance/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Provenance]({{ '/provenance/' | relative_url }})** page and cover its key branches in.
 
 - [Event Packet]({{ '/event-packet/' | relative_url }})
 - [Multi Sensor]({{ '/multi-sensor-55fd80/' | relative_url }})

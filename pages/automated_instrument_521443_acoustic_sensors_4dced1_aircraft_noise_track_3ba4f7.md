@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircra
 
 ## Introduction
 
-Aircraft are among the most common explanations for lights that move across the night sky, but matching a visible track to its sound is less straightforward than it appears. Unlike light, which reaches an observer almost instantly, sound travels through air at roughly 343 m/s under typical conditions. An aircraft several kilometres away can therefore be seen in one position while the engine noise reaching the microphone was emitted when the aircraft was somewhere else entirely. Any automated instrumented UFO detector that compares cameras with microphones must account for this delay, together with the aircraft's motion and the changing direction of the sound. Ignoring these effects can produce false mismatches or make an ordinary aircraft appear acoustically inconsistent. Correctly modelling them turns recorded engine noise into a useful test rather than a vague clue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[Dael+2research.chalmers.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-snippet">Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
+Aircraft are among the most common explanations for lights that move across the night sky, but matching a visible track to its sound is less straightforward than it appears. Unlike light, which reaches an observer almost instantly, sound travels through air at roughly 343 m/s under typical conditions. An aircraft several kilometres away can therefore be seen in one position while the engine noise reaching the microphone was emitted when the aircraft was somewhere else entirely. Any automated instrumented UFO detector that compares cameras with microphones must account for this delay, together with the aircraft's motion and the changing direction of the sound. Ignoring these effects can produce false mismatches or make an ordinary aircraft appear acoustically inconsistent. Correctly modelling them turns recorded engine noise into a useful test rather than a vague clue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[Dael+2research.chalmers.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-snippet">Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Noise illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,7 +305,7 @@ Different aircraft produce distinctive acoustic signatures, although they should
 
 **Jet aircraft** typically generate broad, low-frequency engine noise mixed with aerodynamic turbulence. During approach or departure, the spectrum changes gradually as engine power varies. The sound usually builds slowly, reaches maximum intensity near the closest point of approach, then fades.
 
-**Propeller aircraft** often contain strong tonal components produced by blade-passing frequencies and engine harmonics. These repeated tones are particularly useful because they allow software to estimate Doppler shifts as the aircraft approaches and recedes. Research has shown that even a single calibrated microphone can estimate aspects of a passing propeller aircraft's trajectory from these frequency changes, while multiple microphones improve localisation accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</span><span class="citation-popover-meta">Published: September 2, 2015</span></span></span>
+**Propeller aircraft** often contain strong tonal components produced by blade-passing frequencies and engine harmonics. These repeated tones are particularly useful because they allow software to estimate Doppler shifts as the aircraft approaches and recedes. Research has shown that even a single calibrated microphone can estimate aspects of a passing propeller aircraft's trajectory from these frequency changes, while multiple microphones improve localisation accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</span><span class="citation-popover-meta">Published: September 2, 2015</span></span></span>
 
 **Helicopters** produce a characteristic rhythmic modulation caused by rotating blades. Rather than a smooth engine hum, the signal contains repeating blade impulses whose [timing]({{ 'timing/' | relative_url }}) changes as geometry evolves.
 
@@ -322,13 +322,13 @@ A fixed sound source, such as a factory siren, simply requires accounting for th
 
 The sequence is:
 
-1. The aircraft occupies position A and emits engine noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=4t_0FGxnRm0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Aircraft Community Noise Simulation</span><span class="citation-popover-snippet">Flight Tests - Ep.13: Noise Measurement Tests...</span></span></span>
+1. The aircraft occupies position A and emits engine noise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=4t_0FGxnRm0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Aircraft Community Noise Simulation</span><span class="citation-popover-snippet">Flight Tests - Ep.13: Noise Measurement Tests...</span></span></span>
 2. The sound begins travelling toward the observer.
 3. During those seconds, the aircraft continues flying to position B.
 4. The camera records the aircraft near position B.
 5. The microphone receives sound that originated near position A.
 
-Without correcting for this "retarded" source position, software would incorrectly compare the video with the aircraft's current location rather than the location from which the recorded sound was actually emitted. Modern moving-source acoustic models explicitly include this propagation delay because it materially affects predicted arrival times, levels and apparent source geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[Dael+2research.chalmers.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-snippet">Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
+Without correcting for this "retarded" source position, software would incorrectly compare the video with the aircraft's current location rather than the location from which the recorded sound was actually emitted. Modern moving-source acoustic models explicitly include this propagation delay because it materially affects predicted arrival times, levels and apparent source geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dael.euracoustics.org">[Dael+2research.chalmers.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dael.euracoustics.org</span><span class="citation-popover-snippet">Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</span><span class="citation-popover-meta">Published: January 21, 2024</span></span></span>
 
 The error becomes increasingly important for:
 
@@ -343,7 +343,7 @@ The error becomes increasingly important for:
 
 Aircraft rarely maintain a constant observed pitch.
 
-As an aircraft approaches, successive sound waves are compressed, producing a higher observed frequency. After the closest point of approach, the waves become stretched and the apparent pitch falls. This familiar Doppler effect is measurable by automated signal-processing software rather than relying on human hearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</span><span class="citation-popover-meta">Published: September 2, 2015</span></span></span>
+As an aircraft approaches, successive sound waves are compressed, producing a higher observed frequency. After the closest point of approach, the waves become stretched and the apparent pitch falls. This familiar Doppler effect is measurable by automated signal-processing software rather than relying on human hearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</span><span class="citation-popover-meta">Published: September 2, 2015</span></span></span>
 
 For sky-monitoring systems, Doppler information serves two purposes.
 
@@ -351,7 +351,7 @@ First, it helps estimate whether the source is approaching or receding at the ti
 
 Second, the measured frequency curve can be compared with the optical motion. A camera showing an aircraft moving steadily away should not coincide with an audio record showing an increasing Doppler shift characteristic of an approaching source. Such inconsistencies suggest that the sound and light may originate from different objects.
 
-Research into passive acoustic aircraft tracking routinely exploits these Doppler measurements to estimate source trajectories without transmitting any signals, demonstrating that the effect contains useful geometric information rather than merely altering perceived pitch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2UPCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet rsn.2016.0159</span><span class="citation-popover-snippet">IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</span></span></span>
+Research into passive acoustic aircraft tracking routinely exploits these Doppler measurements to estimate source trajectories without transmitting any signals, demonstrating that the effect contains useful geometric information rather than merely altering perceived pitch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2UPCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet rsn.2016.0159</span><span class="citation-popover-snippet">IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tp7c_xMjUow" title="The Proof Is Out There: Catalina UAPx | Exclusive (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tp7c_xMjUow" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Catalina UAPx | Exclusive (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tp7c_xMjUow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tp7c_xMjUow">Open on YouTube</a></p></div></div></div>
@@ -370,7 +370,7 @@ A successful match requires several independent quantities to agree:
 * expected Doppler evolution;
 * plausible sound level for the estimated distance.
 
-Agreement across multiple independent measurements is considerably stronger evidence than matching any one feature alone. Passive acoustic tracking systems developed for aircraft surveillance use exactly this principle, combining multiple microphones with motion models to estimate aircraft position and trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2UPCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet rsn.2016.0159</span><span class="citation-popover-snippet">IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</span></span></span>
+Agreement across multiple independent measurements is considerably stronger evidence than matching any one feature alone. Passive acoustic tracking systems developed for aircraft surveillance use exactly this principle, combining multiple microphones with motion models to estimate aircraft position and trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2UPCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet rsn.2016.0159</span><span class="citation-popover-snippet">IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Noise illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_aircraft_noise_track_3ba4f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,194 +395,194 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does the Engine Fit the Light?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does the Engine Fit the Light?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places aircraft identification within broader UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places aircraft identification within broader UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aircraft noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/333660-M.jpg" alt="Cover for Aircraft noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aircraft noise">Aircraft noise</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. T. Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aircraft noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/333660-M.jpg" alt="Cover for Aircraft noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aircraft noise">Aircraft noise</a>
+</h4>
+<p class="fr-book-author">By Michael J. T. Smith</p>
         
-        <p class="fr-book-desc">First published 1989. Subjects: Airplanes, Noise, Airplanes, noise, Vliegtuigen, Geluidshinder.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1989. Subjects: Airplanes, Noise, Airplanes, noise, Vliegtuigen, Geluidshinder.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Aircraft+noise+Michael+J.+T.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
+</h4>
+<p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805985-M.jpg" alt="Cover for Introduction to sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to sound">Introduction to sound</a>
-        </h4>
-        <p class="fr-book-author">By Charles E. Speaks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/805985-M.jpg" alt="Cover for Introduction to sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to sound">Introduction to sound</a>
+</h4>
+<p class="fr-book-author">By Charles E. Speaks</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Sound, Audiology, Speech therapy, Auditieve waarneming, Acoustique de la voix.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Sound, Audiology, Speech therapy, Auditieve waarneming, Acoustique de la voix.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Aircraft+noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aircraft noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of acoustics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Aircraft+noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aircraft noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of acoustics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="aircraft-noise-does-the-engine-fit-the-light-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,84 +788,84 @@ If they consistently fail—for example, if a supposedly nearby low-flying aircr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dael.euracoustics.org  
-   Link: <a href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</p></details>
+   Link:<a href="https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dael.euracoustics.org/confs/fa2023/data/articles/000177.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sound pressure radiated by a point-source in arbitrary...January 21, 2024 — by B Kayser · 2023 — The present work aims at improving...</p></details>
    Published: January 21, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: research.chalmers.se  
    Title: 540965 Fulltext  
-   Link: <a href="https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Prediction: from Trajectory to Synthesisby EM Thoma · 2024 · Cited by 5 — The issue of aircraft noise gained significant a...</p></details>
+   Link:<a href="https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/540965/file/540965_Fulltext.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Noise Prediction: from Trajectory to Synthesisby EM Thoma · 2024 · Cited by 5 — The issue of aircraft noise gained significant a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A646335/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalAcoustic Source Localization in a Network of Doppler Shift...September 2, 2015 — The motion of a passing acoustic source can...</p></details>
    Published: September 2, 2015  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upcommons.upc.edu  
    Title: ommons Aircraft localization using a passive acoustic method  
-   Link: <a href="https://upcommons.upc.edu/bitstreams/a00f4ad0-dc9b-4b95-b88c-520b7b1a5184/download" target="_blank" rel="noopener noreferrer nofollow">https://upcommons.upc.edu/bitstreams/a00f4ad0-dc9b-4b95-b88c-520b7b1a5184/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SR Martín Román · 2016 · Cited by 10 — The method relies on the Doppler effect influencing the signals received by a mesh of microphon...</p></details>
+   Link:<a href="https://upcommons.upc.edu/bitstreams/a00f4ad0-dc9b-4b95-b88c-520b7b1a5184/download" target="_blank" rel="noopener noreferrer nofollow">https://upcommons.upc.edu/bitstreams/a00f4ad0-dc9b-4b95-b88c-520b7b1a5184/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SR Martín Román · 2016 · Cited by 10 — The method relies on the Doppler effect influencing the signals received by a mesh of microphon...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Doppler effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Doppler_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doppler_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Doppler_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doppler_effect</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
    Title: iet rsn.2016.0159  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2016.0159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalPassive acoustic system for tracking low‐flying aircraft1 Dec 2016 — The following study presents the acoustic aircra...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eucass.eu  
-   Link: <a href="https://www.eucass.eu/component/docindexer/?id=6150&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=6150&amp;task=download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRCRAFT NOISE PREDICTION IN THE IESTA PROGRAMThis paper presents the acoustic model dedicated to the aircraft noise prediction. Based on...</p></details>
+   Link:<a href="https://www.eucass.eu/component/docindexer/?id=6150&amp;task=download" target="_blank" rel="noopener noreferrer nofollow">https://www.eucass.eu/component/docindexer/?id=6150&amp;task=download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIRCRAFT NOISE PREDICTION IN THE IESTA PROGRAMThis paper presents the acoustic model dedicated to the aircraft noise prediction. Based on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eaglepubs.erau.edu  
    Title: Eagle Pubs Aeroacoustics of Flight Vehicles –  
-   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle PubsAeroacoustics of Flight Vehicles – Introduction to...by JG Leishman · 2023 · Cited by 2 — In the context of aircraft, the rele...</p></details>
+   Link:<a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle PubsAeroacoustics of Flight Vehicles – Introduction to...by JG Leishman · 2023 · Cited by 2 — In the context of aircraft, the rele...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: Catalina UAPx  
-   Link: <a href="https://www.youtube.com/watch?v=Tp7c_xMjUow" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tp7c_xMjUow</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Noise – Aeroacoustics | Online Program (Sample Video Lecture) - YouTube Sources of Noise – Aeroacoustics | Online Program (Sam...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tp7c_xMjUow" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tp7c_xMjUow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sources of Noise – Aeroacoustics | Online Program (Sample Video Lecture) - YouTube Sources of Noise – Aeroacoustics | Online Program (Sam...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: acnsci.org  
-   Link: <a href="https://acnsci.org/journal/index.php/jec/article/view/1201" target="_blank" rel="noopener noreferrer nofollow">https://acnsci.org/journal/index.php/jec/article/view/1201</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Doppler localisation and tracking in 3D space with...by AV Riabko · 2025 · Cited by 1 — This study extends Doppler-based acoust...</p></details>
+   Link:<a href="https://acnsci.org/journal/index.php/jec/article/view/1201" target="_blank" rel="noopener noreferrer nofollow">https://acnsci.org/journal/index.php/jec/article/view/1201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acoustic Doppler localisation and tracking in 3D space with...by AV Riabko · 2025 · Cited by 1 — This study extends Doppler-based acoust...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Flight Tests  
-   Link: <a href="https://www.youtube.com/watch?v=wsmj-SHVI3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wsmj-SHVI3w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Altitude Airspace Monitoring Using Passive Acoustics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wsmj-SHVI3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wsmj-SHVI3w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low Altitude Airspace Monitoring Using Passive Acoustics...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Aircraft Community Noise Simulation  
-   Link: <a href="https://www.youtube.com/watch?v=4t_0FGxnRm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4t_0FGxnRm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Tests - Ep.13: Noise Measurement Tests...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4t_0FGxnRm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4t_0FGxnRm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Tests - Ep.13: Noise Measurement Tests...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Low Altitude Airspace Monitoring Using Passive Acoustics  
-   Link: <a href="https://www.youtube.com/watch?v=aLQeWCvwYn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aLQeWCvwYn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Catalina UAPx...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aLQeWCvwYn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aLQeWCvwYn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Catalina UAPx...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: 3D sound localization  
-   Link: <a href="https://en.wikipedia.org/wiki/3D_sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/3D_sound_localization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/3D_sound_localization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/3D_sound_localization</a>  

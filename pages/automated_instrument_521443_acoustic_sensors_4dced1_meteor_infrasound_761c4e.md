@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor
 
 ## Introduction
 
-A bright meteor or bolide can look like a nearby explosion even when it occurs tens of kilometres above the Earth. One of the most useful ways to distinguish such events from aircraft, drones or local explosions is to examine their infrasound: extremely low-frequency acoustic waves below the normal range of human hearing. Unlike light, these waves travel at the speed of sound, so they often arrive minutes after the visual event. That delayed arrival is not a flaw in the evidence but an expected consequence of atmospheric physics, and it has become an important classification tool in modern automated sky-monitoring systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
+A bright meteor or bolide can look like a nearby explosion even when it occurs tens of kilometres above the Earth. One of the most useful ways to distinguish such events from aircraft, drones or local explosions is to examine their infrasound: extremely low-frequency acoustic waves below the normal range of human hearing. Unlike light, these waves travel at the speed of sound, so they often arrive minutes after the visual event. That delayed arrival is not a flaw in the evidence but an expected consequence of atmospheric physics, and it has become an important classification tool in modern automated sky-monitoring systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-1-dark.svg" | relative_url }}" alt="Meteor Sound illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detect
 
 A bolide enters the atmosphere at many kilometres per second, far exceeding the speed of sound. Instead of producing a single point explosion, it commonly generates a moving shock wave along much of its flight path. If the object fragments violently, additional blast waves may be created at one or more breakup points.
 
-Much of the resulting acoustic energy lies below about 20 Hz, making it inaudible to humans but detectable by sensitive microbarometers. These infrasonic waves lose comparatively little energy over long distances and can propagate through atmospheric layers for hundreds or even thousands of kilometres. That is why dedicated infrasound networks routinely detect large fireballs that occurred far beyond the range where anyone could hear an ordinary sonic boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
+Much of the resulting acoustic energy lies below about 20 Hz, making it inaudible to humans but detectable by sensitive microbarometers. These infrasonic waves lose comparatively little energy over long distances and can propagate through atmospheric layers for hundreds or even thousands of kilometres. That is why dedicated infrasound networks routinely detect large fireballs that occurred far beyond the range where anyone could hear an ordinary sonic boom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
 
 Modern studies also show that meteor-generated infrasound is more complicated than a simple explosion. Analysts may observe signals produced by:
 
@@ -304,7 +304,7 @@ Modern studies also show that meteor-generated infrasound is more complicated th
 
 </div>
 
-Recognising these patterns helps estimate where the strongest breakup occurred and how much energy the bolide released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
+Recognising these patterns helps estimate where the strongest breakup occurred and how much energy the bolide released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWCzSAEtbbU" title="Nothing Escapes The Global Ear: Nuclear Tests, Volcanoes, Earthquakes or Meteors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWCzSAEtbbU" target="_blank" rel="noopener noreferrer">Nothing Escapes The Global Ear: Nuclear Tests, Volcanoes, Earthquakes or Meteors</a></p><p class="youtube-embed-meta">Channel: CTBTO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWCzSAEtbbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWCzSAEtbbU">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ This timing changes how an event should be interpreted.
 
 </div>
 
-Rather than treating the absence of immediate sound as suspicious, automated systems can predict when an infrasonic signal should arrive based on the estimated trajectory. Agreement between predicted and measured arrival times substantially increases confidence that the event was a meteor rather than an unidentified nearby object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
+Rather than treating the absence of immediate sound as suspicious, automated systems can predict when an infrasonic signal should arrive based on the estimated trajectory. Agreement between predicted and measured arrival times substantially increases confidence that the event was a meteor rather than an unidentified nearby object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
 
 This approach is especially valuable when optical imagery alone leaves room for multiple interpretations because of uncertain distance or perspective.
 
@@ -338,18 +338,18 @@ Witnesses often report that a spectacular fireball was "completely silent". With
 
 In reality, silence at the moment of observation is exactly what physics predicts for most meteors.
 
-Because the luminous phase occurs high in the atmosphere, the flash reaches observers long before any acoustic wave. Many events are also simply too distant for ordinary audible frequencies to survive propagation, even though the lower-frequency infrasonic components continue travelling efficiently. Automated detectors therefore treat immediate silence as neutral evidence rather than evidence against a meteor explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
+Because the luminous phase occurs high in the atmosphere, the flash reaches observers long before any acoustic wave. Many events are also simply too distant for ordinary audible frequencies to survive propagation, even though the lower-frequency infrasonic components continue travelling efficiently. Automated detectors therefore treat immediate silence as neutral evidence rather than evidence against a meteor explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-snippet">Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</span></span></span>
 
-An important exception sometimes appears in eyewitness reports: so-called electrophonic sounds. These are simultaneous hissing, crackling or sizzling sounds reported during exceptionally bright meteors. They are thought not to be ordinary acoustic waves travelling from the meteor itself but local sounds generated when very low frequency electromagnetic fields induce vibrations in nearby objects. Such reports remain rare and scientifically challenging, and they should not be confused with delayed infrasonic shock waves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ethw.org/Electrophonic_Meteors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethw.org">[ETHW+2vinkovic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethw.org</span><span class="citation-popover-title">Electrophonic Meteors</span><span class="citation-popover-snippet">Electrophonic MeteorsSeptember 17, 2015 — 17 Sept 2015 — The perceived improbability of electrophonic meteors has prevented substanti...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
+An important exception sometimes appears in eyewitness reports: so-called electrophonic sounds. These are simultaneous hissing, crackling or sizzling sounds reported during exceptionally bright meteors. They are thought not to be ordinary acoustic waves travelling from the meteor itself but local sounds generated when very low frequency electromagnetic fields induce vibrations in nearby objects. Such reports remain rare and scientifically challenging, and they should not be confused with delayed infrasonic shock waves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ethw.org/Electrophonic_Meteors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethw.org">[ETHW+2vinkovic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethw.org</span><span class="citation-popover-title">Electrophonic Meteors</span><span class="citation-popover-snippet">Electrophonic MeteorsSeptember 17, 2015 — 17 Sept 2015 — The perceived improbability of electrophonic meteors has prevented substanti...</span><span class="citation-popover-meta">Published: September 17, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sNoM_K2aik8" title="Review - UVI Meteor Rise &amp; Impact Sound Effects Library" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sNoM_K2aik8" target="_blank" rel="noopener noreferrer">Review - UVI Meteor Rise &amp; Impact Sound Effects Library</a></p><p class="youtube-embed-meta">Channel: Production Expert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sNoM_K2aik8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sNoM_K2aik8">Open on YouTube</a></p></div></div></div>
 
 ## Real examples that changed interpretation
 
-The 2013 Chelyabinsk bolide demonstrated the power of infrasound for understanding major atmospheric impacts. The event produced one of the strongest infrasonic signals ever recorded by the global monitoring network operated for the Comprehensive Nuclear-Test-Ban Treaty. Multiple stations across continents detected the signal, with some observations made roughly 15,000 km from the source. Analysts used the changing direction and timing of the arriving waves to distinguish the moving meteor from a stationary explosion and to estimate its energy release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-title">russian fireball largest ever detected ctbtos infrasound</span><span class="citation-popover-snippet">Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — Infrasonic waves from the meteor that broke up over Russia&#x27;s Ura...</span></span></span>
+The 2013 Chelyabinsk bolide demonstrated the power of infrasound for understanding major atmospheric impacts. The event produced one of the strongest infrasonic signals ever recorded by the global monitoring network operated for the Comprehensive Nuclear-Test-Ban Treaty. Multiple stations across continents detected the signal, with some observations made roughly 15,000 km from the source. Analysts used the changing direction and timing of the arriving waves to distinguish the moving meteor from a stationary explosion and to estimate its energy release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctbto.org">[CTBTO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctbto.org</span><span class="citation-popover-title">russian fireball largest ever detected ctbtos infrasound</span><span class="citation-popover-snippet">Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — Infrasonic waves from the meteor that broke up over Russia&#x27;s Ura...</span></span></span>
 
-Researchers have since analysed many dozens of bolides detected by worldwide infrasound arrays. Combining optical observations with infrasonic measurements allows estimates of fragmentation altitude, energy yield and trajectory that would be difficult from cameras alone. Recent reviews emphasise that interpreting these signals requires accounting for atmospheric winds, propagation paths and the fact that extended meteor trajectories generate more complex acoustic signatures than simple point explosions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
+Researchers have since analysed many dozens of bolides detected by worldwide infrasound arrays. Combining optical observations with infrasonic measurements allows estimates of fragmentation altitude, energy yield and trajectory that would be difficult from cameras alone. Recent reviews emphasise that interpreting these signals requires accounting for atmospheric winds, propagation paths and the fact that extended meteor trajectories generate more complex acoustic signatures than simple point explosions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H-8ij80vs1E" title="Russian Fireball Largest Ever Detected by CTBTO&#x27;s Infrasound Sensors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H-8ij80vs1E" target="_blank" rel="noopener noreferrer">Russian Fireball Largest Ever Detected by CTBTO&#x27;s Infrasound Sensors</a></p><p class="youtube-embed-meta">Channel: CTBTO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H-8ij80vs1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H-8ij80vs1E">Open on YouTube</a></p></div></div></div>
@@ -373,200 +373,200 @@ A practical classification workflow can compare:
 
 When these measurements agree, the system gains objective evidence that a visually dramatic but initially silent event was a distant bolide. Conversely, if a supposed meteor lacks any compatible delayed infrasonic signature despite favourable observing geometry, investigators have reason to examine alternative explanations or consider whether the optical observation was incomplete.
 
-In this way, infrasound does not merely detect meteors. It changes how ambiguous sky events are interpreted by adding an independent physical measurement that can separate distant atmospheric impacts from nearby human-made sources, reducing false classifications in automated sky-monitoring networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
+In this way, infrasound does not merely detect meteors. It changes how ambiguous sky events are interpreted by adding an independent physical measurement that can separate distant atmospheric impacts from nearby human-made sources, reducing false classifications in automated sky-monitoring networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-3-dark.svg" | relative_url }}" alt="Meteor Sound illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_acoustic_sensors_4dced1_meteor_infrasound_761c4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Delayed Boom After a Meteor. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Delayed Boom After a Meteor. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Explains meteor physics behind delayed acoustic signals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteor physics behind delayed acoustic signals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
-        </h4>
-        <p class="fr-book-author">By O. Richard Norton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocks from Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypTvAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Rocks from Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
+</h4>
+<p class="fr-book-author">By O. Richard Norton</p>
         
-        <p class="fr-book-desc">Introduces meteors and bolides for general readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces meteors and bolides for general readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places meteor identification within UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places meteor identification within UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of acoustics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/307194-M.jpg" alt="Cover for Fundamentals of acoustics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
+</h4>
+<p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Sound, Equipment and supplies, Architectural acoustics, Sound-waves, Sound, equipment and supplies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rocks+from+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rocks from Space</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="meteor-sound-the-delayed-boom-after-a-meteor-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,135 +772,135 @@ In this way, infrasound does not merely detect meteors. It changes how ambiguous
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
+   Link:<a href="https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/monitoring-technologies/infrasound-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrasound monitoringAcoustic waves with very low frequencies are called infrasound.... infrasound monitoring is a useful technique...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/16/19/3628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/16/19/3628" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/16/19/3628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives and Challenges in Bolide Infrasound...by EA Silber · 2024 · Cited by 16 — Infrasound sensing plays a critical role in t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Refinement of Bolide Characteristics from Infrasound measurements  
-   Link: <a href="https://arxiv.org/abs/1704.07794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.07794</a>  
+   Link:<a href="https://arxiv.org/abs/1704.07794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.07794</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.04127" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.04127</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The utility of infrasound in global monitoring of extraterrestrial impacts: A case study of the 23 July 2008 Tajikistan bolide...</p></details>
+   Link:<a href="https://arxiv.org/abs/2405.04127" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.04127</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The utility of infrasound in global monitoring of extraterrestrial impacts: A case study of the 23 July 2008 Tajikistan bolide...</p></details>
    Published: July 2008  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.13972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.13972</a>  
+   Link:<a href="https://arxiv.org/abs/2503.13972" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.13972</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ethw.org  
    Title: Electrophonic Meteors  
-   Link: <a href="https://ethw.org/Electrophonic_Meteors" target="_blank" rel="noopener noreferrer nofollow">https://ethw.org/Electrophonic_Meteors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electrophonic MeteorsSeptember 17, 2015 — 17 Sept 2015 — The perceived improbability of electrophonic meteors has prevented substanti...</p></details>
+   Link:<a href="https://ethw.org/Electrophonic_Meteors" target="_blank" rel="noopener noreferrer nofollow">https://ethw.org/Electrophonic_Meteors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electrophonic MeteorsSeptember 17, 2015 — 17 Sept 2015 — The perceived improbability of electrophonic meteors has prevented substanti...</p></details>
    Published: September 17, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vinkovic.org  
-   Link: <a href="https://vinkovic.org/Projects/Electrophones/Vinkovic_2002_WGN_30_244.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vinkovic.org/Projects/Electrophones/Vinkovic_2002_WGN_30_244.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Electrophonic Fireball Survey: a [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of witness...Audible sounds from meteors can be divided into two groups: normal and anoma...</p></details>
+   Link:<a href="https://vinkovic.org/Projects/Electrophones/Vinkovic_2002_WGN_30_244.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vinkovic.org/Projects/Electrophones/Vinkovic_2002_WGN_30_244.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Electrophonic Fireball Survey: a [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of witness...Audible sounds from meteors can be divided into two groups: normal and anoma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ctbto.org  
    Title: russian fireball largest ever detected ctbtos infrasound  
-   Link: <a href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — Infrasonic waves from the meteor that broke up over Russia&#x27;s Ura...</p></details>
+   Link:<a href="https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/resources/for-the-media/press-releases/russian-fireball-largest-ever-detected-ctbtos-infrasound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Fireball Largest Ever Detected by CTBTO&#x27;s...Feb 18, 2013 — Infrasonic waves from the meteor that broke up over Russia&#x27;s Ura...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageJoin CTBTO on our mission to create a world free of nuclear testing. Learn more about employment and business opportunitie...</p></details>
+   Link:<a href="https://www.ctbto.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageJoin CTBTO on our mission to create a world free of nuclear testing. Learn more about employment and business opportunitie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastThe low frequency sound waves from the blast were detected at 03:22 GMT by the ne...</p></details>
+   Link:<a href="https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/news-and-events/news/ctbto-infrasound-stations-detect-russian-meteorite-blast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Infrasound Stations Detect Russian Meteorite BlastThe low frequency sound waves from the blast were detected at 03:22 GMT by the ne...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: conferences.ctbto.org  
-   Link: <a href="https://conferences.ctbto.org/event/30/contributions/5515/attachments/3289/6616/E-poster_P1.1-227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/5515/attachments/3289/6616/E-poster_P1.1-227.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bolide shock source and propagation variability...23 Jul 2008 — Infrasound captures explosive bolide events from thousands of kilometers...</p></details>
+   Link:<a href="https://conferences.ctbto.org/event/30/contributions/5515/attachments/3289/6616/E-poster_P1.1-227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/5515/attachments/3289/6616/E-poster_P1.1-227.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bolide shock source and propagation variability...23 Jul 2008 — Infrasound captures explosive bolide events from thousands of kilometers...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ctbto.org  
-   Link: <a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
+   Link:<a href="https://www.ctbto.org/our-work/international-monitoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.ctbto.org/our-work/international-monitoring-system</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: conferences.ctbto.org  
    Title: SnT2025 E Poster Albuquerque DF P5.1 830  
-   Link: <a href="https://conferences.ctbto.org/event/30/contributions/6124/attachments/3218/6394/SnT2025_E-Poster_Albuquerque_DF_P5.1-830.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/6124/attachments/3218/6394/SnT2025_E-Poster_Albuquerque_DF_P5.1-830.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of infrasound generated by the meteoroid...Nov 29, 2020 — The bolide had a yield of less than 1 kt TNT estimated by CNEOS, showing that...</p></details>
+   Link:<a href="https://conferences.ctbto.org/event/30/contributions/6124/attachments/3218/6394/SnT2025_E-Poster_Albuquerque_DF_P5.1-830.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conferences.ctbto.org/event/30/contributions/6124/attachments/3218/6394/SnT2025_E-Poster_Albuquerque_DF_P5.1-830.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of infrasound generated by the meteoroid...Nov 29, 2020 — The bolide had a yield of less than 1 kt TNT estimated by CNEOS, showing that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Nothing Escapes The Global Ear: Nuclear Tests, Volcanoes, Earthquakes or Meteors  
-   Link: <a href="http://www.youtube.com/watch?v=lWCzSAEtbbU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lWCzSAEtbbU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Russian meteor infrasound Russian Fireball Largest Ever Detected by CTBTO&#x27;s Infrasound Sensors...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lWCzSAEtbbU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lWCzSAEtbbU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CTBTO Russian meteor infrasound Russian Fireball Largest Ever Detected by CTBTO&#x27;s Infrasound Sensors...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/research/infrasound/is_advantages.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_advantages.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor InfrasoundInfrasound detection is a robust, cost effective technology for detection of blast waves from bolides. It is possible to...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/research/infrasound/is_advantages.html" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/research/infrasound/is_advantages.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor InfrasoundInfrasound detection is a robust, cost effective technology for detection of blast waves from bolides. It is possible to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor making noise??: r/spaceI live in Santa Clarita, CA, a northern suburb of Los Angeles. Last night around 8pm, many residents of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor making noise??: r/spaceI live in Santa Clarita, CA, a northern suburb of Los Angeles. Last night around 8pm, many residents of th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scitechdaily.com  
    Title: sonic booms in the sky how scientists use bolides to improve planetary defense  
-   Link: <a href="https://scitechdaily.com/sonic-booms-in-the-sky-how-scientists-use-bolides-to-improve-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow">https://scitechdaily.com/sonic-booms-in-the-sky-how-scientists-use-bolides-to-improve-planetary-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Booms in the Sky: How Scientists Use “Bolides” To...2 Jul 2025 — Scientists are now exploring how mysterious sky-booms known as bo...</p></details>
+   Link:<a href="https://scitechdaily.com/sonic-booms-in-the-sky-how-scientists-use-bolides-to-improve-planetary-defense/" target="_blank" rel="noopener noreferrer nofollow">https://scitechdaily.com/sonic-booms-in-the-sky-how-scientists-use-bolides-to-improve-planetary-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sonic Booms in the Sky: How Scientists Use “Bolides” To...2 Jul 2025 — Scientists are now exploring how mysterious sky-booms known as bo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physics.stackexchange.com  
    Title: was carl sagan correct to say that meteor entry is completely silent  
-   Link: <a href="https://physics.stackexchange.com/questions/873405/was-carl-sagan-correct-to-say-that-meteor-entry-is-completely-silent" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/873405/was-carl-sagan-correct-to-say-that-meteor-entry-is-completely-silent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan correct to say that meteor entry is &quot;...16 Jun 2026 — In Broca&#x27;s Brain (1979), Carl Sagan criticized a statement by Immanuel...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/873405/was-carl-sagan-correct-to-say-that-meteor-entry-is-completely-silent" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/873405/was-carl-sagan-correct-to-say-that-meteor-entry-is-completely-silent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan correct to say that meteor entry is &quot;...16 Jun 2026 — In Broca&#x27;s Brain (1979), Carl Sagan criticized a statement by Immanuel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unoosa.org  
    Title: Putting an end to nuclear explosions through science  
-   Link: <a href="https://www.unoosa.org/documents/pdf/WSF/Presentations/Session/UN-Space/6._Martin_CTBTO_UNOOSApanel_NEO_20Nov2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/WSF/Presentations/Session/UN-Space/6._Martin_CTBTO_UNOOSApanel_NEO_20Nov2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>detected by CTBTO infrasound sensors. Geophysical Research Letters, DOI... The most energetic event since the Tungunska meteor. (1908)...</p></details>
+   Link:<a href="https://www.unoosa.org/documents/pdf/WSF/Presentations/Session/UN-Space/6._Martin_CTBTO_UNOOSApanel_NEO_20Nov2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/WSF/Presentations/Session/UN-Space/6._Martin_CTBTO_UNOOSApanel_NEO_20Nov2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>detected by CTBTO infrasound sensors. Geophysical Research Letters, DOI... The most energetic event since the Tungunska meteor. (1908)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/351278914_Electrophonic_sounds_from_meteors_and_auroral_audibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351278914_Electrophonic_sounds_from_meteors_and_auroral_audibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>without delay). They are known for hundreds years. At least several hypotheses...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/351278914_Electrophonic_sounds_from_meteors_and_auroral_audibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/351278914_Electrophonic_sounds_from_meteors_and_auroral_audibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>without delay). They are known for hundreds years. At least several hypotheses...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: phys.org  
    Title: 2013 02 russian fireball largest ctbto infrasound  
-   Link: <a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...19 Feb 2013 — Infrasound has been used as part of the CTBTO&#x27;s tools to detect atomic...</p></details>
+   Link:<a href="https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-02-russian-fireball-largest-ctbto-infrasound.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian fireball largest ever detected by CTBTO&#x27;s...19 Feb 2013 — Infrasound has been used as part of the CTBTO&#x27;s tools to detect atomic...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: 19860 russia meteor explosion largest detected  
-   Link: <a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection GridFeb 19, 2013 — When the space rock detonated, the blast was detected by 17 infr...</p></details>
+   Link:<a href="https://www.space.com/19860-russia-meteor-explosion-largest-detected.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19860-russia-meteor-explosion-largest-detected.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia Meteor Blast Largest Seen by Nuclear Detection GridFeb 19, 2013 — When the space rock detonated, the blast was detected by 17 infr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: csmonitor.com  
    Title: Russia meteor triggered nuclear warning system  
-   Link: <a href="https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 22, 2013 — When the space rock detonated, the blast was detected by 17 infrasound stations in the CTBTO&#x27;s network that track atomic b...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0222/Russia-meteor-triggered-nuclear-warning-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 22, 2013 — When the space rock detonated, the blast was detected by 17 infrasound stations in the CTBTO&#x27;s network that track atomic b...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: 316520644 Infrasound detection of meteors  
-   Link: <a href="https://www.researchgate.net/publication/316520644_Infrasound_detection_of_meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316520644_Infrasound_detection_of_meteors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrasound detection of meteors28 Apr 2017 — Meteorites that penetrate the atmosphere generate infrasound waves of very low frequen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316520644_Infrasound_detection_of_meteors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316520644_Infrasound_detection_of_meteors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrasound detection of meteors28 Apr 2017 — Meteorites that penetrate the atmosphere generate infrasound waves of very low frequen...</p></details>

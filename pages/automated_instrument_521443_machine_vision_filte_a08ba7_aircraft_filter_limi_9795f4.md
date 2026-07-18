@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_ai
 
 ## Introduction
 
-In an automated instrumented UFO detector, aircraft are one of the largest sources of [false alerts]({{ 'false-alerts/' | relative_url }}). The difficulty is that a distant airliner rarely resembles the neat side-on photographs used to train image-recognition systems. Instead, it may appear as a flashing point, an overexposed blob, a short streak, or a heat source only a few pixels across. For that reason, reliable aircraft filtering depends on combining visual evidence with independent flight information rather than asking a neural network to identify a tiny object from appearance alone. Multi-sensor confirmation—especially comparison against Automatic Dependent Surveillance–Broadcast (ADS-B) [flight data]({{ 'flight-data/' | relative_url }})—allows a system to distinguish ordinary air traffic from events that genuinely require further review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+In an automated instrumented UFO detector, aircraft are one of the largest sources of [false alerts]({{ 'false-alerts/' | relative_url }}). The difficulty is that a distant airliner rarely resembles the neat side-on photographs used to train image-recognition systems. Instead, it may appear as a flashing point, an overexposed blob, a short streak, or a heat source only a few pixels across. For that reason, reliable aircraft filtering depends on combining visual evidence with independent flight information rather than asking a neural network to identify a tiny object from appearance alone. Multi-sensor confirmation—especially comparison against Automatic Dependent Surveillance–Broadcast (ADS-B) [flight data]({{ 'flight-data/' | relative_url }})—allows a system to distinguish ordinary air traffic from events that genuinely require further review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_aircraft_filter_limi_9795f4-Illustration-1-dark.svg" | relative_url }}" alt="In An Automated Instrumented UFO Detector, Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_aircraft_filter_limi_9795f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_aircraft_filter_limi_9795f4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -299,7 +299,7 @@ An aircraft recorded by a fixed all-sky camera is often:
 
 These effects mean that two frames showing the same aircraft can appear dramatically different. A bright navigation light may dominate one frame, while the fuselage is barely visible in the next. [Infrared cameras]({{ 'infrared/' | relative_url }}) introduce another complication: engines and warm airframes produce thermal signatures that do not resemble conventional visible-light photographs.
 
-Modern object detectors such as YOLO are designed to recognise patterns, but recognition accuracy inevitably declines as targets become smaller, noisier or more heavily distorted. Aircraft-detection research consistently shows that viewpoint, scale, background clutter and atmospheric effects remain important limitations even with advanced deep-learning models. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2404.02877v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Deep Comprehensive Review of Aircraft Detection...This paper critically evaluates and compares a suite of advanced object detecti...</span></span></span>
+Modern object detectors such as YOLO are designed to recognise patterns, but recognition accuracy inevitably declines as targets become smaller, noisier or more heavily distorted. Aircraft-detection research consistently shows that viewpoint, scale, background clutter and atmospheric effects remain important limitations even with advanced deep-learning models.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2404.02877v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Deep Comprehensive Review of Aircraft Detection...This paper critically evaluates and compares a suite of advanced object detecti...</span></span></span>
 
 For an automated UAP observatory, this means that the question is not simply, "Does this image look like a plane?" but, "Does every available source of evidence agree that this behaves like [known aircraft]({{ 'known-aircraft/' | relative_url }}) traffic?"
 
@@ -310,7 +310,7 @@ For an automated UAP observatory, this means that the question is not simply, "D
 
 Visual appearance answers only part of that question. Aircraft filtering becomes much more reliable when the image is checked against independently measured flight information.
 
-ADS-B is particularly valuable because many aircraft continuously broadcast their identity, GPS-derived position, altitude, heading and velocity. If a detected object occupies the same place in the sky at the same time as an ADS-B track, the software gains evidence from two independent sources rather than one. The FAA describes ADS-B as a surveillance system that provides precise aircraft position and identification information to both controllers and pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ &#124; Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</span></span></span>
+ADS-B is particularly valuable because many aircraft continuously broadcast their identity, GPS-derived position, altitude, heading and velocity. If a detected object occupies the same place in the sky at the same time as an ADS-B track, the software gains evidence from two independent sources rather than one. The FAA describes ADS-B as a surveillance system that provides precise aircraft position and identification information to both controllers and pilots.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ &#124; Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</span></span></span>
 
 For automated UFO detection, the matching process typically works as follows:
 
@@ -327,7 +327,7 @@ For automated UFO detection, the matching process typically works as follows:
 
 This approach is considerably stronger than relying on appearance alone. Even when the aircraft itself occupies only a handful of pixels, its measured trajectory can still align closely with an independently reported flight path.
 
-The [Galileo]({{ 'galileo/' | relative_url }}) Project has adopted this philosophy in its observatory design. Its published system combines YOLO object detection, SORT trajectory tracking and radio collection of ADS-B aircraft positions to establish a baseline census of ordinary aerial traffic before examining potentially anomalous events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+The [Galileo]({{ 'galileo/' | relative_url }}) Project has adopted this philosophy in its observatory design. Its published system combines YOLO object detection, SORT trajectory tracking and radio collection of ADS-B aircraft positions to establish a baseline census of ordinary aerial traffic before examining potentially anomalous events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 An important advantage is that trajectory consistency often proves more informative than image shape. A tiny flashing object moving at the speed and heading expected from a scheduled airliner is far less mysterious once its independently reported flight path matches the observed track.
 
@@ -363,11 +363,11 @@ This distinction is especially important in automated UAP systems because the ob
 
 Although ADS-B greatly improves aircraft filtering, it is not a perfect ground truth.
 
-Not every aircraft broadcasts publicly available ADS-B information. Military operations, some government flights, certain historic aircraft and flights operating outside mandated airspace may not appear in public feeds. Coverage also varies with receiver networks, terrain and radio line of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2superiorskies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ &#124; Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</span></span></span>
+Not every aircraft broadcasts publicly available ADS-B information. Military operations, some government flights, certain historic aircraft and flights operating outside mandated airspace may not appear in public feeds. Coverage also varies with receiver networks, terrain and radio line of sight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2superiorskies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ &#124; Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</span></span></span>
 
 Timing and calibration also matter. Even a small clock error between the camera and flight-data receiver can produce an apparent positional mismatch. Likewise, inaccurate camera orientation or lens calibration can shift projected aircraft positions enough to prevent successful correlation.
 
-Another limitation is that ADS-B itself should not be treated as infallible. Researchers have documented security and integrity concerns because the protocol was not originally designed with strong authentication. While this is primarily an aviation-security issue rather than a UAP issue, it reinforces the broader principle that robust systems compare multiple independent measurements instead of trusting any single source absolutely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomatic dependent surveillance-broadcast (ADS-B</span><span class="citation-popover-snippet">by W Ahmed · 2025 · Cited by 12 — Despite these advantages, ADS-B faces significant security vulnerabilities due to its open design an...</span></span></span>
+Another limitation is that ADS-B itself should not be treated as infallible. Researchers have documented security and integrity concerns because the protocol was not originally designed with strong authentication. While this is primarily an aviation-security issue rather than a UAP issue, it reinforces the broader principle that robust systems compare multiple independent measurements instead of trusting any single source absolutely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutomatic dependent surveillance-broadcast (ADS-B</span><span class="citation-popover-snippet">by W Ahmed · 2025 · Cited by 12 — Despite these advantages, ADS-B faces significant security vulnerabilities due to its open design an...</span></span></span>
 
 Consequently, well-designed observatories use flight databases as one layer within a broader evidence chain that also includes calibrated optics, trajectory reconstruction, [timestamps]({{ 'timestamps/' | relative_url }}) and, where available, infrared, radio or other sensor modalities.
 
@@ -379,201 +379,201 @@ The practical lesson for automated instrumented UFO detectors is that aircraft f
 
 Image recognition answers, "What does this resemble?" Flight correlation answers, "Does this object behave like known air traffic?" Those questions are related but not identical.
 
-By combining computer vision with calibrated tracking and independent flight data, automated systems can reject the vast majority of routine aircraft detections while leaving genuinely unmatched events for careful human analysis. That approach reduces false positives without claiming that appearance alone can determine whether an object is ordinary or genuinely unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+By combining computer vision with calibrated tracking and independent flight data, automated systems can reject the vast majority of routine aircraft detections while leaving genuinely unmatched events for careful human analysis. That approach reduces false positives without claiming that appearance alone can determine whether an object is ordinary or genuinely unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kSR5eCXa_nE" title="How Anyone Can Track Every Plane and Ship in Real Time (ADS-B + AIS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kSR5eCXa_nE" target="_blank" rel="noopener noreferrer">How Anyone Can Track Every Plane and Ship in Real Time (ADS-B + AIS)</a></p><p class="youtube-embed-meta">Channel: Yaniv Hoffman</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kSR5eCXa_nE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kSR5eCXa_nE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why a Plane Can Still Look Unknown. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a Plane Can Still Look Unknown. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Background for image classification models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Background for image classification models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">General AI concepts supporting automated classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">General AI concepts supporting automated classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang"><img src="{{ '/assets/images/marketplace-covers/a60f3f6c6e6d426177ca.jpg' | relative_url }}" alt="Listing image for Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang"><img src="{{ '/assets/images/marketplace-covers/a60f3f6c6e6d426177ca.jpg' | relative_url }}" alt="Listing image for Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Night Vision Monocular Digital 6 X Optical Zoom Records To TF Card To 300m Rang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions"><img src="{{ '/assets/images/marketplace-covers/da70fe28092bf5f7f082.jpg' | relative_url }}" alt="Listing image for Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions"><img src="{{ '/assets/images/marketplace-covers/da70fe28092bf5f7f082.jpg' | relative_url }}" alt="Listing image for Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Yukon Night Vision Monocular NVMT Spartan 4x50 Infrared with Case &amp; Instructions</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera"><img src="{{ '/assets/images/marketplace-covers/abbc097ddfc5f18d4bb6.jpg' | relative_url }}" alt="Listing image for Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera"><img src="{{ '/assets/images/marketplace-covers/abbc097ddfc5f18d4bb6.jpg' | relative_url }}" alt="Listing image for Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Infrared Night Vision Monocular 4X Digital Zoom Crosshair Scope HD Video Camera</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR"><img src="{{ '/assets/images/marketplace-covers/a1618348b985cdae32ab.jpg' | relative_url }}" alt="Listing image for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR"><img src="{{ '/assets/images/marketplace-covers/a1618348b985cdae32ab.jpg' | relative_url }}" alt="Listing image for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search<span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="in-an-automated-instrumented-ufo-why-a-plane-can-still-look-unknown-automated-instrumented-ufo-d-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ By combining computer vision with calibrated tracking and independent flight dat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ By combining computer vision with calibrated tracking and independent flight dat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ By combining computer vision with calibrated tracking and independent flight dat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ By combining computer vision with calibrated tracking and independent flight dat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ By combining computer vision with calibrated tracking and independent flight dat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,114 +779,114 @@ By combining computer vision with calibrated tracking and independent flight dat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B FAQ | Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B FAQ | Federal Aviation Administration3 Mar 2025 — With ADS-B, pilots can see what controllers see...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2404.02877v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.02877v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Comprehensive [Review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of Aircraft Detection...This paper critically evaluates and compares a suite of advanced object detecti...</p></details>
+   Link:<a href="https://arxiv.org/html/2404.02877v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2404.02877v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Deep Comprehensive [Review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of Aircraft Detection...This paper critically evaluates and compares a suite of advanced object detecti...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/17/6/1001" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/17/6/1001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RMVAD-YOLO: A Robust Multi-View Aircraft Detection...by K Li · 2025 · Cited by 9 — We propose RMVAD-YOLO, a multi-view aircraft dete...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/17/6/1001" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/17/6/1001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RMVAD-YOLO: A Robust Multi-View Aircraft Detection...by K Li · 2025 · Cited by 9 — We propose RMVAD-YOLO, a multi-view aircraft dete...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/10/3231" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/10/3231</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, we employed the Shi–Tomasi corner detection algorithm and the...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/10/3231" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/10/3231</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, we employed the Shi–Tomasi corner detection algorithm and the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B is an advanced surveillance techn...</p></details>
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B is an advanced surveillance techn...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: superiorskies.org  
-   Link: <a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft operating in uncontrolled airspace without ADS-B equipment will not appear in ADS-B feeds.Read more...</p></details>
+   Link:<a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft operating in uncontrolled airspace without ADS-B equipment will not appear in ADS-B feeds.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAutomatic dependent surveillance-broadcast (ADS-B  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Ahmed · 2025 · Cited by 12 — Despite these advantages, ADS-B faces significant security vulnerabilities due to its open design an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by W Ahmed · 2025 · Cited by 12 — Despite these advantages, ADS-B faces significant security vulnerabilities due to its open design an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The Galileo Project is a multifaceted scientific research program study unidentified aerial phenomena (UAPs)...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The Galileo Project is a multifaceted scientific research program study unidentified aerial phenomena (UAPs)...</p></details>
    Published: May 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2510.08333v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.08333v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Machine Learning Approaches for Intrusion Detection...9 Oct 2025 — Automated Dependent Surveillance-Broadcast (ADS-B) technology is...</p></details>
+   Link:<a href="https://arxiv.org/html/2510.08333v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2510.08333v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Machine Learning Approaches for Intrusion Detection...9 Oct 2025 — Automated Dependent Surveillance-Broadcast (ADS-B) technology is...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOooVr0ycY9BBUTECxXAVNtN4chaaAcaPDbXNdnQF-uwynmJhPyXN" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOooVr0ycY9BBUTECxXAVNtN4chaaAcaPDbXNdnQF-uwynmJhPyXN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the algorithm checks whether ADS-B data...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOooVr0ycY9BBUTECxXAVNtN4chaaAcaPDbXNdnQF-uwynmJhPyXN" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/full/10.1142/S2251171723400081?srsltid=AfmBOooVr0ycY9BBUTECxXAVNtN4chaaAcaPDbXNdnQF-uwynmJhPyXN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the algorithm checks whether ADS-B data...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast (ADS-B) data was col...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast (ADS-B) data was col...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399827395_Web-Based_Aircraft_Detection_and_Tracking_System_Using_Computer_Vision_and_ADS-B_Data_Fusion_for_a_Resource-_Constrained_Airspace_Surveillance_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399827395_Web-Based_Aircraft_Detection_and_Tracking_System_Using_Computer_Vision_and_ADS-B_Data_Fusion_for_a_Resource-_Constrained_Airspace_Surveillance_System</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Web-Based Aircraft Detection and Tracking System Using...31 Jan 2026 — The system employs YOLOv8n deep learning architecture for visual...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399827395_Web-Based_Aircraft_Detection_and_Tracking_System_Using_Computer_Vision_and_ADS-B_Data_Fusion_for_a_Resource-_Constrained_Airspace_Surveillance_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399827395_Web-Based_Aircraft_Detection_and_Tracking_System_Using_Computer_Vision_and_ADS-B_Data_Fusion_for_a_Resource-_Constrained_Airspace_Surveillance_System</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web-Based Aircraft Detection and Tracking System Using...31 Jan 2026 — The system employs YOLOv8n deep learning architecture for visual...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b</a>  
+   Link:<a href="https://medium.com/%40angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355329242_Aircraft_recognition_from_remote_sensing_images_based_on_machine_vision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355329242_Aircraft_recognition_from_remote_sensing_images_based_on_machine_vision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filter Detecting and recognising objects in natural scenes are a challenging machine vision problem.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355329242_Aircraft_recognition_from_remote_sensing_images_based_on_machine_vision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355329242_Aircraft_recognition_from_remote_sensing_images_based_on_machine_vision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filter Detecting and recognising objects in natural scenes are a challenging machine vision problem.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb discusses the project&#x27;s innovative approach to addressing the lack of publicly available...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb discusses the project&#x27;s innovative approach to addressing the lack of publicly available...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: leonarddavid.com  
    Title: Avi Loeb details the Galileo Project effort.Read more  
-   Link: <a href="https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: Research Paper Offers...9 Mar 2023 — These sensors provide an accurate resolved image of relative thermal...</p></details>
+   Link:<a href="https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: Research Paper Offers...9 Mar 2023 — These sensors provide an accurate resolved image of relative thermal...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectUnidentified Aerial Phenomena (UAP) occasionally associate UAP sightings ・ compasses onboard aircraft or sudden malf...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectUnidentified Aerial Phenomena (UAP) occasionally associate UAP sightings ・ compasses onboard aircraft or sudden malf...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aerialsoutheast.com  
    Title: ads b aerial photography  
-   Link: <a href="https://aerialsoutheast.com/ads-b-aerial-photography/" target="_blank" rel="noopener noreferrer nofollow">https://aerialsoutheast.com/ads-b-aerial-photography/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B and Aerial Photography: What You Need to Know11 Mar 2025 — ADS-B is required for all aircraft operating in controlled airspace wher...</p></details>
+   Link:<a href="https://aerialsoutheast.com/ads-b-aerial-photography/" target="_blank" rel="noopener noreferrer nofollow">https://aerialsoutheast.com/ads-b-aerial-photography/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B and Aerial Photography: What You Need to Know11 Mar 2025 — ADS-B is required for all aircraft operating in controlled airspace wher...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: norma.ncirl.ie  
-   Link: <a href="https://norma.ncirl.ie/7557/1/santoshkumarreddylekkala.pdf" target="_blank" rel="noopener noreferrer nofollow">https://norma.ncirl.ie/7557/1/santoshkumarreddylekkala.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Fighter Planes in Aerial Images using YOLO V8by SKR Lekkala · 2025 — The one-shot approach of YOLOv8, processing the entire image at o...</p></details>
+   Link:<a href="https://norma.ncirl.ie/7557/1/santoshkumarreddylekkala.pdf" target="_blank" rel="noopener noreferrer nofollow">https://norma.ncirl.ie/7557/1/santoshkumarreddylekkala.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Fighter Planes in Aerial Images using YOLO V8by SKR Lekkala · 2025 — The one-shot approach of YOLOv8, processing the entire image at o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aerospace.honeywell.com  
    Title: Aerospace ADS-B Privacy  
-   Link: <a href="https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Honeywell AerospaceADS-B Privacy - What You Need to KnowThe FAA acknowledged the desire for operators to limit the availability of real-t...</p></details>
+   Link:<a href="https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.honeywell.com/us/en/about-us/news/2020/11/ads-b-privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honeywell AerospaceADS-B Privacy - What You Need to KnowThe FAA acknowledged the desire for operators to limit the availability of real-t...</p></details>

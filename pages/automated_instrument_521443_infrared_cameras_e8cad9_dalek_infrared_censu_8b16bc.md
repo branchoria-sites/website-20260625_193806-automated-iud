@@ -280,20 +280,20 @@ image: /assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_
 
 ## Introduction
 
-The [Galileo]({{ 'galileo/' | relative_url }}) Project's first published infrared [sky census]({{ 'sky-census/' | relative_url }}) is notable less for discovering anomalies than for establishing a quantitative baseline of what an automated UAP observatory actually sees. Using its eight-camera long-wave infrared "Dalek" array during a five-month commissioning period in 2024, the project reconstructed roughly half a million aerial trajectories. The overwhelming majority were ultimately consistent with ordinary airborne objects or environmental phenomena. That result is scientifically important because any future claim of an unusual object depends first on demonstrating that familiar objects can be detected, tracked and filtered reliably. Rather than producing evidence of extraordinary craft, the commissioning dataset primarily demonstrates the scale of routine sky traffic and the difficulty of separating genuine unknowns from incomplete observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+The [Galileo]({{ 'galileo/' | relative_url }}) Project's first published infrared [sky census]({{ 'sky-census/' | relative_url }}) is notable less for discovering anomalies than for establishing a quantitative baseline of what an automated UAP observatory actually sees. Using its eight-camera long-wave infrared "Dalek" array during a five-month commissioning period in 2024, the project reconstructed roughly half a million aerial trajectories. The overwhelming majority were ultimately consistent with ordinary airborne objects or environmental phenomena. That result is scientifically important because any future claim of an unusual object depends first on demonstrating that familiar objects can be detected, tracked and filtered reliably. Rather than producing evidence of extraordinary craft, the commissioning dataset primarily demonstrates the scale of routine sky traffic and the difficulty of separating genuine unknowns from incomplete observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-1-dark.svg" | relative_url }}" alt="Dalek Census illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Half a million reconstructed tracks
 
-The commissioning campaign monitored the sky continuously between January and May 2024 using the Dalek infrared array as the principal detection instrument within a wider multi-sensor observatory. Computer vision software first detected moving objects and reconstructed their trajectories before additional filtering and [human review]({{ 'human-review/' | relative_url }}) were applied. The published pipeline combined the YOLO (You Only Look Once) object detector with the SORT (Simple Online and Realtime Tracking) tracker, creating a reproducible workflow rather than relying on eyewitness reports or manually selected videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+The commissioning campaign monitored the sky continuously between January and May 2024 using the Dalek infrared array as the principal detection instrument within a wider multi-sensor observatory. Computer vision software first detected moving objects and reconstructed their trajectories before additional filtering and [human review]({{ 'human-review/' | relative_url }}) were applied. The published pipeline combined the YOLO (You Only Look Once) object detector with the SORT (Simple Online and Realtime Tracking) tracker, creating a reproducible workflow rather than relying on eyewitness reports or manually selected videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 The headline numbers illustrate how rapidly an automated observatory accumulates data:
 
 * Approximately 500,000 reconstructed object trajectories during five months.
 * Around 16% of trajectories—roughly 80,000—were automatically flagged as statistical outliers for closer inspection.
 * Every flagged case was then reviewed manually rather than being accepted as anomalous simply because software identified it as unusual.
-* Only 144 trajectories remained [unresolved]({{ 'unresolved/' | relative_url }}) after this [review]({{ 'review/' | relative_url }}) process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+* Only 144 trajectories remained [unresolved]({{ 'unresolved/' | relative_url }}) after this [review]({{ 'review/' | relative_url }}) process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 These figures are significant because they show that "outlier" does not mean "unidentified". Statistical outlier detection is intentionally conservative: it is designed to capture anything that differs from the bulk of observations, even when those differences ultimately have ordinary explanations.
 
@@ -304,7 +304,7 @@ These figures are significant because they show that "outlier" does not mean "un
 
 The commissioning paper emphasises that unusual-looking tracks usually arose from limitations of observation rather than evidence of extraordinary flight behaviour. The infrared cameras could measure angular motion across the sky, but a single Dalek installation could not directly determine an object's distance.
 
-That missing range information creates several ambiguities. An apparently fast-moving object might instead be a nearby insect. An oddly shaped infrared signature may represent an aircraft viewed at an unusual angle, atmospheric effects, or thermal blooming rather than an unfamiliar vehicle. Without knowing how far away an object is, speed, size and acceleration cannot be determined uniquely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+That missing range information creates several ambiguities. An apparently fast-moving object might instead be a nearby insect. An oddly shaped infrared signature may represent an aircraft viewed at an unusual angle, atmospheric effects, or thermal blooming rather than an unfamiliar vehicle. Without knowing how far away an object is, speed, size and acceleration cannot be determined uniquely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 The project therefore treated many software-selected outliers as expected [false positives]({{ 'false-positives/' | relative_url }}) produced by ordinary circumstances, including:
 
@@ -316,7 +316,7 @@ The project therefore treated many software-selected outliers as expected [false
 * balloons or drifting airborne material;
 * conventional aircraft observed under unusual geometries;
 * clouds, foliage or environmental interference;
-* imaging artefacts associated with weather or sensor conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+* imaging artefacts associated with weather or sensor conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 </div>
 
@@ -328,9 +328,9 @@ This is precisely the kind of result a calibration study aims to produce. A scie
 
 The most frequently quoted result from the study is that only 144 trajectories remained ambiguous after examining approximately 80,000 software-selected outliers. Importantly, the authors do not present these objects as evidence of non-human technology or unexplained physics.
 
-Instead, the paper repeatedly identifies the absence of distance measurements as the dominant reason these events could not be classified confidently. The ambiguous category therefore represents unresolved observations rather than confirmed anomalies. The authors explicitly state that the remaining cases are likely to be mundane objects whose identity cannot be established using a single observing station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Instead, the paper repeatedly identifies the absence of distance measurements as the dominant reason these events could not be classified confidently. The ambiguous category therefore represents unresolved observations rather than confirmed anomalies. The authors explicitly state that the remaining cases are likely to be mundane objects whose identity cannot be established using a single observing station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-The study also reports a statistical upper limit on ambiguous outliers during the commissioning period after accounting for systematic [uncertainty]({{ 'uncertainty/' | relative_url }}). This upper bound is intended as a conservative estimate for future performance evaluation rather than a count of genuinely anomalous objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Commissioning Data on Half a Million Objects in the Sky from...This data contains half a million objects, observed during these 5...</span></span></span>
+The study also reports a statistical upper limit on ambiguous outliers during the commissioning period after accounting for systematic [uncertainty]({{ 'uncertainty/' | relative_url }}). This upper bound is intended as a conservative estimate for future performance evaluation rather than a count of genuinely anomalous objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Commissioning Data on Half a Million Objects in the Sky from...This data contains half a million objects, observed during these 5...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-3-dark.svg" | relative_url }}" alt="Dalek Census illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_infrared_cameras_e8cad9_dalek_infrared_censu_8b16bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -350,159 +350,159 @@ Once range is known, researchers can calculate:
 
 </div>
 
-Without these measurements, many apparently remarkable trajectories remain fundamentally underdetermined. The Galileo team therefore proposes geographically separated observing stations specifically to eliminate this weakness in the first commissioning dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Without these measurements, many apparently remarkable trajectories remain fundamentally underdetermined. The Galileo team therefore proposes geographically separated observing stations specifically to eliminate this weakness in the first commissioning dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aHNqktsrMSY" title="The Galileo Project | Prof. Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer">The Galileo Project | Prof. Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Society for Scientific Exploration</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aHNqktsrMSY">Open on YouTube</a></p></div></div></div>
 
 ## What the census contributes to automated UAP detection
 
-The main contribution of the Dalek census is methodological rather than sensational. It demonstrates that an automated infrared observatory can continuously monitor the sky, reconstruct hundreds of thousands of trajectories, cross-check detections against [known aircraft]({{ 'known-aircraft/' | relative_url }}) data, and reduce a vast stream of observations to a very small number requiring expert review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+The main contribution of the Dalek census is methodological rather than sensational. It demonstrates that an automated infrared observatory can continuously monitor the sky, reconstruct hundreds of thousands of trajectories, cross-check detections against [known aircraft]({{ 'known-aircraft/' | relative_url }}) data, and reduce a vast stream of observations to a very small number requiring expert review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 Equally important is what the dataset does **not** claim. It does not report confirmed exotic craft, establish evidence for non-human technology, or argue that the remaining ambiguous tracks represent extraordinary phenomena. Instead, it provides an empirical baseline showing that the night sky is dominated by ordinary traffic and observational complications. Only after that baseline has been measured can future observations be evaluated against it with scientific credibility.
 
-Within the development of automated, instrumented UFO detectors, that may be the commissioning study's most durable result: before searching for rare anomalies, researchers must first understand—and quantitatively characterise—the immense population of entirely ordinary objects that fill the infrared night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Within the development of automated, instrumented UFO detectors, that may be the commissioning study's most durable result: before searching for rare anomalies, researchers must first understand—and quantitatively characterise—the immense population of entirely ordinary objects that fill the infrared night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/scUETBQoIZU" title="Avi Loeb - The Galileo Project, UFO&#x27;s over Ukraine &amp; Papua New Guinea Meteor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=scUETBQoIZU" target="_blank" rel="noopener noreferrer">Avi Loeb - The Galileo Project, UFO&#x27;s over Ukraine &amp; Papua New Guinea Meteor</a></p><p class="youtube-embed-meta">Channel: Disclosure Team</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=scUETBQoIZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=scUETBQoIZU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Galileo&#x27;s Infrared Sky Census Found. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Galileo&#x27;s Infrared Sky Census Found. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for modern scientific investigation of unexplained aerial phenomena and the need for rigorous observational data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for modern scientific investigation of unexplained aerial phenomena and the need for rigorous observational data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Reinforces the importance of skeptical analysis, statistical baselines, and evidence when interpreting unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces the importance of skeptical analysis, statistical baselines, and evidence when interpreting unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains systematic approaches to evaluating aerial sightings, complementing automated survey methodologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains systematic approaches to evaluating aerial sightings, complementing automated survey methodologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
    Published: November 12, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: phys.org  
    Title: 2025 04 sky infrared camera dalek alien  
-   Link: <a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera (Dalek) detect a...</p></details>
+   Link:<a href="https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-04-sky-infrared-camera-dalek-alien.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An all-sky infrared camera named Dalek continues the...9 Apr 2025 — Galileo Project proposes an All-Sky Infrared Camera (Dalek) detect a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning Data on Half a Million Objects in the Sky from...This data contains half a million objects, observed during these 5...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning Data on Half a Million Objects in the Sky from...This data contains half a million objects, observed during these 5...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zHn69IQSIcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHn69IQSIcg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project | Prof. Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zHn69IQSIcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zHn69IQSIcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project | Prof. Avi Loeb...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Galileo Project | Prof. Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHNqktsrMSY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb - The Galileo Project, UFO&#x27;s over Ukraine &amp; Papua New Guinea Meteor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aHNqktsrMSY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aHNqktsrMSY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb - The Galileo Project, UFO&#x27;s over Ukraine &amp; Papua New Guinea Meteor...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of eight uncooled infrared cameras placed on half a sphere. the five-month...</p></details>
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of eight uncooled infrared cameras placed on half a sphere. the five-month...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=scUETBQoIZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=scUETBQoIZU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate | Avi Loeb - YouTube Event Horizon · 38K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=scUETBQoIZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=scUETBQoIZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate | Avi Loeb - YouTube Event Horizon · 38K views...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P8gXqa-z95U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P8gXqa-z95U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate | Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P8gXqa-z95U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P8gXqa-z95U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Interstellar Object, Alien Technology, and the Scientific Debate | Avi Loeb...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard’s AI Skywatcher Is Tracking UFOs in Real Time | Inside the Galileo Project...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard’s AI Skywatcher Is Tracking UFOs in Real Time | Inside the Galileo Project...</p></details>

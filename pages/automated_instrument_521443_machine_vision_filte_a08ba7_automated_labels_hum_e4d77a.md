@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_au
 
 ## Introduction
 
-Machine-vision software is an essential first filter for automated instrumented UAP detectors, but it cannot by itself determine whether an object is genuinely unexplained. Automated labels such as "aircraft", "bird", "unknown" or "anomalous" are statistical predictions based on patterns the software has learned from previous data. They help reduce the overwhelming number of routine detections that continuous sky monitoring generates, but they do not prove what an object is—or is not. In practice, unusual detections require careful human examination alongside additional sensor information before they can reasonably be treated as unexplained events. This distinction is increasingly reflected in published UAP monitoring research, where automated classification is presented as a triage mechanism rather than a final judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
+Machine-vision software is an essential first filter for automated instrumented UAP detectors, but it cannot by itself determine whether an object is genuinely unexplained. Automated labels such as "aircraft", "bird", "unknown" or "anomalous" are statistical predictions based on patterns the software has learned from previous data. They help reduce the overwhelming number of routine detections that continuous sky monitoring generates, but they do not prove what an object is—or is not. In practice, unusual detections require careful human examination alongside additional sensor information before they can reasonably be treated as unexplained events. This distinction is increasingly reflected in published UAP monitoring research, where automated classification is presented as a triage mechanism rather than a final judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-1-dark.svg" | relative_url }}" alt="Human Review illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ Machine-vision systems are designed to answer questions such as:
 
 These are valuable questions, but they are not equivalent to identifying the physical nature of an object.
 
-A modern detector such as YOLO assigns probabilities to object categories based on its training data. Even when confidence is high, the output remains a prediction rather than direct evidence. An "unknown" label usually means the software cannot confidently match the observation to one of its learned categories—not that the object possesses extraordinary properties. Likewise, a confident "bird" or "aircraft" prediction can still be incorrect under poor viewing conditions or when only a few pixels represent the target. General computer vision research consistently treats object detection as probabilistic inference whose accuracy depends on image quality, object scale and the training process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2304.00501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NASApril 2, 2023...</span><span class="citation-popover-meta">Published: April 2, 2023</span></span></span>
+A modern detector such as YOLO assigns probabilities to object categories based on its training data. Even when confidence is high, the output remains a prediction rather than direct evidence. An "unknown" label usually means the software cannot confidently match the observation to one of its learned categories—not that the object possesses extraordinary properties. Likewise, a confident "bird" or "aircraft" prediction can still be incorrect under poor viewing conditions or when only a few pixels represent the target. General computer vision research consistently treats object detection as probabilistic inference whose accuracy depends on image quality, object scale and the training process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2304.00501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NASApril 2, 2023...</span><span class="citation-popover-meta">Published: April 2, 2023</span></span></span>
 
 For automated UAP detection, this distinction is particularly important because many interesting events occur precisely where computer vision performs least reliably: distant, low-resolution, low-contrast objects moving against changing backgrounds.
 
@@ -314,9 +314,9 @@ Several factors can alter classification performance:
 * **Viewing geometry.** Camera angle, lens distortion and perspective affect apparent motion and size.
 * **Sensor characteristics.** [Infrared cameras]({{ 'infrared/' | relative_url }}) record heat rather than visible appearance, so familiar objects can look very different from conventional photographs.
 
-The [Galileo]({{ 'galileo/' | relative_url }}) Project's published commissioning results illustrate these practical limitations. Using YOLO detection together with SORT trajectory tracking, the researchers reported that aircraft detection efficiency varied substantially with weather, object distance and target size. Those variations are expected in operational computer vision systems and reinforce why automated classifications require context rather than blind acceptance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
+The [Galileo]({{ 'galileo/' | relative_url }}) Project's published commissioning results illustrate these practical limitations. Using YOLO detection together with SORT trajectory tracking, the researchers reported that aircraft detection efficiency varied substantially with weather, object distance and target size. Those variations are expected in operational computer vision systems and reinforce why automated classifications require context rather than blind acceptance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
 
-Calibration also matters. The Galileo system uses [known aircraft]({{ 'known-aircraft/' | relative_url }}) positions transmitted through Automatic Dependent Surveillance–Broadcast (ADS-B) to calibrate camera geometry. This improves positional accuracy but does not eliminate every source of uncertainty because optical measurements still depend on atmospheric conditions, viewing angle and sensor performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
+Calibration also matters. The Galileo system uses [known aircraft]({{ 'known-aircraft/' | relative_url }}) positions transmitted through Automatic Dependent Surveillance–Broadcast (ADS-B) to calibrate camera geometry. This improves positional accuracy but does not eliminate every source of uncertainty because optical measurements still depend on atmospheric conditions, viewing angle and sensor performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PNyJPRjITXQ" title="Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer">Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 140.0K &middot; Uploaded: April 2025 &middot; Length: 2 hours 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PNyJPRjITXQ">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Instead of relying solely on a camera image, an instrumented UAP observatory can
 
 Agreement between independent sensors provides stronger evidence than any single automated image label. Conversely, disagreement often reveals ordinary explanations such as range ambiguity, atmospheric distortion or incomplete tracking.
 
-This philosophy is reflected in published proposals for scientific UAP observatories, which emphasise passive, well-calibrated, multi-modal sensing specifically to reduce ambiguity before interpreting unusual detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+This philosophy is reflected in published proposals for scientific UAP observatories, which emphasise passive, well-calibrated, multi-modal sensing specifically to reduce ambiguity before interpreting unusual detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-3-dark.svg" | relative_url }}" alt="Human Review illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_automated_labels_hum_e4d77a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,7 +364,7 @@ The Galileo Project provides a concrete illustration of automated triage followe
 
 During approximately five months of commissioning observations, the system reconstructed roughly 500,000 aerial trajectories. A simple automated outlier search identified about 16% of trajectories as sufficiently unusual to warrant further examination. Human review then reduced this very large candidate set to only 144 ambiguous trajectories.
 
-Importantly, the researchers did not interpret those remaining cases as evidence of extraordinary objects. Instead, they concluded that the remaining trajectories were most likely mundane phenomena that could not yet be fully identified because key information—particularly accurate distance estimates, complete kinematic reconstruction or additional sensor data—was unavailable. This is an example of a conservative scientific workflow: automated detection narrows the search, while human analysis prevents uncertain cases from being overstated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
+Importantly, the researchers did not interpret those remaining cases as evidence of extraordinary objects. Instead, they concluded that the remaining trajectories were most likely mundane phenomena that could not yet be fully identified because key information—particularly accurate distance estimates, complete kinematic reconstruction or additional sensor data—was unavailable. This is an example of a conservative scientific workflow: automated detection narrows the search, while human analysis prevents uncertain cases from being overstated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</span></span></span>
 
 ## Why the software should not be the judge
 
@@ -389,194 +389,194 @@ Within an automated instrumented UAP detection system, this division of responsi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Software Should Not Be the Judge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Software Should Not Be the Judge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Melanie Mitchell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=65iEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Melanie Mitchell</p>
         
-        <p class="fr-book-desc">Explains why AI systems produce probabilistic outputs and why human judgment remains essential when interpreting automated classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why AI systems produce probabilistic outputs and why human judgment remains essential when interpreting automated classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Melanie+Mitchell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
-        </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+</h4>
+<p class="fr-book-author">By Brian Christian</p>
         
-        <p class="fr-book-desc">Discusses how training data and model design affect AI outputs, reinforcing the need for human oversight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how training data and model design affect AI outputs, reinforcing the need for human oversight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Offers foundational understanding of how modern learning systems are trained and why their classifications have inherent limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Offers foundational understanding of how modern learning systems are trained and why their classifications have inherent limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio"><img src="{{ '/assets/images/marketplace-covers/2e578c23e84f0664661a.jpg' | relative_url }}" alt="Listing image for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio"><img src="{{ '/assets/images/marketplace-covers/2e578c23e84f0664661a.jpg' | relative_url }}" alt="Listing image for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP"><img src="{{ '/assets/images/marketplace-covers/709349220f8ed89be86c.jpg' | relative_url }}" alt="Listing image for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP"><img src="{{ '/assets/images/marketplace-covers/709349220f8ed89be86c.jpg' | relative_url }}" alt="Listing image for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="human-review-why-the-software-should-not-be-the-judge-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ Within an automated instrumented UAP detection system, this division of responsi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ Within an automated instrumented UAP detection system, this division of responsi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ Within an automated instrumented UAP detection system, this division of responsi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ Within an automated instrumented UAP detection system, this division of responsi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ Within an automated instrumented UAP detection system, this division of responsi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,74 +782,74 @@ Within an automated instrumented UAP detection system, this division of responsi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — To address this deficiency, the Galileo Project is designing, building, and commissioning a multi-modal...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2304.00501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.00501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NASApril 2, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2304.00501" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.00501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NASApril 2, 2023...</p></details>
    Published: April 2, 2023  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — To address this deficiency, the Galileo Project is designing, b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — To address this deficiency, the Galileo Project is designing, b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAutomatic dependent surveillance-broadcast (ADS-B  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by W Ahmed · 2025 · Cited by 12 — Automatic Dependent Surveillance-Broadcast (ADS-B) is a vital communication protocol within air traf...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12192918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by W Ahmed · 2025 · Cited by 12 — Automatic Dependent Surveillance-Broadcast (ADS-B) is a vital communication protocol within air traf...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13  
-   Link: <a href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PNyJPRjITXQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inside the AI Alien Hunting Project at Harvard video is highly relevant because it shows how the Galileo Project uses machine learnin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PNyJPRjITXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PNyJPRjITXQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Inside the AI Alien Hunting Project at Harvard video is highly relevant because it shows how the Galileo Project uses machine learnin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: leonarddavid.com  
    Title: Avi Loeb details the Galileo Project effort.Read more  
-   Link: <a href="https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: Research Paper Offers...9 Mar 2023 — These sensors provide an accurate resolved image of relative thermal...</p></details>
+   Link:<a href="https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-aerial-phenomena-research-paper-offers-insight-on-outing-human-bias-and-error/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: Research Paper Offers...9 Mar 2023 — These sensors provide an accurate resolved image of relative thermal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How the Galileo Project is Changing the Game  
-   Link: <a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jake Barber And Matt Pines On Skywatcher And Studying UAPs | Unveiled Ep. 13...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8VUkG1L2EO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8VUkG1L2EO0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8VUkG1L2EO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8VUkG1L2EO0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is helping &#x27;alien hunters&#x27; like Avi Loeb search for life | Jesse Weber Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is helping &#x27;alien hunters&#x27; like Avi Loeb search for life | Jesse Weber Live...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using machine...Read more...</p></details>
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using machine...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: trafikverket.diva-portal.org  
-   Link: <a href="https://trafikverket.diva-portal.org/smash/get/diva2%3A2054649/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trafikverket.diva-portal.org/smash/get/diva2%3A2054649/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Based Anomaly Detection for Securing...by JD Kenaudekar · 2026 · Cited by 1 — Rather than manually crafting attacks, a Generati...</p></details>
+   Link:<a href="https://trafikverket.diva-portal.org/smash/get/diva2%3A2054649/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trafikverket.diva-portal.org/smash/get/diva2%3A2054649/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Based Anomaly Detection for Securing...by JD Kenaudekar · 2026 · Cited by 1 — Rather than manually crafting attacks, a Generati...</p></details>

@@ -284,7 +284,7 @@ Passive [radar]({{ 'radar/' | relative_url }}) is often presented as an attracti
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_clutte_e9cfa8-Illustration-1-dark.svg" | relative_url }}" alt="Clutter Traps illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_clutte_e9cfa8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_clutte_e9cfa8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For UAP investigations, this matters because a second sensing channel is only valuable if its own errors are understood. Buildings, hills, aircraft hangars, wind turbines, moving vehicles and even the transmitter itself can all create misleading detections. Modern passive radar research therefore devotes as much effort to cancelling unwanted signals as to detecting genuine targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Tutorial: Passive radar tutorial &#124; Request PDFThis work focuses on target location algorithms based on bistatic-range measure...</span></span></span>
+For UAP investigations, this matters because a second sensing channel is only valuable if its own errors are understood. Buildings, hills, aircraft hangars, wind turbines, moving vehicles and even the transmitter itself can all create misleading detections. Modern passive radar research therefore devotes as much effort to cancelling unwanted signals as to detecting genuine targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Tutorial: Passive radar tutorial &#124; Request PDFThis work focuses on target location algorithms based on bistatic-range measure...</span></span></span>
 
 ## How direct signals swamp weak echoes
 
@@ -299,9 +299,9 @@ Unlike conventional radar, passive radar does not control its transmitter. Inste
 
 </div>
 
-The direct transmission is typically many orders of magnitude stronger than any target reflection. Even a large aircraft may return a signal that is tiny compared with the original broadcast, while a small drone or balloon may be weaker still. If the direct-path signal is not removed extremely effectively, it masks genuine echoes and creates artefacts in delay-Doppler processing that resemble targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">308842709 Direct signal suppression schemes for passive radar</span><span class="citation-popover-snippet">ResearchGate(PDF) Direct signal suppression schemes for passive radar10 Feb 2017 — Passive radar systems must detect the presence of a ta...</span></span></span>
+The direct transmission is typically many orders of magnitude stronger than any target reflection. Even a large aircraft may return a signal that is tiny compared with the original broadcast, while a small drone or balloon may be weaker still. If the direct-path signal is not removed extremely effectively, it masks genuine echoes and creates artefacts in delay-Doppler processing that resemble targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">308842709 Direct signal suppression schemes for passive radar</span><span class="citation-popover-snippet">ResearchGate(PDF) Direct signal suppression schemes for passive radar10 Feb 2017 — Passive radar systems must detect the presence of a ta...</span></span></span>
 
-This is why passive radar systems almost always include a dedicated reference antenna aimed directly at the transmitter. The reference channel allows the receiver to estimate what the original broadcast looked like so that it can be subtracted from the surveillance channel. In practice, that subtraction is never perfect, particularly when reflections distort the reference signal itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/12/2/433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Target Detection Method of Distributed Passive Radar...by H Zhu · 2023 · Cited by 9 — The cross-correlation detection method is ba...</span></span></span>
+This is why passive radar systems almost always include a dedicated reference antenna aimed directly at the transmitter. The reference channel allows the receiver to estimate what the original broadcast looked like so that it can be subtracted from the surveillance channel. In practice, that subtraction is never perfect, particularly when reflections distort the reference signal itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2079-9292/12/2/433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Target Detection Method of Distributed Passive Radar...by H Zhu · 2023 · Cited by 9 — The cross-correlation detection method is ba...</span></span></span>
 
 For an automated UAP station, any event appearing only while the receiver is struggling with strong direct-path interference deserves particular scepticism.
 
@@ -331,7 +331,7 @@ Instead of travelling directly from transmitter to receiver, signals may also re
 
 Each reflected path has a slightly different travel distance and arrival time. Rather than seeing one clean signal, the receiver observes several delayed copies of the same transmission.
 
-Passive radar processing estimates target position by measuring delay and Doppler shift. Unfortunately, multipath reflections also possess delays and, if the reflecting surface is moving or vibrating, apparent Doppler shifts. The result is that clutter may occupy the same delay-Doppler space where genuine aerial targets are expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/23/7/3435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">In passive radar, target</span><span class="citation-popover-snippet">Beamforming Techniques for Passive Radar: An Overviewby JM Núñez-Ortuño · 2023 · Cited by 21 — Cross ambiguity function is one key in...</span></span></span>
+Passive radar processing estimates target position by measuring delay and Doppler shift. Unfortunately, multipath reflections also possess delays and, if the reflecting surface is moving or vibrating, apparent Doppler shifts. The result is that clutter may occupy the same delay-Doppler space where genuine aerial targets are expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/23/7/3435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">In passive radar, target</span><span class="citation-popover-snippet">Beamforming Techniques for Passive Radar: An Overviewby JM Núñez-Ortuño · 2023 · Cited by 21 — Cross ambiguity function is one key in...</span></span></span>
 
 In dense urban environments, one physical object may even generate several apparent targets because its reflection reaches the receiver along multiple routes. Likewise, a stationary building can produce echoes whose geometry changes as aircraft, vehicles or atmospheric conditions alter the propagation paths.
 
@@ -357,7 +357,7 @@ Examples include:
 
 Because passive radar relies on external transmitters, changing transmitter power, modulation or reception quality can also alter the apparent target picture without anything changing in the sky.
 
-Research into passive bistatic radar consistently identifies direct-path interference, stationary clutter and multipath as the dominant limitations on detection performance. Considerable computational effort is devoted to cancelling these unwanted signals before attempting target detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet spr.2019.0338</span><span class="citation-popover-snippet">IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</span></span></span>
+Research into passive bistatic radar consistently identifies direct-path interference, stationary clutter and multipath as the dominant limitations on detection performance. Considerable computational effort is devoted to cancelling these unwanted signals before attempting target detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[IET Research Journal+2IET Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet spr.2019.0338</span><span class="citation-popover-snippet">IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7uvEllP5Jg" title="PASSIVE VOICE - English Grammar step-by-step" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7uvEllP5Jg" target="_blank" rel="noopener noreferrer">PASSIVE VOICE - English Grammar step-by-step</a></p><p class="youtube-embed-meta">Channel: Arnel&#x27;s Everyday English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7uvEllP5Jg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7uvEllP5Jg">Open on YouTube</a></p></div></div></div>
@@ -372,7 +372,7 @@ Useful checks include:
 
 * **Persistence across different geometries.** A real airborne object should continue producing consistent measurements as the observing geometry changes. Multipath ghosts often disappear or shift unpredictably when transmitter or receiver geometry changes.
 * **Agreement between sensors.** A passive radar detection that has no corresponding optical observation, thermal signature or independent radio evidence deserves cautious interpretation. Likewise, a camera event unsupported by radar should not automatically be considered anomalous.
-* **Consistency over multiple receivers.** Distributed passive radar networks can compare detections from several sites. Multipath artefacts are frequently local to one receiver, whereas genuine airborne targets should produce geometrically consistent measurements across multiple stations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.20817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical Properties of Target Localization Using Passive Radar Systems</span><span class="citation-popover-snippet">Statistical Properties of Target Localization Using Passive Radar SystemsJanuary 28, 2026...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
+* **Consistency over multiple receivers.** Distributed passive radar networks can compare detections from several sites. Multipath artefacts are frequently local to one receiver, whereas genuine airborne targets should produce geometrically consistent measurements across multiple stations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2601.20817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Statistical Properties of Target Localization Using Passive Radar Systems</span><span class="citation-popover-snippet">Statistical Properties of Target Localization Using Passive Radar SystemsJanuary 28, 2026...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
 * **Physical motion tests.** Real objects obey continuous trajectories. Clutter artefacts may jump between locations, appear suddenly without feasible motion, or remain locked to terrain features.
 * **Environmental correlation.** Repeated detections occurring only during heavy rain, strong temperature inversions, high winds affecting turbines, or when certain transmitters dominate reception are more consistent with propagation effects than unusual objects.
 
@@ -384,7 +384,7 @@ These checks reduce [false alarms]({{ 'false-alarms/' | relative_url }}) without
 
 Modern passive radar is not simply a receiver attached to an antenna. Much of the system's sophistication lies in signal processing that suppresses unwanted returns before searching for targets.
 
-Common approaches include adaptive filtering, beamforming, direct-signal suppression and variants of the Extensive Cancellation Algorithm (ECA). These methods estimate the unwanted direct-path and clutter components and subtract them from the surveillance channel. Current research continues to improve cancellation performance because imperfect suppression remains one of the principal limits on passive radar sensitivity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MDPI+3MathWorks+3Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-snippet">Direct Signal Interference (DSI) Suppression In Passive...This example investigates the performance of direct signal interferen...</span></span></span>
+Common approaches include adaptive filtering, beamforming, direct-signal suppression and variants of the Extensive Cancellation Algorithm (ECA). These methods estimate the unwanted direct-path and clutter components and subtract them from the surveillance channel. Current research continues to improve cancellation performance because imperfect suppression remains one of the principal limits on passive radar sensitivity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MDPI+3MathWorks+3Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-snippet">Direct Signal Interference (DSI) Suppression In Passive...This example investigates the performance of direct signal interferen...</span></span></span>
 
 The need for increasingly sophisticated cancellation techniques is itself evidence that clutter is not a minor inconvenience but one of the defining engineering problems of passive radar.
 
@@ -397,7 +397,7 @@ A radar return gains credibility when it:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* persists after direct-path cancellation; <span class="citation-chip-wrap"><a class="citation-chip" href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[ietresearch.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet spr.2019.0338</span><span class="citation-popover-snippet">IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</span></span></span>
+* persists after direct-path cancellation;<span class="citation-chip-wrap"><a class="citation-chip" href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ietresearch.onlinelibrary.wiley.com">[ietresearch.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ietresearch.onlinelibrary.wiley.com</span><span class="citation-popover-title">iet spr.2019.0338</span><span class="citation-popover-snippet">IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</span></span></span>
 * is reproducible across independent receivers;
 * follows a physically plausible trajectory;
 * coincides with calibrated optical observations;
@@ -414,194 +414,194 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When passive radar sees the wrong thing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When passive radar sees the wrong thing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Explains radar fundamentals, clutter, multipath, detection limits, and signal processing relevant to passive radar false tracks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains radar fundamentals, clutter, multipath, detection limits, and signal processing relevant to passive radar false tracks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Adaptive filter theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/85021-M.jpg" alt="Cover for Adaptive filter theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Adaptive filter theory">Adaptive filter theory</a>
-        </h4>
-        <p class="fr-book-author">By Simon S. Haykin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Adaptive filter theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/85021-M.jpg" alt="Cover for Adaptive filter theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Adaptive filter theory">Adaptive filter theory</a>
+</h4>
+<p class="fr-book-author">By Simon S. Haykin</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Adaptive filters, Electric filters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Adaptive filters, Electric filters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bistatic Radar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1238326-M.jpg" alt="Cover for Bistatic Radar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bistatic Radar">Bistatic Radar</a>
-        </h4>
-        <p class="fr-book-author">By Mikhail Cherniakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bistatic Radar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1238326-M.jpg" alt="Cover for Bistatic Radar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bistatic Radar">Bistatic Radar</a>
+</h4>
+<p class="fr-book-author">By Mikhail Cherniakov</p>
         
-        <p class="fr-book-desc">First published 2007.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Modern Radar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
-        </h4>
-        <p class="fr-book-author">By M. A. Richards, William A. Holm et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Modern Radar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
+</h4>
+<p class="fr-book-author">By M. A. Richards, William A. Holm et al.</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Radar.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Radar.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Adaptive+filter+theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Adaptive filter theory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bistatic+Radar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bistatic Radar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Adaptive+filter+theory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Adaptive filter theory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bistatic+Radar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bistatic Radar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="clutter-traps-when-passive-radar-sees-the-wrong-thing-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,167 +807,167 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: Passive radar tutorial | Request PDFThis work focuses on target location algorithms based on bistatic-range measure...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: Passive radar tutorial | Request PDFThis work focuses on target location algorithms based on bistatic-range measure...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 308842709 Direct signal suppression schemes for passive radar  
-   Link: <a href="https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Direct signal suppression schemes for passive radar10 Feb 2017 — Passive radar systems must detect the presence of a ta...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308842709_Direct_signal_suppression_schemes_for_passive_radar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Direct signal suppression schemes for passive radar10 Feb 2017 — Passive radar systems must detect the presence of a ta...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-9292/12/2/433" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/12/2/433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Target Detection Method of Distributed Passive Radar...by H Zhu · 2023 · Cited by 9 — The cross-correlation detection method is ba...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-9292/12/2/433" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/12/2/433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Target Detection Method of Distributed Passive Radar...by H Zhu · 2023 · Cited by 9 — The cross-correlation detection method is ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/15/15/3876" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/15/3876</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Target Detection of Passive Bistatic Radar under the...by Y Wu · 2023 · Cited by 6 — This paper addresses the issue of the reference sig...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/15/15/3876" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/15/3876</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Target Detection of Passive Bistatic Radar under the...by Y Wu · 2023 · Cited by 6 — This paper addresses the issue of the reference sig...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mathworks.com  
-   Link: <a href="https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Direct Signal Interference (DSI) Suppression In Passive...This example investigates the performance of direct signal interferen...</p></details>
+   Link:<a href="https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mathworks.com/help/phased/ug/direct-signal-interference-dsi-suppression-in-passive-radar.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Direct Signal Interference (DSI) Suppression In Passive...This example investigates the performance of direct signal interferen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
    Title: In passive radar, target  
-   Link: <a href="https://www.mdpi.com/1424-8220/23/7/3435" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/23/7/3435</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beamforming Techniques for Passive Radar: An Overviewby JM Núñez-Ortuño · 2023 · Cited by 21 — Cross ambiguity function is one key in...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/23/7/3435" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/23/7/3435</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beamforming Techniques for Passive Radar: An Overviewby JM Núñez-Ortuño · 2023 · Cited by 21 — Cross ambiguity function is one key in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s13634-016-0431-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13634-016-0431-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some important recent algorithms such as the ECA...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s13634" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13634</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some important recent algorithms such as the ECA...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4256080_Comparison_of_Clutter_and_Multipath_Cancellation_Techniques_for_Passive_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4256080_Comparison_of_Clutter_and_Multipath_Cancellation_Techniques_for_Passive_Radar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Different adaptive techniques are considered based on both well...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/4256080_Comparison_of_Clutter_and_Multipath_Cancellation_Techniques_for_Passive_Radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4256080_Comparison_of_Clutter_and_Multipath_Cancellation_Techniques_for_Passive_Radar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Different adaptive techniques are considered based on both well...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Statistical Properties of Target Localization Using Passive Radar Systems  
-   Link: <a href="https://arxiv.org/abs/2601.20817" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.20817</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Properties of Target Localization Using Passive Radar SystemsJanuary 28, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2601.20817" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.20817</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Properties of Target Localization Using Passive Radar SystemsJanuary 28, 2026...</p></details>
    Published: January 28, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/21/6748" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/21/6748</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Improved Extensive Cancellation Method for Clutter...by G Chen · 2025 — Passive bistatic radar experiences serious clutter echo inter...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/21/6748" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/21/6748</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Improved Extensive Cancellation Method for Clutter...by G Chen · 2025 — Passive bistatic radar experiences serious clutter echo inter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/17/6/961" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/17/6/961</a>  
+   Link:<a href="https://www.mdpi.com/2072-4292/17/6/961" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/17/6/961</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261267322_Direct_path_wave_purification_for_passive_radar_with_normalized_least_mean_square_algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261267322_Direct_path_wave_purification_for_passive_radar_with_normalized_least_mean_square_algorithm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This algorithm can attenuate the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261267322_Direct_path_wave_purification_for_passive_radar_with_normalized_least_mean_square_algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261267322_Direct_path_wave_purification_for_passive_radar_with_normalized_least_mean_square_algorithm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This algorithm can attenuate the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390360778_Passive_Radar_Detection_Approach_for_Multiple_and_Small_Targets_Based_on_Multi-carrier_and_Sparse_Reconstruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390360778_Passive_Radar_Detection_Approach_for_Multiple_and_Small_Targets_Based_on_Multi-carrier_and_Sparse_Reconstruction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conventional detection methods, which...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390360778_Passive_Radar_Detection_Approach_for_Multiple_and_Small_Targets_Based_on_Multi-carrier_and_Sparse_Reconstruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390360778_Passive_Radar_Detection_Approach_for_Multiple_and_Small_Targets_Based_on_Multi-carrier_and_Sparse_Reconstruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conventional detection methods, which...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
    Title: iet spr.2019.0338  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-spr.2019.0338</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
    Title: iet rsn.2013.0185  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2013.0185" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2013.0185</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalAnalysis of detection range of FM‐based passive radar1 Feb 2014 — This study presents an analysis of the detection ra...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2013.0185" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2013.0185</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalAnalysis of detection range of FM‐based passive radar1 Feb 2014 — This study presents an analysis of the detection ra...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2017.0106" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2017.0106</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalParallel processing algorithm for multipath clutter cancellation...by Y Fu · 2018 · Cited by 28 — In this study, an...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2017.0106" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-rsn.2017.0106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IET Research JournalParallel processing algorithm for multipath clutter cancellation...by Y Fu · 2018 · Cited by 28 — In this study, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ietresearch.onlinelibrary.wiley.com  
    Title: iet spr.2019.0338  
-   Link: <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2019.0338</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevitably conta...</p></details>
+   Link:<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2019.0338" target="_blank" rel="noopener noreferrer nofollow">https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2019.0338</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comTwo‐stage clutter and interference cancellation method in...by C Gang · 2020 · Cited by 20 — Target echoes are inevitably conta...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/passive" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/passive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge Dictionarynot acting to influence or change a situation; allowing other people to be in control 被動的,消極...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/passive" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/passive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge Dictionarynot acting to influence or change a situation; allowing other people to be in control 被動的,消極...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/passive" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/passive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>not reacting to what happens, or not acting or taking part: They attack people who are too weak or too passive to resist.Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/passive" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/passive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>not reacting to what happens, or not acting or taking part: They attack people who are too weak or too passive to resist.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A1805.01533" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A1805.01533</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time delay and Doppler shift estimation is an...Read more...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A1805.01533" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A1805.01533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time delay and Doppler shift estimation is an...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1688944/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1688944/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A novel approach which incorporates both signal and...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1688944/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1688944/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A novel approach which incorporates both signal and...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/passive" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/passive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PASSIVE Definition &amp; Meaninginfluenced, acted upon, or affected by some external force, cause, or agency; being the object of action rath...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/passive" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/passive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PASSIVE Definition &amp; Meaninginfluenced, acted upon, or affected by some external force, cause, or agency; being the object of action rath...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: test-english.com  
-   Link: <a href="https://test-english.com/grammar-points/b1/passive-verb-forms/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/grammar-points/b1/passive-verb-forms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passive verb formsMaster passive verb forms in this B1 Intermediate grammar lesson. Clear grammar [rules](&amp;#123;&amp;#123; &#x27;rules/&#x27; | relative_url &amp;#125;&amp;#125;), charts and exercises. Practise now...</p></details>
+   Link:<a href="https://test-english.com/grammar-points/b1/passive-verb-forms/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/grammar-points/b1/passive-verb-forms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passive verb formsMaster passive verb forms in this B1 Intermediate grammar lesson. Clear grammar [rules](&amp;#123;&amp;#123; &#x27;rules/&#x27; | relative_url &amp;#125;&amp;#125;), charts and exercises. Practise now...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: publica.fraunhofer.de  
-   Link: <a href="https://publica.fraunhofer.de/entities/publication/ec0895dd-6324-4e3f-9e23-16afdeacda68" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/ec0895dd-6324-4e3f-9e23-16afdeacda68</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>multipath clutter cancellation in OFDM-based...We present an advanced algorithm to suppress multipath clutter in passive radar systems u...</p></details>
+   Link:<a href="https://publica.fraunhofer.de/entities/publication/ec0895dd-6324-4e3f-9e23-16afdeacda68" target="_blank" rel="noopener noreferrer nofollow">https://publica.fraunhofer.de/entities/publication/ec0895dd-6324-4e3f-9e23-16afdeacda68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>multipath clutter cancellation in OFDM-based...We present an advanced algorithm to suppress multipath clutter in passive radar systems u...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SET-216/EN-SET-216-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SET-216/EN-SET-216-06.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Signal Processingby A De Maio · Cited by 10 — To mitigate the deleterious effects of clutter and jammer, modern radars have employe...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SET-216/EN-SET-216-06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SET-216/EN-SET-216-06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Signal Processingby A De Maio · Cited by 10 — To mitigate the deleterious effects of clutter and jammer, modern radars have employe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: advice.writing.utoronto.ca  
-   Link: <a href="https://advice.writing.utoronto.ca/revising/passive-voice/" target="_blank" rel="noopener noreferrer nofollow">https://advice.writing.utoronto.ca/revising/passive-voice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice: When to Use It and When to Avoid ItIn a passive sentence, the person or thing acted on comes first, and the actor is added at the...</p></details>
+   Link:<a href="https://advice.writing.utoronto.ca/revising/passive-voice/" target="_blank" rel="noopener noreferrer nofollow">https://advice.writing.utoronto.ca/revising/passive-voice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice: When to Use It and When to Avoid ItIn a passive sentence, the person or thing acted on comes first, and the actor is added at the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=z9tjjzv1kig" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z9tjjzv1kig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Passive radar clutter multipath delay doppler cross ambiguity Radar Systems Engineering Course by Dr. Robert M. O&#x27;Donnell. Chapter 10: Ra...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=z9tjjzv1kig" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=z9tjjzv1kig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Passive radar clutter multipath delay doppler cross ambiguity Radar Systems Engineering Course by Dr. Robert M. O&#x27;Donnell. Chapter 10: Ra...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/cf9d6d0c150c4e9baff70c272461f0e4" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/cf9d6d0c150c4e9baff70c272461f0e4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>try provides a novel scheme to the detection of target in sea clutter environment...Read more...</p></details>
+   Link:<a href="https://doaj.org/article/cf9d6d0c150c4e9baff70c272461f0e4" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/cf9d6d0c150c4e9baff70c272461f0e4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>try provides a novel scheme to the detection of target in sea clutter environment...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: intechopen.com  
    Title: These transmissions are inherently not designed for radar  
-   Link: <a href="https://www.intechopen.com/chapters/57342" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/57342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive Clutter Cancellation Techniques for Passive Radarsby T Pető · 2017 · Cited by 9 — In radar systems, the ambiguity func...</p></details>
+   Link:<a href="https://www.intechopen.com/chapters/57342" target="_blank" rel="noopener noreferrer nofollow">https://www.intechopen.com/chapters/57342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive Clutter Cancellation Techniques for Passive Radarsby T Pető · 2017 · Cited by 9 — In radar systems, the ambiguity func...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: merriam-webster.com  
    Title: PASSIV E Definition & Meaning3 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/passive" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/passive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a (1): acted upon by an external agency (2): receptive to outside impressions or influences b (1): asserting that the grammatical subj...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/passive" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/passive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a (1): acted upon by an external agency (2): receptive to outside impressions or influences b (1): asserting that the grammatical subj...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: radars.ac.cn  
-   Link: <a href="https://radars.ac.cn/en/article/doi/10.12000/JR25155" target="_blank" rel="noopener noreferrer nofollow">https://radars.ac.cn/en/article/doi/10.12000/JR25155</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multipath Effects and Suppression in Reference Channels...by W Xuesong · 2025 — For Linear Frequency Modulated (LFM) signals, a dechirp...</p></details>
+   Link:<a href="https://radars.ac.cn/en/article/doi/10.12000/JR25155" target="_blank" rel="noopener noreferrer nofollow">https://radars.ac.cn/en/article/doi/10.12000/JR25155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multipath Effects and Suppression in Reference Channels...by W Xuesong · 2025 — For Linear Frequency Modulated (LFM) signals, a dechirp...</p></details>

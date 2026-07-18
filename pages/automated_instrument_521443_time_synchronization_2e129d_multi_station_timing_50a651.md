@@ -284,7 +284,7 @@ Two observing stations only strengthen an unusual sky observation if they can pr
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-1-dark.svg" | relative_url }}" alt="Triangulation illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This requirement is well established in other branches of observational astronomy. Meteor camera networks, which routinely reconstruct three-dimensional atmospheric trajectories, rely on precise [timing]({{ 'timing/' | relative_url }}) alongside calibrated camera geometry. Their experience provides a practical model for automated UAP detector networks because both problems involve transient objects observed from separated locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
+This requirement is well established in other branches of observational astronomy. Meteor camera networks, which routinely reconstruct three-dimensional atmospheric trajectories, rely on precise [timing]({{ 'timing/' | relative_url }}) alongside calibrated camera geometry. Their experience provides a practical model for automated UAP detector networks because both problems involve transient objects observed from separated locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
 
 ## Why synchronised stations are needed for 3D tracks
 
@@ -293,7 +293,7 @@ Triangulation works by finding where two or more lines of sight intersect in spa
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* a precisely known camera position; <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1945 5100.2012.01402.x</span><span class="citation-popover-snippet">new method of meteor trajectory determination applied to...by PS GURAL · 2012 · Cited by 62 — The camera systems possess a number of kno...</span></span></span>
+* a precisely known camera position;<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1945 5100.2012.01402.x</span><span class="citation-popover-snippet">new method of meteor trajectory determination applied to...by PS GURAL · 2012 · Cited by 62 — The camera systems possess a number of kno...</span></span></span>
 * a calibrated viewing direction for each image;
 * an accurately timestamped observation.
 
@@ -301,9 +301,9 @@ Triangulation works by finding where two or more lines of sight intersect in spa
 
 The geometric intersection identifies where the object was at a particular instant. Repeating that process over successive frames produces a three-dimensional trajectory and allows estimates of altitude, velocity and direction of travel.
 
-Timing is inseparable from this geometry because the object is moving. Even if both cameras are perfectly calibrated, the intersection becomes meaningless if [one station]({{ 'one-station/' | relative_url }}) records the object several frames earlier or later than the other. The reconstruction software must know which observations correspond to the same physical moment before it can calculate a valid position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</span></span></span>
+Timing is inseparable from this geometry because the object is moving. Even if both cameras are perfectly calibrated, the intersection becomes meaningless if [one station]({{ 'one-station/' | relative_url }}) records the object several frames earlier or later than the other. The reconstruction software must know which observations correspond to the same physical moment before it can calculate a valid position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</span></span></span>
 
-Meteor observation networks illustrate this principle well. The Global Meteor Network automatically searches for meteors detected by multiple stations before triangulating their paths in three dimensions. Successful pairing depends on matching observations that occur within the correct time window rather than merely detecting similar streaks in different images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">the Global Meteor Network wiki page!10 Mar 2026 — The server finds meteors that were observed from more than one station, which allows th...</span></span></span>
+Meteor observation networks illustrate this principle well. The Global Meteor Network automatically searches for meteors detected by multiple stations before triangulating their paths in three dimensions. Successful pairing depends on matching observations that occur within the correct time window rather than merely detecting similar streaks in different images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">the Global Meteor Network wiki page!10 Mar 2026 — The server finds meteors that were observed from more than one station, which allows th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=MAGq-XqD5Po" target="_blank" rel="noopener noreferrer">Overview of the Global Meteor Network</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MAGq-XqD5Po" target="_blank" rel="noopener noreferrer">Overview of the Global Meteor Network</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MAGq-XqD5Po" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MAGq-XqD5Po">Open on YouTube</a></p></div></div></div>
@@ -321,9 +321,9 @@ Several types of error can follow:
 * **Artificial [acceleration]({{ 'acceleration/' | relative_url }}).** Variable clock offsets between stations can make a steadily moving object appear to accelerate or manoeuvre.
 * **False rejection or false association.** Genuine multi-station detections may fail matching tests, while unrelated aircraft lights, [satellites]({{ 'satellites/' | relative_url }}) or birds may be paired accidentally.
 
-These effects become increasingly important for fast-moving targets. An offset that is insignificant for slowly drifting clouds may completely invalidate reconstruction of a meteor, nearby bird, drone or rapidly crossing luminous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</span></span></span>
+These effects become increasingly important for fast-moving targets. An offset that is insignificant for slowly drifting clouds may completely invalidate reconstruction of a meteor, nearby bird, drone or rapidly crossing luminous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</span></span></span>
 
-A practical lesson comes from meteor trajectory research, where investigators have found that unsynchronised camera timestamps required explicit estimation of inter-station time offsets before realistic meteor velocities could be recovered. The geometry alone was insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</span></span></span>
+A practical lesson comes from meteor trajectory research, where investigators have found that unsynchronised camera timestamps required explicit estimation of inter-station time offsets before realistic meteor velocities could be recovered. The geometry alone was insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-2-dark.svg" | relative_url }}" alt="Triangulation illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,9 +346,9 @@ The acceptable timing uncertainty depends on factors including:
 
 Networks interested only in determining whether [two stations]({{ 'two-stations/' | relative_url }}) observed the same slow-moving aircraft may tolerate millisecond-level uncertainty. Systems intended to measure precise atmospheric trajectories or distinguish nearby objects from distant ones benefit from much tighter synchronisation.
 
-Modern meteor systems often address this by incorporating GPS-disciplined cameras that timestamp exposures directly against satellite time. One published multi-station design uses cameras capable of recording exposure timing with approximately one-microsecond precision specifically because accurate timing improves trajectory reconstruction and meteorite fall predictions from geographically separated observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
+Modern meteor systems often address this by incorporating GPS-disciplined cameras that timestamp exposures directly against satellite time. One published multi-station design uses cameras capable of recording exposure timing with approximately one-microsecond precision specifically because accurate timing improves trajectory reconstruction and meteorite fall predictions from geographically separated observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
 
-Likewise, long-baseline stereoscopic sky surveillance research has demonstrated GPS-controlled synchronisation between widely separated cameras to support automatic three-dimensional target localisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</span></span></span>
+Likewise, long-baseline stereoscopic sky surveillance research has demonstrated GPS-controlled synchronisation between widely separated cameras to support automatic three-dimensional target localisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=j_75CDPzjI4" target="_blank" rel="noopener noreferrer">Global Meteor Network 2022 Meeting Session 2</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_75CDPzjI4" target="_blank" rel="noopener noreferrer">Global Meteor Network 2022 Meeting Session 2</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_75CDPzjI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_75CDPzjI4">Open on YouTube</a></p></div></div></div>
@@ -370,7 +370,7 @@ Typical approaches include:
 
 </div>
 
-If GPS reception is temporarily lost or a timing source changes, the event record should preserve that information. Knowing that a station's clock uncertainty increased during an observation is often as valuable as the timestamp itself because it defines the confidence that can be placed in later triangulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.manchester.ac.uk">[Pure Manchester+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.manchester.ac.uk</span><span class="citation-popover-title">IEEE Trans on Power Delivery Hao Guo 27 03 2016 v3 Final</span><span class="citation-popover-snippet">Pure ManchesterDesign of a Time Synchronization System based on GPS and...Yesterday — A substation now requires two or three 1588 master...</span></span></span>
+If GPS reception is temporarily lost or a timing source changes, the event record should preserve that information. Knowing that a station's clock uncertainty increased during an observation is often as valuable as the timestamp itself because it defines the confidence that can be placed in later triangulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.manchester.ac.uk">[Pure Manchester+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.manchester.ac.uk</span><span class="citation-popover-title">IEEE Trans on Power Delivery Hao Guo 27 03 2016 v3 Final</span><span class="citation-popover-snippet">Pure ManchesterDesign of a Time Synchronization System based on GPS and...Yesterday — A substation now requires two or three 1588 master...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-3-dark.svg" | relative_url }}" alt="Triangulation illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_multi_station_timing_50a651-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -394,7 +394,7 @@ At minimum, a defensible record should preserve:
 
 </div>
 
-This metadata allows independent investigators to reproduce the trajectory solution and determine whether alternative pairings produce different results. Without it, a claimed three-dimensional reconstruction is difficult to verify scientifically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
+This metadata allows independent investigators to reproduce the trajectory solution and determine whether alternative pairings produce different results. Without it, a claimed three-dimensional reconstruction is difficult to verify scientifically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2globalmeteornetwork.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M3) System</span><span class="citation-popover-snippet">I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=wDdrG_FCyGk" target="_blank" rel="noopener noreferrer">Global Meteor Network 2022 Meeting Session 1</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wDdrG_FCyGk" target="_blank" rel="noopener noreferrer">Global Meteor Network 2022 Meeting Session 1</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wDdrG_FCyGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wDdrG_FCyGk">Open on YouTube</a></p></div></div></div>
@@ -406,194 +406,194 @@ Two separated cameras are often viewed as inherently stronger evidence than a si
 In automated UAP detector networks, synchronised clocks transform simultaneous images into measurable geometry. Rather than simply confirming that "something was seen", they allow investigators to determine where the object was, how it moved through three-dimensional space, and whether the reconstructed motion remains physically consistent across every observing station. That combination of spatial agreement and verified timing is what makes multi-station triangulation substantially more reliable than isolated observations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Two Cameras Help Only If Their Clocks Agree. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Two Cameras Help Only If Their Clocks Agree. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
-        </h4>
-        <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
+</h4>
+<p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
         
-        <p class="fr-book-desc">Details triangulation from separated observing stations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details triangulation from separated observing stations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+</h4>
+<p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="triangulation-2dcc0a-two-cameras-help-only-if-their-clocks-agree-automated-instrumented-ufo-dete-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,108 +799,108 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv A Multi-station Meteor Monitoring (M3) System  
-   Link: <a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</p></details>
+   Link:<a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I. Design...The camera has a built-in GPS module for accurately timing the meteoroid entry into the atmosphere (accurate to 1 µs), which...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: globalmeteornetwork.org  
-   Link: <a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Global Meteor Network wiki page!10 Mar 2026 — The server finds meteors that were observed from more than one station, which allows th...</p></details>
+   Link:<a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Global Meteor Network wiki page!10 Mar 2026 — The server finds meteors that were observed from more than one station, which allows th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3545550/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long Baseline Stereovision for Automatic Detection and...by R Danescu · 2012 · Cited by 25 — This paper presents a generic, low cost...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1622264/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalOptimization of Meteor Triangulations Using Timed...by V Niklasson · 2021 — But it turns out that the timestamps between the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242777797_Measurement_of_synchrophasors_with_GPS_and_IEEE_1588" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242777797_Measurement_of_synchrophasors_with_GPS_and_IEEE_1588</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement of synchrophasors with GPS and IEEE 1588When highly accurate time synchronization is needed, satellite systems, l...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/242777797_Measurement_of_synchrophasors_with_GPS_and_IEEE_1588" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242777797_Measurement_of_synchrophasors_with_GPS_and_IEEE_1588</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement of synchrophasors with GPS and IEEE 1588When highly accurate time synchronization is needed, satellite systems, l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>High-Precision Time Synchronization Based on Timestamp...1 Feb 2025 — We have proposed a time synchronization method based on timestamp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High-Precision Time Synchronization Based on Timestamp...1 Feb 2025 — We have proposed a time synchronization method based on timestamp...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2605.29124v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.29124v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical and [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) Observations of the February 2025...27 May 2026 — The AllSky7 meteor camera network measurements were triangulated usi...</p></details>
+   Link:<a href="https://arxiv.org/html/2605.29124v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.29124v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical and [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) Observations of the February 2025...27 May 2026 — The AllSky7 meteor camera network measurements were triangulated usi...</p></details>
    Published: February 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pure.manchester.ac.uk  
    Title: IEEE Trans on Power Delivery Hao Guo 27 03 2016 v3 Final  
-   Link: <a href="https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pure ManchesterDesign of a Time Synchronization System based on GPS and...Yesterday — A substation now requires two or three 1588 master...</p></details>
+   Link:<a href="https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.manchester.ac.uk/ws/files/51486209/IEEE_Trans_on_Power_Delivery_Hao_Guo_27_03_2016_v3_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pure ManchesterDesign of a Time Synchronization System based on GPS and...Yesterday — A substation now requires two or three 1588 master...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11154300/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11154300/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Li · 2024 · Cited by 1 — This paper proposes a precise and high-stability space-based time system established under the autonomou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11154300/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11154300/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Li · 2024 · Cited by 1 — This paper proposes a precise and high-stability space-based time system established under the autonomou...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: disco.ethz.ch  
-   Link: <a href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ethz.chTime, Clocks &amp; GPSThe Precision Time Protocol (PTP) is a clock synchronization protocol similar to NTP, but which uses medium acce...</p></details>
+   Link:<a href="https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disco.ethz.ch/courses/hs19/distsys/lnotes/chapter20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ethz.chTime, Clocks &amp; GPSThe Precision Time Protocol (PTP) is a clock synchronization protocol similar to NTP, but which uses medium acce...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popastro.com  
-   Link: <a href="https://www.popastro.com/meteor/observing-meteors-with-a-video-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/observing-meteors-with-a-video-camera/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing meteors with a video cameraBy collaborating with other observers it is possible to analyse video of the same meteor obtained fr...</p></details>
+   Link:<a href="https://www.popastro.com/meteor/observing-meteors-with-a-video-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/observing-meteors-with-a-video-camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observing meteors with a video cameraBy collaborating with other observers it is possible to analyse video of the same meteor obtained fr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pointonenav.com  
    Title: time synchronization in gnss ins the 1 thing engineers get wrong  
-   Link: <a href="https://pointonenav.com/insights/time-synchronization-in-gnss-ins-the-1-thing-engineers-get-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://pointonenav.com/insights/time-synchronization-in-gnss-ins-the-1-thing-engineers-get-wrong/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in GNSS/INS Positioning Systems23 Mar 2026 — Building a positioning system? Time synchronization across GNSS/INS sen...</p></details>
+   Link:<a href="https://pointonenav.com/insights/time-synchronization-in-gnss-ins-the-1-thing-engineers-get-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://pointonenav.com/insights/time-synchronization-in-gnss-ins-the-1-thing-engineers-get-wrong/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in GNSS/INS Positioning Systems23 Mar 2026 — Building a positioning system? Time synchronization across GNSS/INS sen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebRubin Observatory in Chile will survey the entire southern sky every four days...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebRubin Observatory in Chile will survey the entire southern sky every four days...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: web.stanford.edu  
    Title: NarinsLo IONGNSS 2012 APNTIONPaperFinal  
-   Link: <a href="https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/NarinsLo_IONGNSS_2012_APNTIONPaperFinal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/NarinsLo_IONGNSS_2012_APNTIONPaperFinal.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for a Robust Precise Time and Frequency...by M Narins · Cited by 21 — The Federal Aviation Administration (FAA) has initiated an Al...</p></details>
+   Link:<a href="https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/NarinsLo_IONGNSS_2012_APNTIONPaperFinal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/NarinsLo_IONGNSS_2012_APNTIONPaperFinal.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need for a Robust Precise Time and Frequency...by M Narins · Cited by 21 — The Federal Aviation Administration (FAA) has initiated an Al...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/methods/radio-observation/practical/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/methods/radio-observation/practical/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ifferences go up to a few tenths of a second...Read more...</p></details>
+   Link:<a href="https://www.imo.net/observations/methods/radio-observation/practical/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/methods/radio-observation/practical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifferences go up to a few tenths of a second...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: masibus.com  
    Title: GPS Time Synchronization  
-   Link: <a href="https://www.masibus.com/wp-content/uploads/2023/11/GPS-Time-Synchronization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.masibus.com/wp-content/uploads/2023/11/GPS-Time-Synchronization.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Nov 2023 — For time synchronization, the GNSS signal is received, processed by a local master clock / time server or primary reference...</p></details>
+   Link:<a href="https://www.masibus.com/wp-content/uploads/2023/11/GPS-Time-Synchronization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.masibus.com/wp-content/uploads/2023/11/GPS-Time-Synchronization.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Nov 2023 — For time synchronization, the GNSS signal is received, processed by a local master clock / time server or primary reference...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1945 5100.2012.01402.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>new method of meteor trajectory determination applied to...by PS GURAL · 2012 · Cited by 62 — The camera systems possess a number of kno...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2012.01402.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>new method of meteor trajectory determination applied to...by PS GURAL · 2012 · Cited by 62 — The camera systems possess a number of kno...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: support.sbg-systems.com  
    Title: time synchronization and event management  
-   Link: <a href="https://support.sbg-systems.com/sc/kb/latest/inertial-sensors-operation/time-synchronization-and-event-management" target="_blank" rel="noopener noreferrer nofollow">https://support.sbg-systems.com/sc/kb/latest/inertial-sensors-operation/time-synchronization-and-event-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To begin, we will provide an in-depth understanding of the different calculation delays...Read more...</p></details>
+   Link:<a href="https://support.sbg-systems.com/sc/kb/latest/inertial-sensors-operation/time-synchronization-and-event-management" target="_blank" rel="noopener noreferrer nofollow">https://support.sbg-systems.com/sc/kb/latest/inertial-sensors-operation/time-synchronization-and-event-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To begin, we will provide an in-depth understanding of the different calculation delays...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: astronomy.me.uk  
-   Link: <a href="https://www.astronomy.me.uk/dedicated-software-options-for-amateur-ham-radio-meteor-scatter" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.me.uk/dedicated-software-options-for-amateur-ham-radio-meteor-scatter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dedicated software options for amateur ham radio meteor...7 Oct 2025 — Integration with timing / synchronization: Meteor scatter communi...</p></details>
+   Link:<a href="https://www.astronomy.me.uk/dedicated-software-options-for-amateur-ham-radio-meteor-scatter" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.me.uk/dedicated-software-options-for-amateur-ham-radio-meteor-scatter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dedicated software options for amateur ham radio meteor...7 Oct 2025 — Integration with timing / synchronization: Meteor scatter communi...</p></details>

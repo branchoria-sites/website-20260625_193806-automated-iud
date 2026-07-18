@@ -448,17 +448,17 @@ image: /assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb-ov
 
 ## Introduction
 
-Radar can make UAP tracks clearer, but not in the dramatic “one magic screen solves the mystery” way often imagined. Its real value is more modest and more useful: radar-style sensing can add distance, range rate, velocity and independent confirmation to an automated instrumented UFO detector, especially when optical video alone cannot tell whether a light is a nearby insect, a drone, an aircraft, a balloon, a satellite or something genuinely hard to classify. NASA’s UAP study identified poor calibration, missing metadata and lack of multiple measurements as core obstacles in UAP analysis, while the [Galileo]({{ 'galileo/' | relative_url }}) Project’s proposed observatories explicitly include passive multistatic radar and radio-spectrum sensing alongside cameras and environmental instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Radar can make UAP tracks clearer, but not in the dramatic “one magic screen solves the mystery” way often imagined. Its real value is more modest and more useful: radar-style sensing can add distance, range rate, velocity and independent confirmation to an automated instrumented UFO detector, especially when optical video alone cannot tell whether a light is a nearby insect, a drone, an aircraft, a balloon, a satellite or something genuinely hard to classify. NASA’s UAP study identified poor calibration, missing metadata and lack of multiple measurements as core obstacles in UAP analysis, while the [Galileo]({{ 'galileo/' | relative_url }}) Project’s proposed observatories explicitly include passive multistatic radar and radio-spectrum sensing alongside cameras and environmental instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb-overview.webp" | relative_url }}" alt="Overview image for Radar" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is between active radar, which transmits its own radio energy and listens for echoes, and passive radio sensing, which listens only: either for existing broadcasts reflected from objects or for signals emitted by [known aircraft]({{ 'known-aircraft/' | relative_url }}) systems. For civilian UAP stations, passive methods are usually the more realistic path. They avoid many licensing and interference problems, can be built from receivers and software-defined radio equipment, and provide a second measurement channel when a camera track is ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
+The key distinction is between active radar, which transmits its own radio energy and listens for echoes, and passive radio sensing, which listens only: either for existing broadcasts reflected from objects or for signals emitted by [known aircraft]({{ 'known-aircraft/' | relative_url }}) systems. For civilian UAP stations, passive methods are usually the more realistic path. They avoid many licensing and interference problems, can be built from receivers and software-defined radio equipment, and provide a second measurement channel when a camera track is ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
 
 ## Active Radar Versus Passive Radio Sensing
 
-Active radar is the familiar model: a transmitter sends out radio pulses or continuous-wave signals, and a receiver measures the echoes that return from objects. In principle, that is attractive for UAP tracking because it can provide range and motion information directly, rather than inferring distance from a two-dimensional image. NASA’s UAP report notes that radar signatures, including Doppler information, could be important for testing claims of unusual [acceleration]({{ 'acceleration/' | relative_url }}) or high-manoeuvre behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Active radar is the familiar model: a transmitter sends out radio pulses or continuous-wave signals, and a receiver measures the echoes that return from objects. In principle, that is attractive for UAP tracking because it can provide range and motion information directly, rather than inferring distance from a two-dimensional image. NASA’s UAP report notes that radar signatures, including Doppler information, could be important for testing claims of unusual [acceleration]({{ 'acceleration/' | relative_url }}) or high-manoeuvre behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-For a private or citizen-science sky station, however, active radar is a difficult starting point. Transmitting radio energy is regulated because poorly designed or unauthorised equipment can interfere with aviation, communications, [weather]({{ 'weather/' | relative_url }}) radar, navigation and other spectrum users. In the UK, Ofcom states that radio equipment use is regulated by national law, and its guidance distinguishes ordinary reception from transmission; general radio receivers are usually licence-exempt, but transmitting equipment is a different matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Radio equipment</span><span class="citation-popover-snippet">equipmentOctober 6, 2023 — The use of radio equipment is regulated by national laws. We explain the rules that apply and how Ofcom enforc...</span><span class="citation-popover-meta">Published: October 6, 2023</span></span></span>
+For a private or citizen-science sky station, however, active radar is a difficult starting point. Transmitting radio energy is regulated because poorly designed or unauthorised equipment can interfere with aviation, communications, [weather]({{ 'weather/' | relative_url }}) radar, navigation and other spectrum users. In the UK, Ofcom states that radio equipment use is regulated by national law, and its guidance distinguishes ordinary reception from transmission; general radio receivers are usually licence-exempt, but transmitting equipment is a different matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Radio equipment</span><span class="citation-popover-snippet">equipmentOctober 6, 2023 — The use of radio equipment is regulated by national laws. We explain the rules that apply and how Ofcom enforc...</span><span class="citation-popover-meta">Published: October 6, 2023</span></span></span>
 
 Passive radio sensing turns the problem around. Instead of transmitting, the station listens. There are three useful versions for UAP-detector design:
 
@@ -474,19 +474,19 @@ These are not equivalent to a military air-defence radar. They are better unders
 
 A single optical camera usually records direction, angular size and apparent motion. That is often not enough. A dot moving across the frame may be a small object nearby, a large object far away, or a normal aircraft seen under poor geometry. Without range, “fast” may only mean “fast across the image”. Without distance, acceleration estimates can be wildly wrong.
 
-Radar-style measurements are valuable because they attack that exact weakness. Passive radar can estimate delay and Doppler: delay relates to the extra path travelled by a reflected signal, while Doppler measures frequency shift caused by motion. With multiple receivers, a system can combine these measurements to estimate three-dimensional position and velocity. The Galileo-linked SkyWatch passive multistatic radar proposal describes using commercial FM broadcast transmitters as “illuminators of opportunity” and a network of geographically separated receivers to estimate 3D position and velocity time series for aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+Radar-style measurements are valuable because they attack that exact weakness. Passive radar can estimate delay and Doppler: delay relates to the extra path travelled by a reflected signal, while Doppler measures frequency shift caused by motion. With multiple receivers, a system can combine these measurements to estimate three-dimensional position and velocity. The Galileo-linked SkyWatch passive multistatic radar proposal describes using commercial FM broadcast transmitters as “illuminators of opportunity” and a network of geographically separated receivers to estimate 3D position and velocity time series for aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-This matters because many UAP claims hinge on kinematics: sudden turns, extreme speeds, hovering followed by rapid departure, or apparent motion inconsistent with known aircraft. A camera may suggest those behaviours, but radar-style range and velocity data can test whether the apparent motion survives measurement. NASA made a similar point when discussing synthetic aperture radar data: Doppler signatures could help validate or reject claims of rapid acceleration or high-G manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This matters because many UAP claims hinge on kinematics: sudden turns, extreme speeds, hovering followed by rapid departure, or apparent motion inconsistent with known aircraft. A camera may suggest those behaviours, but radar-style range and velocity data can test whether the apparent motion survives measurement. NASA made a similar point when discussing synthetic aperture radar data: Doppler signatures could help validate or reject claims of rapid acceleration or high-G manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-There is also a more prosaic benefit. Many “unknowns” become less mysterious when an automated station can compare a camera track with ADS-B aircraft broadcasts, local flight routes, satellite predictions and radio returns. The FAA describes ADS-B Out as broadcasting an aircraft’s GPS location, altitude, ground speed and other data once per second to ground stations and other aircraft; for a civilian detector, receiving that data is one of the simplest ways to avoid mislabelling ordinary air traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
+There is also a more prosaic benefit. Many “unknowns” become less mysterious when an automated station can compare a camera track with ADS-B aircraft broadcasts, local flight routes, satellite predictions and radio returns. The FAA describes ADS-B Out as broadcasting an aircraft’s GPS location, altitude, ground speed and other data once per second to ground stations and other aircraft; for a civilian detector, receiving that data is one of the simplest ways to avoid mislabelling ordinary air traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
 
 ## The Galileo Project’s Passive Radar Idea
 
-The most relevant contemporary example is SkyWatch, a passive multistatic radar concept associated with the Galileo Project. Its stated purpose is not to “hunt aliens”, but to add quantitative range, location and kinematic measurements to a broader UAP-observation suite that also includes optical, infrared, acoustic, radio-spectrum, magnetic-field and particle-detection instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The most relevant contemporary example is SkyWatch, a passive multistatic radar concept associated with the Galileo Project. Its stated purpose is not to “hunt aliens”, but to add quantitative range, location and kinematic measurements to a broader UAP-observation suite that also includes optical, infrared, acoustic, radio-spectrum, magnetic-field and particle-detection instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-SkyWatch is built around a practical observation: the modern environment is already full of powerful transmitters. FM radio stations, for example, continuously illuminate the sky. A passive radar receiver can compare a direct copy of a broadcast signal with faint delayed echoes arriving from objects that reflected the signal. In favourable geometry, those echoes can reveal the object’s bistatic range and Doppler shift. With several receivers, the system can triangulate a time series of positions and velocities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
+SkyWatch is built around a practical observation: the modern environment is already full of powerful transmitters. FM radio stations, for example, continuously illuminate the sky. A passive radar receiver can compare a direct copy of a broadcast signal with faint delayed echoes arriving from objects that reflected the signal. In favourable geometry, those echoes can reveal the object’s bistatic range and Doppler shift. With several receivers, the system can triangulate a time series of positions and velocities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
 
-The technical ambition is high. The SkyWatch paper says its network design aims to estimate object tracks at altitudes up to 80 km, horizontal distances up to 150 km, and velocities up to about plus or minus 2 km/s, depending on transmitter geometry, terrain, signal strength and processing conditions. Those numbers should not be read as a guarantee that every small drone, balloon or odd light will be captured. They describe a design envelope for a specific passive multistatic system, not a universal consumer capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The technical ambition is high. The SkyWatch paper says its network design aims to estimate object tracks at altitudes up to 80 km, horizontal distances up to 150 km, and velocities up to about plus or minus 2 km/s, depending on transmitter geometry, terrain, signal strength and processing conditions. Those numbers should not be read as a guarantee that every small drone, balloon or odd light will be captured. They describe a design envelope for a specific passive multistatic system, not a universal consumer capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For automated UFO detectors, the deeper lesson is architectural. The radar channel is most useful when it is synchronised with cameras, environmental sensors and aircraft databases. A passive radar return with no optical track may be hard to interpret; an optical track with no range may be misleading; but a time-matched optical track, passive radar estimate and ADS-B non-match becomes a much stronger event record.
 
@@ -497,17 +497,17 @@ For automated UFO detectors, the deeper lesson is architectural. The radar chann
 
 Passive radio methods can help answer several questions that ordinary video struggles with. Did something physically occupy a volume of air? Was it moving towards or away from the receiver? Did its apparent optical speed correspond to a plausible three-dimensional speed? Was there a conventional aircraft broadcasting in the same direction at the same time? Was there a radio-frequency event coincident with the sighting?
 
-They cannot, by themselves, answer every UAP question. Passive radar performance depends on geometry: transmitter, receiver and target must be arranged so that useful reflections arrive. Coverage is not uniform. FM broadcast signals have different bandwidths, powers and locations; urban clutter, terrain, direct-signal leakage and multipath reflections can complicate processing. Classic FM-based bistatic radar experiments have demonstrated aircraft tracking beyond 150 km, but they also describe the need for adaptive filtering and processing to suppress the much stronger direct transmitter signal and recover weak target echoes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
+They cannot, by themselves, answer every UAP question. Passive radar performance depends on geometry: transmitter, receiver and target must be arranged so that useful reflections arrive. Coverage is not uniform. FM broadcast signals have different bandwidths, powers and locations; urban clutter, terrain, direct-signal leakage and multipath reflections can complicate processing. Classic FM-based bistatic radar experiments have demonstrated aircraft tracking beyond 150 km, but they also describe the need for adaptive filtering and processing to suppress the much stronger direct transmitter signal and recover weak target echoes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiet.org">[IET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiet.org</span><span class="citation-popover-title">IETFM radio based bistatic radar</span><span class="citation-popover-snippet">June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</span><span class="citation-popover-meta">Published: June 22, 2021</span></span></span>
 
-ADS-B is useful but incomplete. It identifies cooperative aircraft that are equipped and broadcasting; it does not prove that every non-ADS-B object is anomalous. Some aircraft may not broadcast in all circumstances, some small drones and balloons will not carry ADS-B, military flights may be filtered or absent from public feeds, and ADS-B itself is a dependent broadcast rather than an independent radar reflection. The FAA’s own description makes clear that ADS-B Out reports position and other data from onboard systems, which is precisely why it is valuable for identification but not a substitute for independent sensing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
+ADS-B is useful but incomplete. It identifies cooperative aircraft that are equipped and broadcasting; it does not prove that every non-ADS-B object is anomalous. Some aircraft may not broadcast in all circumstances, some small drones and balloons will not carry ADS-B, military flights may be filtered or absent from public feeds, and ADS-B itself is a dependent broadcast rather than an independent radar reflection. The FAA’s own description makes clear that ADS-B Out reports position and other data from onboard systems, which is precisely why it is valuable for identification but not a substitute for independent sensing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
 
-There is also a security and data-quality issue. Academic work on ADS-B has repeatedly noted the absence of strong built-in authentication and the possibility of spoofed or manipulated messages. That does not make ADS-B useless for sky monitoring, but it means a serious UAP station should treat it as one evidence layer, not as ground truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span><span class="citation-popover-snippet">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span></span></span>
+There is also a security and data-quality issue. Academic work on ADS-B has repeatedly noted the absence of strong built-in authentication and the possibility of spoofed or manipulated messages. That does not make ADS-B useless for sky monitoring, but it means a serious UAP station should treat it as one evidence layer, not as ground truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span><span class="citation-popover-snippet">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span></span></span>
 
 ## Civilian Stations Need Modest Expectations
 
-The most practical civilian design is not a homemade high-power radar. It is a receive-only station that combines wide-field optical detection with radio receivers, precise timekeeping and careful data logging. A sensible radio layer might include ADS-B reception, passive spectrum recording and, for more advanced groups, passive radar experiments using existing broadcast signals. This keeps the station closer to lawful, low-interference operation while still adding important measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">radio spectrum and the law</span><span class="citation-popover-snippet">on using radio equipment10 Jul 2023 — Generally, the use of radio receivers is exempt from requiring a licence unless it is also capable...</span></span></span>
+The most practical civilian design is not a homemade high-power radar. It is a receive-only station that combines wide-field optical detection with radio receivers, precise timekeeping and careful data logging. A sensible radio layer might include ADS-B reception, passive spectrum recording and, for more advanced groups, passive radar experiments using existing broadcast signals. This keeps the station closer to lawful, low-interference operation while still adding important measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">radio spectrum and the law</span><span class="citation-popover-snippet">on using radio equipment10 Jul 2023 — Generally, the use of radio receivers is exempt from requiring a licence unless it is also capable...</span></span></span>
 
-Even receive-only systems have demanding requirements. They need accurate clocks, known antenna locations, stable calibration, stored raw or near-[raw data]({{ 'raw-data/' | relative_url }}), and transparent processing. NASA’s criticism of existing UAP evidence applies directly here: without calibration, sensor metadata and multiple measurements, later analysts may be unable to tell whether an event was unusual or merely poorly recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Even receive-only systems have demanding requirements. They need accurate clocks, known antenna locations, stable calibration, stored raw or near-[raw data]({{ 'raw-data/' | relative_url }}), and transparent processing. NASA’s criticism of existing UAP evidence applies directly here: without calibration, sensor metadata and multiple measurements, later analysts may be unable to tell whether an event was unusual or merely poorly recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 There are also mundane failure modes that matter more than exotic speculation. A passive radar station may see reflections from ordinary aircraft outside the camera’s field of view. A camera may trigger on insects, birds, satellites or clouds while the radio system detects nothing. A radio spectrum analyser may record local interference unrelated to the visual event. A station near a city may face strong multipath reflections from buildings, while a rural station may lack favourable broadcast-transmitter geometry.
 
@@ -517,9 +517,9 @@ That is why a useful UAP detector should preserve negative evidence as well as p
 <img src="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb-Illustration-2-dark.svg" | relative_url }}" alt="Radar illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Government Sensor Kits Point to the Same Direction
 
-AARO’s GREMLIN work shows that the institutional direction is also multi-sensor rather than camera-only. The US Department of Defense’s FY2024 consolidated UAP report says AARO began using GREMLIN, a prototype sensor system for detecting, tracking and characterising UAP, and that it successfully collected data during a March 2024 test event before a planned 90-day “pattern of life” collection at a national-security site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+AARO’s GREMLIN work shows that the institutional direction is also multi-sensor rather than camera-only. The US Department of Defense’s FY2024 consolidated UAP report says AARO began using GREMLIN, a prototype sensor system for detecting, tracking and characterising UAP, and that it successfully collected data during a March 2024 test event before a planned 90-day “pattern of life” collection at a national-security site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
-Public reporting on GREMLIN describes it as a sensor suite rather than a single detector, which is important. The goal is to understand what normally appears in a given volume of airspace, then identify events that differ from that baseline. That approach is directly relevant to civilian projects: a detector becomes more valuable after weeks or months of routine measurements, because it learns the ordinary sky before flagging the unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Open source on breakingdefense.com.</span></span></span>
+Public reporting on GREMLIN describes it as a sensor suite rather than a single detector, which is important. The goal is to understand what normally appears in a given volume of airspace, then identify events that differ from that baseline. That approach is directly relevant to civilian projects: a detector becomes more valuable after weeks or months of routine measurements, because it learns the ordinary sky before flagging the unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Open source on breakingdefense.com.</span></span></span>
 
 This does not mean civilian stations can replicate classified or government-grade systems. They usually cannot access military radar feeds, restricted airspace data or high-end sensor fusion infrastructure. But they can adopt the same logic: continuous operation, known sensor geometry, multiple modalities, event correlation and careful rejection of ordinary explanations before escalating a case.
 
@@ -529,11 +529,11 @@ This does not mean civilian stations can replicate classified or government-grad
 
 A useful radio-and-radar layer should be designed around questions, not gadgets. The aim is to make later analysis harder to fool.
 
-A basic station can start with **ADS-B reception** to identify many conventional aircraft. This is inexpensive, passive and immediately useful, because it gives time-stamped aircraft identity, altitude, position and ground speed for cooperative traffic. It should be logged locally, not merely checked after the fact on a public map, because public feeds may be delayed, filtered or incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
+A basic station can start with **ADS-B reception** to identify many conventional aircraft. This is inexpensive, passive and immediately useful, because it gives time-stamped aircraft identity, altitude, position and ground speed for cooperative traffic. It should be logged locally, not merely checked after the fact on a public map, because public feeds may be delayed, filtered or incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
 
 A stronger station can add **wideband radio-spectrum logging** around each optical trigger. This does not prove that a UAP emitted radio energy, but it can show whether the event coincided with local transmissions, interference or known control bands. For drones, aircraft and local electronic noise, this can be a useful exclusion tool.
 
-An advanced station or network can experiment with **passive multistatic radar**, especially where there are strong FM or digital broadcast transmitters and several receivers separated over useful baselines. The hard parts are synchronisation, reference-signal handling, clutter cancellation, range-Doppler processing and track association. The SkyWatch proposal is important because it treats those as a networked measurement problem rather than a single receiver trick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+An advanced station or network can experiment with **passive multistatic radar**, especially where there are strong FM or digital broadcast transmitters and several receivers separated over useful baselines. The hard parts are synchronisation, reference-signal handling, clutter cancellation, range-Doppler processing and track association. The SkyWatch proposal is important because it treats those as a networked measurement problem rather than a single receiver trick.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The station should also record **what the radio system failed to see**. A camera-only anomaly is weaker than a camera-plus-radio track, but it is still data. A radar-style return without matching optical evidence may point to geometry, weather, clutter or a target outside the camera field. The value comes from preserving enough context to decide later.
 
@@ -553,194 +553,194 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Radar Make UAP Tracks Clearer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Radar Make UAP Tracks Clearer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Explains radar fundamentals, range, tracking, motion measurement and system limitations directly relevant to automated UAP sensing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains radar fundamentals, range, tracking, motion measurement and system limitations directly relevant to automated UAP sensing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
-        </h4>
-        <p class="fr-book-author">By Mark A. Richards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
+</h4>
+<p class="fr-book-author">By Mark A. Richards</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
-        </h4>
-        <p class="fr-book-author">By Mr. Carl Laufer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
+</h4>
+<p class="fr-book-author">By Mr. Carl Laufer</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13299491-M.jpg" alt="Cover for Radar Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Merrill I. Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13299491-M.jpg" alt="Cover for Radar Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
+</h4>
+<p class="fr-book-author">By Merrill I. Skolnik</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Radar.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Radar.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Radar Signal Processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hobbyist%27s+to+the+RTL+SDR+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hobbyist&#x27;s to the RTL SDR books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Radar Signal Processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hobbyist%27s+to+the+RTL+SDR+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hobbyist&#x27;s to the RTL SDR books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="radar-can-radar-make-uap-tracks-clearer-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -756,7 +756,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -776,7 +776,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -808,7 +808,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -860,7 +860,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -905,7 +905,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -946,173 +946,173 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ofcom.org.uk  
    Title: radio spectrum and the law  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on using radio equipment10 Jul 2023 — Generally, the use of radio receivers is exempt from requiring a licence unless it is also capable...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on using radio equipment10 Jul 2023 — Generally, the use of radio receivers is exempt from requiring a licence unless it is also capable...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Radio equipment  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>equipmentOctober 6, 2023 — The use of radio equipment is regulated by national laws. We explain the [rules](&amp;#123;&amp;#123; &#x27;rules/&#x27; | relative_url &amp;#125;&amp;#125;) that apply and how Ofcom enforc...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>equipmentOctober 6, 2023 — The use of radio equipment is regulated by national laws. We explain the [rules](&amp;#123;&amp;#123; &#x27;rules/&#x27; | relative_url &amp;#125;&amp;#125;) that apply and how Ofcom enforc...</p></details>
    Published: October 6, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks  
-   Link: <a href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.09969</a>  
+   Link:<a href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.09969</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ofcom.org.uk  
    Title: licence exempt devices  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/licence-exempt-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/licence-exempt-devices</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/licence-exempt-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/licence-exempt-devices</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/spectrum/interface-requirements/ir2050.pdf?v=333720" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/spectrum/interface-requirements/ir2050.pdf?v=333720</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/spectrum/interface-requirements/ir2050.pdf?v=333720" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/spectrum/interface-requirements/ir2050.pdf?v=333720</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ofcom.org.uk  
    Title: 3.4 band radar co ordination procedure  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/mobile-wireless-and-broadband/2.3-3.4-ghz/3.4-band-radar-co-ordination-procedure.pdf?v=323236" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/mobile-wireless-and-broadband/2.3-3.4-ghz/3.4-band-radar-co-ordination-procedure.pdf?v=323236</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/mobile-wireless-and-broadband/2.3-3.4-ghz/3.4-band-radar-co-ordination-procedure.pdf?v=323236" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/mobile-wireless-and-broadband/2.3-3.4-ghz/3.4-band-radar-co-ordination-procedure.pdf?v=323236</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ofcom.org.uk  
    Title: short range devices  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: galileo.hsites.harvard.edu  
    Title: scientific investigation unidentified aerial phenomena uap using multimodal  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theiet.org  
    Title: IETFM radio based bistatic radar  
-   Link: <a href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</p></details>
+   Link:<a href="https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theiet.org/media/11278/fm-radio-based-bistatic-radar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2021 — by PE Howland · 2005 · Cited by 913 — Abstract: An experimental bistatic radar system is described that detects and track...</p></details>
    Published: June 22, 2021  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
+   Link:<a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Passive radar  
-   Link: <a href="https://en.wikipedia.org/wiki/Passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Passive_radar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Passive_radar</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions</a>  
+   Link:<a href="https://www.gov.uk/government/publications/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions/min-662-mf-amendment-1-ofcom-requirement-for-protecting-the-general-public-from-radio-emissions</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Color-online-The-SkyWatch-passive-multistatic-radar-network-consists-of-two-or-more_fig1_371163081" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Color-online-The-SkyWatch-passive-multistatic-radar-network-consists-of-two-or-more_fig1_371163081</a>  
+   Link:<a href="https://www.researchgate.net/figure/Color-online-The-SkyWatch-passive-multistatic-radar-network-consists-of-two-or-more_fig1_371163081" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Color-online-The-SkyWatch-passive-multistatic-radar-network-consists-of-two-or-more_fig1_371163081</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366121932_SkyWatch_A_Passive_Multistatic_Radar_Network_for_the_Measurement_of_Object_Position_and_Velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366121932_SkyWatch_A_Passive_Multistatic_Radar_Network_for_the_Measurement_of_Object_Position_and_Velocity</a>  
+   Link:<a href="https://www.researchgate.net/publication/366121932_SkyWatch_A_Passive_Multistatic_Radar_Network_for_the_Measurement_of_Object_Position_and_Velocity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366121932_SkyWatch_A_Passive_Multistatic_Radar_Network_for_the_Measurement_of_Object_Position_and_Velocity</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: l3harris.com  
-   Link: <a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
+   Link:<a href="https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/all-capabilities/ads-b-air-traffic-surveillance</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: superiorskies.org  
-   Link: <a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>  
+   Link:<a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aireon.com  
-   Link: <a href="https://aireon.com/" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/</a>  
+   Link:<a href="https://aireon.com/" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260524424_Analysis_of_detection_range_of_FM-based_passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260524424_Analysis_of_detection_range_of_FM-based_passive_radar</a>  
+   Link:<a href="https://www.researchgate.net/publication/260524424_Analysis_of_detection_range_of_FM-based_passive_radar" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260524424_Analysis_of_detection_range_of_FM-based_passive_radar</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CivilAviationSafetyAuthority/posts/can-atc-really-see-you-if-you-have-ads-b-well-it-depends-on-what-type-you-have-w/1134832368752089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CivilAviationSafetyAuthority/posts/can-atc-really-see-you-if-you-have-ads-b-well-it-depends-on-what-type-you-have-w/1134832368752089/</a>  
+   Link:<a href="https://www.facebook.com/CivilAviationSafetyAuthority/posts/can-atc-really-see-you-if-you-have-ads-b-well-it-depends-on-what-type-you-have-w/1134832368752089/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CivilAviationSafetyAuthority/posts/can-atc-really-see-you-if-you-have-ads-b-well-it-depends-on-what-type-you-have-w/1134832368752089/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/</a>  
+   Link:<a href="https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/videos/ufo-videos-shown-to-us-senate-show-no-evidence-of-alien-technology/497484193323072/</a>  

@@ -278,7 +278,7 @@ An event timestamp is only as trustworthy as the uncertainty that accompanies it
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction becomes especially important when correlating optical recordings with radar tracks, ADS-B broadcasts, satellite ephemerides, [weather]({{ 'weather/' | relative_url }}) observations or data from a second observing station. A timestamp that honestly reports its confidence interval is often more valuable than one that appears perfectly precise but conceals unknown delays, [clock drift]({{ 'clock-drift/' | relative_url }}) or software latency. This approach follows the broader principles of scientific metrology, where traceability and documented uncertainty are considered essential characteristics of reliable measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/sp432-02pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NIST Time and Frequency ServicesIf a measurement is made using a NIST reference, and if the uncertainty of the measurement is known a...</span></span></span>
+This distinction becomes especially important when correlating optical recordings with radar tracks, ADS-B broadcasts, satellite ephemerides, [weather]({{ 'weather/' | relative_url }}) observations or data from a second observing station. A timestamp that honestly reports its confidence interval is often more valuable than one that appears perfectly precise but conceals unknown delays, [clock drift]({{ 'clock-drift/' | relative_url }}) or software latency. This approach follows the broader principles of scientific metrology, where traceability and documented uncertainty are considered essential characteristics of reliable measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/sp432-02pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NIST Time and Frequency ServicesIf a measurement is made using a NIST reference, and if the uncertainty of the measurement is known a...</span></span></span>
 
 ## Why exact-looking times can be misleading
 
@@ -296,199 +296,199 @@ Several different concepts are easily confused:
 
 </div>
 
-A record reading `2026-04-18T21:14:32.417Z` therefore communicates only a nominal time. Without additional metadata, an analyst cannot determine whether the uncertainty is ±0.5 ms, ±16.7 ms (one frame at 60 fps), ±100 ms or several seconds. ISO 8601 standardises timestamp formatting, but it does not by itself communicate measurement uncertainty or [timing]({{ 'timing/' | relative_url }}) confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/iso-8601-date-and-time-format.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-title">iso 8601 date and time format</span><span class="citation-popover-snippet">ISO 8601 — Date and time formatMarch 11, 2020 — 21 Feb 2017 — It gives a way of presenting dates and times that is clearly defined and...</span><span class="citation-popover-meta">Published: March 11, 2020</span></span></span>
+A record reading `2026-04-18T21:14:32.417Z` therefore communicates only a nominal time. Without additional metadata, an analyst cannot determine whether the uncertainty is ±0.5 ms, ±16.7 ms (one frame at 60 fps), ±100 ms or several seconds. ISO 8601 standardises timestamp formatting, but it does not by itself communicate measurement uncertainty or [timing]({{ 'timing/' | relative_url }}) confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/iso-8601-date-and-time-format.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-title">iso 8601 date and time format</span><span class="citation-popover-snippet">ISO 8601 — Date and time formatMarch 11, 2020 — 21 Feb 2017 — It gives a way of presenting dates and times that is clearly defined and...</span><span class="citation-popover-meta">Published: March 11, 2020</span></span></span>
 
 For automated UAP observatories, hidden uncertainty can produce false correlations. Two sensors appearing to observe the same object may actually have recorded unrelated events if one system's clock was offset by hundreds of milliseconds. Conversely, a genuine multi-sensor observation could be rejected because analysts mistakenly assumed the timestamps were more accurate than they really were.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A Timestamp Without Uncertainty Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A Timestamp Without Uncertainty Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to error analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/714276-M.jpg" alt="Cover for An introduction to error analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
-        </h4>
-        <p class="fr-book-author">By Taylor, John R.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to error analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/714276-M.jpg" alt="Cover for An introduction to error analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
+</h4>
+<p class="fr-book-author">By Taylor, John R.</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Expériences, Physical measurements, Foutenleer, Error analysis (Mathematics), Physique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Expériences, Physical measurements, Foutenleer, Error analysis (Mathematics), Physique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
-        </h4>
-        <p class="fr-book-author">By Ernest O. Doebelin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
+</h4>
+<p class="fr-book-author">By Ernest O. Doebelin</p>
         
-        <p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK"><img src="{{ '/assets/images/marketplace-covers/41e9047d5f29486de1c6.jpg' | relative_url }}" alt="Listing image for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK"><img src="{{ '/assets/images/marketplace-covers/41e9047d5f29486de1c6.jpg' | relative_url }}" alt="Listing image for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="uncertainty-a-timestamp-without-uncertainty-is-not-enough-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -504,7 +504,7 @@ For automated UAP observatories, hidden uncertainty can produce false correlatio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -524,7 +524,7 @@ For automated UAP observatories, hidden uncertainty can produce false correlatio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -556,7 +556,7 @@ For automated UAP observatories, hidden uncertainty can produce false correlatio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -608,7 +608,7 @@ For automated UAP observatories, hidden uncertainty can produce false correlatio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -653,7 +653,7 @@ For automated UAP observatories, hidden uncertainty can produce false correlatio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,7 +705,7 @@ Conventional video cameras observe continuously but report events as discrete fr
 
 Frame rate also limits temporal resolution. At 30 frames per second, consecutive frames are approximately 33.3 milliseconds apart. Unless interpolation or hardware timestamping is available, an object's appearance may only be localised within part of that interval.
 
-Research on machine vision consistently shows that optical measurement uncertainty depends not only on geometry but also on camera architecture, optics and acquisition parameters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/20/18/5433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Influence of Camera and Optical System Parameters...by J Skibicki · 2020 · Cited by 21 — The article presents the influence of t...</span></span></span>
+Research on machine vision consistently shows that optical measurement uncertainty depends not only on geometry but also on camera architecture, optics and acquisition parameters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/20/18/5433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Influence of Camera and Optical System Parameters...by J Skibicki · 2020 · Cited by 21 — The article presents the influence of t...</span></span></span>
 
 ### Clock synchronisation uncertainty
 
@@ -724,7 +724,7 @@ Possible contributors include:
 
 </div>
 
-NIST guidance repeatedly emphasises that timestamp accuracy depends on the complete time-transfer system rather than the nominal specification of the timing protocol alone. Network conditions, clock stability and calibration all contribute to the final uncertainty budget. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NIST Internet Time Service (ITS)The accuracy of the time stamps as seen by a user will usually be determined largely by the stability...</span></span></span>
+NIST guidance repeatedly emphasises that timestamp accuracy depends on the complete time-transfer system rather than the nominal specification of the timing protocol alone. Network conditions, clock stability and calibration all contribute to the final uncertainty budget.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NIST Internet Time Service (ITS)The accuracy of the time stamps as seen by a user will usually be determined largely by the stability...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -749,7 +749,7 @@ Potential delays include:
 
 Some of these delays are nearly constant and can be calibrated. Others vary unpredictably from frame to frame, producing timing jitter that should be reflected in the reported uncertainty.
 
-Research on camera-IMU calibration demonstrates that timestamp offsets themselves can be estimated with uncertainty bounds rather than assumed to be exact, providing a useful model for multimodal scientific instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raphael-voges.de">[Raphael Voges]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raphael-voges.de</span><span class="citation-popover-snippet">Raphael VogesTimestamp Offset Calibration for an IMU-Camera System...July 18, 2018 — by R Voges · Cited by 29 — In order to find the off...</span><span class="citation-popover-meta">Published: July 18, 2018</span></span></span>
+Research on camera-IMU calibration demonstrates that timestamp offsets themselves can be estimated with uncertainty bounds rather than assumed to be exact, providing a useful model for multimodal scientific instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raphael-voges.de">[Raphael Voges]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raphael-voges.de</span><span class="citation-popover-snippet">Raphael VogesTimestamp Offset Calibration for an IMU-Camera System...July 18, 2018 — by R Voges · Cited by 29 — In order to find the off...</span><span class="citation-popover-meta">Published: July 18, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_timestamp_uncertaint_8fbb15-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -778,7 +778,7 @@ Such labels are not substitutes for numerical uncertainty where available, but t
 
 A common misconception is that uncertainty weakens evidence. In scientific measurement, the opposite is usually true.
 
-Measurements become more credible when their limitations are explicit because later analysts can incorporate those uncertainties into statistical reconstruction rather than unknowingly relying on false precision. Fields ranging from metrology to distributed sensing and medical event databases increasingly recommend preserving temporal uncertainty instead of replacing it with apparently exact timestamps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Timing errors and temporal uncertainty in clinical databases...by AJ Goodwin · 2022 · Cited by 23 — In this narrative review we explo...</span></span></span>
+Measurements become more credible when their limitations are explicit because later analysts can incorporate those uncertainties into statistical reconstruction rather than unknowingly relying on false precision. Fields ranging from metrology to distributed sensing and medical event databases increasingly recommend preserving temporal uncertainty instead of replacing it with apparently exact timestamps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Timing errors and temporal uncertainty in clinical databases...by AJ Goodwin · 2022 · Cited by 23 — In this narrative review we explo...</span></span></span>
 
 For automated UAP observatories, uncertainty-aware timestamps also improve [reproducibility]({{ 'reproducibility/' | relative_url }}). Independent researchers can evaluate whether two events plausibly overlap in time, whether sensor disagreements fall within expected error margins, or whether an apparent discrepancy is simply explained by documented timing uncertainty.
 
@@ -790,153 +790,153 @@ Rather than recording only a precise-looking clock value, robust event datasets 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/document/sp432-02pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sp432-02pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Time and Frequency ServicesIf a measurement is made using a NIST reference, and if the uncertainty of the measurement is known a...</p></details>
+   Link:<a href="https://www.nist.gov/document/sp432-02pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/sp432-02pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Time and Frequency ServicesIf a measurement is made using a NIST reference, and if the uncertainty of the measurement is known a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/programs-projects/time-measurement-and-analysis-service-tmas" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/time-measurement-and-analysis-service-tmas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a high accuracy time standard. TMAS customers include calibration and...</p></details>
+   Link:<a href="https://www.nist.gov/programs-projects/time-measurement-and-analysis-service-tmas" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/time-measurement-and-analysis-service-tmas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a high accuracy time standard. TMAS customers include calibration and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7339776/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7339776/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAccurate, Traceable, and Verifiable Time Synchronization for...by MA Lombardi · 2016 · Cited by 47 — The paper describes why accu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7339776/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7339776/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAccurate, Traceable, and Verifiable Time Synchronization for...by MA Lombardi · 2016 · Cited by 47 — The paper describes why accu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iso.org  
    Title: iso 8601 date and time format  
-   Link: <a href="https://www.iso.org/iso-8601-date-and-time-format.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/iso-8601-date-and-time-format.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 8601 — Date and time formatMarch 11, 2020 — 21 Feb 2017 — It gives a way of presenting dates and times that is clearly defined and...</p></details>
+   Link:<a href="https://www.iso.org/iso-8601-date-and-time-format.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/iso-8601-date-and-time-format.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 8601 — Date and time formatMarch 11, 2020 — 21 Feb 2017 — It gives a way of presenting dates and times that is clearly defined and...</p></details>
    Published: March 11, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/20/18/5433" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/20/18/5433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Camera and Optical System Parameters...by J Skibicki · 2020 · Cited by 21 — The article presents the influence of t...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/20/18/5433" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/20/18/5433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Camera and Optical System Parameters...by J Skibicki · 2020 · Cited by 21 — The article presents the influence of t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Internet Time Service (ITS)The accuracy of the time stamps as seen by a user will usually be determined largely by the stability...</p></details>
+   Link:<a href="https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Internet Time Service (ITS)The accuracy of the time stamps as seen by a user will usually be determined largely by the stability...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: raphael-voges.de  
-   Link: <a href="https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raphael VogesTimestamp Offset Calibration for an IMU-Camera System...July 18, 2018 — by R Voges · Cited by 29 — In order to find the off...</p></details>
+   Link:<a href="https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raphael-voges.de/publication/voges-2018-b/voges-2018-b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raphael VogesTimestamp Offset Calibration for an IMU-Camera System...July 18, 2018 — by R Voges · Cited by 29 — In order to find the off...</p></details>
    Published: July 18, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timing errors and temporal uncertainty in clinical databases...by AJ Goodwin · 2022 · Cited by 23 — In this narrative [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) we explo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9433547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timing errors and temporal uncertainty in clinical databases...by AJ Goodwin · 2022 · Cited by 23 — In this narrative [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) we explo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nist.gov  
    Title: time synchronization electronic distributed systems  
-   Link: <a href="https://www.nist.gov/publications/time-synchronization-electronic-distributed-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/time-synchronization-electronic-distributed-systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization for Electronic Distributed Systemsby JD Gale · 2004 · Cited by 1 — Synchronization of clocks in electronic distribut...</p></details>
+   Link:<a href="https://www.nist.gov/publications/time-synchronization-electronic-distributed-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/time-synchronization-electronic-distributed-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization for Electronic Distributed Systemsby JD Gale · 2004 · Cited by 1 — Synchronization of clocks in electronic distribut...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/2125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2125.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Technical Measurement Requirements for Time...by MA Lombardi · Cited by 23 — Any time provider may be used for synchro- nization, ho...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/2125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2125.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Technical Measurement Requirements for Time...by MA Lombardi · Cited by 23 — Any time provider may be used for synchro- nization, ho...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nist.gov  
    Title: improving uncertainty nist remote time and frequency calibration service  
-   Link: <a href="https://www.nist.gov/publications/improving-uncertainty-nist-remote-time-and-frequency-calibration-service" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/improving-uncertainty-nist-remote-time-and-frequency-calibration-service</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving the Uncertainty of NIST Remote Time...by A Novick · 2024 · Cited by 2 — The combined measurement uncertainties are 11.8 ns for...</p></details>
+   Link:<a href="https://www.nist.gov/publications/improving-uncertainty-nist-remote-time-and-frequency-calibration-service" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/improving-uncertainty-nist-remote-time-and-frequency-calibration-service</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving the Uncertainty of NIST Remote Time...by A Novick · 2024 · Cited by 2 — The combined measurement uncertainties are 11.8 ns for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tsapps.nist.gov  
    Title: get pdf.cfm  
-   Link: <a href="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915305" target="_blank" rel="noopener noreferrer nofollow">https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915305</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and Comparing ClocksThe MTIE statistic depends both on frequency accuracy and frequency stability, since a clock with a frequency of...</p></details>
+   Link:<a href="https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915305" target="_blank" rel="noopener noreferrer nofollow">https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=915305</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time and Comparing ClocksThe MTIE statistic depends both on frequency accuracy and frequency stability, since a clock with a frequency of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/publications/search_by_author/1159681" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/search_by_author/1159681</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ation (STL) receivers with respect to UTC(NIST).Read more...</p></details>
+   Link:<a href="https://www.nist.gov/publications/search_by_author/1159681" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/search_by_author/1159681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ation (STL) receivers with respect to UTC(NIST).Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/2941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2941.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S. stock market transactions was chosen to be NIST time, and the first synchronization requirement for financial markets...Read more...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/2941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2941.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S. stock market transactions was chosen to be NIST time, and the first synchronization requirement for financial markets...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/pml/time-and-frequency-division/time-services/nist-time-scale-data-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/pml/time-and-frequency-division/time-services/nist-time-scale-data-archive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Time Scale Data ArchiveThis is accomplished by using data published by the BIPM in its Circular T and by weekly estimates of UTC, wh...</p></details>
+   Link:<a href="https://www.nist.gov/pml/time-and-frequency-division/time-services/nist-time-scale-data-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/pml/time-and-frequency-division/time-services/nist-time-scale-data-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Time Scale Data ArchiveThis is accomplished by using data published by the BIPM in its Circular T and by weekly estimates of UTC, wh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gps.gov  
    Title: NIST.TN.2189  
-   Link: <a href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — Time transfer is the practice of transf...</p></details>
+   Link:<a href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — Time transfer is the practice of transf...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1996-1073/18/5/1163" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/18/5/1163</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization Techniques in the Modern Smart Gridby Y Liu · 2025 · Cited by 35 — In modern smart grids, accurate and synchronized...</p></details>
+   Link:<a href="https://www.mdpi.com/1996-1073/18/5/1163" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/18/5/1163</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization Techniques in the Modern Smart Gridby Y Liu · 2025 · Cited by 35 — In modern smart grids, accurate and synchronized...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: ISO 8601  
-   Link: <a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ISO_8601</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 8601ISO 8601 is an international standard covering the worldwide exchange and communication of date and time-related data. It is m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ISO_8601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 8601ISO 8601 is an international standard covering the worldwide exchange and communication of date and time-related data. It is m...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: endruntechnologies.com  
-   Link: <a href="https://endruntechnologies.com/pdf/TraceabilityTimeServers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://endruntechnologies.com/pdf/TraceabilityTimeServers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing Traceability to UTCThe uncertainty of application-level timestamps is based on a typical time transfer uncertainty (2 millis...</p></details>
+   Link:<a href="https://endruntechnologies.com/pdf/TraceabilityTimeServers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://endruntechnologies.com/pdf/TraceabilityTimeServers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Establishing Traceability to UTCThe uncertainty of application-level timestamps is based on a typical time transfer uncertainty (2 millis...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330586320_Timestamp_Offset_Calibration_for_an_IMU-Camera_System_Under_Interval_Uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330586320_Timestamp_Offset_Calibration_for_an_IMU-Camera_System_Under_Interval_Uncertainty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timestamp Offset Calibration for an IMU-Camera System...A timestamp-based method is utilized in [1], which estimates sensor-specific cyc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330586320_Timestamp_Offset_Calibration_for_an_IMU-Camera_System_Under_Interval_Uncertainty" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330586320_Timestamp_Offset_Calibration_for_an_IMU-Camera_System_Under_Interval_Uncertainty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timestamp Offset Calibration for an IMU-Camera System...A timestamp-based method is utilized in [1], which estimates sensor-specific cyc...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nasa.gov  
    Title: 42 applying schedule uncertainty in jcls  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/06/42-applying-schedule-uncertainty-in-jcls.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/42-applying-schedule-uncertainty-in-jcls.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Schedule Uncertainty in JCLs – Problems and...27 Apr 2022 — several unique challenges: • The application of uncertainty because...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/06/42-applying-schedule-uncertainty-in-jcls.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/06/42-applying-schedule-uncertainty-in-jcls.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Schedule Uncertainty in JCLs – Problems and...27 Apr 2022 — several unique challenges: • The application of uncertainty because...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Measurement-Uncertainties-of-NIST-Disciplined-Clocks-all-values-are-in-nanoseconds_tbl1_308945434" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Measurement-Uncertainties-of-NIST-Disciplined-Clocks-all-values-are-in-nanoseconds_tbl1_308945434</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ronisation (QTS) protocol families, quantifying the gap between theory and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Measurement-Uncertainties-of-NIST-Disciplined-Clocks-all-values-are-in-nanoseconds_tbl1_308945434" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Measurement-Uncertainties-of-NIST-Disciplined-Clocks-all-values-are-in-nanoseconds_tbl1_308945434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ronisation (QTS) protocol families, quantifying the gap between theory and...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fidgeo.de  
    Title: See below for an example of such a record. Page 13. NISO  
-   Link: <a href="https://www.fidgeo.de/fileadmin/user_upload/2016/07/2017_01-NISO-understanding-metadata.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fidgeo.de/fileadmin/user_upload/2016/07/2017_01-NISO-understanding-metadata.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNDERSTANDING METADATAby J Riley · Cited by 610 — As with relational databases, an XML document describing a defined thing is known as a...</p></details>
+   Link:<a href="https://www.fidgeo.de/fileadmin/user_upload/2016/07/2017_01-NISO-understanding-metadata.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fidgeo.de/fileadmin/user_upload/2016/07/2017_01-NISO-understanding-metadata.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNDERSTANDING METADATAby J Riley · Cited by 610 — As with relational databases, an XML document describing a defined thing is known as a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/221909507_Clock_Synchronization_of_Distributed_Real-Time_Industrial_Data_Acquisition_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221909507_Clock_Synchronization_of_Distributed_Real-Time_Industrial_Data_Acquisition_Systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>able to coordinate the operation or compare the data collected by the different...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/221909507_Clock_Synchronization_of_Distributed_Real-Time_Industrial_Data_Acquisition_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221909507_Clock_Synchronization_of_Distributed_Real-Time_Industrial_Data_Acquisition_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>able to coordinate the operation or compare the data collected by the different...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: milvus.io  
-   Link: <a href="https://milvus.io/ai-quick-reference/what-role-does-metadata-timestamp-camera-location-play-in-ingestion" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/what-role-does-metadata-timestamp-camera-location-play-in-ingestion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ta ingestion process by providing essential context and structure.Read more...</p></details>
+   Link:<a href="https://milvus.io/ai-quick-reference/what-role-does-metadata-timestamp-camera-location-play-in-ingestion" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/what-role-does-metadata-timestamp-camera-location-play-in-ingestion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ta ingestion process by providing essential context and structure.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/246951839_NIST_Time_and_Frequency_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/246951839_NIST_Time_and_Frequency_Services</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NIST Time and Frequency Servicesof the measurement is known and documented, the measurement is said to be traceable...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/246951839_NIST_Time_and_Frequency_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/246951839_NIST_Time_and_Frequency_Services</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NIST Time and Frequency Servicesof the measurement is known and documented, the measurement is said to be traceable...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Timestamp-Offset-Calibration-for-an-IMU-Camera-Voges-Wagner/6c87c61a19faa682b6616944cff2d3efe5195abb" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Timestamp-Offset-Calibration-for-an-IMU-Camera-Voges-Wagner/6c87c61a19faa682b6616944cff2d3efe5195abb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>certainty that are used as a common representation for a bounded-error...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Timestamp-Offset-Calibration-for-an-IMU-Camera-Voges-Wagner/6c87c61a19faa682b6616944cff2d3efe5195abb" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Timestamp-Offset-Calibration-for-an-IMU-Camera-Voges-Wagner/6c87c61a19faa682b6616944cff2d3efe5195abb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>certainty that are used as a common representation for a bounded-error...</p></details>

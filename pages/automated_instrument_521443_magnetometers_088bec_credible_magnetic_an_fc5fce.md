@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_magnetometers_088bec_credible_
 
 ## Introduction
 
-A magnetic spike is not automatically meaningful simply because it appears during an unusual observation. In an automated, instrumented UAP or UFO detector, a magnetic anomaly only becomes credible when it survives a series of evidence checks. The most important questions are whether the signal was genuinely local rather than part of a regional geomagnetic disturbance, whether it was precisely time-locked to an independently recorded event, whether the instrument itself was operating correctly, and whether enough metadata were preserved for independent [review]({{ 'review/' | relative_url }}). A magnetometer therefore contributes evidence only as one component of a calibrated, multi-sensor system rather than as a standalone detector. This approach mirrors both modern geomagnetic observatory practice and recent scientific UAP instrumentation proposals, which prioritise calibration, comparison and [reproducibility]({{ 'reproducibility/' | relative_url }}) over isolated "interesting" readings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
+A magnetic spike is not automatically meaningful simply because it appears during an unusual observation. In an automated, instrumented UAP or UFO detector, a magnetic anomaly only becomes credible when it survives a series of evidence checks. The most important questions are whether the signal was genuinely local rather than part of a regional geomagnetic disturbance, whether it was precisely time-locked to an independently recorded event, whether the instrument itself was operating correctly, and whether enough metadata were preserved for independent [review]({{ 'review/' | relative_url }}). A magnetometer therefore contributes evidence only as one component of a calibrated, multi-sensor system rather than as a standalone detector. This approach mirrors both modern geomagnetic observatory practice and recent scientific UAP instrumentation proposals, which prioritise calibration, comparison and [reproducibility]({{ 'reproducibility/' | relative_url }}) over isolated "interesting" readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-1-dark.svg" | relative_url }}" alt="Credible Spike illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ A magnetic spike is not automatically meaningful simply because it appears durin
 
 A useful working definition is that a credible magnetic anomaly is a magnetic-field variation that cannot be readily explained by known natural or human-made causes after comparison with independent measurements and instrument diagnostics.
 
-That definition is deliberately stricter than "the graph showed a spike". Modern geomagnetic observatories routinely encounter magnetic changes caused by solar activity, nearby electrical equipment, vehicles, power infrastructure, construction work, lightning and instrument artefacts. A detector intended to investigate unusual aerial phenomena should therefore begin by attempting to eliminate these ordinary explanations before considering the event unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
+That definition is deliberately stricter than "the graph showed a spike". Modern geomagnetic observatories routinely encounter magnetic changes caused by solar activity, nearby electrical equipment, vehicles, power infrastructure, construction work, lightning and instrument artefacts. A detector intended to investigate unusual aerial phenomena should therefore begin by attempting to eliminate these ordinary explanations before considering the event unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
 
 For detector networks, the threshold for interest is not necessarily the size of the magnetic change. A modest but well-documented disturbance that satisfies multiple verification tests is scientifically more valuable than a large isolated excursion with poor documentation.
 
@@ -308,7 +308,7 @@ Useful timing information includes:
 * Time [uncertainty]({{ 'uncertainty/' | relative_url }}) for every instrument involved.
 * Any gaps, dropped samples or software restarts.
 
-The Galileo Project's geomagnetic variometer programme was designed specifically so magnetic measurements could be analysed together with optical, infrared, acoustic and weather observations rather than interpreted in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
+The Galileo Project's geomagnetic variometer programme was designed specifically so magnetic measurements could be analysed together with optical, infrared, acoustic and weather observations rather than interpreted in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mkm32Ss3_I0" title="UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer">UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck</a></p><p class="youtube-embed-meta">Channel: UAP Summit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mkm32Ss3_I0">Open on YouTube</a></p></div></div></div>
@@ -317,7 +317,7 @@ The Galileo Project's geomagnetic variometer programme was designed specifically
 
 One of the quickest ways to judge credibility is to ask whether the disturbance was local or regional.
 
-A regional geomagnetic disturbance is expected during magnetic storms driven by solar activity. Such events appear simultaneously across many observatories over large geographical areas. Public observatory networks make these comparisons possible in near real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS+2Intermagnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Geomagnetism Program &#124; U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide cont...</span></span></span>
+A regional geomagnetic disturbance is expected during magnetic storms driven by solar activity. Such events appear simultaneously across many observatories over large geographical areas. Public observatory networks make these comparisons possible in near real time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS+2Intermagnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Geomagnetism Program &#124; U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide cont...</span></span></span>
 
 By contrast, a genuinely local disturbance should show a different pattern:
 
@@ -330,9 +330,9 @@ By contrast, a genuinely local disturbance should show a different pattern:
 
 </div>
 
-This comparison is exactly why the Galileo Project located its first variometer station near the long-established USGS Boulder magnetic observatory. The neighbouring observatory provides a high-quality reference against which local measurements can be compared, helping distinguish instrument problems from genuine local magnetic behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
+This comparison is exactly why the Galileo Project located its first variometer station near the long-established USGS Boulder magnetic observatory. The neighbouring observatory provides a high-quality reference against which local measurements can be compared, helping distinguish instrument problems from genuine local magnetic behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
 
-The same principle is standard practice within the international INTERMAGNET observatory network, where neighbouring stations and independent measurements are routinely compared as part of quality assurance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2EGUsphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</span></span></span>
+The same principle is standard practice within the international INTERMAGNET observatory network, where neighbouring stations and independent measurements are routinely compared as part of quality assurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2EGUsphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-2-dark.svg" | relative_url }}" alt="Credible Spike illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ The same principle is standard practice within the international INTERMAGNET obs
 
 Many apparent anomalies originate inside the measuring system rather than in the environment.
 
-Potential causes include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">space weather and magnetic storms invaders outer spacesort</span><span class="citation-popover-snippet">Space Weather and Magnetic Storms: Invaders from Outer...20 Jul 2022 — The unique role of the USGS includes monitoring space weather on...</span></span></span>
+Potential causes include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">space weather and magnetic storms invaders outer spacesort</span><span class="citation-popover-snippet">Space Weather and Magnetic Storms: Invaders from Outer...20 Jul 2022 — The unique role of the USGS includes monitoring space weather on...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
@@ -356,7 +356,7 @@ Potential causes include: <span class="citation-chip-wrap"><a class="citation-ch
 
 </div>
 
-Professional geomagnetic observatories address these possibilities through routine inspection, baseline estimation, instrument inter-comparison and systematic data cleaning before accepting measurements as definitive. Rather than treating every spike as a discovery, quality-control procedures assume that unusual points require investigation first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2EGUsphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</span></span></span>
+Professional geomagnetic observatories address these possibilities through routine inspection, baseline estimation, instrument inter-comparison and systematic data cleaning before accepting measurements as definitive. Rather than treating every spike as a discovery, quality-control procedures assume that unusual points require investigation first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2EGUsphere]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</span></span></span>
 
 This philosophy is especially important for automated UAP detector stations operating unattended for long periods, where occasional hardware faults are inevitable.
 
@@ -385,7 +385,7 @@ At minimum, an archived event should include:
 
 </div>
 
-Geomagnetic observatory practice places considerable emphasis on metadata because future investigators must be able to evaluate whether an apparent anomaly reflects the environment, changes in instrumentation or differences in processing methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Chapter 7 Magnetic Observatory Data and Metadata</span><span class="citation-popover-snippet">NERC Open Research ArchiveChapter 7 Magnetic Observatory Data and MetadataJanuary 27, 2011 — by S Reay · 2011 · Cited by 30 — This chapte...</span><span class="citation-popover-meta">Published: January 27, 2011</span></span></span>
+Geomagnetic observatory practice places considerable emphasis on metadata because future investigators must be able to evaluate whether an apparent anomaly reflects the environment, changes in instrumentation or differences in processing methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-title">NERC Open Research Archive Chapter 7 Magnetic Observatory Data and Metadata</span><span class="citation-popover-snippet">NERC Open Research ArchiveChapter 7 Magnetic Observatory Data and MetadataJanuary 27, 2011 — by S Reay · 2011 · Cited by 30 — This chapte...</span><span class="citation-popover-meta">Published: January 27, 2011</span></span></span>
 
 Without this supporting information, later reviewers cannot reliably distinguish a genuine environmental event from an undocumented change in the instrument.
 
@@ -406,201 +406,201 @@ A magnetic anomaly becomes significantly more persuasive only when several indep
 * [Raw data]({{ 'raw-data/' | relative_url }}) remain available for independent analysis.
 * The event can be reproduced through transparent review of the archived records.
 
-Even then, the result is not evidence of an exotic object by itself. It is evidence that an unusual local magnetic disturbance coincided with another independently observed event and merits further investigation. That distinction keeps the interpretation aligned with normal scientific practice while avoiding conclusions that exceed the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
+Even then, the result is not evidence of an exotic object by itself. It is evidence that an unusual local magnetic disturbance coincided with another independently observed event and merits further investigation. That distinction keeps the interpretation aligned with normal scientific practice while avoiding conclusions that exceed the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus The deployment of a geomagnetic variometer station as</span><span class="citation-popover-snippet">by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yEWyUWiOwoI" title="Strategic Insights from the Frontlines of UAP Detection | James Fowler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yEWyUWiOwoI" target="_blank" rel="noopener noreferrer">Strategic Insights from the Frontlines of UAP Detection | James Fowler</a></p><p class="youtube-embed-meta">Channel: UAP Summit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yEWyUWiOwoI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yEWyUWiOwoI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When is a magnetic spike worth attention?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When is a magnetic spike worth attention?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on systematic investigation and evaluating reports using evidence rather than anecdote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on systematic investigation and evaluating reports using evidence rather than anecdote.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
-        </h4>
-        <p class="fr-book-author">By Wallace H. Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
+</h4>
+<p class="fr-book-author">By Wallace H. Campbell</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8653516-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
-        </h4>
-        <p class="fr-book-author">By Masaru Kono</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8653516-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
+</h4>
+<p class="fr-book-author">By Masaru Kono</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Geomagnetism, Geophysics, SCIENCE, Physics, Magnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Geomagnetism, Geophysics, SCIENCE, Physics, Magnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Geomagnetism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Geomagnetism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Geomagnetism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Geomagnetism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="credible-spike-when-is-a-magnetic-spike-worth-attention-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -765,7 +765,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,112 +806,112 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gi.copernicus.org  
    Title: Gi Copernicus The deployment of a geomagnetic variometer station as  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</p></details>
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Vervelidou · 2025 — The goal of the GP magnetometry investigation is to identify magnetic anomalies that cannot be readily explain...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</p></details>
+   Link:<a href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5.2. Data Quality Control &amp; Processing TasksAn observatory is best advised to adopt a routine of data inspection, inter-compar...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetism Program | U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide cont...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetism Program | U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide cont...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: intermagnet.org  
-   Link: <a href="https://intermagnet.org/" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Real-time Magnetic Observatory NetworkThe INTERMAGNET programme exists to establish a global network of cooperating digital...</p></details>
+   Link:<a href="https://intermagnet.org/" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Real-time Magnetic Observatory NetworkThe INTERMAGNET programme exists to establish a global network of cooperating digital...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: egusphere.copernicus.org  
    Title: egusphere 2025 2396 manuscript version2  
-   Link: <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396-manuscript-version2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396-manuscript-version2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The INTERMAGNET framework for peer-review and...by J Reda — This article discusses key aspects of the collection, processing, a...</p></details>
+   Link:<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396-manuscript-version2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396-manuscript-version2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The INTERMAGNET framework for peer-review and...by J Reda — This article discusses key aspects of the collection, processing, a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usgs.gov  
    Title: [space weather](&#123;&#123; 'space-weather/' | relative_url &#125;&#125;) and magnetic storms invaders outer spacesort  
-   Link: <a href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Weather and Magnetic Storms: Invaders from Outer...20 Jul 2022 — The unique role of the USGS includes monitoring space weather on...</p></details>
+   Link:<a href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Weather and Magnetic Storms: Invaders from Outer...20 Jul 2022 — The unique role of the USGS includes monitoring space weather on...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism/publications?page=8" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/publications?page=8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyWe present 29 movie‐maps of low‐latitude horizontal‐intensity magnetic disturbance for the years 1999–2006: 28 recording...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism/publications?page=8" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/publications?page=8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyWe present 29 movie‐maps of low‐latitude horizontal‐intensity magnetic disturbance for the years 1999–2006: 28 recording...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usgs.gov  
    Title: summer starts a simmering geomagnetic storm  
-   Link: <a href="https://www.usgs.gov/news/featured-story/summer-starts-a-simmering-geomagnetic-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/summer-starts-a-simmering-geomagnetic-storm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summer Starts with a Simmering Geomagnetic StormA severe geomagnetic storm occurred from June 21-23, 2015; the storm arose in response to...</p></details>
+   Link:<a href="https://www.usgs.gov/news/featured-story/summer-starts-a-simmering-geomagnetic-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/summer-starts-a-simmering-geomagnetic-storm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summer Starts with a Simmering Geomagnetic StormA severe geomagnetic storm occurred from June 21-23, 2015; the storm arose in response to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Geomagnetic Storms that Reshaped SocietyWe thought it would be a good time to reflect on five geomagnetic storms that have reshaped Soc...</p></details>
+   Link:<a href="https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Geomagnetic Storms that Reshaped SocietyWe thought it would be a good time to reflect on five geomagnetic storms that have reshaped Soc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nora.nerc.ac.uk  
    Title: NERC Open Research Archive Chapter 7 Magnetic Observatory Data and Metadata  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveChapter 7 Magnetic Observatory Data and MetadataJanuary 27, 2011 — by S Reay · 2011 · Cited by 30 — This chapte...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/13033/1/Reay_etal-MagneticObservatoryDataAndMetadataTypesAndAvailability.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveChapter 7 Magnetic Observatory Data and MetadataJanuary 27, 2011 — by S Reay · 2011 · Cited by 30 — This chapte...</p></details>
    Published: January 27, 2011  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/phenomena/geomagnetic-storms" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/geomagnetic-storms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetic Storms | NOAA / NWS...A geomagnetic storm is a major disturbance of Earth&#x27;s magnetosphere that occurs when there is a very e...</p></details>
+   Link:<a href="https://www.spaceweather.gov/phenomena/geomagnetic-storms" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/phenomena/geomagnetic-storms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetic Storms | NOAA / NWS...A geomagnetic storm is a major disturbance of Earth&#x27;s magnetosphere that occurs when there is a very e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368029199_Advanced_Production_of_Quasi-Definitive_Magnetic_Observatory_Data_of_the_INTERMAGNET_Standard" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368029199_Advanced_Production_of_Quasi-Definitive_Magnetic_Observatory_Data_of_the_INTERMAGNET_Standard</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Advanced Production of Quasi-Definitive Magnetic...Advanced Production of Quasi-Definitive Magnetic Observatory Data of the INTERM...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368029199_Advanced_Production_of_Quasi-Definitive_Magnetic_Observatory_Data_of_the_INTERMAGNET_Standard" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368029199_Advanced_Production_of_Quasi-Definitive_Magnetic_Observatory_Data_of_the_INTERMAGNET_Standard</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Advanced Production of Quasi-Definitive Magnetic...Advanced Production of Quasi-Definitive Magnetic Observatory Data of the INTERM...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: isgi.unistra.fr  
-   Link: <a href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnetic Observatoryspace weather and large magnetic storms. A third purpose of the station will be to measure the secular variation. The...</p></details>
+   Link:<a href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magnetic Observatoryspace weather and large magnetic storms. A third purpose of the station will be to measure the secular variation. The...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mkm32Ss3_I0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Summit 2026 science data tracker Sky360: A Global UAP Tracking Network for Science | Richard Hopf UAP Summit...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mkm32Ss3_I0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Summit 2026 science data tracker Sky360: A Global UAP Tracking Network for Science | Richard Hopf UAP Summit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eos.org  
    Title: The Wobbly Anomaly and Other Magnetic Weirdness  
-   Link: <a href="https://eos.org/agu-news/the-wobbly-anomaly-and-other-magnetic-weirdness" target="_blank" rel="noopener noreferrer nofollow">https://eos.org/agu-news/the-wobbly-anomaly-and-other-magnetic-weirdness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Dec 2020 — We take a look at the big dent known as the South Atlantic Anomaly, the origin of so-called geomagnetic jerks, and o...</p></details>
+   Link:<a href="https://eos.org/agu-news/the-wobbly-anomaly-and-other-magnetic-weirdness" target="_blank" rel="noopener noreferrer nofollow">https://eos.org/agu-news/the-wobbly-anomaly-and-other-magnetic-weirdness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Dec 2020 — We take a look at the big dent known as the South Atlantic Anomaly, the origin of so-called geomagnetic jerks, and o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: phys.org  
    Title: 2020 07 reveals strange magnetic behaviour  
-   Link: <a href="https://phys.org/news/2020-07-reveals-strange-magnetic-behaviour-.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2020-07-reveals-strange-magnetic-behaviour-.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study reveals strange magnetic behaviour 8-11 million...20 Jul 2020 — It reveals that the anomaly in the magnetic field in the South Atl...</p></details>
+   Link:<a href="https://phys.org/news/2020-07-reveals-strange-magnetic-behaviour-.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2020-07-reveals-strange-magnetic-behaviour-.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study reveals strange magnetic behaviour 8-11 million...20 Jul 2020 — It reveals that the anomaly in the magnetic field in the South Atl...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12804219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12804219/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>database of geomagnetic observatory monthly means - PMCby W Brown · 2025 — There is a greater risk of false negatives in longer, quieter...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12804219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12804219/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>database of geomagnetic observatory monthly means - PMCby W Brown · 2025 — There is a greater risk of false negatives in longer, quieter...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237998649_The_USGS_Geomagnetism_Program_and_Its_Role_in_Space_Weather_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237998649_The_USGS_Geomagnetism_Program_and_Its_Role_in_Space_Weather_Monitoring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large storms represent a potential...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237998649_The_USGS_Geomagnetism_Program_and_Its_Role_in_Space_Weather_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237998649_The_USGS_Geomagnetism_Program_and_Its_Role_in_Space_Weather_Monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large storms represent a potential...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=az8KzgoE1Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=az8KzgoE1Tw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in surface area since 2014. And it&#x27;s still growing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=az8KzgoE1Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=az8KzgoE1Tw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in surface area since 2014. And it&#x27;s still growing...</p></details>

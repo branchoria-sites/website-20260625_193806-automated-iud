@@ -452,17 +452,17 @@ Multi-site triangulation is the step that can turn “something was seen in that
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-overview.webp" | relative_url }}" alt="Overview image for Triangulation" loading="eager" decoding="sync" fetchpriority="high">
-This is why serious UAP data discussions keep returning to the same ingredients: calibrated sensors, accurate time, known camera positions, sensor metadata and multiple measurements. NASA’s 2023 independent UAP study stated that current analysis is hampered by poor calibration, lack of multiple measurements, missing metadata and lack of [baseline data]({{ 'baseline-data/' | relative_url }}), and it described multiple well-calibrated sensors as paramount for future work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This is why serious UAP data discussions keep returning to the same ingredients: calibrated sensors, accurate time, known camera positions, sensor metadata and multiple measurements. NASA’s 2023 independent UAP study stated that current analysis is hampered by poor calibration, lack of multiple measurements, missing metadata and lack of [baseline data]({{ 'baseline-data/' | relative_url }}), and it described multiple well-calibrated sensors as paramount for future work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 ## Why one line of sight is not enough
 
 A single optical station usually cannot tell whether a light is a nearby insect, a drone a few hundred metres away, an aircraft tens of kilometres away, or a satellite hundreds of kilometres up. The image gives a direction from the camera through the sky, not a distance along that line. Without range, apparent speed can be wildly misleading: a small nearby object crossing a few degrees of sky can look faster than a distant aircraft, while a distant satellite can appear steady and slow even as it moves at orbital speed.
 
-This distance problem is central to UAP interpretation because many striking claims depend on inferred velocity, [acceleration]({{ 'acceleration/' | relative_url }}), size or manoeuvring. If the distance is guessed, the kinematics are guessed too. NASA’s report made this point in practical terms: present UAP observations are inconsistent and make it difficult to place physical constraints on events without a more rigorous, evidence-based framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This distance problem is central to UAP interpretation because many striking claims depend on inferred velocity, [acceleration]({{ 'acceleration/' | relative_url }}), size or manoeuvring. If the distance is guessed, the kinematics are guessed too. NASA’s report made this point in practical terms: present UAP observations are inconsistent and make it difficult to place physical constraints on events without a more rigorous, evidence-based framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 Triangulation attacks that weakness directly. If Station A sees an object at one bearing and elevation, and Station B sees the same object at the same moment from a known baseline away, the two sightlines should cross or nearly cross. The geometry then yields an estimated position. Repeating that process over several frames gives a path. Once distance is constrained, analysts can compare the object’s motion with aircraft, balloons, birds, [satellites]({{ 'satellites/' | relative_url }}), meteors, lens artefacts and [weather effects]({{ 'weather-effects/' | relative_url }}) rather than arguing from impression.
 
-This is not a UFO-specific trick. Meteor astronomy has used the same principle for years. The SETI Institute’s CAMS project explains that meteors filmed from more than one site can be triangulated to calculate direction and speed, allowing astronomers to calculate their orbit and trace the material back to a parent body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">Institute Cameras for Allsky Meteor Surveillance (CAMS</span><span class="citation-popover-snippet">Institute Cameras for Allsky Meteor Surveillance (CAMS</span></span></span> The Global Meteor Network similarly describes a server matching meteors observed from more than [one station]({{ 'one-station/' | relative_url }}) so it can triangulate meteor trails in 3D and calculate orbits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">Open source on globalmeteornetwork.org.</span></span></span>
+This is not a UFO-specific trick. Meteor astronomy has used the same principle for years. The SETI Institute’s CAMS project explains that meteors filmed from more than one site can be triangulated to calculate direction and speed, allowing astronomers to calculate their orbit and trace the material back to a parent body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">Institute Cameras for Allsky Meteor Surveillance (CAMS</span><span class="citation-popover-snippet">Institute Cameras for Allsky Meteor Surveillance (CAMS</span></span></span> The Global Meteor Network similarly describes a server matching meteors observed from more than [one station]({{ 'one-station/' | relative_url }}) so it can triangulate meteor trails in 3D and calculate orbits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">Open source on globalmeteornetwork.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-1-dark.svg" | relative_url }}" alt="Triangulation illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -479,9 +479,9 @@ The mechanism is straightforward in concept:
 5. **Sightlines are intersected.** The result is a best-fit position, with [uncertainty]({{ 'uncertainty/' | relative_url }}), rather than an unsupported distance estimate.
 6. **Positions over time become a track.** From that track, analysts can estimate speed, acceleration and altitude, again with uncertainty bounds.
 
-The Galileo Project’s published observatory concept makes triangulation part of a wider instrument strategy rather than a standalone proof machine. Its instrument package includes wide-field cameras in multiple bands for targeting and tracking aerial objects and deriving positions and kinematics using triangulation, alongside narrow-field instruments, passive multistatic radar-style receivers, radio spectrum analysers, microphones and environmental sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The Galileo Project’s published observatory concept makes triangulation part of a wider instrument strategy rather than a standalone proof machine. Its instrument package includes wide-field cameras in multiple bands for targeting and tracking aerial objects and deriving positions and kinematics using triangulation, alongside narrow-field instruments, passive multistatic radar-style receivers, radio spectrum analysers, microphones and environmental sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-That wider sensor context matters. Optical triangulation can estimate where a visible or infrared target appears to be, but radar-derived range, ADS-B aircraft data, acoustic records and weather data can all support or challenge the optical result. Galileo’s authors emphasise that multispectral and multi-modal measurements help recognise artefacts and make true detections more corroborated and verifiable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+That wider sensor context matters. Optical triangulation can estimate where a visible or infrared target appears to be, but radar-derived range, ADS-B aircraft data, acoustic records and weather data can all support or challenge the optical result. Galileo’s authors emphasise that multispectral and multi-modal measurements help recognise artefacts and make true detections more corroborated and verifiable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -492,15 +492,15 @@ Triangulation becomes stronger when the baseline is well chosen. If two stations
 
 The geometry also depends on the angle where the two sightlines meet. A healthy crossing angle gives a tighter position estimate. A shallow crossing angle produces large uncertainty, especially in range. This is why detector networks need station planning, not just many random cameras. A dense, uncalibrated network can still produce ambiguous data; a smaller network with known baselines, overlapping sky coverage and accurate timing can be more useful.
 
-Long-baseline sky surveillance research outside the UAP field shows what a disciplined version looks like. One stereovision study used two cameras 37 km apart, synchronised by a GPS-controlled external signal, with intrinsic camera parameters calibrated before setup and camera orientation continuously estimated using known stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span> That example is valuable because it shows the level of engineering needed before “two cameras” become a range-measuring instrument.
+Long-baseline sky surveillance research outside the UAP field shows what a disciplined version looks like. One stereovision study used two cameras 37 km apart, synchronised by a GPS-controlled external signal, with intrinsic camera parameters calibrated before setup and camera orientation continuously estimated using known stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span> That example is valuable because it shows the level of engineering needed before “two cameras” become a range-measuring instrument.
 
-Meteor networks show the same lesson at scale. A recent multi-station meteor monitoring system described GPS timing accurate to 1 microsecond, two stations about 55 km apart, automatic meteor detection and orbit calculation from multi-station observations. During a Geminid test, the system detected about 800 meteors, calculated orbits for 473, and identified 377 as belonging to the Geminid stream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing</span><span class="citation-popover-snippet">arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing</span></span></span> UAP detectors do not need to copy meteor systems exactly, but they face the same basic requirement: distance comes from geometry plus time, not from visual impression.
+Meteor networks show the same lesson at scale. A recent multi-station meteor monitoring system described GPS timing accurate to 1 microsecond, two stations about 55 km apart, automatic meteor detection and orbit calculation from multi-station observations. During a Geminid test, the system detected about 800 meteors, calculated orbits for 473, and identified 377 as belonging to the Geminid stream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing</span><span class="citation-popover-snippet">arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing</span></span></span> UAP detectors do not need to copy meteor systems exactly, but they face the same basic requirement: distance comes from geometry plus time, not from visual impression.
 
 ## What triangulation changes in UAP analysis
 
 The most important benefit is not that triangulation “proves” an anomaly. It usually does the opposite: it gives analysts enough distance and motion information to eliminate false mysteries. A light that seems to accelerate impossibly may become a nearby insect; a slow hovering object may become a distant aircraft; a dramatic streak may become a meteor; a stationary point may be a star, planet or sensor artefact.
 
-The Galileo Project’s infrared camera commissioning paper is a useful cautionary example. Its Dalek infrared array reconstructed roughly 500,000 aerial-object trajectories over five months, flagged about 16% as outliers in a deliberately simple 2D sinuosity search, and found 144 ambiguous trajectories after manual examination. The authors explicitly noted that those remaining cases were likely mundane but could not be further resolved at that stage without distance, kinematics or other sensor modalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+The Galileo Project’s infrared camera commissioning paper is a useful cautionary example. Its Dalek infrared array reconstructed roughly 500,000 aerial-object trajectories over five months, flagged about 16% as outliers in a deliberately simple 2D sinuosity search, and found 144 ambiguous trajectories after manual examination. The authors explicitly noted that those remaining cases were likely mundane but could not be further resolved at that stage without distance, kinematics or other sensor modalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 That finding captures the branch-specific value of triangulation. A single-station all-sky detector can be very good at finding things that look unusual in two-dimensional image motion. But “unusual in the image” is not the same as “unusual in the sky”. Multi-site ranging is what helps convert a screen-space outlier into a physical object path.
 
@@ -512,28 +512,28 @@ Triangulation also changes how evidence can be challenged. With a single video, 
 
 The hardest part of a triangulation network is not buying cameras. It is maintaining measurement discipline across many stations over long periods. Each node has to behave like a small observatory.
 
-**Time synchronisation is a recurring failure point.** A few seconds may be harmless for a slow cloud but disastrous for a fast aircraft, meteor or nearby drone. A UAP analysis issue published by the US Naval Postgraduate School notes that even a few seconds of timestamp error can confound later triangulation when multiple observers record the same event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
+**Time synchronisation is a recurring failure point.** A few seconds may be harmless for a slow cloud but disastrous for a fast aircraft, meteor or nearby drone. A UAP analysis issue published by the US Naval Postgraduate School notes that even a few seconds of timestamp error can confound later triangulation when multiple observers record the same event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.edu">[Naval Postgraduate School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.edu</span><span class="citation-popover-snippet">Open source on nps.edu.</span></span></span>
 
-**Calibration is not optional.** Wide-angle and all-sky cameras distort the image heavily. Infrared systems add their own complications because ordinary star-field calibration may not work. The Galileo Project’s infrared array had to use aircraft positions from synchronously collected ADS-B data for extrinsic calibration, because stars are not imaged in the same way in long-wave infrared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+**Calibration is not optional.** Wide-angle and all-sky cameras distort the image heavily. Infrared systems add their own complications because ordinary star-field calibration may not work. The Galileo Project’s infrared array had to use aircraft positions from synchronously collected ADS-B data for extrinsic calibration, because stars are not imaged in the same way in long-wave infrared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 **Station coverage is uneven.** A triangulation network only helps when two or more stations see the same event. Terrain, trees, buildings, cloud layers and local [weather]({{ 'weather/' | relative_url }}) can break overlap. Networks also need enough geographic density that a rare event is not captured by one station alone.
 
 **Object matching can be messy.** Busy skies contain aircraft, satellites, drones, birds, insects, meteors, searchlights and reflections. Automated systems must avoid false pairings between stations. That is especially difficult when cameras differ in field of view, sensitivity, frame rate or spectral band.
 
-**False detections do not disappear.** Meteor networks still work on filtering false detections; the Global Meteor Network openly notes that detection software is continuously improving to filter them out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">Open source on globalmeteornetwork.org.</span></span></span> UAP networks face a harder version of the same problem because their target category is broader and less physically constrained than meteors.
+**False detections do not disappear.** Meteor networks still work on filtering false detections; the Global Meteor Network openly notes that detection software is continuously improving to filter them out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalmeteornetwork.org">[Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalmeteornetwork.org</span><span class="citation-popover-snippet">Open source on globalmeteornetwork.org.</span></span></span> UAP networks face a harder version of the same problem because their target category is broader and less physically constrained than meteors.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Lessons from existing detector efforts
 
-Project Hessdalen is one of the older examples of an instrument-minded approach to recurring aerial lights. During its 1984 field investigation, observers were placed at three different sites and headquarters used multiple instruments, including radar, magnetograph, seismograph, Geiger counter and spectrum analyser. The project’s own historical account says the campaign produced 53 sightings and radar measurements of distance and speed for some phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+Project Hessdalen is one of the older examples of an instrument-minded approach to recurring aerial lights. During its 1984 field investigation, observers were placed at three different sites and headquarters used multiple instruments, including radar, magnetograph, seismograph, Geiger counter and spectrum analyser. The project’s own historical account says the campaign produced 53 sightings and radar measurements of distance and speed for some phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
 Hessdalen is not a clean modern triangulation template. Its records, equipment and claims come from a much earlier era, and many details would not satisfy current standards for open, calibrated, reproducible data. But it shows why multi-site observation became attractive: when a phenomenon is geographically recurring, fixed stations and coordinated baselines become possible in a way that opportunistic witness reports do not.
 
-The UAPx Catalina expedition shows a more recent field-survey approach, with visible and infrared cameras plus other sensors. Its authors reported approximately one hour of triggered visible or night-vision video, more than 600 hours of untriggered far-infrared video and 55 hours of radiation measurements, while also describing both successes and failures. Several initial ambiguities were later resolved, and the main remaining ambiguity was a dark spot in a visible/near-infrared camera possibly coincident with ionising radiation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> The relevant lesson for triangulation is that even multi-sensor expeditions can leave unresolved cases when geometry, calibration or corroboration are insufficient.
+The UAPx Catalina expedition shows a more recent field-survey approach, with visible and infrared cameras plus other sensors. Its authors reported approximately one hour of triggered visible or night-vision video, more than 600 hours of untriggered far-infrared video and 55 hours of radiation measurements, while also describing both successes and failures. Several initial ambiguities were later resolved, and the main remaining ambiguity was a dark spot in a visible/near-infrared camera possibly coincident with ionising radiation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> The relevant lesson for triangulation is that even multi-sensor expeditions can leave unresolved cases when geometry, calibration or corroboration are insufficient.
 
-Government-oriented systems are moving towards the same measurement logic. AARO’s GREMLIN sensor architecture has been reported as a network using 2D and 3D radar plus long-range electro-optical and infrared telescopes, with 2D radar measuring range and azimuth and 3D radar measuring range, azimuth and elevation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Open source on breakingdefense.com.</span></span></span> That is not public citizen triangulation, and much of the data may remain classified, but it reflects the same principle: range and geometry matter more than isolated imagery.
+Government-oriented systems are moving towards the same measurement logic. AARO’s GREMLIN sensor architecture has been reported as a network using 2D and 3D radar plus long-range electro-optical and infrared telescopes, with 2D radar measuring range and azimuth and 3D radar measuring range, azimuth and elevation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Open source on breakingdefense.com.</span></span></span> That is not public citizen triangulation, and much of the data may remain classified, but it reflects the same principle: range and geometry matter more than isolated imagery.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
@@ -559,7 +559,7 @@ A useful public record should include:
 
 </div>
 
-This is also where open networks such as Sky360 could become important if they can standardise hardware, timekeeping, calibration and data sharing across sites. Sky360 describes itself as an open-source global sky observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span> A secondary review of citizen-science UAP tracking describes Sky360-style stations as using optical and thermal imaging, AI classification, GPS and time synchronisation for triangulation, and open-source logging and sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">Open source on newspaceeconomy.ca.</span></span></span> The promise is not that every hobby station becomes definitive; it is that repeated, comparable, time-stamped observations can create enough overlap for real geometry.
+This is also where open networks such as Sky360 could become important if they can standardise hardware, timekeeping, calibration and data sharing across sites. Sky360 describes itself as an open-source global sky observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span> A secondary review of citizen-science UAP tracking describes Sky360-style stations as using optical and thermal imaging, AI classification, GPS and time synchronisation for triangulation, and open-source logging and sharing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-snippet">Open source on newspaceeconomy.ca.</span></span></span> The promise is not that every hobby station becomes definitive; it is that repeated, comparable, time-stamped observations can create enough overlap for real geometry.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-3-dark.svg" | relative_url }}" alt="Triangulation illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -572,194 +572,194 @@ Its value is more disciplined than that. Multi-site triangulation forces a sight
 For automated instrumented UAP detectors, the search for real distance is therefore one of the clearest dividing lines between surveillance and measurement. A lone station can detect, record and alert. A synchronised network can begin to locate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Multiple Stations Pin Down a Sky Object. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Multiple Stations Pin Down a Sky Object. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Scientific perspective on reliable observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Scientific perspective on reliable observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Steve B. Howell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
+</h4>
+<p class="fr-book-author">By Steve B. Howell</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Introduces positional astronomy and triangulation concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces positional astronomy and triangulation concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="triangulation-how-multiple-stations-pin-down-a-sky-object-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -775,7 +775,7 @@ For automated instrumented UAP detectors, the search for real distance is theref
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -795,7 +795,7 @@ For automated instrumented UAP detectors, the search for real distance is theref
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -827,7 +827,7 @@ For automated instrumented UAP detectors, the search for real distance is theref
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -879,7 +879,7 @@ For automated instrumented UAP detectors, the search for real distance is theref
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -924,7 +924,7 @@ For automated instrumented UAP detectors, the search for real distance is theref
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -965,238 +965,238 @@ For automated instrumented UAP detectors, the search for real distance is theref
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: seti.org  
    Title: Institute Cameras for Allsky Meteor Surveillance (CAMS)  
-   Link: <a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
+   Link:<a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky</a>  
+   Link:<a href="https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233828290_Long_Baseline_Stereovision_for_Automatic_Detection_and_Ranging_of_Moving_Objects_in_the_Night_Sky</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv A Multi-station Meteor Monitoring (M$^3$) System. I. Design and Testing  
-   Link: <a href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19503</a>  
+   Link:<a href="https://arxiv.org/abs/2409.19503" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.19503</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 392334596 Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
+   Link:<a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/350085421_Reconstruction_of_3D_flight_trajectories_from_ad-hoc_camera_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350085421_Reconstruction_of_3D_flight_trajectories_from_ad-hoc_camera_networks</a>  
+   Link:<a href="https://www.researchgate.net/publication/350085421_Reconstruction_of_3D_flight_trajectories_from_ad-hoc_camera_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350085421_Reconstruction_of_3D_flight_trajectories_from_ad-hoc_camera_networks</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861</a>  
+   Link:<a href="https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394519725_Optimizing_Multi-Camera_Mobile_Mapping_Systems_with_Pose_Graph_and_Feature-Based_Approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394519725_Optimizing_Multi-Camera_Mobile_Mapping_Systems_with_Pose_Graph_and_Feature-Based_Approaches</a>  
+   Link:<a href="https://www.researchgate.net/publication/394519725_Optimizing_Multi-Camera_Mobile_Mapping_Systems_with_Pose_Graph_and_Feature-Based_Approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394519725_Optimizing_Multi-Camera_Mobile_Mapping_Systems_with_Pose_Graph_and_Feature-Based_Approaches</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18555</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18555</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
+   Link:<a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cams.seti.org  
-   Link: <a href="https://cams.seti.org/" target="_blank" rel="noopener noreferrer nofollow">https://cams.seti.org/</a>  
+   Link:<a href="https://cams.seti.org/" target="_blank" rel="noopener noreferrer nofollow">https://cams.seti.org/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/23/3/1134" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/23/3/1134</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/23/3/1134" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/23/3/1134</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/15/9/2391" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/9/2391</a>  
+   Link:<a href="https://www.mdpi.com/2072-4292/15/9/2391" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/9/2391</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-4117/6/7/153" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4117/6/7/153</a>  
+   Link:<a href="https://www.mdpi.com/2673-4117/6/7/153" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4117/6/7/153</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
+   Link:<a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: repository.fit.edu  
-   Link: <a href="https://repository.fit.edu/cgi/viewcontent.cgi?article=1457&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://repository.fit.edu/cgi/viewcontent.cgi?article=1457&amp;context=etd</a>  
+   Link:<a href="https://repository.fit.edu/cgi/viewcontent.cgi?article=1457&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://repository.fit.edu/cgi/viewcontent.cgi?article=1457&amp;context=etd</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: globalmeteornetwork.org  
-   Link: <a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
+   Link:<a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
+   Link:<a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/25/the-role-of-citizen-science-and-open-source-intelligence-in-uap-tracking/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
    Title: sky360 uap tracking project developer meeting  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/13m4den/sky360_uap_tracking_project_developer_meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/13m4den/sky360_uap_tracking_project_developer_meeting/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/13m4den/sky360_uap_tracking_project_developer_meeting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/13m4den/sky360_uap_tracking_project_developer_meeting/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: emeteornews.net  
    Title: global meteor network report 2025  
-   Link: <a href="https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/</a>  
+   Link:<a href="https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2026/02/06/global-meteor-network-report-2025/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: newspaceeconomy.ca  
    Title: can modern sensors solve the uap mystery  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/31/can-modern-sensors-solve-the-uap-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/31/can-modern-sensors-solve-the-uap-mystery/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/07/31/can-modern-sensors-solve-the-uap-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/31/can-modern-sensors-solve-the-uap-mystery/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: newspaceeconomy.ca  
    Title: the galileo project a scientific search for extraterrestrial technology  
-   Link: <a href="https://newspaceeconomy.ca/2025/08/20/the-galileo-project-a-scientific-search-for-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/08/20/the-galileo-project-a-scientific-search-for-extraterrestrial-technology/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/08/20/the-galileo-project-a-scientific-search-for-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/08/20/the-galileo-project-a-scientific-search-for-extraterrestrial-technology/</a>  
 
 ### Additional References
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Debate: Have aliens already visited Earth?  
-   Link: <a href="https://www.youtube.com/watch?v=r5AiA1rlH3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r5AiA1rlH3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast - YouTube How Military Sensors Proved UFO Craft Were Physically...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r5AiA1rlH3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r5AiA1rlH3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast - YouTube How Military Sensors Proved UFO Craft Were Physically...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: How the Galileo Project is Changing the Game  
-   Link: <a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/r/radar%2Btracking%2Bsystem" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/r/radar%2Btracking%2Bsystem</a>  
+   Link:<a href="https://www.science.gov/topicpages/r/radar%2Btracking%2Bsystem" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/r/radar%2Btracking%2Bsystem</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/s/stereo%2Bvision%2Bsystem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/stereo%2Bvision%2Bsystem.html</a>  
+   Link:<a href="https://www.science.gov/topicpages/s/stereo%2Bvision%2Bsystem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/s/stereo%2Bvision%2Bsystem.html</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debate: Have aliens already visited Earth?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debate: Have aliens already visited Earth?...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
+   Link:<a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  

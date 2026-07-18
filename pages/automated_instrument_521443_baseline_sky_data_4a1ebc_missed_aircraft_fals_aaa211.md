@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_misse
 
 ## Introduction
 
-An automated instrumented UFO detector is only as good as its ability to recognise ordinary aircraft. A common misunderstanding is that if an aircraft does not appear in a comparison database such as ADS-B (Automatic Dependent Surveillance–Broadcast), it was probably not an aircraft. In reality, comparison data are powerful but incomplete. Aircraft may be absent because they are outside receiver coverage, not required to broadcast in that airspace, experiencing equipment or reception problems, or deliberately limiting the [visibility]({{ 'visibility/' | relative_url }}) of their transmissions in certain circumstances. If a detector mistakes "not matched" for "not an aircraft", ordinary flights can become false UAP candidates. NASA's independent UAP study stressed that robust metadata, calibrated instruments and richer [baseline data]({{ 'baseline-data/' | relative_url }}) are essential precisely because incomplete comparison information can produce misleading anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+An automated instrumented UFO detector is only as good as its ability to recognise ordinary aircraft. A common misunderstanding is that if an aircraft does not appear in a comparison database such as ADS-B (Automatic Dependent Surveillance–Broadcast), it was probably not an aircraft. In reality, comparison data are powerful but incomplete. Aircraft may be absent because they are outside receiver coverage, not required to broadcast in that airspace, experiencing equipment or reception problems, or deliberately limiting the [visibility]({{ 'visibility/' | relative_url }}) of their transmissions in certain circumstances. If a detector mistakes "not matched" for "not an aircraft", ordinary flights can become false UAP candidates. NASA's independent UAP study stressed that robust metadata, calibrated instruments and richer [baseline data]({{ 'baseline-data/' | relative_url }}) are essential precisely because incomplete comparison information can produce misleading anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-1-dark.svg" | relative_url }}" alt="Missed Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,11 +292,11 @@ Aircraft comparison systems depend on several independent links working correctl
 
 Some of the most common causes include:
 
-* **Incomplete ADS-B coverage.** Ground receivers have geographical [blind spots]({{ 'blind-spots/' | relative_url }}). Mountains, terrain masking, low-altitude flight and sparse receiver networks reduce reception quality. Oceanic and remote regions remain especially challenging without satellite-based surveillance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A method for estimating flight paths missing data</span><span class="citation-popover-snippet">ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</span><span class="citation-popover-meta">Published: November 8, 2018</span></span></span>
-* **Reception dropouts.** Even where coverage exists, communication losses occur in real flight operations. Studies analysing operational radar and ADS-B data have documented temporary losses lasting from brief interruptions to longer gaps, meaning a comparison system may temporarily lose an otherwise identifiable aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis of Radar and ADS-B Influences on Aircraft Detect...by W Semke · 2017 · Cited by 38 — We examined the occurrence and duratio...</span></span></span>
-* **Regulatory differences.** Not every aircraft is required to broadcast ADS-B in every type of airspace. Requirements vary between countries, flight rules and operating environments, meaning an absence from public tracking services does not automatically imply unusual activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationFrequently Asked Questions &#124; Federal Aviation Administration1 Aug 2025 — In order to comply with 14 CFR 91...</span></span></span>
-* **Military and government operations.** Some authorised operations may not appear consistently on public aggregation websites because of operational practices, receiver availability or restrictions on redistributed data. Public flight-tracking services are not identical to the surveillance picture available to air traffic authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">reasons we door dontsee military aircraft</span><span class="citation-popover-snippet">Reasons we do—or don&#x27;t—see military aircraft: r/ADSBFebruary 10, 2022 — It seems like American military planes are generally ADS-B...</span><span class="citation-popover-meta">Published: February 10, 2022</span></span></span>
-* **Aggregation limitations.** Popular flight-tracking websites combine data from thousands of volunteer receivers. Their displayed tracks are reconstructed products rather than a perfect census of every aircraft overhead, so local gaps should be expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A method for estimating flight paths missing data</span><span class="citation-popover-snippet">ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</span><span class="citation-popover-meta">Published: November 8, 2018</span></span></span>
+* **Incomplete ADS-B coverage.** Ground receivers have geographical [blind spots]({{ 'blind-spots/' | relative_url }}). Mountains, terrain masking, low-altitude flight and sparse receiver networks reduce reception quality. Oceanic and remote regions remain especially challenging without satellite-based surveillance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A method for estimating flight paths missing data</span><span class="citation-popover-snippet">ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</span><span class="citation-popover-meta">Published: November 8, 2018</span></span></span>
+* **Reception dropouts.** Even where coverage exists, communication losses occur in real flight operations. Studies analysing operational radar and ADS-B data have documented temporary losses lasting from brief interruptions to longer gaps, meaning a comparison system may temporarily lose an otherwise identifiable aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis of Radar and ADS-B Influences on Aircraft Detect...by W Semke · 2017 · Cited by 38 — We examined the occurrence and duratio...</span></span></span>
+* **Regulatory differences.** Not every aircraft is required to broadcast ADS-B in every type of airspace. Requirements vary between countries, flight rules and operating environments, meaning an absence from public tracking services does not automatically imply unusual activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Airservices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationFrequently Asked Questions &#124; Federal Aviation Administration1 Aug 2025 — In order to comply with 14 CFR 91...</span></span></span>
+* **Military and government operations.** Some authorised operations may not appear consistently on public aggregation websites because of operational practices, receiver availability or restrictions on redistributed data. Public flight-tracking services are not identical to the surveillance picture available to air traffic authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">reasons we door dontsee military aircraft</span><span class="citation-popover-snippet">Reasons we do—or don&#x27;t—see military aircraft: r/ADSBFebruary 10, 2022 — It seems like American military planes are generally ADS-B...</span><span class="citation-popover-meta">Published: February 10, 2022</span></span></span>
+* **Aggregation limitations.** Popular flight-tracking websites combine data from thousands of volunteer receivers. Their displayed tracks are reconstructed products rather than a perfect census of every aircraft overhead, so local gaps should be expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A method for estimating flight paths missing data</span><span class="citation-popover-snippet">ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</span><span class="citation-popover-meta">Published: November 8, 2018</span></span></span>
 
 The practical consequence is that "no ADS-B match" and "not an aircraft" are fundamentally different conclusions. The former is an observation about the comparison dataset, not about the object itself.
 
@@ -350,7 +350,7 @@ The remaining camera footage may show only a bright moving light whose apparent 
 
 Because human observers naturally seek explanations, missing contextual data can make an otherwise ordinary aircraft appear to accelerate, hover or manoeuvre unexpectedly. The mystery often originates in missing metadata rather than unusual flight behaviour.
 
-NASA's UAP study repeatedly emphasised that richer contextual measurements reduce false anomalies because they allow investigators to reconstruct the full observational environment instead of analysing isolated imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's UAP study repeatedly emphasised that richer contextual measurements reduce false anomalies because they allow investigators to reconstruct the full observational environment instead of analysing isolated imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-2-dark.svg" | relative_url }}" alt="Missed Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc_missed_aircraft_fals_aaa211-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,194 +408,194 @@ The baseline therefore evolves in two directions simultaneously: it becomes a be
 For automated instrumented UFO detection, missed aircraft are not merely unavoidable noise; they are one of the most informative classes of false UAP candidate. An unmatched aircraft demonstrates the gap between the real sky and the detector's comparison system. Treating those events as calibration opportunities rather than unexplained phenomena prevents ordinary aviation from inflating anomaly rates, improves future identification accuracy and produces a more trustworthy pattern-of-life archive.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ordinary Aircraft Slip Through the Net. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ordinary Aircraft Slip Through the Net. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong fit for the page’s warning that missing comparison data is not proof of anomaly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for the page’s warning that missing comparison data is not proof of anomaly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Explains uncertainty, measurement gaps, and how to reason from incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains uncertainty, measurement gaps, and how to reason from incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects aircraft-related UAP reports to the need for better corroborating data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects aircraft-related UAP reports to the need for better corroborating data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
+</h4>
+<p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        <p class="fr-book-desc">Gives readers practical aviation context for ordinary aircraft behaviour and appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers practical aviation context for ordinary aircraft behaviour and appearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver"><img src="{{ '/assets/images/marketplace-covers/82e58d339e7f0c9303f6.jpg' | relative_url }}" alt="Listing image for Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Diecast Metal Military Bomber Aircraft Model 4 Engines Red Star Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit"><img src="{{ '/assets/images/marketplace-covers/27432518884c3690bbc0.jpg' | relative_url }}" alt="Listing image for 1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:34 Scale Red Baron Fokker DR1 WWI German Fighter Triplane Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="{{ '/assets/images/marketplace-covers/4b5e9402b7e76e7c1cae.jpg' | relative_url }}" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display"><img src="{{ '/assets/images/marketplace-covers/1d0767ae2714c1b8a296.jpg' | relative_url }}" alt="Listing image for 1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 YF-23 Black Widow II Stealth Fighter Jet Model Aircraft USAF Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="missed-aircraft-when-ordinary-aircraft-slip-through-the-net-automated-instrumented-ufo-detectors-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,115 +801,115 @@ For automated instrumented UFO detection, missed aircraft are not merely unavoid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A method for estimating flight paths missing data  
-   Link: <a href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328831194_A_method_for_estimating_flight_paths_missing_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) A method for estimating flight paths missing dataNovember 8, 2018 — This paper proposes a method based on artificial ne...</p></details>
    Published: November 8, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/4/3/49</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) and ADS-B Influences on Aircraft Detect...by W Semke · 2017 · Cited by 38 — We examined the occurrence and duratio...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-4310/4/3/49" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/4/3/49</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) and ADS-B Influences on Aircraft Detect...by W Semke · 2017 · Cited by 38 — We examined the occurrence and duratio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/319908709_Analysis_of_Radar_and_ADS-B_Influences_on_Aircraft_Detect_and_Avoid_DAA_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319908709_Analysis_of_Radar_and_ADS-B_Influences_on_Aircraft_Detect_and_Avoid_DAA_Systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Radar and ADS-B Influences on Aircraft Detect...We examined the occurrence and duration of communication losses between rada...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/319908709_Analysis_of_Radar_and_ADS-B_Influences_on_Aircraft_Detect_and_Avoid_DAA_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319908709_Analysis_of_Radar_and_ADS-B_Influences_on_Aircraft_Detect_and_Avoid_DAA_Systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Radar and ADS-B Influences on Aircraft Detect...We examined the occurrence and duration of communication losses between rada...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: reasons we door dontsee military aircraft  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons we do—or don&#x27;t—see military aircraft: r/ADSBFebruary 10, 2022 — It seems like American military planes are generally ADS-B...</p></details>
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/sp0id2/reasons_we_door_dontsee_military_aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons we do—or don&#x27;t—see military aircraft: r/ADSBFebruary 10, 2022 — It seems like American military planes are generally ADS-B...</p></details>
    Published: February 10, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Unpopular opinion but see and avoid is not enough  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1u7r64m/unpopular_opinion_but_see_and_avoid_is_not_enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1u7r64m/unpopular_opinion_but_see_and_avoid_is_not_enough/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/flyingNone had ADSB-out. i am building a prototype and I was astonished comparing with FlightRadar24 about the amount of aircraft flyin...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/1u7r64m/unpopular_opinion_but_see_and_avoid_is_not_enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1u7r64m/unpopular_opinion_but_see_and_avoid_is_not_enough/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/flyingNone had ADSB-out. i am building a prototype and I was astonished comparing with FlightRadar24 about the amount of aircraft flyin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFrequently Asked Questions | Federal Aviation Administration1 Aug 2025 — In order to comply with 14 CFR 91...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/resources/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFrequently Asked Questions | Federal Aviation Administration1 Aug 2025 — In order to comply with 14 CFR 91...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: infrastructure.gov.au  
-   Link: <a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnonymousIn complex or busy environments in non-controlled airspace, ADS-B can be a potential cost-effective mechanism for improving serv...</p></details>
+   Link:<a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AnonymousIn complex or busy environments in non-controlled airspace, ADS-B can be a potential cost-effective mechanism for improving serv...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: A321 Workaround SRM Document  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/A321%20Workaround%20SRM%20Document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/A321%20Workaround%20SRM%20Document.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the “A321” ICAO type designator signifies the aircraft&#x27;s capability...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/A321%20Workaround%20SRM%20Document.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/A321%20Workaround%20SRM%20Document.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using the “A321” ICAO type designator signifies the aircraft&#x27;s capability...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B spoofing and mitigating measuresBroadcasting of ADS-B messages by aircraft transponder. Threat: Malware may be installed onto the a...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2025/2025%20ICAO%20APAC%20Radio%20Navigation%20Symposium%20%20Radio%20N/8-Risks%20Beyond%20GNSS/SP22-ADS-B-spoofing-and-mitigating-measures.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B spoofing and mitigating measuresBroadcasting of ADS-B messages by aircraft transponder. Threat: Malware may be installed onto the a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B (Automatic Dependent Surveillance-Broadcast)ADS-B Only [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) have the capability to provide a global coverage at any possible...</p></details>
+   Link:<a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B (Automatic Dependent Surveillance-Broadcast)ADS-B Only [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) have the capability to provide a global coverage at any possible...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/APAC/Documents/Meetings/2006/adsb_sitf5rpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/APAC/Documents/Meetings/2006/adsb_sitf5rpt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF ADS-B SEMINAR AND THE FIFTH MEETING...ADS-B monitoring. 8.9. Analysis on the raw ADS-B reports from aircraft monitored by two...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/APAC/Documents/Meetings/2006/adsb_sitf5rpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/APAC/Documents/Meetings/2006/adsb_sitf5rpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF ADS-B SEMINAR AND THE FIFTH MEETING...ADS-B monitoring. 8.9. Analysis on the raw ADS-B reports from aircraft monitored by two...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe NASA Study will examine unclassified data on UAP in an attempt to separate...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe NASA Study will examine unclassified data on UAP in an attempt to separate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assureuas.org  
    Title: GP S & ADS-B Risks for UAS (A44_A11L.UA S.86)  
-   Link: <a href="https://www.assureuas.org/projects/gps-ads-b-risks-for-uas/" target="_blank" rel="noopener noreferrer nofollow">https://www.assureuas.org/projects/gps-ads-b-risks-for-uas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS &amp; ADS-B Risks for UAS (A44_A11L.UAS.86) - AssureErroneous, spoofed, jammed, or drop outs of “ADSB-In” data may result in automated un...</p></details>
+   Link:<a href="https://www.assureuas.org/projects/gps-ads-b-risks-for-uas/" target="_blank" rel="noopener noreferrer nofollow">https://www.assureuas.org/projects/gps-ads-b-risks-for-uas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GPS &amp; ADS-B Risks for UAS (A44_A11L.UAS.86) - AssureErroneous, spoofed, jammed, or drop outs of “ADSB-In” data may result in automated un...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: acronaviation.com  
    Title: How ADS-B In Is Transforming U.S  
-   Link: <a href="https://acronaviation.com/newsroom/beyond-radar-how-ads-b-in-is-shaping-the-future-of-us-aviation-operations/" target="_blank" rel="noopener noreferrer nofollow">https://acronaviation.com/newsroom/beyond-radar-how-ads-b-in-is-shaping-the-future-of-us-aviation-operations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Operations23 Jul 2025 — Unlike traditional systems that rely solely on radar and ATC voice instructions, ADS-B In delivers real...</p></details>
+   Link:<a href="https://acronaviation.com/newsroom/beyond-radar-how-ads-b-in-is-shaping-the-future-of-us-aviation-operations/" target="_blank" rel="noopener noreferrer nofollow">https://acronaviation.com/newsroom/beyond-radar-how-ads-b-in-is-shaping-the-future-of-us-aviation-operations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Operations23 Jul 2025 — Unlike traditional systems that rely solely on radar and ATC voice instructions, ADS-B In delivers real...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox12oregon/posts/the-bill-would-require-all-aircraft-to-be-equipped-with-a-system-that-can-receiv/1357436346424275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox12oregon/posts/the-bill-would-require-all-aircraft-to-be-equipped-with-a-system-that-can-receiv/1357436346424275/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ave the siting limitations of radar. Its accuracy...</p></details>
+   Link:<a href="https://www.facebook.com/fox12oregon/posts/the-bill-would-require-all-aircraft-to-be-equipped-with-a-system-that-can-receiv/1357436346424275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox12oregon/posts/the-bill-would-require-all-aircraft-to-be-equipped-with-a-system-that-can-receiv/1357436346424275/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ave the siting limitations of radar. Its accuracy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vansairforce.net  
-   Link: <a href="https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/" target="_blank" rel="noopener noreferrer nofollow">https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he clear continuously, not just when triggered...</p></details>
+   Link:<a href="https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/" target="_blank" rel="noopener noreferrer nofollow">https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he clear continuously, not just when triggered...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aviation.stackexchange.com  
    Title: how can ads b be secure when it is based on self reporting  
-   Link: <a href="https://aviation.stackexchange.com/questions/13459/how-can-ads-b-be-secure-when-it-is-based-on-self-reporting" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/13459/how-can-ads-b-be-secure-when-it-is-based-on-self-reporting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the simplest definition, ADS-B is aircraft self-reporting GPS position to benefit everyone...</p></details>
+   Link:<a href="https://aviation.stackexchange.com/questions/13459/how-can-ads-b-be-secure-when-it-is-based-on-self-reporting" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/13459/how-can-ads-b-be-secure-when-it-is-based-on-self-reporting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the simplest definition, ADS-B is aircraft self-reporting GPS position to benefit everyone...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aviation.govt.nz  
-   Link: <a href="https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B IN allows an aircraft...Read more...</p></details>
+   Link:<a href="https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation.govt.nz/safety/safety-education-and-advice/education/vector-magazine/vector-online/limitations-of-adsb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B IN allows an aircraft...Read more...</p></details>

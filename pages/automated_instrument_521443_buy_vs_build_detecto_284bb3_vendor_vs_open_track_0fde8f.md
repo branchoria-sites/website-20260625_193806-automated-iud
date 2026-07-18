@@ -284,7 +284,7 @@ Choosing between commercial sky-tracking software and [open-source]({{ 'open-sou
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f-Illustration-1-dark.svg" | relative_url }}" alt="Software Trust illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Commercial software often reduces installation effort by hiding technical complexity behind polished interfaces and integrated workflows. Open-source projects take the opposite approach, exposing detection algorithms, configuration files and development history so that users can inspect, modify and reproduce the software's behaviour. For builders interested in scientific credibility rather than simply collecting interesting videos, understanding these trade-offs is as important as choosing cameras or sensors. NASA's independent UAP study likewise emphasised that future progress depends on robust, transparent data collection and reproducible analysis rather than isolated observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Commercial software often reduces installation effort by hiding technical complexity behind polished interfaces and integrated workflows. Open-source projects take the opposite approach, exposing detection algorithms, configuration files and development history so that users can inspect, modify and reproduce the software's behaviour. For builders interested in scientific credibility rather than simply collecting interesting videos, understanding these trade-offs is as important as choosing cameras or sensors. NASA's independent UAP study likewise emphasised that future progress depends on robust, transparent data collection and reproducible analysis rather than isolated observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## What vendor software hides and simplifies
 
@@ -316,7 +316,7 @@ This does not imply that proprietary software is scientifically unreliable. Rath
 
 Open-source projects expose much more than downloadable software. They typically publish source code, issue trackers, revision histories and technical discussions that reveal exactly how the detector works and why design decisions were made.
 
-Projects such as the open-source BOB Universal Object Tracker, the Sky360 ecosystem, the Raspberry Pi Meteor Station (RMS), and other community repositories demonstrate this development model. Developers can inspect motion detection routines, tracking algorithms, camera interfaces and logging behaviour, then propose improvements through publicly visible code reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[VICE+3Medium+3GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">BOB: The Universal Object Tracker &#124; by David Moore</span><span class="citation-popover-snippet">BOB: The Universal Object Tracker &#124; by David MooreMay 5, 2024 — open source software solution to detecting, tracking and recording...</span><span class="citation-popover-meta">Published: May 5, 2024</span></span></span>
+Projects such as the open-source BOB Universal Object Tracker, the Sky360 ecosystem, the Raspberry Pi Meteor Station (RMS), and other community repositories demonstrate this development model. Developers can inspect motion detection routines, tracking algorithms, camera interfaces and logging behaviour, then propose improvements through publicly visible code reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[VICE+3Medium+3GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">BOB: The Universal Object Tracker &#124; by David Moore</span><span class="citation-popover-snippet">BOB: The Universal Object Tracker &#124; by David MooreMay 5, 2024 — open source software solution to detecting, tracking and recording...</span><span class="citation-popover-meta">Published: May 5, 2024</span></span></span>
 
 For someone building an automated UAP station, that transparency offers several practical benefits:
 
@@ -331,7 +331,7 @@ For someone building an automated UAP station, that transparency offers several 
 
 </div>
 
-Equally important, open repositories expose limitations instead of hiding them. Many projects openly list unfinished features, known bugs and planned improvements. For example, early versions of community UFO detection software explicitly describe themselves as prototypes and invite contributions to improve hardware support and detection algorithms rather than implying complete reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/UFOID/UFO-Detector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">UFOID/UFO-DetectorThe UFO Detector is a software that allows the autonomous video recording of unidentifiable flying objects. This...</span></span></span>
+Equally important, open repositories expose limitations instead of hiding them. Many projects openly list unfinished features, known bugs and planned improvements. For example, early versions of community UFO detection software explicitly describe themselves as prototypes and invite contributions to improve hardware support and detection algorithms rather than implying complete reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/UFOID/UFO-Detector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">UFOID/UFO-DetectorThe UFO Detector is a software that allows the autonomous video recording of unidentifiable flying objects. This...</span></span></span>
 
 That visibility helps users judge maturity realistically. A station built on open software may require more technical skill, but users can usually determine whether an unexpected behaviour results from a documented limitation or an unexplained anomaly.
 
@@ -350,11 +350,11 @@ If software records only the final video clip, later reviewers cannot determine 
 * image calibration procedures;
 * tracking confidence scores;
 * rejected candidate objects;
-* software version used during detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/172438633343696/posts/1650359452218266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">yone used this and have any comments on what it&#x27;s like please?...</span></span></span>
+* software version used during detection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/172438633343696/posts/1650359452218266/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">yone used this and have any comments on what it&#x27;s like please?...</span></span></span>
 
 </div>
 
-Meteor observing networks provide useful comparisons because they face similar challenges of continuously monitoring large areas of sky while rejecting enormous numbers of false detections. Open software ecosystems such as RMS and the Global Meteor Network document their detection pipelines, calibration procedures and processing methods so participating stations can produce consistent results across many observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/CroatianMeteorNetwork/RMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[Springer+3GitHub+3Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">CroatianMeteorNetwork/RMS: RPi Meteor StationThe RMS software provides a complete, automated pipeline for meteor observation. It cu...</span></span></span>
+Meteor observing networks provide useful comparisons because they face similar challenges of continuously monitoring large areas of sky while rejecting enormous numbers of false detections. Open software ecosystems such as RMS and the Global Meteor Network document their detection pipelines, calibration procedures and processing methods so participating stations can produce consistent results across many observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/CroatianMeteorNetwork/RMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[Springer+3GitHub+3Global Meteor Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">CroatianMeteorNetwork/RMS: RPi Meteor StationThe RMS software provides a complete, automated pipeline for meteor observation. It cu...</span></span></span>
 
 Although meteor detection and UAP monitoring are different scientific problems, both illustrate how transparent software helps multiple stations compare observations using consistent processing rules.
 
@@ -396,201 +396,201 @@ With proprietary software, users delegate many implementation decisions to the v
 
 With open-source software, responsibility shifts toward the operator and community. Builders gain the ability to audit and customise the code but also assume responsibility for maintaining it, validating changes and avoiding accidental regressions.
 
-NASA's recommendations for future UAP investigation consistently favour better characterised datasets, reproducible analytical methods and transparent handling of observations rather than dependence on opaque processing. Those principles do not require every detector to use open-source software, but they do suggest that the more observable the software's behaviour, the easier it becomes for independent researchers to evaluate both ordinary detections and genuinely unusual events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's recommendations for future UAP investigation consistently favour better characterised datasets, reproducible analytical methods and transparent handling of observations rather than dependence on opaque processing. Those principles do not require every detector to use open-source software, but they do suggest that the more observable the software's behaviour, the easier it becomes for independent researchers to evaluate both ordinary detections and genuinely unusual events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oDAY0_wRjxA" title="Inside the AI Alien Hunting Project at Harvard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer">Inside the AI Alien Hunting Project at Harvard</a></p><p class="youtube-embed-meta">Channel: Bloomberg Originals &middot; Views: 542.8K &middot; Uploaded: June 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oDAY0_wRjxA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Sky Tracking Software Be Open?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Sky Tracking Software Be Open?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames the need for transparent evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames the need for transparent evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Reinforces reproducible investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces reproducible investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Programming Computer Vision With Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863256-M.jpg" alt="Cover for Programming Computer Vision With Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
-        </h4>
-        <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Programming Computer Vision With Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863256-M.jpg" alt="Cover for Programming Computer Vision With Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
+</h4>
+<p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Computer algorithms, Computer vision, Python (Computer program language), Python (computer program langua...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Computer algorithms, Computer vision, Python (Computer program language), Python (computer program langua...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Programming Computer Vision With Python</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Programming Computer Vision With Python</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353"><img src="{{ '/assets/images/marketplace-covers/a2b73d9a0a1a2a82955a.jpg' | relative_url }}" alt="Listing image for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353"><img src="{{ '/assets/images/marketplace-covers/a2b73d9a0a1a2a82955a.jpg' | relative_url }}" alt="Listing image for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="software-trust-should-sky-tracking-software-be-open-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ NASA's recommendations for future UAP investigation consistently favour better c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ NASA's recommendations for future UAP investigation consistently favour better c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ NASA's recommendations for future UAP investigation consistently favour better c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ NASA's recommendations for future UAP investigation consistently favour better c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ NASA's recommendations for future UAP investigation consistently favour better c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,120 +796,120 @@ NASA's recommendations for future UAP investigation consistently favour better c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendations...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
    Title: BOB: The Universal Object Tracker | by David Moore  
-   Link: <a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOB: The Universal Object Tracker | by David MooreMay 5, 2024 — open source software solution to detecting, tracking and recording...</p></details>
+   Link:<a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOB: The Universal Object Tracker | by David MooreMay 5, 2024 — open source software solution to detecting, tracking and recording...</p></details>
    Published: May 5, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: github.com  
-   Link: <a href="https://github.com/CroatianMeteorNetwork/RMS" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CroatianMeteorNetwork/RMS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CroatianMeteorNetwork/RMS: RPi Meteor StationThe RMS software provides a complete, automated pipeline for meteor observation. It cu...</p></details>
+   Link:<a href="https://github.com/CroatianMeteorNetwork/RMS" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CroatianMeteorNetwork/RMS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CroatianMeteorNetwork/RMS: RPi Meteor StationThe RMS software provides a complete, automated pipeline for meteor observation. It cu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: github.com  
-   Link: <a href="https://github.com/UFOID/UFO-Detector" target="_blank" rel="noopener noreferrer nofollow">https://github.com/UFOID/UFO-Detector</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOID/UFO-DetectorThe UFO Detector is a software that allows the autonomous video recording of unidentifiable flying objects. This...</p></details>
+   Link:<a href="https://github.com/UFOID/UFO-Detector" target="_blank" rel="noopener noreferrer nofollow">https://github.com/UFOID/UFO-Detector</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOID/UFO-DetectorThe UFO Detector is a software that allows the autonomous video recording of unidentifiable flying objects. This...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vice.com  
    Title: ufo hunters built an open source ai system to scan the skies  
-   Link: <a href="https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Built an Open-Source AI System To Scan The...9 May 2023 — An open source citizen science project called Sky360, which aims t...</p></details>
+   Link:<a href="https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Built an Open-Source AI System To Scan The...9 May 2023 — An open source citizen science project called Sky360, which aims t...</p></details>
    Published: May 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11038-017-9511-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11038-017-9511-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating at small automatic observatories (stations)...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11038-017-9511-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11038-017-9511-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operating at small automatic observatories (stations)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: globalmeteornetwork.org  
-   Link: <a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Global Meteor Network wiki page!10 Mar 2026 — The goal is to observe the night sky using low-light video cameras and produce meteor t...</p></details>
+   Link:<a href="https://globalmeteornetwork.org/wiki/" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wiki/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Global Meteor Network wiki page!10 Mar 2026 — The goal is to observe the night sky using low-light video cameras and produce meteor t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: globalmeteornetwork.org  
-   Link: <a href="https://globalmeteornetwork.org/wordpress/wp-content/uploads/2018/11/Vida_IMC2016_proceedings_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wordpress/wp-content/uploads/2018/11/Vida_IMC2016_proceedings_final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-source meteor detection software for low-cost single-...by D Vida · Cited by 22 — In this paper new and improved algorithms are pre...</p></details>
+   Link:<a href="https://globalmeteornetwork.org/wordpress/wp-content/uploads/2018/11/Vida_IMC2016_proceedings_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.org/wordpress/wp-content/uploads/2018/11/Vida_IMC2016_proceedings_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open-source meteor detection software for low-cost single-...by D Vida · Cited by 22 — In this paper new and improved algorithms are pre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalmeteornetwork.groups.io  
    Title: io Allsky Project on github  
-   Link: <a href="https://globalmeteornetwork.groups.io/g/main/topic/allsky_project_on_github/34864046" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.groups.io/g/main/topic/allsky_project_on_github/34864046</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project on github - possible to bring two...Imagine joining these two networks with all their cameras - what an improvement for meteor d...</p></details>
+   Link:<a href="https://globalmeteornetwork.groups.io/g/main/topic/allsky_project_on_github/34864046" target="_blank" rel="noopener noreferrer nofollow">https://globalmeteornetwork.groups.io/g/main/topic/allsky_project_on_github/34864046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project on github - possible to bring two...Imagine joining these two networks with all their cameras - what an improvement for meteor d...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: [ufodap](&#123;&#123; 'ufodap/' | relative_url &#125;&#125;). myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopEnables simultaneous tracking and recording of data from multiple cameras and other instruments. See the PTDAU section for mor...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopEnables simultaneous tracking and recording of data from multiple cameras and other instruments. See the PTDAU section for mor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: seemoo.tu-darmstadt.de  
-   Link: <a href="https://www.seemoo.tu-darmstadt.de/tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.seemoo.tu-darmstadt.de/tools/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.deTools, Software, and Datasetsopen-source software projects and datasets. The app scans your surroundings in the background...</p></details>
+   Link:<a href="https://www.seemoo.tu-darmstadt.de/tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.seemoo.tu-darmstadt.de/tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.deTools, Software, and Datasetsopen-source software projects and datasets. The app scans your surroundings in the background...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wevolver.com  
-   Link: <a href="https://www.wevolver.com/article/how-cams-the-cameras-for-allsky-meteor-surveillance-project-detects-long-period-comets-through-machine-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.wevolver.com/article/how-cams-the-cameras-for-allsky-meteor-surveillance-project-detects-long-period-comets-through-machine-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How CAMS, the Cameras for Allsky Meteor Surveillance...31 Mar 2022 — The CAMS project uses affordable low-light camera arrays to monitor...</p></details>
+   Link:<a href="https://www.wevolver.com/article/how-cams-the-cameras-for-allsky-meteor-surveillance-project-detects-long-period-comets-through-machine-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.wevolver.com/article/how-cams-the-cameras-for-allsky-meteor-surveillance-project-detects-long-period-comets-through-machine-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How CAMS, the Cameras for Allsky Meteor Surveillance...31 Mar 2022 — The CAMS project uses affordable low-light camera arrays to monitor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I am relaunching the UFO Detector project with a new deviceThe new product is a compact, portable device that can be installed anywhere t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I am relaunching the UFO Detector project with a new deviceThe new product is a compact, portable device that can be installed anywhere t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1650359452218266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1650359452218266/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>yone used this and have any comments on what it&#x27;s like please?...</p></details>
+   Link:<a href="https://www.facebook.com/groups/172438633343696/posts/1650359452218266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1650359452218266/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>yone used this and have any comments on what it&#x27;s like please?...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pulsar-photonics.de  
    Title: open source monitoring tool sentry  
-   Link: <a href="https://www.pulsar-photonics.de/blog/open-source-monitoring-tool-sentry/" target="_blank" rel="noopener noreferrer nofollow">https://www.pulsar-photonics.de/blog/open-source-monitoring-tool-sentry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Source-Monitoring-Tool &quot;Sentry&quot;25 Jul 2025 — Mit Sentry können wir: Fehler frühzeitig erkennen, bevor sie zu einem Ausfall führen; P...</p></details>
+   Link:<a href="https://www.pulsar-photonics.de/blog/open-source-monitoring-tool-sentry/" target="_blank" rel="noopener noreferrer nofollow">https://www.pulsar-photonics.de/blog/open-source-monitoring-tool-sentry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Source-Monitoring-Tool &quot;Sentry&quot;25 Jul 2025 — Mit Sentry können wir: Fehler frühzeitig erkennen, bevor sie zu einem Ausfall führen; P...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anomalous phenomena (UAPs) – that is, observations of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anomalous phenomena (UAPs) – that is, observations of...</p></details>

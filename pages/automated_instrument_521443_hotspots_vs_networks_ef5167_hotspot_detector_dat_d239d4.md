@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_ho
 
 ## Introduction
 
-Famous UFO [hotspots]({{ 'hotspots/' | relative_url }}) do not automatically produce *better* detector data, but they often produce *more opportunities* to collect it. That distinction is important. A location with repeated reports can justify leaving calibrated instruments in place for months or years, increasing the chance of recording unusual events under controlled conditions. However, a site's reputation can also introduce powerful biases: more people watch the sky, more ambiguous events are reported, and researchers may devote disproportionate attention to one location. The strongest scientific approach is therefore not to treat hotspots as proof of an unusual phenomenon, but as high-priority field laboratories whose findings must be tested against observations from ordinary locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Famous UFO [hotspots]({{ 'hotspots/' | relative_url }}) do not automatically produce *better* detector data, but they often produce *more opportunities* to collect it. That distinction is important. A location with repeated reports can justify leaving calibrated instruments in place for months or years, increasing the chance of recording unusual events under controlled conditions. However, a site's reputation can also introduce powerful biases: more people watch the sky, more ambiguous events are reported, and researchers may devote disproportionate attention to one location. The strongest scientific approach is therefore not to treat hotspots as proof of an unusual phenomenon, but as high-priority field laboratories whose findings must be tested against observations from ordinary locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-1-dark.svg" | relative_url }}" alt="Hotspot Value illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Famous UFO [hotspots]({{ 'hotspots/' | relative_url }}) do not automatically pro
 
 The chief advantage of a hotspot is statistical rather than extraordinary. If unusual aerial reports genuinely recur in one area, a permanently instrumented station has a better chance of recording multiple examples than a detector placed at a random location with no history of reports.
 
-The best-known example is Hessdalen in Norway. Reports of unusual lights became frequent during the early 1980s, leading researchers to establish repeated field campaigns and, in 1998, an Automatic Measurement Station. Because observations continued over many years, investigators could compare detections across seasons, [weather]({{ 'weather/' | relative_url }}) conditions, viewing directions and time of night instead of relying on isolated eyewitness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org+2Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Database Analysis</span><span class="citation-popover-snippet">Hessdalen Database AnalysisNovember 26, 2017 — 26 Nov 2017 — An automatic measurement station was put up in Hessdalen in August 1998. In...</span><span class="citation-popover-meta">Published: November 26, 2017</span></span></span>
+The best-known example is Hessdalen in Norway. Reports of unusual lights became frequent during the early 1980s, leading researchers to establish repeated field campaigns and, in 1998, an Automatic Measurement Station. Because observations continued over many years, investigators could compare detections across seasons, [weather]({{ 'weather/' | relative_url }}) conditions, viewing directions and time of night instead of relying on isolated eyewitness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org+2Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Database Analysis</span><span class="citation-popover-snippet">Hessdalen Database AnalysisNovember 26, 2017 — 26 Nov 2017 — An automatic measurement station was put up in Hessdalen in August 1998. In...</span><span class="citation-popover-meta">Published: November 26, 2017</span></span></span>
 
-Repeated observations also make it possible to improve instrumentation. When researchers know that events are most likely during particular hours or environmental conditions, they can synchronise optical cameras, [magnetometers]({{ 'magnetometers/' | relative_url }}), radio receivers and other sensors to maximise useful recordings. Even if the underlying cause remains uncertain, repeated measurements provide a richer dataset than scattered reports collected from unrelated places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">The apparent correlation of...</span></span></span>
+Repeated observations also make it possible to improve instrumentation. When researchers know that events are most likely during particular hours or environmental conditions, they can synchronise optical cameras, [magnetometers]({{ 'magnetometers/' | relative_url }}), radio receivers and other sensors to maximise useful recordings. Even if the underlying cause remains uncertain, repeated measurements provide a richer dataset than scattered reports collected from unrelated places.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">The apparent correlation of...</span></span></span>
 
-This is the same logic used in many branches of field science. Long-term monitoring sites are chosen because repeated sampling allows researchers to distinguish persistent patterns from random variation. The location itself is valuable because it supports repeated measurement, not because it proves an exceptional phenomenon exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Site selection algorithms for optimal ecological monitoring...by KE Norman · 2025 · Cited by 3 — Many algorithms support additional f...</span></span></span>
+This is the same logic used in many branches of field science. Long-term monitoring sites are chosen because repeated sampling allows researchers to distinguish persistent patterns from random variation. The location itself is valuable because it supports repeated measurement, not because it proves an exceptional phenomenon exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Site selection algorithms for optimal ecological monitoring...by KE Norman · 2025 · Cited by 3 — Many algorithms support additional f...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KaFWf5wYkaM" title="Mysterious Hessdalen Lights Baffle Scientists | The Proof Is Out There | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KaFWf5wYkaM" target="_blank" rel="noopener noreferrer">Mysterious Hessdalen Lights Baffle Scientists | The Proof Is Out There | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone &middot; Views: 6.6K &middot; Uploaded: March 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KaFWf5wYkaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KaFWf5wYkaM">Open on YouTube</a></p></div></div></div>
@@ -308,7 +308,7 @@ Once a location becomes known for unusual sightings, several forms of bias becom
 * Ordinary aircraft, [satellites]({{ 'satellites/' | relative_url }}), astronomical objects or atmospheric effects receive greater scrutiny than they would elsewhere.
 * Researchers may unconsciously devote more effort to analysing ambiguous detections from famous sites than similar observations from ordinary skies.
 
-These effects are well understood in other monitoring disciplines. Ecological and citizen-science research consistently finds that observer behaviour and preferential site selection can distort estimates if sampling effort is concentrated in famous or convenient locations rather than being systematically distributed. The problem is not dishonesty but unequal observation effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers A Framework of Observer-Based Biases in Citizen Science</span><span class="citation-popover-snippet">FrontiersA Framework of Observer-Based Biases in Citizen Science...July 19, 2021 — by O Arazy · 2021 · Cited by 65 — The goal of this st...</span><span class="citation-popover-meta">Published: July 19, 2021</span></span></span>
+These effects are well understood in other monitoring disciplines. Ecological and citizen-science research consistently finds that observer behaviour and preferential site selection can distort estimates if sampling effort is concentrated in famous or convenient locations rather than being systematically distributed. The problem is not dishonesty but unequal observation effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers A Framework of Observer-Based Biases in Citizen Science</span><span class="citation-popover-snippet">FrontiersA Framework of Observer-Based Biases in Citizen Science...July 19, 2021 — by O Arazy · 2021 · Cited by 65 — The goal of this st...</span><span class="citation-popover-meta">Published: July 19, 2021</span></span></span>
 
 For automated UFO detectors, instrumentation reduces some human biases but does not eliminate sampling bias. A camera operating continuously is objective in recording photons, yet the decision about **where** to install that camera remains subjective. If nearly every sophisticated detector is placed in famous hotspots, the resulting database cannot easily answer whether similar events occur elsewhere but go unrecorded.
 
@@ -331,7 +331,7 @@ Several features increase confidence in the usefulness of hotspot data:
 
 </div>
 
-NASA's independent UAP study emphasised precisely these requirements, arguing that future progress depends on calibrated sensors, metadata, reproducible observations and baseline measurements that distinguish rare events from the normal background of aircraft, satellites, weather and astronomical objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's independent UAP study emphasised precisely these requirements, arguing that future progress depends on calibrated sensors, metadata, reproducible observations and baseline measurements that distinguish rare events from the normal background of aircraft, satellites, weather and astronomical objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 In other words, hotspot observations gain scientific value when they can be compared against equivalent measurements collected elsewhere.
 
@@ -342,11 +342,11 @@ In other words, hotspot observations gain scientific value when they can be comp
 
 This is where hotspot studies become limited.
 
-A successful detector at one famous location may demonstrate that a recurring local phenomenon exists, but it does not automatically show that the same process occurs globally. Hessdalen illustrates this distinction well. Decades of monitoring have documented recurring luminous events and generated a substantial instrumental record, yet researchers continue to debate the physical mechanisms involved. Even if every Hessdalen observation were eventually explained, those findings would not necessarily apply to reports from deserts, coastlines or military airspace with completely different environmental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">The apparent correlation of...</span></span></span>
+A successful detector at one famous location may demonstrate that a recurring local phenomenon exists, but it does not automatically show that the same process occurs globally. Hessdalen illustrates this distinction well. Decades of monitoring have documented recurring luminous events and generated a substantial instrumental record, yet researchers continue to debate the physical mechanisms involved. Even if every Hessdalen observation were eventually explained, those findings would not necessarily apply to reports from deserts, coastlines or military airspace with completely different environmental conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">The apparent correlation of...</span></span></span>
 
 Likewise, if an unusual event were confirmed at a hotspot, it would still require replication under comparable observational standards before broader conclusions could be drawn.
 
-This is why projects designed around distributed sensor networks pursue a complementary goal. Rather than concentrating only where reports are already common, they aim to build a population-level picture of ordinary aerial activity and identify genuine statistical outliers across many environments. Their objective is not merely to capture anomalies but to establish how often apparently anomalous events occur relative to the normal background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Ga...</span></span></span>
+This is why projects designed around distributed sensor networks pursue a complementary goal. Rather than concentrating only where reports are already common, they aim to build a population-level picture of ordinary aerial activity and identify genuine statistical outliers across many environments. Their objective is not merely to capture anomalies but to establish how often apparently anomalous events occur relative to the normal background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Ga...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-3-dark.svg" | relative_url }}" alt="Hotspot Value illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_hotspot_detector_dat_d239d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,194 +366,194 @@ This combined design separates two different scientific questions. One asks whet
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do UFO Hotspots Really Give Better Data?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do UFO Hotspots Really Give Better Data?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating recurring reports objectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating recurring reports objectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence quality over anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence quality over anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds historical hotspot context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds historical hotspot context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hotspot-value-do-ufo-hotspots-really-give-better-data-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ This combined design separates two different scientific questions. One asks whet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ This combined design separates two different scientific questions. One asks whet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ This combined design separates two different scientific questions. One asks whet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ This combined design separates two different scientific questions. One asks whet
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ This combined design separates two different scientific questions. One asks whet
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,121 +759,121 @@ This combined design separates two different scientific questions. One asks whet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: old.hessdalen.org  
    Title: Database Analysis  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Database AnalysisNovember 26, 2017 — 26 Nov 2017 — An automatic measurement station was put up in Hessdalen in August 1998. In...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdalen_Database_English_Nov2017.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Database AnalysisNovember 26, 2017 — 26 Nov 2017 — An automatic measurement station was put up in Hessdalen in August 1998. In...</p></details>
    Published: November 26, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hessdalen.org  
-   Link: <a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The apparent correlation of...</p></details>
+   Link:<a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The apparent correlation of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Site selection algorithms for optimal ecological monitoring...by KE Norman · 2025 · Cited by 3 — Many algorithms support additional f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7618705/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Site selection algorithms for optimal ecological monitoring...by KE Norman · 2025 · Cited by 3 — Many algorithms support additional f...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) explores how astronomers can enhance our understanding of these eni...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) explores how astronomers can enhance our understanding of these eni...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: old.hessdalen.org  
    Title: 2025 2502.06794v2  
-   Link: <a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of Unidentified Aerospace-Undersea...1 Apr 2025 — We dispel the common misconception that UAPs are an American phenomenon an...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of Unidentified Aerospace-Undersea...1 Apr 2025 — We dispel the common misconception that UAPs are an American phenomenon an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: portal.rare.org  
    Title: ecological monitoring updated 040521  
-   Link: <a href="https://portal.rare.org/wp-content/uploads/2021/05/ecological-monitoring-_-updated-040521.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portal.rare.org/wp-content/uploads/2021/05/ecological-monitoring-_-updated-040521.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring - Fish Forever○ Teams should monitor the same sampling sites over time. ○ To minimize variability as a results of observer err...</p></details>
+   Link:<a href="https://portal.rare.org/wp-content/uploads/2021/05/ecological-monitoring-_-updated-040521.pdf" target="_blank" rel="noopener noreferrer nofollow">https://portal.rare.org/wp-content/uploads/2021/05/ecological-monitoring-_-updated-040521.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring - Fish Forever○ Teams should monitor the same sampling sites over time. ○ To minimize variability as a results of observer err...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Ga...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoqgTjlZjDRXF1JECggcd6UF2wPi_s41F4jIhFGIJFfRFXIh51Uj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Ga...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Frontiers A Framework of Observer-Based Biases in Citizen Science  
-   Link: <a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersA Framework of Observer-Based Biases in Citizen Science...July 19, 2021 — by O Arazy · 2021 · Cited by 65 — The goal of this st...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.693602/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersA Framework of Observer-Based Biases in Citizen Science...July 19, 2021 — by O Arazy · 2021 · Cited by 65 — The goal of this st...</p></details>
    Published: July 19, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/529270/1/N529270JA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/529270/1/N529270JA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveObserver retention, site selection and population dynamics...by LI Dambly · 2021 · Cited by 29 — These results...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/529270/1/N529270JA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/529270/1/N529270JA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NERC Open Research ArchiveObserver retention, site selection and population dynamics...by LI Dambly · 2021 · Cited by 29 — These results...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...PDF | (Abridged) The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project aims to investigate Unidentified Aerial...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...PDF | (Abridged) The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project aims to investigate Unidentified Aerial...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonPDF | The balls of light which appear in the Hessdalen valley in Norway are exem...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A long-term scientific survey of the Hessdalen phenomenonPDF | The balls of light which appear in the Hessdalen valley in Norway are exem...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/AstroCosmoNews/posts/3393796120925937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstroCosmoNews/posts/3393796120925937/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating unidentified aerial phenomena scientificallyGOVERNMENT SUPPRESSION/STIGMATIZATION OF UFO/UAP SIGHTINGS AND RESEARCH PREVENTS M...</p></details>
+   Link:<a href="https://www.facebook.com/groups/AstroCosmoNews/posts/3393796120925937/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstroCosmoNews/posts/3393796120925937/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating unidentified aerial phenomena scientificallyGOVERNMENT SUPPRESSION/STIGMATIZATION OF UFO/UAP SIGHTINGS AND RESEARCH PREVENTS M...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/38013432_Observer_bias_and_the_detection_of_low-density_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/38013432_Observer_bias_and_the_detection_of_low-density_populations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observer bias and the detection of low-density populationsOur findings reveal a potential issue with site occupancy models that can arise...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/38013432_Observer_bias_and_the_detection_of_low-density_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/38013432_Observer_bias_and_the_detection_of_low-density_populations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observer bias and the detection of low-density populationsOur findings reveal a potential issue with site occupancy models that can arise...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: hessdalen valley norway remote rural area population 150historical reports light  
-   Link: <a href="https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Valley. Norway. Remote rural...An automatic measurement station was put up in Hessdalen in August 1998. Both data and alarm-pi...</p></details>
+   Link:<a href="https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hessdalen Valley. Norway. Remote rural...An automatic measurement station was put up in Hessdalen in August 1998. Both data and alarm-pi...</p></details>
    Published: August 1998  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: is there a “uap phenomenon” worth studying.14943  
-   Link: <a href="https://www.metabunk.org/threads/is-there-a-%E2%80%9Cuap-phenomenon%E2%80%9D-worth-studying.14943/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-there-a-%E2%80%9Cuap-phenomenon%E2%80%9D-worth-studying.14943/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a “UAP phenomenon” worth studying?10 Jun 2026 — To address this deficiency, the Galileo Project is designing, building, and comm...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/is-there-a-%E2%80%9Cuap-phenomenon%E2%80%9D-worth-studying.14943/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-there-a-%E2%80%9Cuap-phenomenon%E2%80%9D-worth-studying.14943/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a “UAP phenomenon” worth studying?10 Jun 2026 — To address this deficiency, the Galileo Project is designing, building, and comm...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research-collection.ethz.ch  
    Title: ch To Investigate or Not to Investigate?  
-   Link: <a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/67dcdf4d-15f9-4538-95c7-201fad80ca03/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/67dcdf4d-15f9-4538-95c7-201fad80ca03/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views on...by E Caron · Cited by 1 — Here, we present the results of a survey indicating a significant support from a subse...</p></details>
+   Link:<a href="https://www.research-collection.ethz.ch/server/api/core/bitstreams/67dcdf4d-15f9-4538-95c7-201fad80ca03/content" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/server/api/core/bitstreams/67dcdf4d-15f9-4538-95c7-201fad80ca03/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views on...by E Caron · Cited by 1 — Here, we present the results of a survey indicating a significant support from a subse...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>observation since nineteen eighty-four. Over 40 years, [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61583174895936/videos/the-hessdalen-lights-have-stumped-scientists-for-40-yearsin-a-remote-valley-in-n/1607905727171889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>observation since nineteen eighty-four. Over 40 years, [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ecoevorxiv.org  
-   Link: <a href="https://ecoevorxiv.org/repository/view/7661/" target="_blank" rel="noopener noreferrer nofollow">https://ecoevorxiv.org/repository/view/7661/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive sampling for ecological monitoring using biased...by OL Pescott · 2024 · Cited by 2 — Adaptive sampling for ecological monitori...</p></details>
+   Link:<a href="https://ecoevorxiv.org/repository/view/7661/" target="_blank" rel="noopener noreferrer nofollow">https://ecoevorxiv.org/repository/view/7661/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adaptive sampling for ecological monitoring using biased...by OL Pescott · 2024 · Cited by 2 — Adaptive sampling for ecological monitori...</p></details>

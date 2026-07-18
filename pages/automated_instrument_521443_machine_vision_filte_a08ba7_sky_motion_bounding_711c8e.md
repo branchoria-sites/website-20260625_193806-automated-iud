@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sk
 
 ## Introduction
 
-Bounding boxes are one of the simplest but most important mechanisms in an automated sky-monitoring system. They do not identify a UFO, aircraft or bird. Instead, they answer a more basic question: *where is the moving object now, and is it still the same object a moment later?* By drawing a rectangle around a detected target in each video frame and linking those rectangles over time, the software converts fleeting motion into a coherent track that can be stored as a short reviewable clip rather than hours of uneventful sky footage. This tracking stage is especially important because automated sky cameras encounter countless distractions, including insects close to the lens, moving foliage, atmospheric shimmer, flashing lights and tiny distant objects. A bounding box is therefore a tool for organising evidence, not for deciding what the object is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
+Bounding boxes are one of the simplest but most important mechanisms in an automated sky-monitoring system. They do not identify a UFO, aircraft or bird. Instead, they answer a more basic question: *where is the moving object now, and is it still the same object a moment later?* By drawing a rectangle around a detected target in each video frame and linking those rectangles over time, the software converts fleeting motion into a coherent track that can be stored as a short reviewable clip rather than hours of uneventful sky footage. This tracking stage is especially important because automated sky cameras encounter countless distractions, including insects close to the lens, moving foliage, atmospheric shimmer, flashing lights and tiny distant objects. A bounding box is therefore a tool for organising evidence, not for deciding what the object is.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-1-dark.svg" | relative_url }}" alt="Tracking Boxes illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Bounding boxes are one of the simplest but most important mechanisms in an autom
 
 ### What a bounding box actually marks
 
-A bounding box is simply the smallest practical rectangle that encloses a detected object in an image. As new frames arrive, the detection software predicts a new box around the same target. Tracking software then links successive boxes into a single trajectory, assigning the object a persistent identity until it disappears from view. Modern real-time systems commonly combine an object detector such as YOLO ("You Only Look Once") with a tracker such as SORT (Simple Online and Realtime Tracking), where the detector proposes boxes and the tracker decides which new detection belongs to which existing track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+A bounding box is simply the smallest practical rectangle that encloses a detected object in an image. As new frames arrive, the detection software predicts a new box around the same target. Tracking software then links successive boxes into a single trajectory, assigning the object a persistent identity until it disappears from view. Modern real-time systems commonly combine an object detector such as YOLO ("You Only Look Once") with a tracker such as SORT (Simple Online and Realtime Tracking), where the detector proposes boxes and the tracker decides which new detection belongs to which existing track.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
-For automated sky observation, this process has a practical consequence. Instead of saving continuous video all day, the system can record only the portion surrounding a sustained track. Metadata such as the time, duration, image coordinates, apparent speed and direction can be attached to the clip, making later [human review]({{ 'human-review/' | relative_url }}) far more efficient than searching through hours of empty sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+For automated sky observation, this process has a practical consequence. Instead of saving continuous video all day, the system can record only the portion surrounding a sustained track. Metadata such as the time, duration, image coordinates, apparent speed and direction can be attached to the clip, making later [human review]({{ 'human-review/' | relative_url }}) far more efficient than searching through hours of empty sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 A useful way to think about the process is:
 
@@ -311,7 +311,7 @@ Several common situations can confuse bounding-box tracking:
 * **Sun glints, cloud edges and atmospheric turbulence** briefly create bright features that resemble small [moving targets]({{ 'moving-targets/' | relative_url }}).
 * **Extremely distant objects** may consist of only a few changing pixels, making it difficult to distinguish genuine motion from sensor noise.
 
-These problems illustrate an important limitation: the tracker follows whatever the detector presents. If the detector places a box around a flying insect, the tracker may faithfully build a complete insect trajectory. Good tracking therefore does not automatically imply correct identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+These problems illustrate an important limitation: the tracker follows whatever the detector presents. If the detector places a box around a flying insect, the tracker may faithfully build a complete insect trajectory. Good tracking therefore does not automatically imply correct identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 This explains why automated UFO detection systems generally treat tracking as an intermediate filtering stage rather than a final classification stage.
 
@@ -321,9 +321,9 @@ This explains why automated UFO detection systems generally treat tracking as an
 
 Practical systems use several techniques to stop bounding boxes wandering between unrelated objects or reacting to background motion.
 
-One approach is to tighten the box around the detected target after acquisition. [UFODAP]({{ 'ufodap/' | relative_url }}), for example, describes shrinking the bounding box around the moving object so that nearby background features are less likely to interfere with continued tracking. The same system also applies automatic filtering to reduce triggers from flickering stars, birds and moving foliage, while sampling the night sky background so persistent static features can be ignored during operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
+One approach is to tighten the box around the detected target after acquisition. [UFODAP]({{ 'ufodap/' | relative_url }}), for example, describes shrinking the bounding box around the moving object so that nearby background features are less likely to interfere with continued tracking. The same system also applies automatic filtering to reduce triggers from flickering stars, birds and moving foliage, while sampling the night sky background so persistent static features can be ignored during operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
 
-Research systems adopt a similar philosophy with more sophisticated algorithms. In the [Galileo]({{ 'galileo/' | relative_url }}) Project's all-sky infrared observatory, YOLO performs object detection while SORT reconstructs trajectories across successive frames. Rather than relying on any single frame, the system evaluates how detections evolve over time, allowing persistent tracks to be reconstructed even when individual detections fluctuate slightly between frames. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+Research systems adopt a similar philosophy with more sophisticated algorithms. In the [Galileo]({{ 'galileo/' | relative_url }}) Project's all-sky infrared observatory, YOLO performs object detection while SORT reconstructs trajectories across successive frames. Rather than relying on any single frame, the system evaluates how detections evolve over time, allowing persistent tracks to be reconstructed even when individual detections fluctuate slightly between frames.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 This temporal continuity is often more informative than any individual image. A single frame may contain only a tiny bright spot; a hundred linked frames can reveal whether that spot follows the smooth path expected from an aircraft, the erratic motion typical of an insect or something deserving closer examination.
 
@@ -332,9 +332,9 @@ This temporal continuity is often more informative than any individual image. A 
 
 ## When a Track Becomes Worth Human Review
 
-Most detected tracks are never seen by a person because they fail simple quality tests. Automated systems typically require evidence that motion persists across multiple frames, remains internally consistent and exceeds minimum thresholds for duration or confidence before creating a review event. Short-lived flashes or isolated detections are often discarded automatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+Most detected tracks are never seen by a person because they fail simple quality tests. Automated systems typically require evidence that motion persists across multiple frames, remains internally consistent and exceeds minimum thresholds for duration or confidence before creating a review event. Short-lived flashes or isolated detections are often discarded automatically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
-Even after these filters, human review remains essential. The Galileo Project has reported that automated processing can generate large numbers of candidate trajectories, with additional filtering and manual inspection dramatically reducing the set of events considered genuinely ambiguous. Their published commissioning work emphasises that unusual trajectories alone do not establish unusual objects because important information such as distance, true velocity and independent sensor confirmation may still be missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
+Even after these filters, human review remains essential. The Galileo Project has reported that automated processing can generate large numbers of candidate trajectories, with additional filtering and manual inspection dramatically reducing the set of events considered genuinely ambiguous. Their published commissioning work emphasises that unusual trajectories alone do not establish unusual objects because important information such as distance, true velocity and independent sensor confirmation may still be missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</span></span></span>
 
 For this reason, the bounding box should be viewed as a bookkeeping device rather than evidence of anomalous behaviour. Its value lies in preserving a coherent sequence that reviewers can inspect alongside [timestamps]({{ 'timestamps/' | relative_url }}), trajectories and, where available, data from other sensors.
 
@@ -347,200 +347,200 @@ Bounding boxes appear visually simple, but they perform the crucial conversion f
 
 Their greatest strength is efficiency. They allow a monitoring station to reduce countless hours of ordinary sky activity into a manageable collection of short clips with associated motion histories. Their greatest weakness is that they are deliberately agnostic about what they enclose. A perfectly tracked insect, bird or aircraft can produce an excellent bounding-box trajectory.
 
-Within automated instrumented UFO detection, this makes bounding boxes a triage mechanism rather than an identification mechanism. They answer the question, "Has something moved consistently enough to deserve a clip?" The much harder question—*what actually moved?*—belongs to later stages involving object classification, aircraft correlation, additional sensors and ultimately informed human review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
+Within automated instrumented UFO detection, this makes bounding boxes a triage mechanism rather than an identification mechanism. They answer the question, "Has something moved consistently enough to deserve a clip?" The much harder question—*what actually moved?*—belongs to later stages involving object classification, aircraft correlation, additional sensors and ultimately informed human review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on false positives, such...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-3-dark.svg" | relative_url }}" alt="Tracking Boxes illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_sky_motion_bounding_711c8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Box Finds Something in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Box Finds Something in the Sky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader context for automated decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides broader context for automated decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Provides background for modern object detection systems such as YOLO.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Provides background for modern object detection systems such as YOLO.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Programming Computer Vision With Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863256-M.jpg" alt="Cover for Programming Computer Vision With Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
-        </h4>
-        <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Programming Computer Vision With Python on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7863256-M.jpg" alt="Cover for Programming Computer Vision With Python" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
+</h4>
+<p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Computer algorithms, Computer vision, Python (Computer program language), Python (computer program langua...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Computer algorithms, Computer vision, Python (Computer program language), Python (computer program langua...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Programming Computer Vision With Python</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Programming Computer Vision With Python</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353"><img src="{{ '/assets/images/marketplace-covers/a2b73d9a0a1a2a82955a.jpg' | relative_url }}" alt="Listing image for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353"><img src="{{ '/assets/images/marketplace-covers/a2b73d9a0a1a2a82955a.jpg' | relative_url }}" alt="Listing image for SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">SDR Software-Defined Radio Receiver RTL-SDR V2 RTL2832U Equipped with4353</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP"><img src="{{ '/assets/images/marketplace-covers/709349220f8ed89be86c.jpg' | relative_url }}" alt="Listing image for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP"><img src="{{ '/assets/images/marketplace-covers/709349220f8ed89be86c.jpg' | relative_url }}" alt="Listing image for DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">DSP-101 Software Defined Radio SDR Radio Receiver FM/AM/LW/MW/SW/AIR-Band DSP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="tracking-boxes-when-a-box-finds-something-in-the-sky-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,71 +746,71 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on [false positives](&amp;#123;&amp;#123; &#x27;false-positives/&#x27; | relative_url &amp;#125;&amp;#125;), such...</p></details>
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and TechnologyA number of automatic processes reduce the possibility of triggering recording on [false positives](&amp;#123;&amp;#123; &#x27;false-positives/&#x27; | relative_url &amp;#125;&amp;#125;), such...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for...by L Domine · 2025 · Cited by 11 — Using a You Only Look Once (YOLO) machine le...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2673-4052/6/4/77" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4052/6/4/77</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Each bounding box can detect only one object. Being a single-stage...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2673-4052/6/4/77" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2673-4052/6/4/77</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each bounding box can detect only one object. Being a single-stage...Read more...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — Using a You Only Look Once (YOLO) machine learning model for ob...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — Using a You Only Look Once (YOLO) machine learning model for ob...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/994223882204197/posts/1013020470324538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/994223882204197/posts/1013020470324538/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>otdau softwareA number of automatic processes reduce the possibility of triggering recording on false positives, such as flickering stars...</p></details>
+   Link:<a href="https://www.facebook.com/groups/994223882204197/posts/1013020470324538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/994223882204197/posts/1013020470324538/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>otdau softwareA number of automatic processes reduce the possibility of triggering recording on false positives, such as flickering stars...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.savant-ai.io  
-   Link: <a href="https://blog.savant-ai.io/rotated-objects-tracking-with-angle-aware-detection-model-and-sort-tracker-42a96429898d" target="_blank" rel="noopener noreferrer nofollow">https://blog.savant-ai.io/rotated-objects-tracking-with-angle-aware-detection-model-and-sort-tracker-42a96429898d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Objects Tracking With Angle-Aware Detection Model...26 Dec 2022 — The article demonstrates the usage of one of the SORT implementations...</p></details>
+   Link:<a href="https://blog.savant-ai.io/rotated-objects-tracking-with-angle-aware-detection-model-and-sort-tracker-42a96429898d" target="_blank" rel="noopener noreferrer nofollow">https://blog.savant-ai.io/rotated-objects-tracking-with-angle-aware-detection-model-and-sort-tracker-42a96429898d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Objects Tracking With Angle-Aware Detection Model...26 Dec 2022 — The article demonstrates the usage of one of the SORT implementations...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wscg.zcu.cz  
-   Link: <a href="https://wscg.zcu.cz/WSCG2021/FULL/K02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wscg.zcu.cz/WSCG2021/FULL/K02.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Hun169 objects are denoted by bounding boxes, videos were recorded at 15 and 30.Read more...</p></details>
+   Link:<a href="https://wscg.zcu.cz/WSCG2021/FULL/K02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wscg.zcu.cz/WSCG2021/FULL/K02.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Hun169 objects are denoted by bounding boxes, videos were recorded at 15 and 30.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: Body Scanning Technology: Supporting Staff & Reducing  
-   Link: <a href="https://www.facebook.com/Nationalsheriffsassociation/posts/body-scanning-technology-supporting-staff-reducing-human-erroreven-with-the-best/984107220418688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nationalsheriffsassociation/posts/body-scanning-technology-supporting-staff-reducing-human-erroreven-with-the-best/984107220418688/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>triggering recording on false positives, such as flickering stars, birds and moving foliage. At night, the system samples the background...</p></details>
+   Link:<a href="https://www.facebook.com/Nationalsheriffsassociation/posts/body-scanning-technology-supporting-staff-reducing-human-erroreven-with-the-best/984107220418688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nationalsheriffsassociation/posts/body-scanning-technology-supporting-staff-reducing-human-erroreven-with-the-best/984107220418688/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>triggering recording on false positives, such as flickering stars, birds and moving foliage. At night, the system samples the background...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arshren.medium.com  
-   Link: <a href="https://arshren.medium.com/an-introduction-to-object-tracking-9fd6249a76b6" target="_blank" rel="noopener noreferrer nofollow">https://arshren.medium.com/an-introduction-to-object-tracking-9fd6249a76b6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Object Tracking | by Renu KhandelwalObject tracking detects objects in each frame represented as bounding boxes, followed...</p></details>
+   Link:<a href="https://arshren.medium.com/an-introduction-to-object-tracking-9fd6249a76b6" target="_blank" rel="noopener noreferrer nofollow">https://arshren.medium.com/an-introduction-to-object-tracking-9fd6249a76b6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Object Tracking | by Renu KhandelwalObject tracking detects objects in each frame represented as bounding boxes, followed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: img1.wsimg.com  
    Title: UFODAS System Installation Guide V1.12  
-   Link: <a href="https://img1.wsimg.com/blobby/go/3ce70b16-7a5f-4151-a86b-b4e11efe8275/downloads/22870e7f-9117-4b91-98bb-9e1293f89993/UFODAS%20System%20Installation%20Guide%20V1.12.pdf?ver=1763083370510" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/3ce70b16-7a5f-4151-a86b-b4e11efe8275/downloads/22870e7f-9117-4b91-98bb-9e1293f89993/UFODAS%20System%20Installation%20Guide%20V1.12.pdf?ver=1763083370510</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Installation Guide13 Nov 2025 — UFODAS cameras may be provided mounted on a weatherproof junction box with a sealed Ethernet connector. T...</p></details>
+   Link:<a href="https://img1.wsimg.com/blobby/go/3ce70b16-7a5f-4151-a86b-b4e11efe8275/downloads/22870e7f-9117-4b91-98bb-9e1293f89993/UFODAS%20System%20Installation%20Guide%20V1.12.pdf?ver=1763083370510" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/3ce70b16-7a5f-4151-a86b-b4e11efe8275/downloads/22870e7f-9117-4b91-98bb-9e1293f89993/UFODAS%20System%20Installation%20Guide%20V1.12.pdf?ver=1763083370510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Installation Guide13 Nov 2025 — UFODAS cameras may be provided mounted on a weatherproof junction box with a sealed Ethernet connector. T...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DahuaHQ/posts/with-pfa-automatic-focus-and-new-prediction-and-exposure-technology-our-dual_ptz/2317004148409529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DahuaHQ/posts/with-pfa-automatic-focus-and-new-prediction-and-exposure-technology-our-dual_ptz/2317004148409529/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uch as flickering stars, birds and moving foliage...</p></details>
+   Link:<a href="https://www.facebook.com/DahuaHQ/posts/with-pfa-automatic-focus-and-new-prediction-and-exposure-technology-our-dual_ptz/2317004148409529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DahuaHQ/posts/with-pfa-automatic-focus-and-new-prediction-and-exposure-technology-our-dual_ptz/2317004148409529/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uch as flickering stars, birds and moving foliage...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectCommissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects. Sensors 25, 783 (2025).... In thi...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo ProjectCommissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects. Sensors 25, 783 (2025).... In thi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.15518v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.15518v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TrackMe: A Simple and Effective Multiple Object Tracking...20 Oct 2024 — In TrackMe, we include the bounding box training and prediction...</p></details>
+   Link:<a href="https://arxiv.org/html/2410.15518v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.15518v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TrackMe: A Simple and Effective Multiple Object Tracking...20 Oct 2024 — In TrackMe, we include the bounding box training and prediction...</p></details>

@@ -284,7 +284,7 @@ Extra sensors can make an automated UAP detector substantially more useful, but 
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Add ons illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to modern scientific approaches to UAP research. NASA's independent study concluded that progress depends on multiple well-calibrated sensors, complete metadata and careful cross-correlation, not on any single sensor reporting an unusual value. Poor calibration, missing baseline measurements and incomplete metadata remain among the biggest obstacles to interpreting unusual observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This distinction is central to modern scientific approaches to UAP research. NASA's independent study concluded that progress depends on multiple well-calibrated sensors, complete metadata and careful cross-correlation, not on any single sensor reporting an unusual value. Poor calibration, missing baseline measurements and incomplete metadata remain among the biggest obstacles to interpreting unusual observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jNFmom6IaAQ" title="UAP &amp; Extraterrestrial Technosignatures | Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jNFmom6IaAQ" target="_blank" rel="noopener noreferrer">UAP &amp; Extraterrestrial Technosignatures | Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jNFmom6IaAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jNFmom6IaAQ">Open on YouTube</a></p></div></div></div>
@@ -293,15 +293,15 @@ This distinction is central to modern scientific approaches to UAP research. NAS
 
 A camera records what appears in the field of view. Additional sensors describe the conditions under which that image was captured. Each contributes a different piece of evidence, but each also has limitations.
 
-**Magnetometers** measure changes in the local magnetic field. In principle, they can detect nearby electrical equipment, passing vehicles, lightning-related disturbances or larger geomagnetic activity. However, they are extremely sensitive to ordinary environmental influences. Electric motors, household wiring, steel structures and even moving ferrous objects can generate measurable changes. A magnetometer spike therefore requires comparison with background conditions, nearby equipment and wider geomagnetic data before it can be considered unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/products/goes-magnetometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Space Weather Prediction CenterGOES Magnetometer &#124; NOAA / NWS...GOES magnetometer data have been used for constructing magnetic field mo...</span></span></span>
+**Magnetometers** measure changes in the local magnetic field. In principle, they can detect nearby electrical equipment, passing vehicles, lightning-related disturbances or larger geomagnetic activity. However, they are extremely sensitive to ordinary environmental influences. Electric motors, household wiring, steel structures and even moving ferrous objects can generate measurable changes. A magnetometer spike therefore requires comparison with background conditions, nearby equipment and wider geomagnetic data before it can be considered unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceweather.gov/products/goes-magnetometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceweather.gov">[Space Weather Prediction Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceweather.gov</span><span class="citation-popover-snippet">Space Weather Prediction CenterGOES Magnetometer &#124; NOAA / NWS...GOES magnetometer data have been used for constructing magnetic field mo...</span></span></span>
 
-**Weather sensors** record temperature, humidity, pressure, wind and rainfall. These measurements rarely identify an object directly, but they help explain optical effects such as atmospheric refraction, haze, cloud development and [visibility]({{ 'visibility/' | relative_url }}) changes. Wind measurements also help evaluate whether a slowly moving light could simply be drifting with the prevailing air mass rather than exhibiting unusual motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+**Weather sensors** record temperature, humidity, pressure, wind and rainfall. These measurements rarely identify an object directly, but they help explain optical effects such as atmospheric refraction, haze, cloud development and [visibility]({{ 'visibility/' | relative_url }}) changes. Wind measurements also help evaluate whether a slowly moving light could simply be drifting with the prevailing air mass rather than exhibiting unusual motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-**GPS receivers** provide more than location. Accurate GPS timing allows every sensor in a station—or even across multiple stations—to share a common clock. Reliable timestamps are essential when comparing video frames with radio recordings, aircraft transponder data or observations from another site. Without synchronised timing, meaningful comparison becomes much harder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+**GPS receivers** provide more than location. Accurate GPS timing allows every sensor in a station—or even across multiple stations—to share a common clock. Reliable timestamps are essential when comparing video frames with radio recordings, aircraft transponder data or observations from another site. Without synchronised timing, meaningful comparison becomes much harder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-**Radio receivers and software-defined radio (SDR)** equipment monitor portions of the radio spectrum. They can capture transmissions from aircraft systems, local communications or unexpected radio interference occurring during an event. Importantly, RF activity is not evidence of an anomalous object. Most detected signals originate from familiar communication systems, consumer electronics or other terrestrial sources. Their main value is documenting the electromagnetic environment surrounding an observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+**Radio receivers and software-defined radio (SDR)** equipment monitor portions of the radio spectrum. They can capture transmissions from aircraft systems, local communications or unexpected radio interference occurring during an event. Importantly, RF activity is not evidence of an anomalous object. Most detected signals originate from familiar communication systems, consumer electronics or other terrestrial sources. Their main value is documenting the electromagnetic environment surrounding an observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Some experimental observatories also incorporate **microphones**, **[infrared cameras]({{ 'infrared/' | relative_url }})**, or multiple optical cameras covering different fields of view. These combinations provide independent observations that can be compared rather than relying on one instrument alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Some experimental observatories also incorporate **microphones**, **[infrared cameras]({{ 'infrared/' | relative_url }})**, or multiple optical cameras covering different fields of view. These combinations provide independent observations that can be compared rather than relying on one instrument alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -322,7 +322,7 @@ Good investigations therefore ask progressively stronger questions:
 
 Only after these checks does an observation become worthy of deeper analysis.
 
-NASA's UAP study repeatedly emphasised that calibration, metadata and baseline observations are essential because otherwise sensor artefacts can easily be mistaken for unusual phenomena. The report also notes that multiple well-characterised sensors reduce false positives only when their measurements are properly understood and interpreted together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's UAP study repeatedly emphasised that calibration, metadata and baseline observations are essential because otherwise sensor artefacts can easily be mistaken for unusual phenomena. The report also notes that multiple well-characterised sensors reduce false positives only when their measurements are properly understood and interpreted together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Add ons illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -345,213 +345,213 @@ A more complete sensor package becomes valuable when it can:
 
 </div>
 
-This philosophy increasingly appears in research-oriented observatories. Rather than treating magnetometers, RF receivers or environmental sensors as "anomaly detectors", newer designs treat them as complementary data streams contributing to a comprehensive observational record. The [Galileo]({{ 'galileo/' | relative_url }}) Project's published observatory architecture, for example, integrates optical, infrared, radio, acoustic and magnetic measurements specifically so that different sensing modalities can be compared, validated and interpreted together rather than independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This philosophy increasingly appears in research-oriented observatories. Rather than treating magnetometers, RF receivers or environmental sensors as "anomaly detectors", newer designs treat them as complementary data streams contributing to a comprehensive observational record. The [Galileo]({{ 'galileo/' | relative_url }}) Project's published observatory architecture, for example, integrates optical, infrared, radio, acoustic and magnetic measurements specifically so that different sensing modalities can be compared, validated and interpreted together rather than independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/87POecVP-s4" title="Listening for UFOs - The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer">Listening for UFOs - The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115</a></p><p class="youtube-embed-meta">Channel: Merged Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=87POecVP-s4">Open on YouTube</a></p></div></div></div>
 
 ## Practical implementation choices for commercial and DIY systems
 
-Commercial UAP detector packages often simplify sensor integration by supplying compatible hardware, unified software and common timestamps across cameras and environmental instruments. This reduces engineering effort and lowers the risk of configuration errors, particularly for users who want a working installation without designing electronics or data pipelines themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Commercial UAP detector packages often simplify sensor integration by supplying compatible hardware, unified software and common timestamps across cameras and environmental instruments. This reduces engineering effort and lowers the risk of configuration errors, particularly for users who want a working installation without designing electronics or data pipelines themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 DIY builders usually have greater flexibility. Open-source platforms based on inexpensive computers and widely available sensors allow users to choose exactly which environmental measurements to collect, experiment with new sensor combinations and retain complete control over raw data formats. The trade-off is that synchronisation, calibration and long-term reliability become the builder's responsibility.
 
 In practice, a modest collection of well-calibrated sensors producing consistent, timestamped data is generally more valuable than a large assortment of poorly characterised instruments. An accurately timed camera, reliable weather station and properly calibrated GPS receiver may contribute more to a credible observation than numerous auxiliary sensors whose noise characteristics and failure modes are unknown.
 
-Ultimately, extra sensors strengthen an automated observing station not because they detect anomalies directly, but because they improve the quality, completeness and reproducibility of the evidence. Their greatest contribution is often helping investigators demonstrate that an apparently unusual observation has an ordinary explanation—or, more rarely, showing that an event deserves more rigorous investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Ultimately, extra sensors strengthen an automated observing station not because they detect anomalies directly, but because they improve the quality, completeness and reproducibility of the evidence. Their greatest contribution is often helping investigators demonstrate that an apparently unusual observation has an ordinary explanation—or, more rarely, showing that an event deserves more rigorous investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Add ons illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_multi_sensor_addons_0a1850-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Extra Sensors Actually Add. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Extra Sensors Actually Add. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Provides scientific context for UAP instrumentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific context for UAP instrumentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Wireless Sensor Networks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7509054-M.jpg" alt="Cover for Building Wireless Sensor Networks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Wireless Sensor Networks">Building Wireless Sensor Networks</a>
-        </h4>
-        <p class="fr-book-author">By Robert Faludi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building Wireless Sensor Networks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7509054-M.jpg" alt="Cover for Building Wireless Sensor Networks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Wireless Sensor Networks">Building Wireless Sensor Networks</a>
+</h4>
+<p class="fr-book-author">By Robert Faludi</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Wireless sensor networks, Computer network protocols, Wireless communication systems, General, Wireless.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Wireless sensor networks, Computer network protocols, Wireless communication systems, General, Wireless.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Embedded Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7643570-M.jpg" alt="Cover for Making Embedded Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Embedded Systems">Making Embedded Systems</a>
-        </h4>
-        <p class="fr-book-author">By Elecia White</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Embedded Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7643570-M.jpg" alt="Cover for Making Embedded Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Embedded Systems">Making Embedded Systems</a>
+</h4>
+<p class="fr-book-author">By Elecia White</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Programming, Embedded computer systems, Design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Programming, Embedded computer systems, Design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building Wireless Sensor Networks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Embedded+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Embedded Systems</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building Wireless Sensor Networks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Embedded+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Embedded Systems</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK"><img src="{{ '/assets/images/marketplace-covers/41e9047d5f29486de1c6.jpg' | relative_url }}" alt="Listing image for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK"><img src="{{ '/assets/images/marketplace-covers/41e9047d5f29486de1c6.jpg' | relative_url }}" alt="Listing image for ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">ESPRanger (U.FL) LoRa LoRaWAN ESP32-C6 SX1262 GNSS IMU GPS LSM6DSL ATGM336H SDK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BBC Micro:Bit v2 CLUB (10-pack) New"><img src="{{ '/assets/images/marketplace-covers/58f0ec72d09260fc5f0a.jpg' | relative_url }}" alt="Listing image for BBC Micro:Bit v2 CLUB (10-pack) New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">BBC Micro:Bit v2 CLUB (10-pack) New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="sensor-add-ons-what-extra-sensors-actually-add-automated-instrumented-ufo-detectors-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,91 +757,91 @@ Ultimately, extra sensors strengthen an automated observing station not because 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple s...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: spaceweather.gov  
-   Link: <a href="https://www.spaceweather.gov/products/goes-magnetometer" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/products/goes-magnetometer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Space Weather](&amp;#123;&amp;#123; &#x27;space-weather/&#x27; | relative_url &amp;#125;&amp;#125;) Prediction CenterGOES Magnetometer | NOAA / NWS...GOES magnetometer data have been used for constructing magnetic field mo...</p></details>
+   Link:<a href="https://www.spaceweather.gov/products/goes-magnetometer" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/products/goes-magnetometer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Space Weather](&amp;#123;&amp;#123; &#x27;space-weather/&#x27; | relative_url &amp;#125;&amp;#125;) Prediction CenterGOES Magnetometer | NOAA / NWS...GOES magnetometer data have been used for constructing magnetic field mo...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: The panel notes that, at present, gathering data  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The importance of detecting UAP with multiple, well-calibra...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The importance of detecting UAP with multiple, well-calibra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report finds no evidence of &quot;extraterrestrial&quot;...14 Sept 2023 — An independent group of scientist and experts convened by NASA...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP report finds no evidence of &quot;extraterrestrial&quot;...14 Sept 2023 — An independent group of scientist and experts convened by NASA...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Extreme spotting machine OTDAU 2.17 Latest version Finally 360° tracking:)  
-   Link: <a href="https://www.youtube.com/watch?v=VvKVlU7vTe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VvKVlU7vTe4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &amp; Extraterrestrial Technosignatures | Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VvKVlU7vTe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VvKVlU7vTe4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP &amp; Extraterrestrial Technosignatures | Avi Loeb...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Why Scientists Stopped LISTENING For Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sA376ly2cvo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysicist Avi Loeb Explains 3I/ATLAS, UAPs, and Potential for Alien Life | SME 006...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sA376ly2cvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysicist Avi Loeb Explains 3I/ATLAS, UAPs, and Potential for Alien Life | SME 006...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UAP & Extraterrestrial Technosignatures | Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=jNFmom6IaAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNFmom6IaAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jNFmom6IaAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jNFmom6IaAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: azosensors.com  
-   Link: <a href="https://www.azosensors.com/article.aspx?ArticleID=3156" target="_blank" rel="noopener noreferrer nofollow">https://www.azosensors.com/article.aspx?ArticleID=3156</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sensor Tech for Accurate UAP Detection20 Feb 2025 — This article examines whether modern sensor technologies—spanning [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;), i...</p></details>
+   Link:<a href="https://www.azosensors.com/article.aspx?ArticleID=3156" target="_blank" rel="noopener noreferrer nofollow">https://www.azosensors.com/article.aspx?ArticleID=3156</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating Sensor Tech for Accurate UAP Detection20 Feb 2025 — This article examines whether modern sensor technologies—spanning [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;), i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Galileo Project's Search for UAP  
-   Link: <a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Scientists Stopped LISTENING For Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Scientists Stopped LISTENING For Aliens...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dQdlEZVk0G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQdlEZVk0G4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=dQdlEZVk0G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQdlEZVk0G4</a>  

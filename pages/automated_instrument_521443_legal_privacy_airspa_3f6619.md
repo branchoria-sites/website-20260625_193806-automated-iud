@@ -452,13 +452,13 @@ Automated sky monitoring stations do not normally need special “UFO detector�
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-overview.webp" | relative_url }}" alt="Overview image for Rules" loading="eager" decoding="sync" fetchpriority="high">
-The best rule of thumb is practical: collect the minimum data needed to analyse aerial events, avoid filming private spaces, document why each sensor is necessary, treat aircraft and radio data responsibly, and do not publish material that could create security or harassment risks. That governance layer matters because UAP research depends on public trust as much as on calibrated cameras and clocks. NASA’s UAP study stressed the need for better-calibrated, metadata-rich observations; it did not remove the need to collect those observations lawfully and proportionately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The best rule of thumb is practical: collect the minimum data needed to analyse aerial events, avoid filming private spaces, document why each sensor is necessary, treat aircraft and radio data responsibly, and do not publish material that could create security or harassment risks. That governance layer matters because UAP research depends on public trust as much as on calibrated cameras and clocks. NASA’s UAP study stressed the need for better-calibrated, metadata-rich observations; it did not remove the need to collect those observations lawfully and proportionately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 ## Privacy Starts Where the Camera Sees More Than Sky
 
 A sky station sounds benign because its target is above the horizon, but many real installations are mounted on roofs, poles, balconies, sheds or campus buildings. A wide-angle or all-sky lens may incidentally capture gardens, windows, streets, car parks or passers-by at the edge of the frame. A pan-tilt-zoom camera that follows objects can also swing down towards neighbouring property if it is not mechanically or digitally constrained. That is where a scientific instrument starts to look, in law and in public perception, like CCTV.
 
-In the UK, the Information Commissioner’s Office tells household CCTV users to point cameras away from neighbours’ property, public areas and communal spaces where possible. The same guidance notes that complaints often arise when people think cameras are being used to spy on them, even where the owner’s motive is security rather than intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-the-public/home-cctv-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span> For organisations, the ICO’s video-surveillance guidance is broader: if a system processes personal data, it has to be managed under UK GDPR and the Data Protection Act 2018, with attention to installation, operation, public awareness and signage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
+In the UK, the Information Commissioner’s Office tells household CCTV users to point cameras away from neighbours’ property, public areas and communal spaces where possible. The same guidance notes that complaints often arise when people think cameras are being used to spy on them, even where the owner’s motive is security rather than intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-the-public/home-cctv-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span> For organisations, the ICO’s video-surveillance guidance is broader: if a system processes personal data, it has to be managed under UK GDPR and the Data Protection Act 2018, with attention to installation, operation, public awareness and signage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
 
 The practical consequence for automated UFO detectors is that “we are only watching the sky” is not enough. Operators need to check what the system actually records. An all-sky scientific camera can usually be configured to mask the horizon, exclude nearby buildings, ignore low-elevation imagery, blur non-sky regions or discard frames unless an event rises above a threshold. These choices are not cosmetic. They can reduce the amount of personal data collected and make the station easier to justify.
 
@@ -470,24 +470,24 @@ A responsible station design should therefore answer a few plain questions befor
 * **What is visible at the edge of the frame?** Test during day and night, because infrared and low-light cameras may reveal details that are not obvious in ordinary daylight.
 * **Can people, vehicles or homes be identified?** If so, treat the footage as personal data and apply data-protection controls.
 * **Is continuous recording necessary?** Many stations can use rolling buffers, event-triggered clips or metadata-first logging rather than keeping everything.
-* **How long is footage retained?** The ICO says UK data-protection law does not prescribe a universal CCTV retention period; the purpose of the processing should determine how long data is kept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
+* **How long is footage retained?** The ICO says UK data-protection law does not prescribe a universal CCTV retention period; the purpose of the processing should determine how long data is kept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
 * **How are neighbours and visitors informed?** Even a small sign or public station page can prevent misunderstandings, especially if the station is visible from nearby homes.
 
 </div>
 
-The European Data Protection Board makes the same point in general GDPR terms: household exemptions are interpreted narrowly, and constant recording that covers a public space or a neighbour’s property can bring video devices within GDPR rules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edpb.europa.eu">[European Data Protection Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edpb.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span> That matters for citizen-science stations because a hobbyist network can still create a public-facing data system. The more a station shares clips, metadata and live feeds outside the household, the weaker the argument that it is merely private domestic use.
+The European Data Protection Board makes the same point in general GDPR terms: household exemptions are interpreted narrowly, and constant recording that covers a public space or a neighbour’s property can bring video devices within GDPR rules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edpb.europa.eu">[European Data Protection Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edpb.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span> That matters for citizen-science stations because a hobbyist network can still create a public-facing data system. The more a station shares clips, metadata and live feeds outside the household, the weaker the argument that it is merely private domestic use.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-1-dark.svg" | relative_url }}" alt="Rules illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft Data Is Useful, But Not Neutral
 
-Automated UAP detectors need aviation context. Without it, ordinary aircraft, helicopters, drones, [satellites]({{ 'satellites/' | relative_url }}) and balloons can be mistaken for anomalies. [ADS-B]({{ 'ads-b/' | relative_url }}), short for Automatic Dependent Surveillance-Broadcast, is especially useful because many aircraft broadcast position and flight information that can be received by ground stations. The FAA describes ADS-B as a surveillance technology combining an aircraft’s positioning source, avionics and ground infrastructure to create a more precise surveillance interface than older radar-based systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
+Automated UAP detectors need aviation context. Without it, ordinary aircraft, helicopters, drones, [satellites]({{ 'satellites/' | relative_url }}) and balloons can be mistaken for anomalies. [ADS-B]({{ 'ads-b/' | relative_url }}), short for Automatic Dependent Surveillance-Broadcast, is especially useful because many aircraft broadcast position and flight information that can be received by ground stations. The FAA describes ADS-B as a surveillance technology combining an aircraft’s positioning source, avionics and ground infrastructure to create a more precise surveillance interface than older radar-based systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
 
-Scientific UAP systems already use this kind of data. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared camera work, for example, describes using ADS-B aircraft positions for extrinsic calibration, while its broader observatory architecture is built around multi-sensor capture, provenance and post-processing rather than isolated video clips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Open aviation-data networks also show why ADS-B has become attractive to researchers: OpenSky describes itself as an open air-traffic data network using ADS-B, Mode-S, ADS-C, FLARM and VHF data for research, and its publications trace a large-scale sensor-network approach back to 2013–2014. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Open source on opensky-network.org.</span></span></span>
+Scientific UAP systems already use this kind of data. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared camera work, for example, describes using ADS-B aircraft positions for extrinsic calibration, while its broader observatory architecture is built around multi-sensor capture, provenance and post-processing rather than isolated video clips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Open aviation-data networks also show why ADS-B has become attractive to researchers: OpenSky describes itself as an open air-traffic data network using ADS-B, Mode-S, ADS-C, FLARM and VHF data for research, and its publications trace a large-scale sensor-network approach back to 2013–2014.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-snippet">Open source on opensky-network.org.</span></span></span>
 
-The difficulty is that aircraft tracking is not socially neutral. Some aircraft operators, private individuals, businesses, public officials and security organisations have argued that real-time flight tracking can create privacy and safety risks. In the United States, the FAA’s Limiting Aircraft Data Displayed programme lets aircraft owners ask for their [flight data]({{ 'flight-data/' | relative_url }}) to be filtered from FAA SWIM feeds or from public display by participating websites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span><span class="citation-popover-snippet">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span></span></span> The FAA also offers a Privacy ICAO Address programme for eligible US-registered aircraft, acknowledging that some operators want to limit the availability of real-time ADS-B position and identification information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span>
+The difficulty is that aircraft tracking is not socially neutral. Some aircraft operators, private individuals, businesses, public officials and security organisations have argued that real-time flight tracking can create privacy and safety risks. In the United States, the FAA’s Limiting Aircraft Data Displayed programme lets aircraft owners ask for their [flight data]({{ 'flight-data/' | relative_url }}) to be filtered from FAA SWIM feeds or from public display by participating websites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span><span class="citation-popover-snippet">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span></span></span> The FAA also offers a Privacy ICAO Address programme for eligible US-registered aircraft, acknowledging that some operators want to limit the availability of real-time ADS-B position and identification information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span>
 
-Those programmes do not make ADS-B private in a technical sense. ADS-B is broadcast from aircraft, and independent receivers can still collect signals directly. ADS-B Exchange, for example, describes itself as an independent global flight-data network displaying aircraft broadcasts as received, while Wired has reported on the conflict between open flight trackers, wealthy aircraft owners and platforms that suppress or filter some aircraft data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span> The point for UAP stations is not that aircraft data must never be used. It is that operators should distinguish **using aircraft data for classification** from **publicly amplifying real-time aircraft movements**.
+Those programmes do not make ADS-B private in a technical sense. ADS-B is broadcast from aircraft, and independent receivers can still collect signals directly. ADS-B Exchange, for example, describes itself as an independent global flight-data network displaying aircraft broadcasts as received, while Wired has reported on the conflict between open flight trackers, wealthy aircraft owners and platforms that suppress or filter some aircraft data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span> The point for UAP stations is not that aircraft data must never be used. It is that operators should distinguish **using aircraft data for classification** from **publicly amplifying real-time aircraft movements**.
 
 A good governance pattern is to ingest ADS-B or other aviation data locally, use it to rule out known traffic, and publish only what is needed for the UAP claim. For example, a public event record might say “matched to a [known aircraft]({{ 'known-aircraft/' | relative_url }}) track” or “no ADS-B-correlated aircraft within the angular tolerance at the relevant time” without naming a private aircraft, exposing a registration or publishing a reusable real-time feed. Where a case genuinely depends on the aircraft identity, delayed, minimised or redacted release may be more proportionate than instant public posting.
 
@@ -498,19 +498,19 @@ A good governance pattern is to ingest ADS-B or other aviation data locally, use
 
 A passive optical camera pointed at the sky is usually not an airspace operator in the way a drone, aircraft, balloon or transmitter is. It is more like a telescope or weather camera. The legal risk changes when the station uses devices that can interfere with aircraft, radio spectrum or people on the ground.
 
-The clearest boundary is lasers. In the UK, the Laser Misuse (Vehicles) Act 2018 created offences for shining or directing a laser beam towards vehicles or air traffic facilities, and the Civil Aviation Authority says offenders can face an unlimited fine and up to five years in prison for endangering an aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2018/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span> For UAP monitoring, that makes active laser ranging, pointing aids or alignment beams a high-risk choice around flight paths. Even low-power lasers can be misunderstood, misused or reported as a hazard if directed skywards.
+The clearest boundary is lasers. In the UK, the Laser Misuse (Vehicles) Act 2018 created offences for shining or directing a laser beam towards vehicles or air traffic facilities, and the Civil Aviation Authority says offenders can face an unlimited fine and up to five years in prison for endangering an aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2018/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span> For UAP monitoring, that makes active laser ranging, pointing aids or alignment beams a high-risk choice around flight paths. Even low-power lasers can be misunderstood, misused or reported as a hazard if directed skywards.
 
-Radio equipment is another boundary. Passive reception is different from transmission, but national rules still matter. Ofcom explains that unauthorised reception can involve offences of interception and disclosure under section 48 of the Wireless Telegraphy Act 2006, including using wireless apparatus with intent to obtain information about messages for which the listener is not an intended recipient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Rules on using radio equipment</span><span class="citation-popover-snippet">www.ofcom.org.uk Rules on using radio equipment</span></span></span> That is especially relevant if a station proposes to record or stream airband voice communications. In the UK, publishing air-traffic-control audio is a very different risk from using open aircraft-position data to classify a light in the sky.
+Radio equipment is another boundary. Passive reception is different from transmission, but national rules still matter. Ofcom explains that unauthorised reception can involve offences of interception and disclosure under section 48 of the Wireless Telegraphy Act 2006, including using wireless apparatus with intent to obtain information about messages for which the listener is not an intended recipient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Rules on using radio equipment</span><span class="citation-popover-snippet">www.ofcom.org.uk Rules on using radio equipment</span></span></span> That is especially relevant if a station proposes to record or stream airband voice communications. In the UK, publishing air-traffic-control audio is a very different risk from using open aircraft-position data to classify a light in the sky.
 
-Active radar is more complicated again. Some UAP concepts use passive radar, which listens for reflections from existing transmitters, while others might be tempted by transmitting radar. The Galileo Project’s SkyWatch paper describes a passive multistatic radar concept based on commercial FM broadcast transmitters of opportunity, with receiver nodes estimating object positions and velocities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> By contrast, establishing an aeronautical radar ground station in the UK normally involves Ofcom licensing and CAA equipment approval processes, according to Ofcom’s aeronautical radar licence application guidance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Aeronautical radar ground station licence application form</span><span class="citation-popover-snippet">www.ofcom.org.uk Aeronautical radar ground station licence application form</span></span></span>
+Active radar is more complicated again. Some UAP concepts use passive radar, which listens for reflections from existing transmitters, while others might be tempted by transmitting radar. The Galileo Project’s SkyWatch paper describes a passive multistatic radar concept based on commercial FM broadcast transmitters of opportunity, with receiver nodes estimating object positions and velocities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> By contrast, establishing an aeronautical radar ground station in the UK normally involves Ofcom licensing and CAA equipment approval processes, according to Ofcom’s aeronautical radar licence application guidance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Aeronautical radar ground station licence application form</span><span class="citation-popover-snippet">www.ofcom.org.uk Aeronautical radar ground station licence application form</span></span></span>
 
-Drones add a separate issue. A fixed sky station may use drone-identification tools, but if the project itself flies drones to chase or image an event, it becomes subject to drone rules. The UK Civil Aviation Authority’s Drone Code emphasises respecting people and privacy when a drone carries a camera or listening device, and the CAA separately notes that drone users must comply with the same privacy regulations as anyone using a camera or recording device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> For automated UAP detection, that means the governance line is simple: fixed passive observation is one category; mobile airborne surveillance is another.
+Drones add a separate issue. A fixed sky station may use drone-identification tools, but if the project itself flies drones to chase or image an event, it becomes subject to drone rules. The UK Civil Aviation Authority’s Drone Code emphasises respecting people and privacy when a drone carries a camera or listening device, and the CAA separately notes that drone users must comply with the same privacy regulations as anyone using a camera or recording device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Open source on caa.co.uk.</span></span></span> For automated UAP detection, that means the governance line is simple: fixed passive observation is one category; mobile airborne surveillance is another.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-2-dark.svg" | relative_url }}" alt="Rules illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensitive Sites Change the Disclosure Calculation
 
-The most sensitive UAP-monitoring problem is not whether a station can detect an object. It is whether publishing the data could expose a site’s security posture, patrol rhythm, sensor coverage, aircraft movements or blind spots. That concern is not hypothetical. The US All-domain Anomaly Resolution Office, AARO, reported in its fiscal year 2024 UAP report that its GREMLIN prototype sensor system had begun collections for detecting, tracking and characterising UAP, and that the next step was a 90-day “pattern of life” collection at a national-security site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+The most sensitive UAP-monitoring problem is not whether a station can detect an object. It is whether publishing the data could expose a site’s security posture, patrol rhythm, sensor coverage, aircraft movements or blind spots. That concern is not hypothetical. The US All-domain Anomaly Resolution Office, AARO, reported in its fiscal year 2024 UAP report that its GREMLIN prototype sensor system had begun collections for detecting, tracking and characterising UAP, and that the next step was a 90-day “pattern of life” collection at a national-security site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 The phrase “pattern of life” is revealing. It means a sensor system is not just catching spectacular anomalies; it is building a baseline of ordinary activity. That baseline can be scientifically valuable because it helps distinguish birds, drones, aircraft, balloons, weather and sensor artefacts from genuinely unusual events. But near a military base, nuclear facility, airport, port, prison or critical-infrastructure site, the same baseline could also be operationally sensitive. A public feed that shows when aircraft usually depart, where unidentified drones tend to appear, or how cameras are positioned may be useful to more than researchers.
 
@@ -527,7 +527,7 @@ That creates a disclosure problem for citizen networks. Open science favours tra
 
 </div>
 
-This approach also protects credibility. A UAP station that posts dramatic clips without checking aircraft, satellite and local-security context may generate attention, but it will also generate avoidable false positives. NASA’s UAP report stressed that existing data problems include poor calibration, missing metadata and lack of multiple measurements; responsible disclosure is part of solving that problem, not a distraction from it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This approach also protects credibility. A UAP station that posts dramatic clips without checking aircraft, satellite and local-security context may generate attention, but it will also generate avoidable false positives. NASA’s UAP report stressed that existing data problems include poor calibration, missing metadata and lack of multiple measurements; responsible disclosure is part of solving that problem, not a distraction from it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -538,7 +538,7 @@ The hardest public-sharing cases are not the obvious false alarms. They are the 
 
 A useful event package can be transparent without being indiscriminate. The public version should normally include the time window, general location, camera orientation, lens and sensor type, frame rate, weather context, angular motion, processing steps, and the result of checks against aircraft and satellite data. It does not always need raw audio, exact GPS coordinates, private registrations, unmasked horizon imagery or live station access.
 
-This distinction becomes especially important when machine learning is involved. A classifier that labels “unknown” may simply mean “unknown to the model”, not “anomalous in the world”. Galileo Project publications describe observatory-class systems designed to conduct a census of aerial phenomena and recognise anomalies using multiple sensors and post-processing workflows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That scientific framing should carry through to public release: the station should publish what was observed and how it was classified, not leap from “unmatched object” to a sensational conclusion.
+This distinction becomes especially important when machine learning is involved. A classifier that labels “unknown” may simply mean “unknown to the model”, not “anomalous in the world”. Galileo Project publications describe observatory-class systems designed to conduct a census of aerial phenomena and recognise anomalies using multiple sensors and post-processing workflows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That scientific framing should carry through to public release: the station should publish what was observed and how it was classified, not leap from “unmatched object” to a sensational conclusion.
 
 Responsible sharing also means respecting negative results. If a station records a bright light and later matches it to an aircraft, satellite, meteor or balloon, the correction should remain attached to the original record. A public archive that keeps only the mysterious clips and silently removes explanations will train readers to overestimate anomaly rates. A better archive shows the full funnel: total detections, classified aircraft, classified satellites, insects or birds, weather artefacts, unresolved cases, and cases withdrawn after review.
 
@@ -551,13 +551,13 @@ The governance burden does not need to make citizen or academic sky monitoring i
 
 A practical policy for a station should cover five points.
 
-**Purpose and lawful basis.** State whether the station is for scientific observation, aircraft-safety context, meteor detection, UAP research or another defined purpose. Avoid vague “anything interesting” surveillance if the equipment captures identifiable people or property. ICO guidance for surveillance systems repeatedly centres necessity, proportionality, public awareness and data minimisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
+**Purpose and lawful basis.** State whether the station is for scientific observation, aircraft-safety context, meteor detection, UAP research or another defined purpose. Avoid vague “anything interesting” surveillance if the equipment captures identifiable people or property. ICO guidance for surveillance systems repeatedly centres necessity, proportionality, public awareness and data minimisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ico.org.uk">[ICO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ico.org.uk</span><span class="citation-popover-snippet">Open source on ico.org.uk.</span></span></span>
 
 **Field-of-view control.** Use horizon masks, privacy masks, restricted pan-tilt limits and event thresholds. Recheck after hardware changes, software updates and seasonal changes, because a winter tree line or new mounting angle can expose homes that were previously hidden.
 
-**Aircraft-data handling.** Use ADS-B and other aviation sources for filtering and calibration, but avoid publishing live private-aircraft tracking unless there is a clear public-interest reason and local law allows it. The FAA’s LADD and PIA programmes show that aviation authorities recognise a real privacy and security concern around aircraft data, even though independent reception remains technically possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span><span class="citation-popover-snippet">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span></span></span>
+**Aircraft-data handling.** Use ADS-B and other aviation sources for filtering and calibration, but avoid publishing live private-aircraft tracking unless there is a clear public-interest reason and local law allows it. The FAA’s LADD and PIA programmes show that aviation authorities recognise a real privacy and security concern around aircraft data, even though independent reception remains technically possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span><span class="citation-popover-snippet">Federal Aviation Administration Limiting Aircraft Data Displayed (LADD</span></span></span>
 
-**Spectrum and active-sensor controls.** Keep receive-only systems separate from transmitters, avoid skyward lasers, and check licensing before using radar or other radio-emitting equipment. Ofcom’s general licensing pages make clear that certain radio equipment and spectrum uses require a licence, while aeronautical radar ground-station guidance points to Ofcom licensing and CAA approval pathways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/licences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Licences</span><span class="citation-popover-snippet">www.ofcom.org.uk Licences</span></span></span>
+**Spectrum and active-sensor controls.** Keep receive-only systems separate from transmitters, avoid skyward lasers, and check licensing before using radar or other radio-emitting equipment. Ofcom’s general licensing pages make clear that certain radio equipment and spectrum uses require a licence, while aeronautical radar ground-station guidance points to Ofcom licensing and CAA approval pathways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/licences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Licences</span><span class="citation-popover-snippet">www.ofcom.org.uk Licences</span></span></span>
 
 **Disclosure and escalation.** Decide in advance what is public, what is delayed, what is redacted and what is reported to authorities. A station near an airport, defence site or critical infrastructure should have stricter release rules than a rural meteor camera looking over open fields.
 
@@ -567,194 +567,194 @@ The final measure is cultural rather than technical: do not treat governance as 
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-3-dark.svg" | relative_url }}" alt="Rules illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Rules Apply to Sky Monitoring Stations?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Rules Apply to Sky Monitoring Stations?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Schneier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
+</h4>
+<p class="fr-book-author">By Bruce Schneier</p>
         
-        <p class="fr-book-desc">Explains surveillance, privacy and responsible data collection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains surveillance, privacy and responsible data collection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Addresses lawful handling of digital evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses lawful handling of digital evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
-        </h4>
-        <p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
+</h4>
+<p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
         
-        <p class="fr-book-desc">Covers governance and secure system design principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers governance and secure system design principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+by+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages responsible evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages responsible evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="rules-what-rules-apply-to-sky-monitoring-stations-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -770,7 +770,7 @@ The final measure is cultural rather than technical: do not treat governance as 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -790,7 +790,7 @@ The final measure is cultural rather than technical: do not treat governance as 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -822,7 +822,7 @@ The final measure is cultural rather than technical: do not treat governance as 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -874,7 +874,7 @@ The final measure is cultural rather than technical: do not treat governance as 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -919,7 +919,7 @@ The final measure is cultural rather than technical: do not treat governance as 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -960,395 +960,395 @@ The final measure is cultural rather than technical: do not treat governance as 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/how-can-we-comply-with-the-data-protection-principles-when-using-surveillance-systems/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-the-public/home-cctv-systems/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-the-public/home-cctv-systems/</a>  
+   Link:<a href="https://ico.org.uk/for-the-public/home-cctv-systems/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-the-public/home-cctv-systems/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: domestic cctv using cctv systems on your property  
-   Link: <a href="https://www.gov.uk/government/publications/guidance-on-the-use-of-domestic-cctv/domestic-cctv-using-cctv-systems-on-your-property" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-the-use-of-domestic-cctv/domestic-cctv-using-cctv-systems-on-your-property</a>  
+   Link:<a href="https://www.gov.uk/government/publications/guidance-on-the-use-of-domestic-cctv/domestic-cctv-using-cctv-systems-on-your-property" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-the-use-of-domestic-cctv/domestic-cctv-using-cctv-systems-on-your-property</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
+   Link:<a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/publications" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/publications</a>  
+   Link:<a href="https://opensky-network.org/about/publications" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/publications</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Limiting Aircraft Data Displayed (LADD)  
-   Link: <a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
+   Link:<a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency</a>  
+   Link:<a href="https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/elon-musk-elonjet-flight-tracker-transparency</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2018/9" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2018/9</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2018/9" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2018/9</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/</a>  
+   Link:<a href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Rules on using radio equipment  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/radio-spectrum-and-the-law</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Aeronautical radar ground station licence application form  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/aeronautical/forms/ofw593.pdf?v=326577</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/protecting-people-s-privacy-points-21-to-26/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/reporting-concerns-about-safety-privacy-and-illegal-flying/concerns-about-privacy-and-illegal-use-of-drones/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Licences  
-   Link: <a href="https://www.ofcom.org.uk/licences" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/licences</a>  
+   Link:<a href="https://www.ofcom.org.uk/licences" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/licences</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: icao.int  
    Title: wp 479 en  
-   Link: <a href="https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_479_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_479_en.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_479_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_479_en.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/Laser%20Illuminations%20Progress/United%20Kingdom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/Laser%20Illuminations%20Progress/United%20Kingdom.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/safety/Documents/Laser%20Illuminations%20Progress/United%20Kingdom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/safety/Documents/Laser%20Illuminations%20Progress/United%20Kingdom.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: GOV.UK  
    Title: drones are you flying yours safely and legally  
-   Link: <a href="https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally</a>  
+   Link:<a href="https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/drones-are-you-flying-yours-safely-and-legally</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: GOV.UK  
    Title: update to surveillance camera code  
-   Link: <a href="https://www.gov.uk/government/publications/update-to-surveillance-camera-code" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/update-to-surveillance-camera-code</a>  
+   Link:<a href="https://www.gov.uk/government/publications/update-to-surveillance-camera-code" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/update-to-surveillance-camera-code</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: GOV.UK  
    Title: tougher laser misuse laws come into force  
-   Link: <a href="https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force</a>  
+   Link:<a href="https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: GOV.UK  
    Title: new measures to tackle the misuse of lasers gain royal assent  
-   Link: <a href="https://www.gov.uk/government/news/new-measures-to-tackle-the-misuse-of-lasers-gain-royal-assent" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-measures-to-tackle-the-misuse-of-lasers-gain-royal-assent</a>  
+   Link:<a href="https://www.gov.uk/government/news/new-measures-to-tackle-the-misuse-of-lasers-gain-royal-assent" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/new-measures-to-tackle-the-misuse-of-lasers-gain-royal-assent</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7b91a240f0b62826a046c0/Surveillance_Camera_Code_of_Practice_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b91a240f0b62826a046c0/Surveillance_Camera_Code_of_Practice_WEB.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7b91a240f0b62826a046c0/Surveillance_Camera_Code_of_Practice_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7b91a240f0b62826a046c0/Surveillance_Camera_Code_of_Practice_WEB.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ofcom.org.uk  
    Title: Radio controlled models  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/Radio-controlled-models" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/Radio-controlled-models</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/Radio-controlled-models" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/Radio-controlled-models</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/maritime-radio/ofw449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/maritime-radio/ofw449.pdf</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/maritime-radio/ofw449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/manage-your-licence/maritime-radio/ofw449.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ofcom.org.uk  
    Title: aeronautical licensing  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/aeronautical-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/aeronautical-licensing</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/aeronautical-licensing" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/aeronautical-licensing</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ofcom.org.uk  
    Title: short range devices  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/radio-equipment/short-range-devices</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/spectrum/frequencies/spectrum-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/frequencies/spectrum-information</a>  
+   Link:<a href="https://www.ofcom.org.uk/spectrum/frequencies/spectrum-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/spectrum/frequencies/spectrum-information</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
+   Link:<a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/data/scientific" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data/scientific</a>  
+   Link:<a href="https://opensky-network.org/data/scientific" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data/scientific</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/id/ukpga/2006/36" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/id/ukpga/2006/36</a>  
+   Link:<a href="https://www.legislation.gov.uk/id/ukpga/2006/36" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/id/ukpga/2006/36</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: videosurveillance.blog.gov.uk  
    Title: surveillance camera code of practice  
-   Link: <a href="https://videosurveillance.blog.gov.uk/category/surveillance-camera-code-of-practice/" target="_blank" rel="noopener noreferrer nofollow">https://videosurveillance.blog.gov.uk/category/surveillance-camera-code-of-practice/</a>  
+   Link:<a href="https://videosurveillance.blog.gov.uk/category/surveillance-camera-code-of-practice/" target="_blank" rel="noopener noreferrer nofollow">https://videosurveillance.blog.gov.uk/category/surveillance-camera-code-of-practice/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
+   Link:<a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: bathnes.gov.uk  
    Title: CCTV Code of Practice Document 2025  
-   Link: <a href="https://www.bathnes.gov.uk/sites/default/files/CCTV_Code_of_Practice_Document_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bathnes.gov.uk/sites/default/files/CCTV_Code_of_Practice_Document_2025.pdf</a>  
+   Link:<a href="https://www.bathnes.gov.uk/sites/default/files/CCTV_Code_of_Practice_Document_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bathnes.gov.uk/sites/default/files/CCTV_Code_of_Practice_Document_2025.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: sky.com  
-   Link: <a href="https://www.sky.com/help/articles/privacy-hub-home" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/help/articles/privacy-hub-home</a>  
+   Link:<a href="https://www.sky.com/help/articles/privacy-hub-home" target="_blank" rel="noopener noreferrer nofollow">https://www.sky.com/help/articles/privacy-hub-home</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: roydonessex-parish.gov.uk  
-   Link: <a href="https://roydonessex-parish.gov.uk/wp-content/uploads/2026/05/ICO-Video-surveillance-including-guidance-for-organisations-using-CCTV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://roydonessex-parish.gov.uk/wp-content/uploads/2026/05/ICO-Video-surveillance-including-guidance-for-organisations-using-CCTV.pdf</a>  
+   Link:<a href="https://roydonessex-parish.gov.uk/wp-content/uploads/2026/05/ICO-Video-surveillance-including-guidance-for-organisations-using-CCTV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://roydonessex-parish.gov.uk/wp-content/uploads/2026/05/ICO-Video-surveillance-including-guidance-for-organisations-using-CCTV.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: cullomptontowncouncil.gov.uk  
-   Link: <a href="https://cullomptontowncouncil.gov.uk/wp-content/uploads/2023/06/012-CCTV-Code-of-Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cullomptontowncouncil.gov.uk/wp-content/uploads/2023/06/012-CCTV-Code-of-Practice.pdf</a>  
+   Link:<a href="https://cullomptontowncouncil.gov.uk/wp-content/uploads/2023/06/012-CCTV-Code-of-Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cullomptontowncouncil.gov.uk/wp-content/uploads/2023/06/012-CCTV-Code-of-Practice.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/ladd/request" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd/request</a>  
+   Link:<a href="https://www.faa.gov/pilots/ladd/request" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd/request</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: space.com  
    Title: pentagon ufo uap office aaro sensors anomalies orbit  
-   Link: <a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: ofcomlive.my.site.com  
-   Link: <a href="https://ofcomlive.my.site.com/" target="_blank" rel="noopener noreferrer nofollow">https://ofcomlive.my.site.com/</a>  
+   Link:<a href="https://ofcomlive.my.site.com/" target="_blank" rel="noopener noreferrer nofollow">https://ofcomlive.my.site.com/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: cnpd.public.lu  
-   Link: <a href="https://cnpd.public.lu/content/dam/cnpd/en/dossiers-thematiques/videosurveillance/cnpd-lignes-directrices-vidosurveillance-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnpd.public.lu/content/dam/cnpd/en/dossiers-thematiques/videosurveillance/cnpd-lignes-directrices-vidosurveillance-en.pdf</a>  
+   Link:<a href="https://cnpd.public.lu/content/dam/cnpd/en/dossiers-thematiques/videosurveillance/cnpd-lignes-directrices-vidosurveillance-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnpd.public.lu/content/dam/cnpd/en/dossiers-thematiques/videosurveillance/cnpd-lignes-directrices-vidosurveillance-en.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: met.police.uk  
-   Link: <a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
+   Link:<a href="https://www.met.police.uk/advice/advice-and-information/drones/drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/drones/drones/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: ruskington.parish.lincolnshire.gov.uk  
    Title: drone activity over residential areas guidance for ruskington residents  
-   Link: <a href="https://ruskington.parish.lincolnshire.gov.uk/news/article/204/drone-activity-over-residential-areas-guidance-for-ruskington-residents" target="_blank" rel="noopener noreferrer nofollow">https://ruskington.parish.lincolnshire.gov.uk/news/article/204/drone-activity-over-residential-areas-guidance-for-ruskington-residents</a>  
+   Link:<a href="https://ruskington.parish.lincolnshire.gov.uk/news/article/204/drone-activity-over-residential-areas-guidance-for-ruskington-residents" target="_blank" rel="noopener noreferrer nofollow">https://ruskington.parish.lincolnshire.gov.uk/news/article/204/drone-activity-over-residential-areas-guidance-for-ruskington-residents</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: edpb.europa.eu  
-   Link: <a href="https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf</a>  
+   Link:<a href="https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edpb.europa.eu/system/files/2026-04/summary_edpb_guidelines_201903_video_devices_en.pdf</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: Wikipedia  
    Title: Open Sky Network  
-   Link: <a href="https://en.wikipedia.org/wiki/OpenSky_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OpenSky_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/OpenSky_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OpenSky_Network</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: breakingdefense.com  
    Title: All-domain Anomaly Resolution Office  
-   Link: <a href="https://breakingdefense.com/tag/all-domain-anomaly-resolution-office-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/tag/all-domain-anomaly-resolution-office-aaro/</a>  
+   Link:<a href="https://breakingdefense.com/tag/all-domain-anomaly-resolution-office-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/tag/all-domain-anomaly-resolution-office-aaro/</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: europarl.europa.eu  
-   Link: <a href="https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html</a>  
+   Link:<a href="https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/doceo/document/E-9-2024-000318_EN.html</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: edpb.europa.eu  
    Title: edpb guidelines 201903 video devices en 0  
-   Link: <a href="https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf</a>  
+   Link:<a href="https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices_en_0.pdf</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/privacy-rules-when-flying-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/privacy-rules-when-flying-drones/</a>  
+   Link:<a href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/privacy-rules-when-flying-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/privacy-rules-when-flying-drones/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/cap-670-sa-202101/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/cap-670-sa-202101/</a>  
+   Link:<a href="https://www.caa.co.uk/data-and-publications/publications/documents/content/cap-670-sa-202101/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/data-and-publications/publications/documents/content/cap-670-sa-202101/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/communication-navigation-and-surveillance/aeronautical-radio-stations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/communication-navigation-and-surveillance/aeronautical-radio-stations/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/communication-navigation-and-surveillance/aeronautical-radio-stations/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/communication-navigation-and-surveillance/aeronautical-radio-stations/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/25586" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/25586</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/25586" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/25586</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
+   Link:<a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: globe.adsbexchange.com  
-   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
+   Link:<a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/make-a-complaint/home-cctv-complaints/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/make-a-complaint/home-cctv-complaints/</a>  
+   Link:<a href="https://ico.org.uk/make-a-complaint/home-cctv-complaints/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/make-a-complaint/home-cctv-complaints/</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: ico.org.uk  
-   Link: <a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-considerations-for-technologies-other-than-cctv/unmanned-aerial-systems-uas-drones/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-considerations-for-technologies-other-than-cctv/unmanned-aerial-systems-uas-drones/</a>  
+   Link:<a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-considerations-for-technologies-other-than-cctv/unmanned-aerial-systems-uas-drones/" target="_blank" rel="noopener noreferrer nofollow">https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/cctv-and-video-surveillance/guidance-on-video-surveillance-including-cctv/additional-considerations-for-technologies-other-than-cctv/unmanned-aerial-systems-uas-drones/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/62606/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/62606/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/62606/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/62606/pdf/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=appinventor.ai_ondraaudy.ADSBFT</a>  
 
 ### Additional References
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LwiRowV3DwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LwiRowV3DwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal rules home cctv privacy neighbor data protection Are you breaking the law with your home CCTV setup?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LwiRowV3DwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LwiRowV3DwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legal rules home cctv privacy neighbor data protection Are you breaking the law with your home CCTV setup?...</p></details>
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: youtube.com  
    Title: Privacy in the Age of ADS-B  
-   Link: <a href="https://www.youtube.com/watch?v=gLtBcLOY9xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gLtBcLOY9xM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 16 | Aviation’s New Privacy Crisis: How ADS-B, FAA Reform &amp; Public Tracking Are...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gLtBcLOY9xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gLtBcLOY9xM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 16 | Aviation’s New Privacy Crisis: How ADS-B, FAA Reform &amp; Public Tracking Are...</p></details>
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: youtube.com  
    Title: My neighbour's CCTV' camera is spying on me. What can I do? [LBC Legal Hour]  
-   Link: <a href="https://www.youtube.com/watch?v=q0xgK2wlLSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0xgK2wlLSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy in the Age of ADS-B - Brought to you by BendixKing and SocialFlight...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q0xgK2wlLSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q0xgK2wlLSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy in the Age of ADS-B - Brought to you by BendixKing and SocialFlight...</p></details>
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: fcc.gov  
-   Link: <a href="https://www.fcc.gov/sites/default/files/interception_and_divulgence_of_radio_communications.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/sites/default/files/interception_and_divulgence_of_radio_communications.pdf</a>  
+   Link:<a href="https://www.fcc.gov/sites/default/files/interception_and_divulgence_of_radio_communications.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fcc.gov/sites/default/files/interception_and_divulgence_of_radio_communications.pdf</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: youtube.com  
    Title: What's the Law on CCTV, microphones and overlooking someone else?  
-   Link: <a href="https://www.youtube.com/watch?v=go36aW2p0QM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=go36aW2p0QM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are you breaking the law with your home CCTV setup?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=go36aW2p0QM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=go36aW2p0QM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are you breaking the law with your home CCTV setup?...</p></details>
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: bitkom.org  
-   Link: <a href="https://www.bitkom.org/sites/main/files/2019-09/20190909-bitkom-position-edpb-guidelines-videosurveillance-and-processing-through-video-devices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bitkom.org/sites/main/files/2019-09/20190909-bitkom-position-edpb-guidelines-videosurveillance-and-processing-through-video-devices.pdf</a>  
+   Link:<a href="https://www.bitkom.org/sites/main/files/2019-09/20190909-bitkom-position-edpb-guidelines-videosurveillance-and-processing-through-video-devices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bitkom.org/sites/main/files/2019-09/20190909-bitkom-position-edpb-guidelines-videosurveillance-and-processing-through-video-devices.pdf</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: enlutc.co.uk  
-   Link: <a href="https://enlutc.co.uk/wp-content/uploads/2025/08/cctv-code-of-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://enlutc.co.uk/wp-content/uploads/2025/08/cctv-code-of-practice.pdf</a>  
+   Link:<a href="https://enlutc.co.uk/wp-content/uploads/2025/08/cctv-code-of-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://enlutc.co.uk/wp-content/uploads/2025/08/cctv-code-of-practice.pdf</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: le.ac.uk  
-   Link: <a href="https://le.ac.uk/-/media/uol/docs/about-us/professional-services/estates/project-management-procedures-and-forms/design-guides/cctv-code-of-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/-/media/uol/docs/about-us/professional-services/estates/project-management-procedures-and-forms/design-guides/cctv-code-of-practice.pdf</a>  
+   Link:<a href="https://le.ac.uk/-/media/uol/docs/about-us/professional-services/estates/project-management-procedures-and-forms/design-guides/cctv-code-of-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/-/media/uol/docs/about-us/professional-services/estates/project-management-procedures-and-forms/design-guides/cctv-code-of-practice.pdf</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
+   Link:<a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  

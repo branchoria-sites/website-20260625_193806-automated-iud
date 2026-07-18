@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-hessdalen/
 description: Focused pages that expand on Hessdalen.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_hessdalen_station_356504
 parent_title: Hessdalen
@@ -16,7 +16,7 @@ parent_permalink: /hessdalen/
 
 # Explore Topics in Hessdalen
 
-The following pages expand on the main **[Hessdalen]({{ '/hessdalen/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Hessdalen]({{ '/hessdalen/' | relative_url }})** page and cover its key branches in.
 
 - [Trigger Rules]({{ '/trigger-rules-019474/' | relative_url }})
 - [False Alarms]({{ '/false-alarms/' | relative_url }})

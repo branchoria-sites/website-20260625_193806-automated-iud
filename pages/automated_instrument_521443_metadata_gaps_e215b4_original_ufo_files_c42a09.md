@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_
 
 ## Introduction
 
-A reposted UFO clip may show the same pixels as the original recording, but it often no longer contains the same evidence. By the time a video has been uploaded, downloaded, cropped, screen-recorded, reposted and shared across social platforms, much of the information needed to test what happened can be gone. Time records, camera settings, device information, frame history, audio quality and even clues about whether the file was edited may be lost or altered during the process. For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this distinction is critical: science depends on preserving measurements, not just images. NASA's UAP study emphasised that investigations are frequently limited by missing sensor metadata and poor data quality, making reliable interpretation difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+A reposted UFO clip may show the same pixels as the original recording, but it often no longer contains the same evidence. By the time a video has been uploaded, downloaded, cropped, screen-recorded, reposted and shared across social platforms, much of the information needed to test what happened can be gone. Time records, camera settings, device information, frame history, audio quality and even clues about whether the file was edited may be lost or altered during the process. For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), this distinction is critical: science depends on preserving measurements, not just images. NASA's UAP study emphasised that investigations are frequently limited by missing sensor metadata and poor data quality, making reliable interpretation difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-1-dark.svg" | relative_url }}" alt="Original Files illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Within the broader problem of [metadata gaps]({{ 'metadata/' | relative_url }}),
 
 The most important difference between an original file and a reposted clip is that the original retains context.
 
-Modern cameras and phones record far more than visible imagery. Video files can contain [timestamps]({{ 'timestamps/' | relative_url }}), device identifiers, frame rates, resolution details, encoding settings and other metadata that help investigators reconstruct how a recording was made. Metadata analysis is widely used in digital forensics because it can reveal origin, [timing]({{ 'timing/' | relative_url }}) and authenticity information that is invisible during normal viewing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish+2techfusion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span>
+Modern cameras and phones record far more than visible imagery. Video files can contain [timestamps]({{ 'timestamps/' | relative_url }}), device identifiers, frame rates, resolution details, encoding settings and other metadata that help investigators reconstruct how a recording was made. Metadata analysis is widely used in digital forensics because it can reveal origin, [timing]({{ 'timing/' | relative_url }}) and authenticity information that is invisible during normal viewing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish+2techfusion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span>
 
 When a UFO video is reposted, several things may happen:
 
@@ -306,7 +306,7 @@ When a UFO video is reposted, several things may happen:
 
 </div>
 
-Importantly, many social platforms do not merely remove metadata from the original file. They generate a new version optimised for storage and streaming. The resulting upload is effectively a different file with a different technical history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
+Importantly, many social platforms do not merely remove metadata from the original file. They generate a new version optimised for storage and streaming. The resulting upload is effectively a different file with a different technical history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
 For UFO analysis, that loss matters because investigators often need to answer basic questions:
 
@@ -331,21 +331,21 @@ The original file often contains clues that help answer these questions. The rep
 
 A common misconception is that compression only reduces image quality. In practice, it can also erase evidence.
 
-Most social-media platforms re-encode uploaded videos using their own compression systems. Re-encoding changes the structure of the file, modifies frame relationships and can introduce visual artefacts that were not present in the original recording. Researchers in video forensics have shown that platform-specific processing leaves identifiable traces, meaning that a social-media copy may differ substantially from the source file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</span></span></span>
+Most social-media platforms re-encode uploaded videos using their own compression systems. Re-encoding changes the structure of the file, modifies frame relationships and can introduce visual artefacts that were not present in the original recording. Researchers in video forensics have shown that platform-specific processing leaves identifiable traces, meaning that a social-media copy may differ substantially from the source file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</span></span></span>
 
 This creates several problems for UFO investigations.
 
 ### Apparent Shapes Can Change
 
-Small bright objects are especially vulnerable to compression artefacts. A distant aircraft light, satellite reflection or bright planet can appear to pulse, deform or change shape after repeated compression cycles. Compression algorithms prioritise storage efficiency rather than scientific accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video codecs and formats</span><span class="citation-popover-snippet">Amped BlogBehind the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifa...</span></span></span>
+Small bright objects are especially vulnerable to compression artefacts. A distant aircraft light, satellite reflection or bright planet can appear to pulse, deform or change shape after repeated compression cycles. Compression algorithms prioritise storage efficiency rather than scientific accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.ampedsoftware.com">[Amped Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.ampedsoftware.com</span><span class="citation-popover-title">video codecs and formats</span><span class="citation-popover-snippet">Amped BlogBehind the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifa...</span></span></span>
 
 ### Frame-Level Information Can Be Lost
 
-Investigators sometimes analyse individual frames to estimate motion, identify blinking navigation lights or compare object behaviour across consecutive images. Re-encoding may alter frame timing or remove subtle details needed for that analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</span></span></span>
+Investigators sometimes analyse individual frames to estimate motion, identify blinking navigation lights or compare object behaviour across consecutive images. Re-encoding may alter frame timing or remove subtle details needed for that analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</span></span></span>
 
 ### Evidence of Editing Becomes Harder to Detect
 
-Digital-forensics specialists frequently inspect metadata, encoding histories and file structures to identify cuts, edits and recompression events. These traces are easier to evaluate when the original recording is available. Once a clip has passed through multiple platforms, distinguishing original characteristics from platform-generated changes becomes much harder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics+2bdforensics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">spotting the fakes understanding video authentication techniques</span><span class="citation-popover-snippet">Eclipse ForensicsSpotting the Fakes: Understanding Video Authentication...24 Dec 2025 — Through forensic video analysis, specialists exa...</span></span></span>
+Digital-forensics specialists frequently inspect metadata, encoding histories and file structures to identify cuts, edits and recompression events. These traces are easier to evaluate when the original recording is available. Once a clip has passed through multiple platforms, distinguishing original characteristics from platform-generated changes becomes much harder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics+2bdforensics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">spotting the fakes understanding video authentication techniques</span><span class="citation-popover-snippet">Eclipse ForensicsSpotting the Fakes: Understanding Video Authentication...24 Dec 2025 — Through forensic video analysis, specialists exa...</span></span></span>
 
 In other words, a reposted UFO clip may not merely contain less information. It may contain new artefacts that can be mistaken for evidence.
 
@@ -355,9 +355,9 @@ In other words, a reposted UFO clip may not merely contain less information. It 
 
 The phrase "chain of [custody]({{ 'custody/' | relative_url }})" is usually associated with criminal investigations, but the principle applies equally to unusual aerial observations.
 
-Chain of custody means maintaining a documented record of how evidence moved from collection to analysis. If investigators cannot determine where a file came from, who handled it or what modifications occurred along the way, confidence in the evidence decreases. Digital-forensics guidance consistently treats preservation of original files as a core requirement for reliable analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE+2computerforensicslab.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</span></span></span>
+Chain of custody means maintaining a documented record of how evidence moved from collection to analysis. If investigators cannot determine where a file came from, who handled it or what modifications occurred along the way, confidence in the evidence decreases. Digital-forensics guidance consistently treats preservation of original files as a core requirement for reliable analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE+2computerforensicslab.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Digital Forensic Video Analysis</span><span class="citation-popover-snippet">SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</span></span></span>
 
-A useful illustration comes from outside the UFO field. In 2025, forensic experts examining video metadata associated with publicly released surveillance footage identified evidence that the file had been assembled and exported through editing software rather than being a direct untouched recording. The debate was not primarily about what appeared on screen; it centred on metadata, file history and chain-of-custody questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
+A useful illustration comes from outside the UFO field. In 2025, forensic experts examining video metadata associated with publicly released surveillance footage identified evidence that the file had been assembled and exported through editing software rather than being a direct untouched recording. The debate was not primarily about what appeared on screen; it centred on metadata, file history and chain-of-custody questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
 
 The lesson for UFO investigations is straightforward. If analysts receive only a reposted clip, they often cannot determine whether unusual features originated in the scene, in the camera, during editing or during platform processing.
 
@@ -374,7 +374,7 @@ Unlike casual smartphone recordings, a scientific detector network is designed t
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Precise timestamps.
-* Sensor calibration records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* Sensor calibration records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 * Camera orientation.
 * Exposure settings.
 * Environmental conditions.
@@ -383,7 +383,7 @@ Unlike casual smartphone recordings, a scientific detector network is designed t
 
 </div>
 
-NASA's UAP study repeatedly stressed the importance of calibrated sensors, multiple measurements and complete metadata because unusual observations can sometimes be explained once the characteristics of the sensor are properly understood. The report notes that some apparent anomalies have been identified as sensor artefacts after careful metadata and calibration [review]({{ 'review/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+NASA's UAP study repeatedly stressed the importance of calibrated sensors, multiple measurements and complete metadata because unusual observations can sometimes be explained once the characteristics of the sensor are properly understood. The report notes that some apparent anomalies have been identified as sensor artefacts after careful metadata and calibration [review]({{ 'review/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 An automated detector network therefore gains value by preserving the information that social-media workflows tend to destroy. If a system records an unusual object, investigators should be able to retrieve:
 
@@ -391,7 +391,7 @@ An automated detector network therefore gains value by preserving the informatio
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * The original video.
-* The original sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+* The original sensor metadata.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 * Nearby sensor observations.
 * Environmental measurements.
 * Logs showing that the file has not been altered.
@@ -425,194 +425,194 @@ For this reason, automated UFO detector projects should treat the original recor
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-3-dark.svg" | relative_url }}" alt="Original Files illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_original_ufo_files_c42a09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Reposted UFO Clips Lose Their Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Reposted UFO Clips Lose Their Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidentiary standards, witness credibility, and the importance of reliable data in UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidentiary standards, witness credibility, and the importance of reliable data in UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photo Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tonADQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Photo Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photo Forensics">Photo Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Hany Farid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Photo Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tonADQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Photo Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Photo Forensics">Photo Forensics</a>
+</h4>
+<p class="fr-book-author">By Hany Farid</p>
         
-        <p class="fr-book-desc">Explains how digital media can be altered and how evidence is evaluated when original files and metadata are missing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how digital media can be altered and how evidence is evaluated when original files and metadata are missing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Photo+Forensics+by+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Covers preservation of digital evidence, chain of custody, metadata, and forensic examination of electronic files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers preservation of digital evidence, chain of custody, metadata, and forensic examination of electronic files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Mobile Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EMQOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Mobile Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Mobile Forensics">Practical Mobile Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Satish Bommisetty, Rohit Tamma et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Mobile Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EMQOBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Mobile Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Mobile Forensics">Practical Mobile Forensics</a>
+</h4>
+<p class="fr-book-author">By Satish Bommisetty, Rohit Tamma et al.</p>
         
-        <p class="fr-book-desc">Helps readers understand what original mobile recordings contain beyond visible pixels, including metadata and device records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand what original mobile recordings contain beyond visible pixels, including metadata and device records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Mobile+Forensics+by+Satish+Bommisetty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Photo+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Photo Forensics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Photo+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Photo Forensics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="original-files-why-reposted-ufo-clips-lose-their-evidence-automated-instrumented-ufo-detectors-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ For this reason, automated UFO detector projects should treat the original recor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ For this reason, automated UFO detector projects should treat the original recor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ For this reason, automated UFO detector projects should treat the original recor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ For this reason, automated UFO detector projects should treat the original recor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ For this reason, automated UFO detector projects should treat the original recor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,160 +818,160 @@ For this reason, automated UFO detector projects should treat the original recor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techfusion.com  
-   Link: <a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
+   Link:<a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: swgde.org  
    Title: Best Practices for Digital Forensic Video Analysis  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-v-001-best-practices-for-digital-forensic-video-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDEBest Practices for Digital Forensic Video Analysis - SWGDEForensic Video Analysis (FVA) is defined as the scientific examina...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bdforensics.com  
-   Link: <a href="https://bdforensics.com/services/audio-and-video-forensics/video-authentication" target="_blank" rel="noopener noreferrer nofollow">https://bdforensics.com/services/audio-and-video-forensics/video-authentication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Video Authentication &amp; Forensic Analysis ServicesForensic video analysis is the technical examination of a video file to detect editi...</p></details>
+   Link:<a href="https://bdforensics.com/services/audio-and-video-forensics/video-authentication" target="_blank" rel="noopener noreferrer nofollow">https://bdforensics.com/services/audio-and-video-forensics/video-authentication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our Video Authentication &amp; Forensic Analysis ServicesForensic video analysis is the technical examination of a video file to detect editi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: computerforensicslab.co.uk  
    Title: social media evidence types legal cases  
-   Link: <a href="https://computerforensicslab.co.uk/social-media-evidence-types-legal-cases/" target="_blank" rel="noopener noreferrer nofollow">https://computerforensicslab.co.uk/social-media-evidence-types-legal-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Essential Social Media Evidence Types for Legal Cases16 Feb 2026 — Key considerations for multimedia forensic analysis include: Verifyi...</p></details>
+   Link:<a href="https://computerforensicslab.co.uk/social-media-evidence-types-legal-cases/" target="_blank" rel="noopener noreferrer nofollow">https://computerforensicslab.co.uk/social-media-evidence-types-legal-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Essential Social Media Evidence Types for Legal Cases16 Feb 2026 — Key considerations for multimedia forensic analysis include: Verifyi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bdforensics.com  
    Title: what is a forensic image  
-   Link: <a href="https://bdforensics.com/blog/what-is-a-forensic-image" target="_blank" rel="noopener noreferrer nofollow">https://bdforensics.com/blog/what-is-a-forensic-image</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>? Definition &amp; Court Standards24 Mar 2026 — Working on original evidence risks accidental alteration of timestamps, metadata, or file con...</p></details>
+   Link:<a href="https://bdforensics.com/blog/what-is-a-forensic-image" target="_blank" rel="noopener noreferrer nofollow">https://bdforensics.com/blog/what-is-a-forensic-image</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>? Definition &amp; Court Standards24 Mar 2026 — Working on original evidence risks accidental alteration of timestamps, metadata, or file con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: Metadata Shows the FBI's 'Raw' Jeffrey Epstein Prison Video Was Likely Modified  
-   Link: <a href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</p></details>
+   Link:<a href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice and FBI from the night of Jeffrey Epstein&#x27;s death in 2019. Contrary to agency claims that the video was &quot;raw,&quot; Mehr...</p></details>
+   Link:<a href="https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice and FBI from the night of Jeffrey Epstein&#x27;s death in 2019. Contrary to agency claims that the video was &quot;raw,&quot; Mehr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: swgde.org  
    Title: 2025 12 10 Best Practices for Digital Forensic Video Analysis 18 V 001 2.0  
-   Link: <a href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Digital Forensic Video Analysis10 Dec 2025 — There are several [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) and commercial tools available for file ana...</p></details>
+   Link:<a href="https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swgde.org/wp-content/uploads/2025/12/2025-12-10-Best-Practices-for-Digital-Forensic-Video-Analysis-18-V-001-2.0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Digital Forensic Video Analysis10 Dec 2025 — There are several [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) and commercial tools available for file ana...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
+   Link:<a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blog.ampedsoftware.com  
    Title: video codecs and formats  
-   Link: <a href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogBehind the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifa...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2024/11/08/video-codecs-and-formats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amped BlogBehind the Screen: Video Codecs and Formats Unveiled8 Nov 2024 — Impact of Compression on Forensic Analysis: Compression artifa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eclipseforensics.com  
    Title: spotting the fakes understanding video authentication techniques  
-   Link: <a href="https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsSpotting the Fakes: Understanding Video Authentication...24 Dec 2025 — Through forensic video analysis, specialists exa...</p></details>
+   Link:<a href="https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eclipse ForensicsSpotting the Fakes: Understanding Video Authentication...24 Dec 2025 — Through forensic video analysis, specialists exa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Video" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoVideo is an electronic medium used for the recording, copying, playback, transmission, and display of moving visual images and pi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Video" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VideoVideo is an electronic medium used for the recording, copying, playback, transmission, and display of moving visual images and pi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based for...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis for Source Camera Identification from EXIF...by P Yang · 2026 · Cited by 1 — Since the primary challenge for metadata-based for...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: axon.com  
-   Link: <a href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.axon.com/resources/digital-evidence-management-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</p></details>
+   Link:<a href="https://www.axon.com/resources/digital-evidence-management-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.axon.com/resources/digital-evidence-management-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Management: The Definitive GuideObtaining the original file ensures you review the truest source of information availabl...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata LossMini Project. Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Pr...</p></details>
+   Link:<a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata LossMini Project. Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Pr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: canonproof.com  
-   Link: <a href="https://canonproof.com/How-It-Works" target="_blank" rel="noopener noreferrer nofollow">https://canonproof.com/How-It-Works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How It WorksFrom file to certified truth — in under 3 seconds. CanonProof transforms digital evidence into cryptographically signed authe...</p></details>
+   Link:<a href="https://canonproof.com/How-It-Works" target="_blank" rel="noopener noreferrer nofollow">https://canonproof.com/How-It-Works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How It WorksFrom file to certified truth — in under 3 seconds. CanonProof transforms digital evidence into cryptographically signed authe...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: removemd.com  
-   Link: <a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</p></details>
+   Link:<a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
    Published: May 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: lcgdiscovery.com  
-   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...12 Nov 2025 — A defensible playbook for authenticating and challenging digital video i...</p></details>
+   Link:<a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond The Screen, Part 6: Video Evidence Under...12 Nov 2025 — A defensible playbook for authenticating and challenging digital video i...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: english.elpais.com  
-   Link: <a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — The NASA report was adamant about the need to ov...</p></details>
+   Link:<a href="https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2023-09-17/stigma-sensationalism-and-a-cell-phone-app-the-main-takeaways-from-nasas-ufo-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comStigma, sensationalism and a cell phone app - El Pais in English17 Sept 2023 — The NASA report was adamant about the need to ov...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — They work to develop recommendations about how NASA could better examine them from a...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — They work to develop recommendations about how NASA could better examine them from a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gg9nqb/heavily_redacted_uap_task_force_briefing_slides/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gg9nqb/heavily_redacted_uap_task_force_briefing_slides/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How many cases do we have, that have been detected by multiple sensors outside of the 2017 released files? Warning automatically...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gg9nqb/heavily_redacted_uap_task_force_briefing_slides/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gg9nqb/heavily_redacted_uap_task_force_briefing_slides/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many cases do we have, that have been detected by multiple sensors outside of the 2017 released files? Warning automatically...</p></details>

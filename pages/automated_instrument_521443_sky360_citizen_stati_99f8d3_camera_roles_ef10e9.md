@@ -280,24 +280,24 @@ image: /assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_ca
 
 ## Introduction
 
-Citizen sky-monitoring stations such as Sky360 rely on a simple but important idea: one camera watches everything, while another camera investigates what matters. An all-sky camera provides continuous coverage of nearly the entire visible sky, ensuring that transient events are not missed. A separate tracking camera, usually mounted on a pan-tilt-zoom or pan-tilt-focus system, sacrifices coverage in exchange for detail. Together they solve a fundamental problem in automated UFO and UAP observation: a camera that sees everything cannot usually resolve fine details, while a camera that captures fine details cannot watch the whole sky at once. Sky360's station concept explicitly combines these roles so that detection and identification become separate but linked stages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360+2GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</span></span></span>
+Citizen sky-monitoring stations such as Sky360 rely on a simple but important idea: one camera watches everything, while another camera investigates what matters. An all-sky camera provides continuous coverage of nearly the entire visible sky, ensuring that transient events are not missed. A separate tracking camera, usually mounted on a pan-tilt-zoom or pan-tilt-focus system, sacrifices coverage in exchange for detail. Together they solve a fundamental problem in automated UFO and UAP observation: a camera that sees everything cannot usually resolve fine details, while a camera that captures fine details cannot watch the whole sky at once. Sky360's station concept explicitly combines these roles so that detection and identification become separate but linked stages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360+2GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-1-dark.svg" | relative_url }}" alt="Camera Roles illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the All-Sky Camera Catches
 
-The all-sky camera is the station's lookout. Typically equipped with a fisheye lens, it continuously records a very large field of view, often approaching the entire dome of the sky above the station. Its primary purpose is not to produce detailed images of distant objects but to ensure that movement is detected wherever it appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gigazine.net/gsc_news/en/20230510-open-source-uap-project-sky360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-title">20230510 open source uap project sky360</span><span class="citation-popover-snippet">GIGAZINEOpen source citizen science project &#x27;Sky360&#x27; for monitoring ...10 May 2023 — The &#x27;Sky360 Station&#x27; used for UAP monitoring in Sky3...</span></span></span>
+The all-sky camera is the station's lookout. Typically equipped with a fisheye lens, it continuously records a very large field of view, often approaching the entire dome of the sky above the station. Its primary purpose is not to produce detailed images of distant objects but to ensure that movement is detected wherever it appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gigazine.net/gsc_news/en/20230510-open-source-uap-project-sky360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE+2VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-title">20230510 open source uap project sky360</span><span class="citation-popover-snippet">GIGAZINEOpen source citizen science project &#x27;Sky360&#x27; for monitoring ...10 May 2023 — The &#x27;Sky360 Station&#x27; used for UAP monitoring in Sky3...</span></span></span>
 
 This wide-field approach has several advantages:
 
 * Continuous surveillance without needing to predict where an object will appear.
 * Detection of brief events such as meteors, flashes, [satellites]({{ 'satellites/' | relative_url }}), aircraft movements, or unexpected aerial objects.
 * Collection of contextual information, including direction of travel, [timing]({{ 'timing/' | relative_url }}) and apparent motion.
-* Creation of a baseline record showing what normal sky activity looks like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute+2USRadioguy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</span></span></span>
+* Creation of a baseline record showing what normal sky activity looks like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute+2USRadioguy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</span></span></span>
 
-The trade-off is image detail. Because the camera's pixels are spread across such a large area, even relatively large objects occupy only a small number of pixels. A distant aircraft, satellite or unidentified object may be detectable as motion but not recognisable as a specific object. This limitation is a consequence of optics rather than software. Increasing field of view generally reduces the amount of detail available for any single target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pds-rings.seti.org">[PDS Rings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pds-rings.seti.org</span><span class="citation-popover-snippet">PDS RingsVoyager 1 Wide Angle Camera DescriptionThe system consists of two cameras, a high resolution Narrow Angle (NA) camera and a lowe...</span></span></span>
+The trade-off is image detail. Because the camera's pixels are spread across such a large area, even relatively large objects occupy only a small number of pixels. A distant aircraft, satellite or unidentified object may be detectable as motion but not recognisable as a specific object. This limitation is a consequence of optics rather than software. Increasing field of view generally reduces the amount of detail available for any single target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pds-rings.seti.org">[PDS Rings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pds-rings.seti.org</span><span class="citation-popover-snippet">PDS RingsVoyager 1 Wide Angle Camera DescriptionThe system consists of two cameras, a high resolution Narrow Angle (NA) camera and a lowe...</span></span></span>
 
-For Sky360, this is acceptable because the all-sky camera is intended to answer the question, "Did something move, and where?" rather than "What exactly was it?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gigazine.net/gsc_news/en/20230510-open-source-uap-project-sky360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-title">20230510 open source uap project sky360</span><span class="citation-popover-snippet">GIGAZINEOpen source citizen science project &#x27;Sky360&#x27; for monitoring ...10 May 2023 — The &#x27;Sky360 Station&#x27; used for UAP monitoring in Sky3...</span></span></span>
+For Sky360, this is acceptable because the all-sky camera is intended to answer the question, "Did something move, and where?" rather than "What exactly was it?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gigazine.net/gsc_news/en/20230510-open-source-uap-project-sky360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gigazine.net">[GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gigazine.net</span><span class="citation-popover-title">20230510 open source uap project sky360</span><span class="citation-popover-snippet">GIGAZINEOpen source citizen science project &#x27;Sky360&#x27; for monitoring ...10 May 2023 — The &#x27;Sky360 Station&#x27; used for UAP monitoring in Sky3...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-3-dark.svg" | relative_url }}" alt="Camera Roles illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_camera_roles_ef10e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,7 +309,7 @@ For Sky360, this is acceptable because the all-sky camera is intended to answer 
 
 ## When the Tracking Camera Takes Over
 
-Once software identifies an event that appears interesting or unusual, the second camera becomes active. Sky360 describes this as a pan-tilt-focus camera that can be directed toward the detected target. Instead of watching the whole sky, it concentrates its available resolution on a much smaller region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360+2GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</span></span></span>
+Once software identifies an event that appears interesting or unusual, the second camera becomes active. Sky360 describes this as a pan-tilt-focus camera that can be directed toward the detected target. Instead of watching the whole sky, it concentrates its available resolution on a much smaller region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360+2GIGAZINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</span></span></span>
 
 The hand-off follows a basic sequence:
 
@@ -358,7 +358,7 @@ A wide-angle detection can provide:
 A tracking camera can add:
 
 * Higher-resolution imagery. [* More accurate motion estimates.](#endnote-11 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificSkyWatch: A Passive Multistatic Radar Network for the...by M Randall · 2023 · Cited by 10 — Full triangulation can be ac...&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificSkyWatch: A Passive Multistatic Radar Network for the...by M Randall · 2023 · Cited by 10 — Full triangulation can be ac...&quot;)...</p></details>
 * Morphological features.
 * Better evidence for identification or exclusion. [World Scientific](https://www.worldscientific.com/doi/10.1142/S2251171723400044?srsltid=AfmBOooUHxWN5DJxphg0On2ds7VcSJsw4fvBG_wPF4VRvZnbKGrT_SFR)
 
@@ -369,194 +369,194 @@ This distinction matters because many unusual-looking observations turn out to b
 The two-camera architecture reflects a practical engineering compromise rather than a belief that any single sensor can solve the UAP problem. Wide coverage and high detail compete with one another. Sky360's answer is to distribute those responsibilities across separate instruments and connect them through automated software. The all-sky camera acts as the station's constant observer, while the tracking camera serves as its investigative tool. When the hand-off works correctly, a fleeting point of motion becomes a richer record containing context, trajectory and visual detail—exactly the kind of evidence that automated instrumented UFO detection systems need if they are to move beyond isolated videos and towards repeatable observation. [arXiv+3Sky360+3GIGAZINE](https://www.sky360.org/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Explains telescope and camera systems, observing workflows, and the trade-offs between wide coverage and detailed observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains telescope and camera systems, observing workflows, and the trade-offs between wide coverage and detailed observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects to the page&#x27;s discussion of identifying unusual aerial objects and the need for better observational evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects to the page&#x27;s discussion of identifying unusual aerial objects and the need for better observational evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
-        </h4>
-        <p class="fr-book-author">By Thierry Legault</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
+</h4>
+<p class="fr-book-author">By Thierry Legault</p>
         
-        <p class="fr-book-desc">Discusses camera selection, wide-field imaging, tracking systems, and obtaining higher-detail observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses camera selection, wide-field imaging, tracking systems, and obtaining higher-detail observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Deep-sky Imaging Primer, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11012543-M.jpg" alt="Cover for The Deep-sky Imaging Primer, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Deep-sky Imaging Primer, Second Edition">The Deep-sky Imaging Primer, Second Edition</a>
-        </h4>
-        <p class="fr-book-author">By Charles Bracken</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Deep-sky Imaging Primer, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11012543-M.jpg" alt="Cover for The Deep-sky Imaging Primer, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Deep-sky Imaging Primer, Second Edition">The Deep-sky Imaging Primer, Second Edition</a>
+</h4>
+<p class="fr-book-author">By Charles Bracken</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Photography, Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Photography, Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel"><img src="{{ '/assets/images/marketplace-covers/d55a73971c33361f4aaf.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Pro Camera Tripod Aluminium / Carbon Fiber Ball Head for DSLR Travel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="camera-roles-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,114 +762,114 @@ The two-camera architecture reflects a practical engineering compromise rather t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</p></details>
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360We provide a community platform, tools and support to all people interested in observing the skies for stars, meteors, satell...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vice.com  
    Title: ufo hunters built an open source ai system to scan the skies  
-   Link: <a href="https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Built an Open-Source AI System To Scan The...9 May 2023 — The Sky360 stations consist of an AllSkyCam with a wide angle fish...</p></details>
+   Link:<a href="https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunters-built-an-open-source-ai-system-to-scan-the-skies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Built an Open-Source AI System To Scan The...9 May 2023 — The Sky360 stations consist of an AllSkyCam with a wide angle fish...</p></details>
    Published: May 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</p></details>
+   Link:<a href="https://www.seti.org/projects/cams/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/projects/cams/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SETI InstituteCameras for Allsky Meteor Surveillance (CAMS)The CAMS network uses an array of low-light video surveillance cameras positio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: usradioguy.com  
-   Link: <a href="https://usradioguy.com/allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://usradioguy.com/allsky-camera/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allsky CameraA cheap all-sky camera designed to take pictures of the entire sky over a certain amount of time, and monitor meteor showers...</p></details>
+   Link:<a href="https://usradioguy.com/allsky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://usradioguy.com/allsky-camera/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allsky CameraA cheap all-sky camera designed to take pictures of the entire sky over a certain amount of time, and monitor meteor showers...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pds-rings.seti.org  
-   Link: <a href="https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html" target="_blank" rel="noopener noreferrer nofollow">https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDS RingsVoyager 1 Wide Angle Camera DescriptionThe system consists of two cameras, a high resolution Narrow Angle (NA) camera and a lowe...</p></details>
+   Link:<a href="https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html" target="_blank" rel="noopener noreferrer nofollow">https://pds-rings.seti.org/voyager/iss/inst_cat_wa1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDS RingsVoyager 1 Wide Angle Camera DescriptionThe system consists of two cameras, a high resolution Narrow Angle (NA) camera and a lowe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Evaluation of trackers for Pan-Tilt-Zoom Scenarios  
-   Link: <a href="https://arxiv.org/abs/1711.04260" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1711.04260</a>  
+   Link:<a href="https://arxiv.org/abs/1711.04260" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1711.04260</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.21711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.21711</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Cloud Detection, Tracking and Prediction with All...by S Buntin · 2025 · Cited by 2 — This paper presents a novel method for r...</p></details>
+   Link:<a href="https://arxiv.org/abs/2507.21711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.21711</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Cloud Detection, Tracking and Prediction with All...by S Buntin · 2025 · Cited by 2 — This paper presents a novel method for r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/documentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360 DocumentationThis documentation is still a work in progress. Hardware will be continuously updated until the first Alpha software...</p></details>
+   Link:<a href="https://www.sky360.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky360 DocumentationThis documentation is still a work in progress. Hardware will be continuously updated until the first Alpha software...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400044?srsltid=AfmBOooUHxWN5DJxphg0On2ds7VcSJsw4fvBG_wPF4VRvZnbKGrT_SFR" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400044?srsltid=AfmBOooUHxWN5DJxphg0On2ds7VcSJsw4fvBG_wPF4VRvZnbKGrT_SFR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificSkyWatch: A Passive Multistatic [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) Network for the...by M Randall · 2023 · Cited by 10 — Full triangulation can be ac...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400044?srsltid=AfmBOooUHxWN5DJxphg0On2ds7VcSJsw4fvBG_wPF4VRvZnbKGrT_SFR" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400044?srsltid=AfmBOooUHxWN5DJxphg0On2ds7VcSJsw4fvBG_wPF4VRvZnbKGrT_SFR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificSkyWatch: A Passive Multistatic [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) Network for the...by M Randall · 2023 · Cited by 10 — Full triangulation can be ac...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cloudynights.com  
    Title: All-Sky Camera  
-   Link: <a href="https://www.cloudynights.com/forums/topic/977575-all-sky-camera-perfecting-focus/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/977575-all-sky-camera-perfecting-focus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brighter stars can work, but they are still a fuzzy mess like always. If you have a Linux based...Read more...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/977575-all-sky-camera-perfecting-focus/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/977575-all-sky-camera-perfecting-focus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brighter stars can work, but they are still a fuzzy mess like always. If you have a Linux based...Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360346295_A_Wide_Field-of-View_Light-Field_Camera_with_Adjustable_Multiplicity_for_Practical_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360346295_A_Wide_Field-of-View_Light-Field_Camera_with_Adjustable_Multiplicity_for_Practical_Applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Wide Field-of-View Light-Field Camera with...21 Apr 2022 — The M was optimized for narrow and wide FOV, respectively, by the tra...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360346295_A_Wide_Field-of-View_Light-Field_Camera_with_Adjustable_Multiplicity_for_Practical_Applications" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360346295_A_Wide_Field-of-View_Light-Field_Camera_with_Adjustable_Multiplicity_for_Practical_Applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Wide Field-of-View Light-Field Camera with...21 Apr 2022 — The M was optimized for narrow and wide FOV, respectively, by the tra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: allskycams.com  
-   Link: <a href="https://www.allskycams.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.allskycams.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An integrated hardware, software and network system specifically designed for capturing scientific observations of fireballs an...</p></details>
+   Link:<a href="https://www.allskycams.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.allskycams.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An integrated hardware, software and network system specifically designed for capturing scientific observations of fireballs an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/sky-camera/s?k=sky+camera&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/sky-camera/s?k=sky+camera&amp;tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky CameraMotorized DSLR Night Sky Tracker Equatorial Mount for Portable Nightscapes, Time-Lapse and Panoramas – Wi-Fi App Camera Control...</p></details>
+   Link:<a href="https://www.amazon.com/sky-camera/s?k=sky+camera&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/sky-camera/s?k=sky+camera&amp;tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky CameraMotorized DSLR Night Sky Tracker Equatorial Mount for Portable Nightscapes, Time-Lapse and Panoramas – Wi-Fi App Camera Control...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rrvIn3kiAh4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rrvIn3kiAh4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Starlight Xpress Oculus all-sky cameraIn this video, Robert looks at the Starlight Xpress Oculus all-sky camera, looking in detail at...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rrvIn3kiAh4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rrvIn3kiAh4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Starlight Xpress Oculus all-sky cameraIn this video, Robert looks at the Starlight Xpress Oculus all-sky camera, looking in detail at...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=om00Ssd-iBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=om00Ssd-iBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Year Timelapse from my All Sky CameraIt has now captured 2 years or more than 17,000 hours of sky when you speed it up you can see th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=om00Ssd-iBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=om00Ssd-iBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Year Timelapse from my All Sky CameraIt has now captured 2 years or more than 17,000 hours of sky when you speed it up you can see th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abdn.elsevierpure.com  
    Title: the scientific investigation of unidentified aerial phenomena uap  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalThe Scientific Investigation of Unidentified Aerial...13 May 2023 — Our instrument package is multimodal and mul...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aberdeen Research PortalThe Scientific Investigation of Unidentified Aerial...13 May 2023 — Our instrument package is multimodal and mul...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: navysbir.com  
-   Link: <a href="https://www.navysbir.com/n24_1/N241-027.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.navysbir.com/n24_1/N241-027.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Once a target is within view, these systems can employ feedback for stabilization or use...Read more...</p></details>
+   Link:<a href="https://www.navysbir.com/n24_1/N241-027.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.navysbir.com/n24_1/N241-027.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Once a target is within view, these systems can employ feedback for stabilization or use...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: elib.dlr.de  
    Title: ALDASORO Iker 2024 AllSky Cam DLR BT DLR REPORT 20240908 small  
-   Link: <a href="https://elib.dlr.de/206572/1/ALDASORO-Iker-2024-AllSky_Cam-DLR-BT-DLR_REPORT_20240908_small.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/206572/1/ALDASORO-Iker-2024-AllSky_Cam-DLR-BT-DLR_REPORT_20240908_small.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dlr.deAllSky-Camera system for Monitoring of Optical Satellite...by I Aldasoro Marculeta · 2024 · Cited by 1 — Based on an Indium Galliu...</p></details>
+   Link:<a href="https://elib.dlr.de/206572/1/ALDASORO-Iker-2024-AllSky_Cam-DLR-BT-DLR_REPORT_20240908_small.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/206572/1/ALDASORO-Iker-2024-AllSky_Cam-DLR-BT-DLR_REPORT_20240908_small.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dlr.deAllSky-Camera system for Monitoring of Optical Satellite...by I Aldasoro Marculeta · 2024 · Cited by 1 — Based on an Indium Galliu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tware and instrumentation system designed to conduct a multimodal census of aerial...Read more...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tware and instrumentation system designed to conduct a multimodal census of aerial...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/127eejv/join_our_sky360_open_source_project_to_observe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/127eejv/join_our_sky360_open_source_project_to_observe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>erested in observing the skies for stars, meteors, satellites...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/127eejv/join_our_sky360_open_source_project_to_observe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/127eejv/join_our_sky360_open_source_project_to_observe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erested in observing the skies for stars, meteors, satellites...Read more...</p></details>

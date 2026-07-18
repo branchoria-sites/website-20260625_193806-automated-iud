@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-open-data/
 description: Focused pages that expand on Open Data.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_open_data_replicatio_f0edf1
 parent_title: Open Data
@@ -16,7 +16,7 @@ parent_permalink: /open-data/
 
 # Explore Topics in Open Data
 
-The following pages expand on the main **[Open Data]({{ '/open-data/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Open Data]({{ '/open-data/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Imagery]({{ '/aaro-imagery/' | relative_url }})
 - [Raw Clips]({{ '/raw-clips/' | relative_url }})

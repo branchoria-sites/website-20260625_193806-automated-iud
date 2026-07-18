@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-baseline/
 description: Focused pages that expand on Baselines.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_baseline_sky_data_4a1ebc
 parent_title: Baselines
@@ -16,7 +16,7 @@ parent_permalink: /baselines/
 
 # Explore Topics in Baselines
 
-The following pages expand on the main **[Baselines]({{ '/baselines/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Baselines]({{ '/baselines/' | relative_url }})** page and cover its key branches in.
 
 - [Sensor Mistakes]({{ '/sensor-mistakes/' | relative_url }})
 - [Low Horizon]({{ '/low-horizon/' | relative_url }})

@@ -284,7 +284,7 @@ For an automated instrumented UFO or UAP detector, a video clip becomes far more
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Matching illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matching process is not about proving that an object is unusual. Instead, it is an evidence test. If an apparent unknown object occupies the same position and time as an aircraft broadcasting [ADS-B]({{ 'ads-b/' | relative_url }}) (Automatic Dependent Surveillance–Broadcast) messages, the identification becomes much stronger. If the [timing]({{ 'timing/' | relative_url }}) does not fit, or if independent environmental sensors contradict the visual record, the confidence in any interpretation changes accordingly. NASA's independent UAP study highlighted the importance of complete metadata—including accurate time, location and observing conditions—for precisely this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server JOHN F</span><span class="citation-popover-snippet">KENNEDY SPACE CENTER4 Jul 1973 — CAMERA EXPERIMENTAL RIBBON FRAME. CZR. 1 HIGH SPEED METRIC CAMERA. D... 5 TRACKING CAMERA. 6 THERMAL CO...</span></span></span>
+This matching process is not about proving that an object is unusual. Instead, it is an evidence test. If an apparent unknown object occupies the same position and time as an aircraft broadcasting [ADS-B]({{ 'ads-b/' | relative_url }}) (Automatic Dependent Surveillance–Broadcast) messages, the identification becomes much stronger. If the [timing]({{ 'timing/' | relative_url }}) does not fit, or if independent environmental sensors contradict the visual record, the confidence in any interpretation changes accordingly. NASA's independent UAP study highlighted the importance of complete metadata—including accurate time, location and observing conditions—for precisely this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server JOHN F</span><span class="citation-popover-snippet">KENNEDY SPACE CENTER4 Jul 1973 — CAMERA EXPERIMENTAL RIBBON FRAME. CZR. 1 HIGH SPEED METRIC CAMERA. D... 5 TRACKING CAMERA. 6 THERMAL CO...</span></span></span>
 
 ## Why matching event windows matters
 
@@ -313,7 +313,7 @@ The comparison is only meaningful if every dataset refers to the same moment wit
 
 ## How aircraft logs support or reject a sighting
 
-ADS-B broadcasts provide one of the most useful external reference datasets because they contain regularly transmitted aircraft position, altitude, velocity and identification information derived from onboard navigation systems. Under normal operation, position broadcasts occur several times per second, although different message types have different transmission rates and decoding characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) ADS-B vulnerabilities and a security solution with...November 1, 2017 — We developed a practical method that can rejec...</span><span class="citation-popover-meta">Published: November 1, 2017</span></span></span>
+ADS-B broadcasts provide one of the most useful external reference datasets because they contain regularly transmitted aircraft position, altitude, velocity and identification information derived from onboard navigation systems. Under normal operation, position broadcasts occur several times per second, although different message types have different transmission rates and decoding characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) ADS-B vulnerabilities and a security solution with...November 1, 2017 — We developed a practical method that can rejec...</span><span class="citation-popover-meta">Published: November 1, 2017</span></span></span>
 
 When matching video against ADS-B records, analysts typically compare several independent characteristics rather than a single timestamp.
 
@@ -365,7 +365,7 @@ Compression pipelines can introduce additional latency that varies between frame
 
 ### ADS-B transmission and decoding latency
 
-An ADS-B report is not an instantaneous measurement of an aircraft's current position. Position information is measured onboard, encoded, transmitted, received, decoded and finally stored by a ground receiver. Studies of operational ADS-B systems have measured uncompensated latencies generally within the performance limits specified by aviation standards, but these delays are still significant when comparing rapidly moving objects frame by frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A study of uncompensated latency in ADS-B reports</span><span class="citation-popover-snippet">arXiv A study of uncompensated latency in ADS-B reports</span></span></span>
+An ADS-B report is not an instantaneous measurement of an aircraft's current position. Position information is measured onboard, encoded, transmitted, received, decoded and finally stored by a ground receiver. Studies of operational ADS-B systems have measured uncompensated latencies generally within the performance limits specified by aviation standards, but these delays are still significant when comparing rapidly moving objects frame by frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A study of uncompensated latency in ADS-B reports</span><span class="citation-popover-snippet">arXiv A study of uncompensated latency in ADS-B reports</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/avCDzCxjPEM" title="The First Scientific Results From UAPx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer">The First Scientific Results From UAPx</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=avCDzCxjPEM">Open on YouTube</a></p></div></div></div>
@@ -412,7 +412,7 @@ A convincing correspondence typically includes:
 
 </div>
 
-Likewise, the absence of a matching ADS-B track does not automatically imply an unidentified object. General aviation without ADS-B coverage, military aircraft, reception gaps, incomplete receiver networks, decoding failures or non-aircraft objects may all account for missing records. Receiver placement and network coverage materially affect what aircraft can be observed, and redundant receiver networks improve verification reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards Security-Optimized Placement of ADS-B Sensors</span><span class="citation-popover-snippet">Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
+Likewise, the absence of a matching ADS-B track does not automatically imply an unidentified object. General aviation without ADS-B coverage, military aircraft, reception gaps, incomplete receiver networks, decoding failures or non-aircraft objects may all account for missing records. Receiver placement and network coverage materially affect what aircraft can be observed, and redundant receiver networks improve verification reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards Security-Optimized Placement of ADS-B Sensors</span><span class="citation-popover-snippet">Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lb0rm_PCcKw" title="Curious Pilot: Aircraft Mode Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lb0rm_PCcKw" target="_blank" rel="noopener noreferrer">Curious Pilot: Aircraft Mode Tutorial</a></p><p class="youtube-embed-meta">Channel: Philip Giacalone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lb0rm_PCcKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lb0rm_PCcKw">Open on YouTube</a></p></div></div></div>
@@ -424,194 +424,194 @@ For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detect
 The most reliable event records therefore preserve not only the original images but also the exact frame timestamps, camera calibration, ADS-B logs, environmental measurements and documented timing uncertainties. When these datasets tell the same story, analysts can confidently identify many ordinary objects. When they do not, investigators can focus attention on explaining the remaining discrepancies using evidence rather than appearance alone.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Video and Logs Tell One Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Video and Logs Tell One Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Sense of Sensors on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Sense of Sensors">Making Sense of Sensors</a>
-        </h4>
-        <p class="fr-book-author">By Jacob Fraden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Sense of Sensors on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Sense of Sensors">Making Sense of Sensors</a>
+</h4>
+<p class="fr-book-author">By Jacob Fraden</p>
         
-        <p class="fr-book-desc">Explains integrating and interpreting multiple sensor measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains integrating and interpreting multiple sensor measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision: Algorithms and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision: Algorithms and Applications">Computer Vision: Algorithms and Applications</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision: Algorithms and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision: Algorithms and Applications">Computer Vision: Algorithms and Applications</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">Covers image alignment and data fusion concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers image alignment and data fusion concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Sense+of+Sensors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Sense of Sensors</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Sense+of+Sensors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Sense of Sensors</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="sensor-matching-do-the-video-and-logs-tell-one-story-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ The most reliable event records therefore preserve not only the original images 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ The most reliable event records therefore preserve not only the original images 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ The most reliable event records therefore preserve not only the original images 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ The most reliable event records therefore preserve not only the original images 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ The most reliable event records therefore preserve not only the original images 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,87 +817,87 @@ The most reliable event records therefore preserve not only the original images 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server JOHN F  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KENNEDY SPACE CENTER4 Jul 1973 — CAMERA EXPERIMENTAL RIBBON FRAME. CZR. 1 HIGH SPEED METRIC CAMERA. D... 5 TRACKING CAMERA. 6 THERMAL CO...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19730024175/downloads/19730024175.pdf?attachment=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KENNEDY SPACE CENTER4 Jul 1973 — CAMERA EXPERIMENTAL RIBBON FRAME. CZR. 1 HIGH SPEED METRIC CAMERA. D... 5 TRACKING CAMERA. 6 THERMAL CO...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) ADS-B vulnerabilities and a security solution with...November 1, 2017 — We developed a practical method that can rejec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) ADS-B vulnerabilities and a security solution with...November 1, 2017 — We developed a practical method that can rejec...</p></details>
    Published: November 1, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv A study of uncompensated latency in ADS-B reports  
-   Link: <a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
+   Link:<a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Towards Security-Optimized Placement of ADS-B Sensors  
-   Link: <a href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.01994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.01994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</p></details>
    Published: April 5, 2022  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: elib.dlr.de  
    Title: Air Traffic Management Abbreviation Compendium V1.00  
-   Link: <a href="https://elib.dlr.de/140788/1/Air%20Traffic%20Management%20Abbreviation%20Compendium%20V1.00.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/140788/1/Air%20Traffic%20Management%20Abbreviation%20Compendium%20V1.00.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Management Abbreviation Compendiumby N Rieck · 2021 — As in all fields of work, an unmanageable number of abbreviations are used...</p></details>
+   Link:<a href="https://elib.dlr.de/140788/1/Air%20Traffic%20Management%20Abbreviation%20Compendium%20V1.00.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/140788/1/Air%20Traffic%20Management%20Abbreviation%20Compendium%20V1.00.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Management Abbreviation Compendiumby N Rieck · 2021 — As in all fields of work, an unmanageable number of abbreviations are used...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: analytics.usa.gov  
    Title: all pages realtime.csv  
-   Link: <a href="https://analytics.usa.gov/data/live/all-pages-realtime.csv" target="_blank" rel="noopener noreferrer nofollow">https://analytics.usa.gov/data/live/all-pages-realtime.csv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More... NASA Science 118,GSA eBuy! 116,&quot;Case Search | National Labor Relations Board... Exchange To Regulate the Heterogeneous Ice Nucle...</p></details>
+   Link:<a href="https://analytics.usa.gov/data/live/all-pages-realtime.csv" target="_blank" rel="noopener noreferrer nofollow">https://analytics.usa.gov/data/live/all-pages-realtime.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More... NASA Science 118,GSA eBuy! 116,&quot;Case Search | National Labor Relations Board... Exchange To Regulate the Heterogeneous Ice Nucle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: NASA NTRS Archive 19720026320 djvu.txt  
-   Link: <a href="https://archive.org/stream/NASA_NTRS_Archive_19720026320/NASA_NTRS_Archive_19720026320_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NASA_NTRS_Archive_19720026320/NASA_NTRS_Archive_19720026320_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A selective list of acronyms and abbreviationsFull text of &quot;NASA Technical Reports Server (NTRS) 19720026320: A selective list of acronym...</p></details>
+   Link:<a href="https://archive.org/stream/NASA_NTRS_Archive_19720026320/NASA_NTRS_Archive_19720026320_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NASA_NTRS_Archive_19720026320/NASA_NTRS_Archive_19720026320_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A selective list of acronyms and abbreviationsFull text of &quot;NASA Technical Reports Server (NTRS) 19720026320: A selective list of acronym...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: worksheets.codalab.org  
    Title: frequent classes  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xd74f36104e7244e8ad99022123e78884/contents/blob/frequent-classes" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xd74f36104e7244e8ad99022123e78884/contents/blob/frequent-classes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.org3... time 9686 ui 9634 not 9525 rss 9468 pagination 9449 textwidget 9440 popup 9427 11 9326 hero 9313 disabled 9302 b 9256 tag...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xd74f36104e7244e8ad99022123e78884/contents/blob/frequent-classes" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xd74f36104e7244e8ad99022123e78884/contents/blob/frequent-classes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.org3... time 9686 ui 9634 not 9525 rss 9468 pagination 9449 textwidget 9440 popup 9427 11 9326 hero 9313 disabled 9302 b 9256 tag...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cs.princeton.edu  
    Title: words 333333.txt  
-   Link: <a href="https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>b 419483948 work 417601616 last 416210411 most 414377632 products 414028837... study 152776595 application 152155277 cart 151553180 staf...</p></details>
+   Link:<a href="https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.princeton.edu/courses/archive/spring18/cos226/assignments/autocomplete/testing/words-333333.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>b 419483948 work 417601616 last 416210411 most 414377632 products 414028837... study 152776595 application 152155277 cart 151553180 staf...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yumpu.com  
    Title: 1 Abk ¨urzungen  
-   Link: <a href="https://www.yumpu.com/en/document/view/4059331/1-abk-urzungen-bscw-shared-workspace-server" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/4059331/1-abk-urzungen-bscw-shared-workspace-server</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BSCW Shared Workspace Server19 Nov 2012 — Transform your PDFs into Flipbooks and boost your revenue! Leverage SEO-optimized Flipbooks, po...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/4059331/1-abk-urzungen-bscw-shared-workspace-server" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/4059331/1-abk-urzungen-bscw-shared-workspace-server</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BSCW Shared Workspace Server19 Nov 2012 — Transform your PDFs into Flipbooks and boost your revenue! Leverage SEO-optimized Flipbooks, po...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UAPx: Correlating Sensor Logs and Optical Tracking Data  
-   Link: <a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avCDzCxjPEM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc-shaped UAP caught on camera by the military in 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=avCDzCxjPEM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avCDzCxjPEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disc-shaped UAP caught on camera by the military in 2020...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lKYWrakDclw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curios Pilot: UAP Investigation Example - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lKYWrakDclw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lKYWrakDclw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curios Pilot: UAP Investigation Example - YouTube...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Curious Pilot: Aircraft Mode Tutorial  
-   Link: <a href="https://www.youtube.com/watch?v=lb0rm_PCcKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lb0rm_PCcKw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyScan: Tracking Aircraft with PTZ Cameras and ADS-B...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lb0rm_PCcKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lb0rm_PCcKw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkyScan: Tracking Aircraft with PTZ Cameras and ADS-B...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Curios Pilot: UAP Investigation Example  
-   Link: <a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Pilot: Aircraft Mode Tutorial...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Pilot: Aircraft Mode Tutorial...</p></details>

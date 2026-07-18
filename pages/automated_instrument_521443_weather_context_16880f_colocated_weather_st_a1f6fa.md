@@ -284,20 +284,20 @@ For an automated instrumented UAP detector, the most useful [weather]({{ 'weathe
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-1-dark.svg" | relative_url }}" alt="Local Sensors illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A detector-side weather station therefore strengthens the evidential value of a UAP record. It provides environmental measurements that are synchronised with the instrument, allowing later investigators to compare the detected object with the exact atmospheric conditions through which the sensor was operating rather than relying on approximate regional reports. This complements, rather than replaces, official meteorological observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
+A detector-side weather station therefore strengthens the evidential value of a UAP record. It provides environmental measurements that are synchronised with the instrument, allowing later investigators to compare the detected object with the exact atmospheric conditions through which the sensor was operating rather than relying on approximate regional reports. This complements, rather than replaces, official meteorological observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
 
 ## The distance problem in nearest-station weather lookups
 
 The phrase "nearest weather station" often gives a false sense of precision. The closest official observing site may be many kilometres away, at a different elevation, beside an airport, or in terrain unlike the detector location.
 
-Meteorological organisations distinguish between observations that are representative of a specific observing site and those intended to describe broader regional conditions. Station siting standards exist precisely because exposure, nearby obstacles, ground cover and local terrain all influence measurements. A weather report is therefore most representative of its own surroundings, not necessarily every location nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
+Meteorological organisations distinguish between observations that are representative of a specific observing site and those intended to describe broader regional conditions. Station siting standards exist precisely because exposure, nearby obstacles, ground cover and local terrain all influence measurements. A weather report is therefore most representative of its own surroundings, not necessarily every location nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
 
 For UAP investigations, several common situations illustrate the limitation:
 
 * A coastal detector may experience sea fog while an inland airport reports clear conditions.
 * A hillside camera may record strong gusts generated by terrain even though valley winds remain light.
 * Urban rooftops can experience turbulence and thermal effects absent from nearby rural stations.
-* Shallow low cloud or mist may affect one observing site but not another only a few kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS+2weather.gladstonefamily.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-snippet">why weather conditions can change over short distances7 May 2026 — The nearest weather station offers useful information, but it may...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* Shallow low cloud or mist may affect one observing site but not another only a few kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS+2weather.gladstonefamily.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-snippet">why weather conditions can change over short distances7 May 2026 — The nearest weather station offers useful information, but it may...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 None of these situations imply that the official report is incorrect. Instead, they demonstrate that two accurate observations can legitimately describe different local environments at the same time.
 
@@ -310,7 +310,7 @@ For this reason, using only remote weather reports to explain or support a UAP o
 
 Spatial differences are only part of the problem. [Timing]({{ 'timing/' | relative_url }}) matters just as much.
 
-Many reported aerial events last from a few seconds to a few minutes. Official weather observations often follow schedules established for aviation or climatology rather than continuous event logging. Automated Weather Observing Systems (AWOS) commonly issue reports every 20 minutes, while ASOS systems provide routine observations and can generate special reports when weather crosses operational thresholds. Those thresholds are designed for aviation safety, not for documenting every brief environmental fluctuation relevant to an optical sensor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">More Information.Read more</span><span class="citation-popover-snippet">Automated Surface/Weather Observing Systems (ASOS/AWOS)March 22, 2021 — They generally report at 20-minute intervals and, unlike ASOS...</span><span class="citation-popover-meta">Published: March 22, 2021</span></span></span>
+Many reported aerial events last from a few seconds to a few minutes. Official weather observations often follow schedules established for aviation or climatology rather than continuous event logging. Automated Weather Observing Systems (AWOS) commonly issue reports every 20 minutes, while ASOS systems provide routine observations and can generate special reports when weather crosses operational thresholds. Those thresholds are designed for aviation safety, not for documenting every brief environmental fluctuation relevant to an optical sensor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI+2National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-title">More Information.Read more</span><span class="citation-popover-snippet">Automated Surface/Weather Observing Systems (ASOS/AWOS)March 22, 2021 — They generally report at 20-minute intervals and, unlike ASOS...</span><span class="citation-popover-meta">Published: March 22, 2021</span></span></span>
 
 A detector-side station can instead:
 
@@ -364,7 +364,7 @@ Second, it enables better correlation between independent sensors. If multiple c
 
 Third, it reduces confirmation bias. Analysts are less likely to search selectively for nearby weather reports that appear to support a preferred explanation if a complete detector-side environmental record already exists.
 
-Finally, local weather measurements can be compared with regional observations rather than replacing them. Differences between the two datasets may themselves become informative, revealing local fog formation, terrain-driven wind or other microscale conditions affecting only the detector site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
+Finally, local weather measurements can be compared with regional observations rather than replacing them. Differences between the two datasets may themselves become informative, revealing local fog formation, terrain-driven wind or other microscale conditions affecting only the detector site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: community.wmo.int">[World Meteorological Organization+2RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">community.wmo.int</span><span class="citation-popover-snippet">8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-3-dark.svg" | relative_url }}" alt="Local Sensors illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,194 +392,194 @@ This layered approach produces a more complete environmental record than either 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the weather station belongs on site. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the weather station belongs on site. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Helps readers understand atmospheric conditions that influence observational evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand atmospheric conditions that influence observational evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Observing Handbook and Catalogue of Deep-Sky Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwCyjQpGU7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Observing Handbook and Catalogue of Deep-Sky Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Observing Handbook and Catalogue of Deep-Sky Objects">Observing Handbook and Catalogue of Deep-Sky Objects</a>
-        </h4>
-        <p class="fr-book-author">By Christian B. Luginbuhl, Brian A. Skiff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Observing Handbook and Catalogue of Deep-Sky Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwCyjQpGU7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Observing Handbook and Catalogue of Deep-Sky Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Observing Handbook and Catalogue of Deep-Sky Objects">Observing Handbook and Catalogue of Deep-Sky Objects</a>
+</h4>
+<p class="fr-book-author">By Christian B. Luginbuhl, Brian A. Skiff</p>
         
-        <p class="fr-book-desc">Provides practical observing techniques relevant to documenting transient sky events under varying conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical observing techniques relevant to documenting transient sky events under varying conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Alan Watts</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
+</h4>
+<p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Covers weather interpretation useful when comparing detector-side measurements with broader meteorological reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers weather interpretation useful when comparing detector-side measurements with broader meteorological reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3944771-M.jpg" alt="Cover for Meteorology today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology today">Meteorology today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3944771-M.jpg" alt="Cover for Meteorology today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology today">Meteorology today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Meteorology, Textbooks, Meteorologia, Meteorologie, Météorologie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Meteorology, Textbooks, Meteorologia, Meteorologie, Météorologie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Observing+and+Catalogue+of+Deep+Sky+Objects+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Observing and Catalogue of Deep Sky Objects books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Observing+and+Catalogue+of+Deep+Sky+Objects+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Observing and Catalogue of Deep Sky Objects books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/c77c0b33a337ede41bba.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1"><img src="{{ '/assets/images/marketplace-covers/04c0d83aebcfe9483540.jpg' | relative_url }}" alt="Listing image for Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station Official 2026 Radio Control UK Version, Professional 6-in-1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station" data-ebay-reference="local-sensors-why-the-weather-station-belongs-on-site-automated-instrumented-ufo-detectors-weather-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ This layered approach produces a more complete environmental record than either 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ This layered approach produces a more complete environmental record than either 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ This layered approach produces a more complete environmental record than either 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ This layered approach produces a more complete environmental record than either 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ This layered approach produces a more complete environmental record than either 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,112 +785,112 @@ This layered approach produces a more complete environmental record than either 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rmets.org  
-   Link: <a href="https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>why weather conditions can change over short distances7 May 2026 — The nearest weather station offers useful information, but it may...</p></details>
+   Link:<a href="https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/mystery-microclimates-why-weather-conditions-can-change-over-short-distances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>why weather conditions can change over short distances7 May 2026 — The nearest weather station offers useful information, but it may...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gladstonefamily.net  
-   Link: <a href="https://weather.gladstonefamily.net/UrbanMetOps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://weather.gladstonefamily.net/UrbanMetOps.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD METEOROLOGICAL ORGANIZATION...by MOATU SITES — Instead it is recommended to site urban stations over surfaces that, within a micro...</p></details>
+   Link:<a href="https://weather.gladstonefamily.net/UrbanMetOps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://weather.gladstonefamily.net/UrbanMetOps.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD METEOROLOGICAL ORGANIZATION...by MOATU SITES — Instead it is recommended to site urban stations over surfaces that, within a micro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncei.noaa.gov  
    Title: More Information.Read more  
-   Link: <a href="https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Surface/Weather Observing Systems (ASOS/AWOS)March 22, 2021 — They generally report at 20-minute intervals and, unlike ASOS...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/land-based-station/automated-surface-weather-observing-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automated Surface/Weather Observing Systems (ASOS/AWOS)March 22, 2021 — They generally report at 20-minute intervals and, unlike ASOS...</p></details>
    Published: March 22, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/asos/aum-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/asos/aum-toc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAutomated Surface Observing System (ASOS)This system is the primary surface weather observing system in the Unite...</p></details>
+   Link:<a href="https://www.weather.gov/media/asos/aum-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/asos/aum-toc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceAutomated Surface Observing System (ASOS)This system is the primary surface weather observing system in the Unite...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anization (WMO) is to coordinate the activities of its 188 Members in the generation of data and.Read more...</p></details>
+   Link:<a href="https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anization (WMO) is to coordinate the activities of its 188 Members in the generation of data and.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: community.wmo.int  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8)VOLUME I, MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1, General; Chapter 2, Measurement of temperature; Chapter 3, Measurement...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: community.wmo.int  
    Title: World Meteorological Organization Siting Classification  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/siting-classification" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/siting-classification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification - WMO Community PlatformThe Siting Classification for Surface Observing Stations on Land is the first common ISO/WMO stand...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/siting-classification" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/siting-classification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classification - WMO Community PlatformThe Siting Classification for Surface Observing Stations on Land is the first common ISO/WMO stand...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rmets.onlinelibrary.wiley.com  
-   Link: <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8406" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8406</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyClimatological reference stations: Definitions and requirements5 Mar 2024 — The station shall be located at a...</p></details>
+   Link:<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8406" target="_blank" rel="noopener noreferrer nofollow">https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8406</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Meteorological SocietyClimatological reference stations: Definitions and requirements5 Mar 2024 — The station shall be located at a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/observation-site-classification" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/observation-site-classification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observation site classificationThere are minimum siting and exposure standards to adhere to, to ensure conformance and data validity, and...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/observation-site-classification" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/how-forecasts-are-made/observations/observation-site-classification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observation site classificationThere are minimum siting and exposure standards to adhere to, to ensure conformance and data validity, and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: community.wmo.int  
    Title: int Knowledge-sharing Portal  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intKnowledge-sharing Portal - WMO CommunityPurpose of this web portal is to enable Members to share their experience and knowledge on...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intKnowledge-sharing Portal - WMO CommunityPurpose of this web portal is to enable Members to share their experience and knowledge on...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265347633_Initial_guidance_to_obtain_representative_meteorological_observations_at_urban_sites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265347633_Initial_guidance_to_obtain_representative_meteorological_observations_at_urban_sites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial guidance to obtain representative meteorological...23 Dec 2015 — This IOM Report is therefore an important tool for early dissem...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/265347633_Initial_guidance_to_obtain_representative_meteorological_observations_at_urban_sites" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265347633_Initial_guidance_to_obtain_representative_meteorological_observations_at_urban_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial guidance to obtain representative meteorological...23 Dec 2015 — This IOM Report is therefore an important tool for early dissem...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uncclearn.org  
-   Link: <a href="https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on Climate Observation Networks and SystemsAt a minimum such stations should make observations of the following elements: weathe...</p></details>
+   Link:<a href="https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on Climate Observation Networks and SystemsAt a minimum such stations should make observations of the following elements: weathe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: campbellsci.co.uk  
-   Link: <a href="https://www.campbellsci.co.uk/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.co.uk/aviation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO compliant aviation weather solutions that...You can acquire visibility, present weather, and cloud information with an aviation weat...</p></details>
+   Link:<a href="https://www.campbellsci.co.uk/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.co.uk/aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO compliant aviation weather solutions that...You can acquire visibility, present weather, and cloud information with an aviation weat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/weather-observations-aerodromes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Observations at AerodromesMETAR reports are provided at regular intervals (usually 30 minutes) and provide essential weather info...</p></details>
+   Link:<a href="https://skybrary.aero/articles/weather-observations-aerodromes" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/weather-observations-aerodromes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Observations at AerodromesMETAR reports are provided at regular intervals (usually 30 minutes) and provide essential weather info...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392184489_Climate_walking_A_comparison_study_of_mobile_weather_stations_and_their_relevance_for_urban_planning_design_human_health_and_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392184489_Climate_walking_A_comparison_study_of_mobile_weather_stations_and_their_relevance_for_urban_planning_design_human_health_and_well-being</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate walking: A comparison study of mobile weather...30 May 2025 — In this paper, the study compares two microclimate mobile weather...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392184489_Climate_walking_A_comparison_study_of_mobile_weather_stations_and_their_relevance_for_urban_planning_design_human_health_and_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392184489_Climate_walking_A_comparison_study_of_mobile_weather_stations_and_their_relevance_for_urban_planning_design_human_health_and_well-being</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Climate walking: A comparison study of mobile weather...30 May 2025 — In this paper, the study compares two microclimate mobile weather...</p></details>
    Published: May 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: campbellsci.com  
-   Link: <a href="https://www.campbellsci.com/weather-station-siting" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.com/weather-station-siting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.5 m ± 1 m (AASC); 1.25 to 2.0 m (WMO); 2.0 m for temperature only (EPA); 2 m &amp; 10 m for temperature difference (EPA)...</p></details>
+   Link:<a href="https://www.campbellsci.com/weather-station-siting" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.com/weather-station-siting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1.5 m ± 1 m (AASC); 1.25 to 2.0 m (WMO); 2.0 m for temperature only (EPA); 2 m &amp; 10 m for temperature difference (EPA)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: robust-analytics.com  
    Title: nasa selects robust analytics for innovative urban weather station research  
-   Link: <a href="https://robust-analytics.com/2025/08/06/nasa-selects-robust-analytics-for-innovative-urban-weather-station-research/" target="_blank" rel="noopener noreferrer nofollow">https://robust-analytics.com/2025/08/06/nasa-selects-robust-analytics-for-innovative-urban-weather-station-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA selects Robust Analytics for innovative urban...6 Aug 2025 — When deployed, the weather station network would provide weather situa...</p></details>
+   Link:<a href="https://robust-analytics.com/2025/08/06/nasa-selects-robust-analytics-for-innovative-urban-weather-station-research/" target="_blank" rel="noopener noreferrer nofollow">https://robust-analytics.com/2025/08/06/nasa-selects-robust-analytics-for-innovative-urban-weather-station-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA selects Robust Analytics for innovative urban...6 Aug 2025 — When deployed, the weather station network would provide weather situa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hypermeteo.com  
    Title: Quaderno Meteorologia Aperta1 Representativeness precision Meteorology 1  
-   Link: <a href="https://www.hypermeteo.com/wp-content/uploads/2022/02/Quaderno_Meteorologia_Aperta1_Representativeness_precision_Meteorology-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hypermeteo.com/wp-content/uploads/2022/02/Quaderno_Meteorologia_Aperta1_Representativeness_precision_Meteorology-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2006). Initial Guidance to Obtain Representative Meteorological Observations at Urban Sit. (WMO/TD-No. 1250; IOM Report-No. 81). Geneva...</p></details>
+   Link:<a href="https://www.hypermeteo.com/wp-content/uploads/2022/02/Quaderno_Meteorologia_Aperta1_Representativeness_precision_Meteorology-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hypermeteo.com/wp-content/uploads/2022/02/Quaderno_Meteorologia_Aperta1_Representativeness_precision_Meteorology-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2006). Initial Guidance to Obtain Representative Meteorological Observations at Urban Sit. (WMO/TD-No. 1250; IOM Report-No. 81). Geneva...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZOt88Uzr2OQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZOt88Uzr2OQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Weather Station ModelsIn this video, we explore how to read, create, and decode weather station models using the diagram fr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZOt88Uzr2OQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZOt88Uzr2OQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Weather Station ModelsIn this video, we explore how to read, create, and decode weather station models using the diagram fr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/The-surrounding-environments-of-four-weather-stations-a-the-weather-station-under-the_fig3_299274681" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-surrounding-environments-of-four-weather-stations-a-the-weather-station-under-the_fig3_299274681</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y analyzing possible correlations between the variables that influence the urban...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/The-surrounding-environments-of-four-weather-stations-a-the-weather-station-under-the_fig3_299274681" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-surrounding-environments-of-four-weather-stations-a-the-weather-station-under-the_fig3_299274681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y analyzing possible correlations between the variables that influence the urban...Read more...</p></details>

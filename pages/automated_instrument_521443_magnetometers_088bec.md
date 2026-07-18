@@ -452,20 +452,20 @@ Magnetometers appear in some automated UFO or UAP detector designs because many 
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-overview.webp" | relative_url }}" alt="Overview image for Magnetometers" loading="eager" decoding="sync" fetchpriority="high">
-The best current use case is modest but valuable: a magnetic sensor can help test whether a visually detected event coincided with a local magnetic anomaly that is not explained by [space weather]({{ 'space-weather/' | relative_url }}), nearby machinery, power systems, vehicles, sensor drift or site contamination. NASA’s UAP study stressed that progress depends on calibrated sensors, metadata, multiple measurements and [baseline data]({{ 'baseline-data/' | relative_url }}); magnetometers fit that logic only when they are treated as measurement instruments rather than anomaly generators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The best current use case is modest but valuable: a magnetic sensor can help test whether a visually detected event coincided with a local magnetic anomaly that is not explained by [space weather]({{ 'space-weather/' | relative_url }}), nearby machinery, power systems, vehicles, sensor drift or site contamination. NASA’s UAP study stressed that progress depends on calibrated sensors, metadata, multiple measurements and [baseline data]({{ 'baseline-data/' | relative_url }}); magnetometers fit that logic only when they are treated as measurement instruments rather than anomaly generators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M528GR8DgYU" title="Sky360: A Global UAP Tracking Network for Science | Richard Hopf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer">Sky360: A Global UAP Tracking Network for Science | Richard Hopf</a></p><p class="youtube-embed-meta">Channel: UAP Summit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M528GR8DgYU">Open on YouTube</a></p></div></div></div>
 
 ## Why magnetometers appear in detector designs
 
-The immediate reason is historical. UFO literature has long included claims that nearby unidentified objects caused electromagnetic or magnetic effects. The Condon Report’s chapter on indirect physical evidence noted that reported effects included stalled automobile engines, headlight failure, radio and television interference, electric-clock disruption, power failures, magnetic disturbances and temporary radiation-count increases; it also stressed that such claims were not consistent across cases and could appear even in reports later attributed to mundane objects such as birds or balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span></span></span>
+The immediate reason is historical. UFO literature has long included claims that nearby unidentified objects caused electromagnetic or magnetic effects. The Condon Report’s chapter on indirect physical evidence noted that reported effects included stalled automobile engines, headlight failure, radio and television interference, electric-clock disruption, power failures, magnetic disturbances and temporary radiation-count increases; it also stressed that such claims were not consistent across cases and could appear even in reports later attributed to mundane objects such as birds or balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span></span></span>
 
-Aviation-related reports are one reason the idea persists. A 2001 NARCAP technical report by Richard Haines and Dominique Weinstein examined 57 pilot sighting reports that alleged electromagnetic effects. In the 27 stronger “Category 1” cases, the authors counted 52 different reported effects; radio systems and magnetic compass systems were among the most frequently reported affected systems. The report’s conclusion that compass deviation appeared correlated with UAP position is suggestive, but it remains based on historical reports, not controlled instrument-network detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthworm-owl-l76t.squarespace.com">[Aviation Anomalies Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthworm-owl-l76t.squarespace.com</span><span class="citation-popover-snippet">Aviation Anomalies CenterA Preliminary Study of Fifty Seven Pilot Sighting Reports Involving Alleged Electro-Magnetic Effects on Aircraft...</span></span></span>
+Aviation-related reports are one reason the idea persists. A 2001 NARCAP technical report by Richard Haines and Dominique Weinstein examined 57 pilot sighting reports that alleged electromagnetic effects. In the 27 stronger “Category 1” cases, the authors counted 52 different reported effects; radio systems and magnetic compass systems were among the most frequently reported affected systems. The report’s conclusion that compass deviation appeared correlated with UAP position is suggestive, but it remains based on historical reports, not controlled instrument-network detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthworm-owl-l76t.squarespace.com">[Aviation Anomalies Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthworm-owl-l76t.squarespace.com</span><span class="citation-popover-snippet">Aviation Anomalies CenterA Preliminary Study of Fifty Seven Pilot Sighting Reports Involving Alleged Electro-Magnetic Effects on Aircraft...</span></span></span>
 
-Modern detector projects have translated that history into cautious instrumentation. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s multimodal observatory concept includes environmental sensors for temperature, pressure, humidity, wind, quasistatic electric and magnetic fields, and energetic particles, alongside optical, infrared, radio, acoustic and [radar]({{ 'radar/' | relative_url }})-related measurements. Its rationale is not that a magnetometer alone can identify a UAP, but that multiple independent data channels make artefacts and false interpretations easier to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Modern detector projects have translated that history into cautious instrumentation. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s multimodal observatory concept includes environmental sensors for temperature, pressure, humidity, wind, quasistatic electric and magnetic fields, and energetic particles, alongside optical, infrared, radio, acoustic and [radar]({{ 'radar/' | relative_url }})-related measurements. Its rationale is not that a magnetometer alone can identify a UAP, but that multiple independent data channels make artefacts and false interpretations easier to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Commercial and citizen-facing detector systems have also included magnetic sensors. [UFODAP]({{ 'ufodap/' | relative_url }})’s technology page lists a three-dimensional magnetometer with selectable ranges of ±4, ±8, ±12 and ±16 gauss inside its multi-sensor data acquisition unit, alongside inertial sensors, barometer, temperature and humidity sensors, GPS and optional software-defined radio. That kind of inclusion shows how magnetic sensing has become part of the “instrumented” UAP toolkit, even though the sensor’s evidential value depends heavily on how the data are logged and checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
+Commercial and citizen-facing detector systems have also included magnetic sensors. [UFODAP]({{ 'ufodap/' | relative_url }})’s technology page lists a three-dimensional magnetometer with selectable ranges of ±4, ±8, ±12 and ±16 gauss inside its multi-sensor data acquisition unit, alongside inertial sensors, barometer, temperature and humidity sensors, GPS and optional software-defined radio. That kind of inclusion shows how magnetic sensing has become part of the “instrumented” UAP toolkit, even though the sensor’s evidential value depends heavily on how the data are logged and checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-1-dark.svg" | relative_url }}" alt="Magnetometers illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -473,9 +473,9 @@ Commercial and citizen-facing detector systems have also included magnetic senso
 
 A persuasive magnetic claim would need to pass a higher bar than “the magnetometer spiked when something was seen”. At minimum, the event would need precise timing, known sensor orientation, raw or minimally processed data, local environmental records, equipment status logs, and comparison with other magnetometers. It would also need a clear visual or independent detection of the aerial target, otherwise the magnetic reading is merely an unexplained local disturbance.
 
-The Galileo Project’s 2025 geomagnetic variometer paper is useful because it shows what a more careful version looks like. The authors state that their goal is to identify magnetic anomalies that cannot readily be explained by natural or human-made origins and to analyse them jointly with visible and infrared cameras, acoustic equipment and weather monitoring. Their first variometer station used a vector magnetometer and data acquisition system at a Colorado observatory, and the project evaluated six months of recordings, including the May 2024 G5 geomagnetic storm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus GI</span><span class="citation-popover-snippet">Gi Copernicus GI</span></span></span>
+The Galileo Project’s 2025 geomagnetic variometer paper is useful because it shows what a more careful version looks like. The authors state that their goal is to identify magnetic anomalies that cannot readily be explained by natural or human-made origins and to analyse them jointly with visible and infrared cameras, acoustic equipment and weather monitoring. Their first variometer station used a vector magnetometer and data acquisition system at a Colorado observatory, and the project evaluated six months of recordings, including the May 2024 G5 geomagnetic storm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus GI</span><span class="citation-popover-snippet">Gi Copernicus GI</span></span></span>
 
-That paper is also important because it treats baseline comparison as central, not optional. The authors emphasised that the nearby USGS magnetic observatory in Boulder was key to evaluating their data, because comparison with a certified observatory helped establish whether their instrument was behaving properly. In other words, the exciting part is not a claimed UAP magnetic signature; it is the more prosaic but essential work of proving that the station can tell ordinary geomagnetic variation from local anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus GI</span><span class="citation-popover-snippet">Gi Copernicus GI</span></span></span>
+That paper is also important because it treats baseline comparison as central, not optional. The authors emphasised that the nearby USGS magnetic observatory in Boulder was key to evaluating their data, because comparison with a certified observatory helped establish whether their instrument was behaving properly. In other words, the exciting part is not a claimed UAP magnetic signature; it is the more prosaic but essential work of proving that the station can tell ordinary geomagnetic variation from local anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gi.copernicus.org">[Gi Copernicus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gi.copernicus.org</span><span class="citation-popover-title">Gi Copernicus GI</span><span class="citation-popover-snippet">Gi Copernicus GI</span></span></span>
 
 A credible magnetic anomaly in an automated detector should therefore meet several conditions:
 
@@ -497,13 +497,13 @@ A credible magnetic anomaly in an automated detector should therefore meet sever
 
 The biggest risk is that magnetometers are excellent at detecting things that are not UAP. They can respond to electric currents, ferrous metal, vehicles, buried infrastructure, building materials, rail systems, power supplies, cables, motors, weather-related grounding issues, and space-weather disturbances. For an automated UFO detector, that means a magnetic channel can easily become a false-positive machine unless the installation is treated like a small geophysical observatory.
 
-Professional geomagnetic practice gives a useful standard. INTERMAGNET’s technical guidance says observatories should use routine data inspection, inter-comparison, data cleaning and baseline estimation; daily quality tasks include inspecting magnetograms, comparing instruments, comparing with nearby observatories, checking timing consistency, identifying spikes or steps, and recording changes in an observatory diary. These are not bureaucratic niceties. They are exactly the controls that prevent an “anomaly” from being a loose cable, clock error or local equipment change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">Open source on intermagnet.org.</span></span></span>
+Professional geomagnetic practice gives a useful standard. INTERMAGNET’s technical guidance says observatories should use routine data inspection, inter-comparison, data cleaning and baseline estimation; daily quality tasks include inspecting magnetograms, comparing instruments, comparing with nearby observatories, checking timing consistency, identifying spikes or steps, and recording changes in an observatory diary. These are not bureaucratic niceties. They are exactly the controls that prevent an “anomaly” from being a loose cable, clock error or local equipment change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">Open source on intermagnet.org.</span></span></span>
 
-Site choice matters just as much as sensor choice. In the Galileo Project’s variometer deployment, the team selected a site without human-made magnetic interference, protected equipment from water and intense sunlight, ensured orientation with a custom mount, and avoided magnetic deployment items such as ordinary ferrous screws. That kind of detail is a useful corrective to the casual assumption that a magnetometer can simply be bolted to a sky camera mast and treated as scientific evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2507.11355v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Site choice matters just as much as sensor choice. In the Galileo Project’s variometer deployment, the team selected a site without human-made magnetic interference, protected equipment from water and intense sunlight, ensured orientation with a custom mount, and avoided magnetic deployment items such as ordinary ferrous screws. That kind of detail is a useful corrective to the casual assumption that a magnetometer can simply be bolted to a sky camera mast and treated as scientific evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2507.11355v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Space weather is another major confounder. USGS material on geomagnetism notes that magnetic storms can generate electric fields in the Earth and interfere with grounded power transmission systems; its programme exists partly because Earth’s magnetic field varies naturally and sometimes dramatically. A detector that flags every magnetic disturbance without checking geomagnetic indices or nearby observatory data will confuse global or regional geophysical activity with local mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Geomagnetism Program &#124; U.S. Geological Survey</span><span class="citation-popover-snippet">Geomagnetism Program &#124; U.S. Geological Survey</span></span></span>
+Space weather is another major confounder. USGS material on geomagnetism notes that magnetic storms can generate electric fields in the Earth and interfere with grounded power transmission systems; its programme exists partly because Earth’s magnetic field varies naturally and sometimes dramatically. A detector that flags every magnetic disturbance without checking geomagnetic indices or nearby observatory data will confuse global or regional geophysical activity with local mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Geomagnetism Program &#124; U.S. Geological Survey</span><span class="citation-popover-snippet">Geomagnetism Program &#124; U.S. Geological Survey</span></span></span>
 
-Even older UAP field stations illustrate both the appeal and the limitation. The Hessdalen Automatic Measurement Station, operating from August 1998, combined cameras with a magnetometer that measured three magnetic components once per minute and transmitted hourly summaries. Its own technical description notes that the readings were in nanotesla but were not absolute values. That is useful auxiliary monitoring, but not enough by itself to establish a physical mechanism behind the Hessdalen lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+Even older UAP field stations illustrate both the appeal and the limitation. The Hessdalen Automatic Measurement Station, operating from August 1998, combined cameras with a magnetometer that measured three magnetic components once per minute and transmitted hourly summaries. Its own technical description notes that the readings were in nanotesla but were not absolute values. That is useful auxiliary monitoring, but not enough by itself to establish a physical mechanism behind the Hessdalen lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-2-dark.svg" | relative_url }}" alt="Magnetometers illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -511,7 +511,7 @@ Even older UAP field stations illustrate both the appeal and the limitation. The
 
 The phrase “exotic signal” is where detector design can drift from science into storytelling. A magnetic anomaly does not automatically imply unknown propulsion, non-human technology, plasma physics, gravitational effects or an object manipulating electromagnetism. It first implies that the local magnetic environment changed, or that the instrument thought it did. The order of explanation matters.
 
-The Condon Report remains relevant here because it separated claims from residual evidence. It noted that physical effects might, in principle, leave detectable changes or instrumented records, but that many claimed effects were difficult to verify after the fact. For automated detector design, the lesson is not to dismiss every electromagnetic report; it is to design systems that capture the relevant data at the time of the event, under known conditions, before interpretation hardens into folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span></span></span>
+The Condon Report remains relevant here because it separated claims from residual evidence. It noted that physical effects might, in principle, leave detectable changes or instrumented records, but that many claimed effects were difficult to verify after the fact. For automated detector design, the lesson is not to dismiss every electromagnetic report; it is to design systems that capture the relevant data at the time of the event, under known conditions, before interpretation hardens into folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 4: Indirect Physical Evidence</span></span></span>
 
 A sceptical detector design should therefore treat magnetometer output as a decision-support layer. It can help rank events for [review]({{ 'review/' | relative_url }}), test whether a local disturbance accompanied a visual track, and identify correlations worth follow-up. It should not be used as a standalone trigger for extraordinary claims unless the system has already characterised its own ordinary disturbances across seasons, storms, traffic patterns, maintenance cycles and nearby electrical activity.
 
@@ -532,194 +532,194 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-3-dark.svg" | relative_url }}" alt="Magnetometers illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Magnetic Sensors Help UAP Detection?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Magnetic Sensors Help UAP Detection?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for sensor-based UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for sensor-based UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
-        </h4>
-        <p class="fr-book-author">By Wallace H. Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
+</h4>
+<p class="fr-book-author">By Wallace H. Campbell</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="magnetometers-do-magnetic-sensors-help-uap-detection-automated-instrumented-ufo-detectors-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,199 +925,199 @@ The practical conclusion is that magnetic sensors do help UAP detection, but mai
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.ncas.org  
    Title: Condon Report Section III, Chapter 4: Indirect Physical Evidence  
-   Link: <a href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap04.htm</a>  
+   Link:<a href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap04.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gi.copernicus.org  
    Title: Gi Copernicus GI  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html</a>  
+   Link:<a href="https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/processdata/dataqualitycontrol.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.11355v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.11355v1</a>  
+   Link:<a href="https://arxiv.org/html/2507.11355v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.11355v1</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usgs.gov  
    Title: Geomagnetism Program | U.S. Geological Survey  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/first.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/station/first.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/first.shtml</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: egusphere.copernicus.org  
    Title: egusphere 2025 2396  
-   Link: <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396.pdf" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396.pdf</a>  
+   Link:<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396.pdf" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2396/egusphere-2025-2396.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gi.copernicus.org  
-   Link: <a href="https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025.pdf</a>  
+   Link:<a href="https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gi.copernicus.org/articles/14/335/2025/gi-14-335-2025.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: egusphere.copernicus.org  
    Title: egusphere 2025 3431  
-   Link: <a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/</a>  
+   Link:<a href="https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/" target="_blank" rel="noopener noreferrer nofollow">https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3431/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usgs.gov  
    Title: space weather and magnetic storms invaders outer spacesort  
-   Link: <a href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort</a>  
+   Link:<a href="https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/space-weather-and-magnetic-storms-invaders-outer-spacesort</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism</a>  
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society</a>  
+   Link:<a href="https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/videos/5-geomagnetic-storms-reshaped-society</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/publication/70274314" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70274314</a>  
+   Link:<a href="https://pubs.usgs.gov/publication/70274314" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/70274314</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: old.hessdalen.org  
    Title: Hessdal article2000.shtml  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/stable/chapters/absmeasurements/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/stable/chapters/absmeasurements/dataqualitycontrol.html</a>  
+   Link:<a href="https://tech-man.intermagnet.org/stable/chapters/absmeasurements/dataqualitycontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/stable/chapters/absmeasurements/dataqualitycontrol.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/stable/chapters/oneminuteimos/qualcontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/stable/chapters/oneminuteimos/qualcontrol.html</a>  
+   Link:<a href="https://tech-man.intermagnet.org/stable/chapters/oneminuteimos/qualcontrol.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/stable/chapters/oneminuteimos/qualcontrol.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2511.21884" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.21884</a>  
+   Link:<a href="https://arxiv.org/html/2511.21884" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.21884</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ufodap.com  
    Title: UFODA P  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
+   Link:<a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: earthworm-owl-l76t.squarespace.com  
-   Link: <a href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Anomalies CenterA Preliminary Study of Fifty Seven Pilot Sighting Reports Involving Alleged Electro-Magnetic Effects on Aircraft...</p></details>
+   Link:<a href="https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://earthworm-owl-l76t.squarespace.com/s/narcap_TR-3_2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Anomalies CenterA Preliminary Study of Fifty Seven Pilot Sighting Reports Involving Alleged Electro-Magnetic Effects on Aircraft...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Hessdalen AMS  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufodap.myshopify.com  
    Title: Multi-Sensor Data Acquisition Unit (MSDAU)  
-   Link: <a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: gfzpublic.gfz-potsdam.de  
-   Link: <a href="https://gfzpublic.gfz-potsdam.de/rest/items/item_5029649_1/component/file_5029650/content" target="_blank" rel="noopener noreferrer nofollow">https://gfzpublic.gfz-potsdam.de/rest/items/item_5029649_1/component/file_5029650/content</a>  
+   Link:<a href="https://gfzpublic.gfz-potsdam.de/rest/items/item_5029649_1/component/file_5029650/content" target="_blank" rel="noopener noreferrer nofollow">https://gfzpublic.gfz-potsdam.de/rest/items/item_5029649_1/component/file_5029650/content</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gfzpublic.gfz.de  
-   Link: <a href="https://gfzpublic.gfz.de/rest/items/item_5029649_3/component/file_5029650/content" target="_blank" rel="noopener noreferrer nofollow">https://gfzpublic.gfz.de/rest/items/item_5029649_3/component/file_5029650/content</a>  
+   Link:<a href="https://gfzpublic.gfz.de/rest/items/item_5029649_3/component/file_5029650/content" target="_blank" rel="noopener noreferrer nofollow">https://gfzpublic.gfz.de/rest/items/item_5029649_3/component/file_5029650/content</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thecrimson.com  
    Title: galileo project  
-   Link: <a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
+   Link:<a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=sf9lbbjV_xA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sf9lbbjV_xA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UAP&quot; magnetometer sensor tracking station More incredible footage of a UFO rising from our oceans! What are these advanced crafts?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=sf9lbbjV_xA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=sf9lbbjV_xA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UAP&quot; magnetometer sensor tracking station More incredible footage of a UFO rising from our oceans! What are these advanced crafts?...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking UFOs and Anomalous Objects with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking UFOs and Anomalous Objects with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=lx128Ln6HsI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lx128Ln6HsI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skywatcher: Function, Purpose, and Scientific Framework | Garry Nolan...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lx128Ln6HsI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lx128Ln6HsI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skywatcher: Function, Purpose, and Scientific Framework | Garry Nolan...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Skywatcher: Function, Purpose, and Scientific Framework | Garry Nolan  
-   Link: <a href="http://www.youtube.com/watch?v=kPodKWDFrp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kPodKWDFrp4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Detected LIVE on Multiple Sensors | Radar, IR &amp; 3GHz Signals | UAP Files Podcast | Tedesco Bros...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kPodKWDFrp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kPodKWDFrp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Detected LIVE on Multiple Sensors | Radar, IR &amp; 3GHz Signals | UAP Files Podcast | Tedesco Bros...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Sky360: A Global UAP Tracking Network for Science | Richard Hopf  
-   Link: <a href="http://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M528GR8DgYU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M528GR8DgYU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227070831_Magnetic_Observatory_Data_and_Metadata_Types_and_Availability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227070831_Magnetic_Observatory_Data_and_Metadata_Types_and_Availability</a>  
+   Link:<a href="https://www.researchgate.net/publication/227070831_Magnetic_Observatory_Data_and_Metadata_Types_and_Availability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227070831_Magnetic_Observatory_Data_and_Metadata_Types_and_Availability</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367076053_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-based_Observatories</a>  

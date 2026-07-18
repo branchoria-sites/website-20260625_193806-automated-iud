@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_la
 
 ## Introduction
 
-Automated sky-monitoring stations intended to detect unusual aerial phenomena should almost always remain passive. Cameras, radio receivers and other sensors observe the sky without affecting it. The moment a system projects a laser beam for alignment, tracking or visual [pointing]({{ 'pointing/' | relative_url }}), it moves into a very different legal and safety category. Even relatively low-power visible lasers can distract or temporarily impair pilots, while more powerful systems create additional eye-safety risks and may attract criminal or regulatory scrutiny if their beams enter navigable airspace. UK law in particular treats laser illumination of aircraft as a serious offence, regardless of whether the operator intended harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Lasers &#124; UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</span></span></span>
+Automated sky-monitoring stations intended to detect unusual aerial phenomena should almost always remain passive. Cameras, radio receivers and other sensors observe the sky without affecting it. The moment a system projects a laser beam for alignment, tracking or visual [pointing]({{ 'pointing/' | relative_url }}), it moves into a very different legal and safety category. Even relatively low-power visible lasers can distract or temporarily impair pilots, while more powerful systems create additional eye-safety risks and may attract criminal or regulatory scrutiny if their beams enter navigable airspace. UK law in particular treats laser illumination of aircraft as a serious offence, regardless of whether the operator intended harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Lasers &#124; UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_laser_hazard_sky_mon_10bbeb-Illustration-1-dark.svg" | relative_url }}" alt="Laser Risk illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_laser_hazard_sky_mon_10bbeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_laser_hazard_sky_mon_10bbeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ For a scientific sky station, this changes the risk-benefit calculation dramatic
 
 A passive camera simply records incoming light. Even if equipped with powerful optics, it does not alter the environment or interfere with aircraft operations. This makes its regulatory concerns largely about privacy, data management and installation rather than aviation safety.
 
-A laser, by contrast, intentionally projects energy into open air. Whether used as a visible pointer, an alignment aid or an automated tracking marker, it creates a beam that may extend for kilometres under favourable atmospheric conditions. If that beam intersects an aircraft cockpit, even briefly, the consequences depend on distance, power, wavelength and flight conditions rather than the operator's intentions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</span></span></span>
+A laser, by contrast, intentionally projects energy into open air. Whether used as a visible pointer, an alignment aid or an automated tracking marker, it creates a beam that may extend for kilometres under favourable atmospheric conditions. If that beam intersects an aircraft cockpit, even briefly, the consequences depend on distance, power, wavelength and flight conditions rather than the operator's intentions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</span></span></span>
 
 For automated UFO detection systems, proposed laser uses generally fall into three [categories]({{ 'categories/' | relative_url }}):
 
@@ -311,9 +311,9 @@ Aircraft are uniquely susceptible because pilots depend heavily on visual perfor
 * **Flash blindness**, producing temporary loss of vision after bright exposure.
 * **After-images**, which can persist for seconds or longer and interfere with instrument scanning.
 
-These effects may occur even when exposure is too weak to damage the eye physically. A laser therefore does not need to burn retinal tissue to become an aviation hazard. Temporary visual impairment during a critical phase of flight may itself create unacceptable risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</span></span></span>
+These effects may occur even when exposure is too weak to damage the eye physically. A laser therefore does not need to burn retinal tissue to become an aviation hazard. Temporary visual impairment during a critical phase of flight may itself create unacceptable risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</span></span></span>
 
-Helicopters deserve particular attention. Unlike high-altitude airliners, police, medical and news helicopters frequently operate at lower altitudes over populated areas where hobbyist observatories are often installed. The UK Civil Aviation Authority notes that laser attacks affect not only commercial aircraft but also general aviation and emergency helicopter operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Lasers &#124; UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</span></span></span>
+Helicopters deserve particular attention. Unlike high-altitude airliners, police, medical and news helicopters frequently operate at lower altitudes over populated areas where hobbyist observatories are often installed. The UK Civil Aviation Authority notes that laser attacks affect not only commercial aircraft but also general aviation and emergency helicopter operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Lasers &#124; UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HtjFx7aHskQ" title="New FAA warning over pointing lasers at aircraft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HtjFx7aHskQ" target="_blank" rel="noopener noreferrer">New FAA warning over pointing lasers at aircraft</a></p><p class="youtube-embed-meta">Channel: Queen City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HtjFx7aHskQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HtjFx7aHskQ">Open on YouTube</a></p></div></div></div>
@@ -322,11 +322,11 @@ Helicopters deserve particular attention. Unlike high-altitude airliners, police
 
 The legal position changes sharply once a system intentionally emits laser light outdoors.
 
-In the United Kingdom, the **Laser Misuse (Vehicles) Act 2018** makes it an offence to shine or direct a laser beam towards a vehicle, including aircraft, in circumstances likely to dazzle or distract the person controlling it. Importantly, the legislation no longer requires prosecutors to prove an intention to endanger an aircraft. Unlimited fines and prison sentences of up to five years are available for serious offences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">tough new penalties for misuse of lasers</span><span class="citation-popover-snippet">20 Dec 2017 — Shining or directing a laser at aircraft, road vehicles or ships could lead to a prison sentence, unlimited fine or both un...</span></span></span>
+In the United Kingdom, the **Laser Misuse (Vehicles) Act 2018** makes it an offence to shine or direct a laser beam towards a vehicle, including aircraft, in circumstances likely to dazzle or distract the person controlling it. Importantly, the legislation no longer requires prosecutors to prove an intention to endanger an aircraft. Unlimited fines and prison sentences of up to five years are available for serious offences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">tough new penalties for misuse of lasers</span><span class="citation-popover-snippet">20 Dec 2017 — Shining or directing a laser at aircraft, road vehicles or ships could lead to a prison sentence, unlimited fine or both un...</span></span></span>
 
 This matters for automated sky-monitoring stations because software-controlled equipment can continue operating without continuous human supervision. If an automatic tracking routine directs a beam towards an aircraft, arguing that the event was "only calibration" or "computer controlled" may provide little practical protection if the beam endangered flight operations.
 
-Outside the UK, similar concerns exist. Aviation authorities in many countries treat laser illumination as a significant safety issue, with reporting procedures, restricted operational zones near airports and dedicated guidance for laser users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserpointersafety.com/links/links.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserpointersafety.com">[laserpointersafety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserpointersafety.com</span><span class="citation-popover-snippet">Open source on laserpointersafety.com.</span></span></span>
+Outside the UK, similar concerns exist. Aviation authorities in many countries treat laser illumination as a significant safety issue, with reporting procedures, restricted operational zones near airports and dedicated guidance for laser users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laserpointersafety.com/links/links.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserpointersafety.com">[laserpointersafety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserpointersafety.com</span><span class="citation-popover-snippet">Open source on laserpointersafety.com.</span></span></span>
 
 ## Scientific Value Is Usually Smaller Than Expected
 
@@ -374,7 +374,7 @@ Members of the public cannot easily distinguish between:
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * an astronomical calibration system,
-* a laser pointer, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laserpointersafety.com/aviation/laser-hazards/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserpointersafety.com">[laserpointersafety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserpointersafety.com</span><span class="citation-popover-title">What makes lasers hazardous to aviation Beam divergence</span><span class="citation-popover-snippet">The distance from laser source to a helicopter or aircraft cockpit can be hundreds of thousands of feet. This gives the beam room to spre...</span></span></span>
+* a laser pointer,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laserpointersafety.com/aviation/laser-hazards/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laserpointersafety.com">[laserpointersafety.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laserpointersafety.com</span><span class="citation-popover-title">What makes lasers hazardous to aviation Beam divergence</span><span class="citation-popover-snippet">The distance from laser source to a helicopter or aircraft cockpit can be hundreds of thousands of feet. This gives the beam room to spre...</span></span></span>
 * commercial entertainment lighting,
 * or deliberate targeting of aircraft.
 
@@ -392,197 +392,197 @@ For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detect
 
 **Observe the sky without projecting anything into it.**
 
-Passive optical, infrared, radio and environmental sensors can collect high-quality evidence while avoiding the legal, operational and reputational risks associated with laser use. Where calibration is required, enclosed laboratory procedures or passive astronomical reference methods provide safer and scientifically stronger alternatives than directing laser beams into navigable airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">laser radiation safety advice</span><span class="citation-popover-snippet">Laser radiation: safety advice18 Mar 2025 — Lasers may emit high power optical radiation which could present a risk to the eyes and skin...</span></span></span>
+Passive optical, infrared, radio and environmental sensors can collect high-quality evidence while avoiding the legal, operational and reputational risks associated with laser use. Where calibration is required, enclosed laboratory procedures or passive astronomical reference methods provide safer and scientifically stronger alternatives than directing laser beams into navigable airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">laser radiation safety advice</span><span class="citation-popover-snippet">Laser radiation: safety advice18 Mar 2025 — Lasers may emit high power optical radiation which could present a risk to the eyes and skin...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sky Stations Should Avoid Lasers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sky Stations Should Avoid Lasers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
-        </h4>
-        <p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
+</h4>
+<p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
         
-        <p class="fr-book-desc">Provides context for aviation safety and protected airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for aviation safety and protected airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
-        </h4>
-        <p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
+</h4>
+<p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
         
-        <p class="fr-book-desc">Covers governance and secure system design principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers governance and secure system design principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Laser Guidebook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4147305-M.jpg" alt="Cover for The Laser Guidebook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Laser Guidebook">The Laser Guidebook</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Hecht</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Laser Guidebook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4147305-M.jpg" alt="Cover for The Laser Guidebook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Laser Guidebook">The Laser Guidebook</a>
+</h4>
+<p class="fr-book-author">By Jeff Hecht</p>
         
-        <p class="fr-book-desc">First published 1986. Subjects: Lasers, Handbooks, manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1986. Subjects: Lasers, Handbooks, manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Safety on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Safety">Laser Safety</a>
-        </h4>
-        <p class="fr-book-author">By Ken Barat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Safety on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Safety">Laser Safety</a>
+</h4>
+<p class="fr-book-author">By Ken Barat</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Lasers, safety measures, Lasers, Safety measures, SCIENCE / Optics, TECHNOLOGY &amp; ENGINEERING / Lasers &amp; P...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Lasers, safety measures, Lasers, Safety measures, SCIENCE / Optics, TECHNOLOGY &amp; ENGINEERING / Lasers &amp; P...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Laser+Guidebook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Laser Guidebook</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Laser+Guidebook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Laser Guidebook</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="laser-risk-why-sky-stations-should-avoid-lasers-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,101 +788,101 @@ Passive optical, infrared, radio and environmental sensors can collect high-qual
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers | UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</p></details>
+   Link:<a href="https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/safety-initiatives/how-we-regulate/safety-plan/mitigating-key-safety-risks/lasers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers | UK Civil Aviation AuthorityLaser attacks are most common near large city airports. They happen across the UK and are not limi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: tough new penalties for misuse of lasers  
-   Link: <a href="https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2017 — Shining or directing a laser at aircraft, road vehicles or ships could lead to a prison sentence, unlimited fine or both un...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/tough-new-penalties-for-misuse-of-lasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2017 — Shining or directing a laser at aircraft, road vehicles or ships could lead to a prison sentence, unlimited fine or both un...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: laser radiation safety advice  
-   Link: <a href="https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser radiation: safety advice18 Mar 2025 — Lasers may emit high power optical radiation which could present a risk to the eyes and skin...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser radiation: safety advice18 Mar 2025 — Lasers may emit high power optical radiation which could present a risk to the eyes and skin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/15/17/6226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</p></details>
+   Link:<a href="https://www.mdpi.com/1996-1073/15/17/6226" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1996-1073/15/17/6226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Potential Impact of Laser Pointers on Aviation Safetyby W Wawrzyński · 2022 · Cited by 12 — It is impossible to investigate the e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: laserpointersafety.com  
    Title: What makes lasers hazardous to aviation Beam divergence  
-   Link: <a href="https://www.laserpointersafety.com/aviation/laser-hazards/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/aviation/laser-hazards/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The distance from laser source to a helicopter or aircraft cockpit can be hundreds of thousands of feet. This gives the beam room to spre...</p></details>
+   Link:<a href="https://www.laserpointersafety.com/aviation/laser-hazards/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/aviation/laser-hazards/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The distance from laser source to a helicopter or aircraft cockpit can be hundreds of thousands of feet. This gives the beam room to spre...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/293089943_Lasers_and_aviation_safety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/293089943_Lasers_and_aviation_safety</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers and aviation safetyWhen laser beams intersect an aircraft&#x27;s path, a hazard can result. There are four primary areas of concern: di...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/293089943_Lasers_and_aviation_safety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/293089943_Lasers_and_aviation_safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers and aviation safetyWhen laser beams intersect an aircraft&#x27;s path, a hazard can result. There are four primary areas of concern: di...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: laserpointersafety.com  
-   Link: <a href="https://www.laserpointersafety.com/links/links.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/links/links.html</a>  
+   Link:<a href="https://www.laserpointersafety.com/links/links.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laserpointersafety.com/links/links.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/25586" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/25586</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Notice SN 2020-017V331 Oct 2024 — 1.4. Laser Attacks must be reported to the CAA as a Mandatory Occurrence Report (MOR) when requi...</p></details>
+   Link:<a href="https://www.caa.co.uk/publication/download/25586" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/25586</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Notice SN 2020-017V331 Oct 2024 — 1.4. Laser Attacks must be reported to the CAA as a Mandatory Occurrence Report (MOR) when requi...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: eurocockpit.eu  
-   Link: <a href="https://www.eurocockpit.eu/positions-publications/eca-position-lasers-and-dangerous-lights-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocockpit.eu/positions-publications/eca-position-lasers-and-dangerous-lights-attacks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECA Position on Lasers and Dangerous Lights AttacksECA calls for both the EU and Member States to recognise laser attacks as acts of unla...</p></details>
+   Link:<a href="https://www.eurocockpit.eu/positions-publications/eca-position-lasers-and-dangerous-lights-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocockpit.eu/positions-publications/eca-position-lasers-and-dangerous-lights-attacks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECA Position on Lasers and Dangerous Lights AttacksECA calls for both the EU and Member States to recognise laser attacks as acts of unla...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rospa.com  
-   Link: <a href="https://www.rospa.com/home-safety/product-safety/laser-pointers" target="_blank" rel="noopener noreferrer nofollow">https://www.rospa.com/home-safety/product-safety/laser-pointers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser pointer safety guidelinesDon&#x27;t hold a laser beam on the skin, as strong laser pointers can cause skin burns. The Laser Misuse (Vehi...</p></details>
+   Link:<a href="https://www.rospa.com/home-safety/product-safety/laser-pointers" target="_blank" rel="noopener noreferrer nofollow">https://www.rospa.com/home-safety/product-safety/laser-pointers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser pointer safety guidelinesDon&#x27;t hold a laser beam on the skin, as strong laser pointers can cause skin burns. The Laser Misuse (Vehi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scaa.org.uk  
-   Link: <a href="https://www.scaa.org.uk/our-mission/news-and-media/the-danger-of-laser-pointers-and-high-powered-torches-for-air-ambulances/" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.org.uk/our-mission/news-and-media/the-danger-of-laser-pointers-and-high-powered-torches-for-air-ambulances/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>porary glare but could also cause long-term eye damage if exposure is prolonged.Read more...</p></details>
+   Link:<a href="https://www.scaa.org.uk/our-mission/news-and-media/the-danger-of-laser-pointers-and-high-powered-torches-for-air-ambulances/" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.org.uk/our-mission/news-and-media/the-danger-of-laser-pointers-and-high-powered-torches-for-air-ambulances/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>porary glare but could also cause long-term eye damage if exposure is prolonged.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eurocockpit.eu  
-   Link: <a href="https://www.eurocockpit.eu/news/new-uk-laws-crack-down-laser-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocockpit.eu/news/new-uk-laws-crack-down-laser-attacks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UK laws to crack down on laser attacks30 Jul 2018 — In fact, irresponsible and reckless use of a laser would lead to a tougher punish...</p></details>
+   Link:<a href="https://www.eurocockpit.eu/news/new-uk-laws-crack-down-laser-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocockpit.eu/news/new-uk-laws-crack-down-laser-attacks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UK laws to crack down on laser attacks30 Jul 2018 — In fact, irresponsible and reckless use of a laser would lead to a tougher punish...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: emergencyservicestimes.com  
-   Link: <a href="https://emergencyservicestimes.com/2025/01/31/the-catastrophic-impact-of-laser-attacks-on-air-ambulance-crews/" target="_blank" rel="noopener noreferrer nofollow">https://emergencyservicestimes.com/2025/01/31/the-catastrophic-impact-of-laser-attacks-on-air-ambulance-crews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The catastrophic impact of laser attacks on air ambulance...31 Jan 2025 — Laser attacks are criminal offences, punishable by unlimited f...</p></details>
+   Link:<a href="https://emergencyservicestimes.com/2025/01/31/the-catastrophic-impact-of-laser-attacks-on-air-ambulance-crews/" target="_blank" rel="noopener noreferrer nofollow">https://emergencyservicestimes.com/2025/01/31/the-catastrophic-impact-of-laser-attacks-on-air-ambulance-crews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The catastrophic impact of laser attacks on air ambulance...31 Jan 2025 — Laser attacks are criminal offences, punishable by unlimited f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Lasers and aviation safety  
-   Link: <a href="https://en.wikipedia.org/wiki/Lasers_and_aviation_safety" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lasers_and_aviation_safety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers and aviation safetyPointing a laser at an aircraft can be hazardous to pilots, and has resulted in arrests, trials and jail sen...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lasers_and_aviation_safety" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lasers_and_aviation_safety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers and aviation safetyPointing a laser at an aircraft can be hazardous to pilots, and has resulted in arrests, trials and jail sen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: businessairportinternational.com  
    Title: how to deal with the growing threat of laser attacks  
-   Link: <a href="https://www.businessairportinternational.com/features/how-to-deal-with-the-growing-threat-of-laser-attacks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.businessairportinternational.com/features/how-to-deal-with-the-growing-threat-of-laser-attacks.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers do not interfere with or damage aircraft, but impact pilots and other individuals.Read more...</p></details>
+   Link:<a href="https://www.businessairportinternational.com/features/how-to-deal-with-the-growing-threat-of-laser-attacks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.businessairportinternational.com/features/how-to-deal-with-the-growing-threat-of-laser-attacks.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lasers do not interfere with or damage aircraft, but impact pilots and other individuals.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: New FAA warning over pointing lasers at aircraft  
-   Link: <a href="https://www.youtube.com/watch?v=HtjFx7aHskQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HtjFx7aHskQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How dangerous are laser pointers to pilots? BBC News - YouTube How dangerous are laser pointers to pilots? BBC News - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HtjFx7aHskQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HtjFx7aHskQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How dangerous are laser pointers to pilots? BBC News - YouTube How dangerous are laser pointers to pilots? BBC News - YouTube...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: flightsafety.org  
    Title: laser strike decline  
-   Link: <a href="https://flightsafety.org/laser-strike-decline/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/laser-strike-decline/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decline Reported in U.K. Laser Strikes1 Mar 2017 — Some 1,258 incidents involving laser strikes on aircraft were reported to the U.K. Civ...</p></details>
+   Link:<a href="https://flightsafety.org/laser-strike-decline/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/laser-strike-decline/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decline Reported in U.K. Laser Strikes1 Mar 2017 — Some 1,258 incidents involving laser strikes on aircraft were reported to the U.K. Civ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Laser Plane Attack Revealed in FBI Footage of Incredibly Dangerous Act  
-   Link: <a href="https://www.youtube.com/watch?v=NCiKKXklFyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NCiKKXklFyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in laser pointer incidents with aircraft concerns law enforcement...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NCiKKXklFyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NCiKKXklFyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increase in laser pointer incidents with aircraft concerns law enforcement...</p></details>

@@ -381,76 +381,76 @@ image: /assets/images/automated_instrument_521443-overview-social.jpg
 
 ## Introduction
 
-The field is small but real. It includes citizen-science networks such as Sky360, commercial or semi-commercial systems such as UFODAP, academic observatories such as the [Galileo]({{ 'galileo/' | relative_url }}) Project, long-running local efforts such as the Hessdalen Automatic Measurement Station in Norway, and government sensor work such as AARO’s GREMLIN prototype. Their shared aim is simple: when something unusual appears in the sky, capture more than a clip. Capture direction, timing, sensor settings, aircraft context, [weather]({{ 'weather/' | relative_url }}), infrared or spectral information, and ideally observations from more than one location. U.S. Department of War+4sky360.org+4UFODAP <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
+The field is small but real. It includes citizen-science networks such as Sky360, commercial or semi-commercial systems such as UFODAP, academic observatories such as the [Galileo]({{ 'galileo/' | relative_url }}) Project, long-running local efforts such as the Hessdalen Automatic Measurement Station in Norway, and government sensor work such as AARO’s GREMLIN prototype. Their shared aim is simple: when something unusual appears in the sky, capture more than a clip. Capture direction, timing, sensor settings, aircraft context, [weather]({{ 'weather/' | relative_url }}), infrared or spectral information, and ideally observations from more than one location. U.S. Department of War+4sky360.org+4UFODAP<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443-overview.webp" | relative_url }}" alt="Overview image for Automated Instrumented UFO Detectors" loading="eager" decoding="sync" fetchpriority="high">
 ## What makes a UFO detector “instrumented”?
 
-An instrumented detector is different from a doorbell camera, phone video or eyewitness report because it is designed as a measurement system. At minimum, it needs a camera, a clock, known pointing geometry, stored raw or near-raw data, and a way to distinguish ordinary sky traffic from unusual tracks. More advanced designs add [infrared cameras]({{ 'infrared/' | relative_url }}), radar or passive radio receivers, microphones, [magnetometers]({{ 'magnetometers/' | relative_url }}), weather sensors, ADS-B aircraft receivers, and software that preserves provenance — where the data came from, what the sensor was doing, and how the event was processed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+An instrumented detector is different from a doorbell camera, phone video or eyewitness report because it is designed as a measurement system. At minimum, it needs a camera, a clock, known pointing geometry, stored raw or near-raw data, and a way to distinguish ordinary sky traffic from unusual tracks. More advanced designs add [infrared cameras]({{ 'infrared/' | relative_url }}), radar or passive radio receivers, microphones, [magnetometers]({{ 'magnetometers/' | relative_url }}), weather sensors, ADS-B aircraft receivers, and software that preserves provenance — where the data came from, what the sensor was doing, and how the event was processed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-The strongest designs are multi-modal, meaning they use several sensor types at once. The Galileo Project’s published instrument concept includes wide-field cameras for detection and tracking, narrow-field instruments for morphology and spectra, passive multistatic radar-style receivers, radio spectrum analysers, acoustic sensors, environmental sensors, and magnetic or energetic-particle measurements. The reason is practical rather than exotic: a single camera can be fooled by birds, aircraft, satellites, lens effects, insects, parallax or focus errors, while independent sensor channels make false explanations easier to test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The strongest designs are multi-modal, meaning they use several sensor types at once. The Galileo Project’s published instrument concept includes wide-field cameras for detection and tracking, narrow-field instruments for morphology and spectra, passive multistatic radar-style receivers, radio spectrum analysers, acoustic sensors, environmental sensors, and magnetic or energetic-particle measurements. The reason is practical rather than exotic: a single camera can be fooled by birds, aircraft, satellites, lens effects, insects, parallax or focus errors, while independent sensor channels make false explanations easier to test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-Automation matters because UAP reports are usually brief and unpredictable. A human observer may see something for seconds, misjudge distance or speed, and have no record of camera settings or environmental conditions. UFODAP’s own presentation frames the same problem bluntly: UAP data for scientific analysis has often been collected after the fact, with questionable provenance and no coincident environmental measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFODAP_Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">Power Point Presentation</span><span class="citation-popover-snippet">Power Point Presentation</span></span></span>
+Automation matters because UAP reports are usually brief and unpredictable. A human observer may see something for seconds, misjudge distance or speed, and have no record of camera settings or environmental conditions. UFODAP’s own presentation frames the same problem bluntly: UAP data for scientific analysis has often been collected after the fact, with questionable provenance and no coincident environmental measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handprint.com/UFO/UFODAP_Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handprint.com">[handprint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handprint.com</span><span class="citation-popover-title">Power Point Presentation</span><span class="citation-popover-snippet">Power Point Presentation</span></span></span>
 
 ## The main systems now in view
 
 ### Sky360: open-source citizen sky stations
 
-Sky360 is an open-source citizen-science project that aims to support affordable, 24/7 sky-observation stations. Its public materials describe a community platform for observing planes, satellites, drones, meteors, birds, weather phenomena and UAP, with hardware and software development under open licences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
+Sky360 is an open-source citizen-science project that aims to support affordable, 24/7 sky-observation stations. Its public materials describe a community platform for observing planes, satellites, drones, meteors, birds, weather phenomena and UAP, with hardware and software development under open licences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
 
-The value of Sky360 is not that each station is a professional observatory. It is that a distributed network, if standardised well, could collect many comparable observations over time. That is exactly what casual UFO reporting usually lacks: repeated operation, documented equipment, known pointing, ordinary-sky baselines and shareable data. The weakness is also obvious: citizen networks must solve consistency, calibration, maintenance and false-positive filtering before their data can carry the same weight as a controlled scientific instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
+The value of Sky360 is not that each station is a professional observatory. It is that a distributed network, if standardised well, could collect many comparable observations over time. That is exactly what casual UFO reporting usually lacks: repeated operation, documented equipment, known pointing, ordinary-sky baselines and shareable data. The weakness is also obvious: citizen networks must solve consistency, calibration, maintenance and false-positive filtering before their data can carry the same weight as a controlled scientific instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-title">Observational Citizen Science of Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443-Illustration-1-dark.svg" | relative_url }}" alt="Automated Instrumented UFO Detectors illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFODAP: practical optical tracking for UAP hobbyists and researchers
 
-UFODAP, the UFO Data Acquisition Project, is one of the more concrete examples of a purpose-built UAP detection system. Its technical focus is to recognise, track and record anomalous objects while collecting data from multiple sensors, with a goal of expanding sensor sites beyond isolated locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Science and Technology, Ufo, UapThe technical focus of the UFODAP is providing cost effective methods to recognize, track and record anom...</span></span></span>
+UFODAP, the UFO Data Acquisition Project, is one of the more concrete examples of a purpose-built UAP detection system. Its technical focus is to recognise, track and record anomalous objects while collecting data from multiple sensors, with a goal of expanding sensor sites beyond isolated locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Science and Technology, Ufo, UapThe technical focus of the UFODAP is providing cost effective methods to recognize, track and record anom...</span></span></span>
 
-Its Optical Tracking Data Acquisition Unit, or OTDAU, works with USB and IP cameras, including fixed and pan-tilt-zoom cameras. UFODAP describes software that detects a moving object in a defined area, tracks it, adjusts the tracking box, reduces false triggers from flickering stars, birds and foliage, and uses machine vision to identify likely aircraft or birds during analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
+Its Optical Tracking Data Acquisition Unit, or OTDAU, works with USB and IP cameras, including fixed and pan-tilt-zoom cameras. UFODAP describes software that detects a moving object in a defined area, tracks it, adjusts the tracking box, reduces false triggers from flickering stars, birds and foliage, and uses machine vision to identify likely aircraft or birds during analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
 
-UFODAP is important because it shows the engineering direction of the field: not “a camera pointed at the sky”, but a pipeline. The pipeline detects motion, follows the target, stores video, adds sensor data, and tries to reduce review time by labelling obvious [false positives]({{ 'false-positives/' | relative_url }}). The limitation is that commercial availability and active users do not by themselves make detections scientifically decisive; calibration, open data, independent replication and transparent analysis still determine evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
+UFODAP is important because it shows the engineering direction of the field: not “a camera pointed at the sky”, but a pipeline. The pipeline detects motion, follows the target, stores video, adds sensor data, and tries to reduce review time by labelling obvious [false positives]({{ 'false-positives/' | relative_url }}). The limitation is that commercial availability and active users do not by themselves make detections scientifically decisive; calibration, open data, independent replication and transparent analysis still determine evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
 
 ### The Galileo Project: observatory-style UAP measurement
 
-The Galileo Project is the most academically formal version of the instrumented-detector idea. Its 2023 Journal of Astronomical Instrumentation paper describes an integrated software and instrumentation system for a multimodal census of aerial phenomena and anomaly recognition, explicitly linking physical questions to sensor requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The Galileo Project is the most academically formal version of the instrumented-detector idea. Its 2023 Journal of Astronomical Instrumentation paper describes an integrated software and instrumentation system for a multimodal census of aerial phenomena and anomaly recognition, explicitly linking physical questions to sensor requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-A later Galileo system-architecture paper describes the Observatory Class Integrated Computing Platform, built around edge computing at the observatory site and post-processing away from the site. The edge subsystem handles real-time acquisition, sensor optimisation and data provenance; the post-processing subsystem supports commissioning, routine census operations, science operations and performance monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2506.00125] Galileo Project Observatory Class System Architecture...</span></span></span>
+A later Galileo system-architecture paper describes the Observatory Class Integrated Computing Platform, built around edge computing at the observatory site and post-processing away from the site. The edge subsystem handles real-time acquisition, sensor optimisation and data provenance; the post-processing subsystem supports commissioning, routine census operations, science operations and performance monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[2506.00125] Galileo Project Observatory Class System Architecture...</span></span></span>
 
-One especially concrete Galileo component is an all-sky infrared camera array using eight uncooled long-wave infrared FLIR Boson 640 cameras. The project’s commissioning paper says the array is intended for continuous monitoring and aerial census work, with calibration aided by aircraft positions from ADS-B data. That use of ordinary aircraft as calibration targets is a good example of how serious UAP detection depends on known objects, not only mysterious ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+One especially concrete Galileo component is an all-sky infrared camera array using eight uncooled long-wave infrared FLIR Boson 640 cameras. The project’s commissioning paper says the array is intended for continuous monitoring and aerial census work, with calibration aided by aircraft positions from ADS-B data. That use of ordinary aircraft as calibration targets is a good example of how serious UAP detection depends on known objects, not only mysterious ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
 
 ### Hessdalen: the long-running local precedent
 
-The Hessdalen Automatic Measurement Station in Norway is an older but highly relevant precedent because it was built around repeated reports of luminous phenomena in one valley. Its station page describes three CCD cameras transmitting live video, alarm software that saves images and short video sequences when something appears, aircraft detection, weather stations with temperature, wind, humidity and pressure sensors, and a radar display stream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+The Hessdalen Automatic Measurement Station in Norway is an older but highly relevant precedent because it was built around repeated reports of luminous phenomena in one valley. Its station page describes three CCD cameras transmitting live video, alarm software that saves images and short video sequences when something appears, aircraft detection, weather stations with temperature, wind, humidity and pressure sensors, and a radar display stream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
-Hessdalen shows both the promise and the frustration of instrumented monitoring. A fixed station can watch a known “hotspot” for years, preserve alarms and compare events with flights and weather. But even with instrumentation, the presence of recorded lights does not automatically settle their origin. The station’s own description notes that many alarms are from known natural sources, which is exactly why automated filtering and human review remain part of the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+Hessdalen shows both the promise and the frustration of instrumented monitoring. A fixed station can watch a known “hotspot” for years, preserve alarms and compare events with flights and weather. But even with instrumentation, the presence of recorded lights does not automatically settle their origin. The station’s own description notes that many alarms are from known natural sources, which is exactly why automated filtering and human review remain part of the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
 ### AARO GREMLIN: government-grade deployable sensors
 
-The US All-domain Anomaly Resolution Office, or AARO, reported in its fiscal year 2024 consolidated annual report that it had begun collections using a prototype sensor system called GREMLIN for detecting, tracking and characterising UAP. The report says GREMLIN demonstrated functionality and collected data during a March 2024 test event, with a planned 90-day “pattern of life” collection at a national-security site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+The US All-domain Anomaly Resolution Office, or AARO, reported in its fiscal year 2024 consolidated annual report that it had begun collections using a prototype sensor system called GREMLIN for detecting, tracking and characterising UAP. The report says GREMLIN demonstrated functionality and collected data during a March 2024 test event, with a planned 90-day “pattern of life” collection at a national-security site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
-GREMLIN matters because it reflects the same shift seen in civilian projects: UAP investigation is moving from retrospective case files towards purpose-built collection. AARO also noted that many cases remain unresolved because of insufficient actionable data, and that sensor artefacts such as parallax and Starlink flaring can make ordinary phenomena appear anomalous. That is a crucial warning for any detector project: better sensors can reduce confusion, but only if their own artefacts are understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+GREMLIN matters because it reflects the same shift seen in civilian projects: UAP investigation is moving from retrospective case files towards purpose-built collection. AARO also noted that many cases remain unresolved because of insufficient actionable data, and that sensor artefacts such as parallax and Starlink flaring can make ordinary phenomena appear anomalous. That is a crucial warning for any detector project: better sensors can reduce confusion, but only if their own artefacts are understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443-Illustration-2-dark.svg" | relative_url }}" alt="Automated Instrumented UFO Detectors illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How automated detection usually works
 
-Most systems follow a similar chain. First, a wide-field camera or all-sky sensor watches a large part of the sky. Software looks for motion, brightness change, unusual trajectory or an object entering a detection zone. If the system has a pan-tilt-zoom camera, it may slew towards the target and attempt a closer view. Meanwhile, the system logs time, pointing, sensor settings and nearby environmental data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
+Most systems follow a similar chain. First, a wide-field camera or all-sky sensor watches a large part of the sky. Software looks for motion, brightness change, unusual trajectory or an object entering a detection zone. If the system has a pan-tilt-zoom camera, it may slew towards the target and attempt a closer view. Meanwhile, the system logs time, pointing, sensor settings and nearby environmental data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
 
-The next step is exclusion. The software or analyst compares the event with likely ordinary sources: aircraft tracks, ADS-B transponder data, satellites, meteors, birds, insects, clouds, balloons, drones, reflections, camera noise and known astronomical objects. UFODAP describes false-positive reduction for stars, birds and foliage; Hessdalen logs aircraft and weather; Galileo’s infrared camera calibration uses ADS-B aircraft positions; NASA stresses metadata and calibration because without them, apparent anomalies may be impossible to interpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[NASA Science+3UFODAP+3old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
+The next step is exclusion. The software or analyst compares the event with likely ordinary sources: aircraft tracks, ADS-B transponder data, satellites, meteors, birds, insects, clouds, balloons, drones, reflections, camera noise and known astronomical objects. UFODAP describes false-positive reduction for stars, birds and foliage; Hessdalen logs aircraft and weather; Galileo’s infrared camera calibration uses ADS-B aircraft positions; NASA stresses metadata and calibration because without them, apparent anomalies may be impossible to interpret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[NASA Science+3UFODAP+3old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and Technology...</span></span></span>
 
-The hardest part is measuring distance. A bright dot on a single video can look fast because it is close, slow because it is distant, or strange because the camera is moving. Reliable range usually requires triangulation from two [separated stations]({{ 'triangulation-f8259a/' | relative_url }}), radar-like data, focus and optical constraints, or other independent range information. That is why serious designs emphasise multiple sensors and multiple viewpoints rather than just higher-resolution video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The hardest part is measuring distance. A bright dot on a single video can look fast because it is close, slow because it is distant, or strange because the camera is moving. Reliable range usually requires triangulation from two [separated stations]({{ 'triangulation-f8259a/' | relative_url }}), radar-like data, focus and optical constraints, or other independent range information. That is why serious designs emphasise multiple sensors and multiple viewpoints rather than just higher-resolution video.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 ## Why false positives are the central technical problem
 
-Automated UFO detectors are anomaly detectors, and anomaly detectors are naturally vulnerable to false positives. The sky is full of rare-looking ordinary events: satellites flare, aircraft lights align with the camera, birds cross at odd angles, insects pass close to lenses, meteors fragment, drones hover, clouds reflect light, and sensor artefacts create apparent motion. AARO’s public report specifically cites parallax and Starlink flaring as artefacts that can produce performance characteristics observers may perceive as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+Automated UFO detectors are anomaly detectors, and anomaly detectors are naturally vulnerable to false positives. The sky is full of rare-looking ordinary events: satellites flare, aircraft lights align with the camera, birds cross at odd angles, insects pass close to lenses, meteors fragment, drones hover, clouds reflect light, and sensor artefacts create apparent motion. AARO’s public report specifically cites parallax and Starlink flaring as artefacts that can produce performance characteristics observers may perceive as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
-This is why “AI UFO detection” should be treated carefully. Machine learning can help sort large video archives, flag unusual tracks and classify obvious aircraft or birds. NASA’s UAP study says AI and machine learning are essential tools for finding rare events in vast datasets, but only when the data are well characterised and collected to strong standards. Poor data plus sophisticated software can simply produce sophisticated confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This is why “AI UFO detection” should be treated carefully. Machine learning can help sort large video archives, flag unusual tracks and classify obvious aircraft or birds. NASA’s UAP study says AI and machine learning are essential tools for finding rare events in vast datasets, but only when the data are well characterised and collected to strong standards. Poor data plus sophisticated software can simply produce sophisticated confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-A good detector therefore needs to record the boring sky as well as the strange sky. Baseline data tells analysts how often ordinary aircraft, satellites, weather and sensor glitches trigger the system. Without that background rate, a dramatic clip may be visually interesting but scientifically weak. NASA’s report explicitly identifies the lack of baseline data as one of the current barriers to UAP analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+A good detector therefore needs to record the boring sky as well as the strange sky. Baseline data tells analysts how often ordinary aircraft, satellites, weather and sensor glitches trigger the system. Without that background rate, a dramatic clip may be visually interesting but scientifically weak. NASA’s report explicitly identifies the lack of baseline data as one of the current barriers to UAP analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tYb3G9jzpCA" title="UAP Detection &amp; Tracking | David Hooper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer">UAP Detection &amp; Tracking | David Hooper</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tYb3G9jzpCA">Open on YouTube</a></p></div></div></div>
@@ -472,17 +472,17 @@ A useful automated UAP record would not merely show “something odd”. It woul
 
 </div>
 
-This is not an arbitrary wish list. It follows directly from the deficiencies identified by NASA and from the instrument packages proposed by the Galileo Project: calibration, metadata, multiple measurements, environmental context, multispectral sensing and transparent data processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This is not an arbitrary wish list. It follows directly from the deficiencies identified by NASA and from the instrument packages proposed by the Galileo Project: calibration, metadata, multiple measurements, environmental context, multispectral sensing and transparent data processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-The most convincing outcome would not necessarily be a spectacular video. It might be a modest event recorded by several instruments, with a measured trajectory, known distance, weather context, aircraft exclusion, satellite exclusion and preserved [raw data]({{ 'raw-data/' | relative_url }}). Conversely, a visually dramatic single-camera clip with no range, no calibration and no metadata may remain weak evidence even if it looks extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The most convincing outcome would not necessarily be a spectacular video. It might be a modest event recorded by several instruments, with a measured trajectory, known distance, weather context, aircraft exclusion, satellite exclusion and preserved [raw data]({{ 'raw-data/' | relative_url }}). Conversely, a visually dramatic single-camera clip with no range, no calibration and no metadata may remain weak evidence even if it looks extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443-Illustration-3-dark.svg" | relative_url }}" alt="Automated Instrumented UFO Detectors illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What these systems can and cannot prove
 
-Automated instrumented detectors can improve the quality of UAP investigation by making records more objective, repeatable and comparable. They can help identify mundane causes, build statistics on unusual aerial events, and reveal whether certain locations, times, weather conditions or sensor bands produce more reports. They can also reduce dependence on memory, surprise and belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+Automated instrumented detectors can improve the quality of UAP investigation by making records more objective, repeatable and comparable. They can help identify mundane causes, build statistics on unusual aerial events, and reveal whether certain locations, times, weather conditions or sensor bands produce more reports. They can also reduce dependence on memory, surprise and belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-They cannot, by themselves, turn every unknown into a solved case. A detector may capture a light without enough range information, an infrared signature without shape, or a track without independent confirmation. Even multi-sensor systems can be affected by miscalibration, software assumptions, weather, aircraft data gaps or sensor artefacts. That is why the best projects speak in terms of data quality, anomaly recognition and corroboration rather than instant identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+They cannot, by themselves, turn every unknown into a solved case. A detector may capture a light without enough range information, an infrared signature without shape, or a track without independent confirmation. Even multi-sensor systems can be affected by miscalibration, software assumptions, weather, aircraft data gaps or sensor artefacts. That is why the best projects speak in terms of data quality, anomaly recognition and corroboration rather than instant identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 The strongest current conclusion is therefore modest but important: automated instrumented UFO detectors are not proof machines; they are evidence-improvement machines. Their real contribution is to make future cases harder to dismiss as mere anecdote and harder to overstate as mystery when ordinary explanations fit the data. That middle ground — disciplined collection before interpretation — is where the field is becoming more scientifically useful.
 
@@ -491,194 +491,194 @@ The strongest current conclusion is therefore modest but important: automated in
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can UFO Detectors Make Sightings Scientific?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can UFO Detectors Make Sightings Scientific?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Focuses on treating UFO reports as a subject for systematic scientific investigation rather than anecdote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on treating UFO reports as a subject for systematic scientific investigation rather than anecdote.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes credible cases, documentation, radar data, and multiple-witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes credible cases, documentation, radar data, and multiple-witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Promotes rigorous data collection and scientific analysis of unusual phenomena in space.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes rigorous data collection and scientific analysis of unusual phenomena in space.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Background on automated reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Background on automated reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraterrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraterrestrial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="automated-instrumented-ufo-detectors-can-ufo-detectors-make-sightings-scientific-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -694,7 +694,7 @@ The strongest current conclusion is therefore modest but important: automated in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -714,7 +714,7 @@ The strongest current conclusion is therefore modest but important: automated in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -746,7 +746,7 @@ The strongest current conclusion is therefore modest but important: automated in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -798,7 +798,7 @@ The strongest current conclusion is therefore modest but important: automated in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -843,7 +843,7 @@ The strongest current conclusion is therefore modest but important: automated in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -884,150 +884,150 @@ The strongest current conclusion is therefore modest but important: automated in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sky360.org  
    Title: Observational Citizen Science of Earth's Atmosphere  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and Technology...</p></details>
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dap Camera, Science and Technology...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2506.00125] Galileo Project Observatory Class System Architecture...</p></details>
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv[2506.00125] Galileo Project Observatory Class System Architecture...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: handprint.com  
    Title: Power Point Presentation  
-   Link: <a href="https://www.handprint.com/UFO/UFODAP_Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_Presentation.pdf</a>  
+   Link:<a href="https://www.handprint.com/UFO/UFODAP_Presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_Presentation.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe technical focus of the UFODAP is providing cost effective methods to recognize, track and record anom...</p></details>
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe technical focus of the UFODAP is providing cost effective methods to recognize, track and record anom...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
    Published: November 12, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: old.hessdalen.org  
    Title: Hessdal article2000.shtml  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
+   Link:<a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: s Supplement to ORNLs Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufodap.myshopify.com  
    Title: Cameras for UFO/UAP tracking and data collection  
-   Link: <a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/collections/software" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/software</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/software" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/software</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/universityatalbany/posts/a-team-of-physicists-from-ualbany-recently-created-scientifically-rigorous-metho/1136491955182315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universityatalbany/posts/a-team-of-physicists-from-ualbany-recently-created-scientifically-rigorous-metho/1136491955182315/</a>  
+   Link:<a href="https://www.facebook.com/universityatalbany/posts/a-team-of-physicists-from-ualbany-recently-created-scientifically-rigorous-metho/1136491955182315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universityatalbany/posts/a-team-of-physicists-from-ualbany-recently-created-scientifically-rigorous-metho/1136491955182315/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
+   Link:<a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
+   Link:<a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  

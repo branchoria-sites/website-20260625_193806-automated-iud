@@ -288,7 +288,7 @@ Automated UAP monitoring stations often benefit from comparing observations agai
 
 A common misunderstanding is that if an aircraft broadcasts Automatic Dependent Surveillance–Broadcast ([ADS-B]({{ 'ads-b/' | relative_url }})) signals, every public tracking website must display its identity. The FAA's privacy programmes demonstrate that this is not the case.
 
-ADS-B transmissions are designed to improve air traffic awareness and safety. However, the FAA recognises that unrestricted redistribution of aircraft identities can create privacy and security concerns for business operators, private owners and other legitimate users. In response, it introduced mechanisms that reduce public exposure without preventing safe air traffic operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
+ADS-B transmissions are designed to improve air traffic awareness and safety. However, the FAA recognises that unrestricted redistribution of aircraft identities can create privacy and security concerns for business operators, private owners and other legitimate users. In response, it introduced mechanisms that reduce public exposure without preventing safe air traffic operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
 
 For UAP investigators, the lesson is straightforward: receiving aviation data does not automatically justify publishing every aircraft identity associated with an investigated event.
 
@@ -299,11 +299,11 @@ For UAP investigators, the lesson is straightforward: receiving aviation data do
 
 The FAA's Limiting Aircraft Data Displayed (LADD) programme focuses on how FAA-supplied flight information is redistributed rather than on stopping aircraft from flying or communicating.
 
-Under LADD, participating aircraft owners can request that flight information be filtered from FAA data feeds distributed through the System Wide Information Management (SWIM) network or removed from public display by participating flight-tracking services. Vendors receiving FAA data under agreement must honour those restrictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationLimiting Aircraft Data Displayed (LADD)1 May 2025 — The LADD program provides aircraft owners the ability...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Under LADD, participating aircraft owners can request that flight information be filtered from FAA data feeds distributed through the System Wide Information Management (SWIM) network or removed from public display by participating flight-tracking services. Vendors receiving FAA data under agreement must honour those restrictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationLimiting Aircraft Data Displayed (LADD)1 May 2025 — The LADD program provides aircraft owners the ability...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 An important limitation is equally instructive.
 
-LADD does **not** stop ADS-B transmissions from being broadcast over the air. Anyone with an independent ADS-B receiver can still receive those radio signals directly. The programme therefore limits the redistribution of FAA-derived information rather than preventing reception altogether. The FAA explicitly distinguishes this limitation from other privacy measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
+LADD does **not** stop ADS-B transmissions from being broadcast over the air. Anyone with an independent ADS-B receiver can still receive those radio signals directly. The programme therefore limits the redistribution of FAA-derived information rather than preventing reception altogether. The FAA explicitly distinguishes this limitation from other privacy measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
 
 For UAP stations, this distinction matters because a network that operates its own ADS-B receivers is making an editorial decision when it republishes aircraft identities. The fact that data can be received independently does not mean it should automatically be published.
 
@@ -316,7 +316,7 @@ The FAA later introduced the Privacy ICAO Address (PIA) programme to address ano
 
 Every ADS-B-equipped aircraft normally broadcasts a unique 24-bit ICAO address that can often be associated with a specific aircraft registration. Because inexpensive receivers can collect these broadcasts, simply blocking FAA data feeds was insufficient for operators seeking greater privacy.
 
-The PIA programme allows eligible aircraft to use an alternate, temporary ICAO address that is not linked to the owner in the public Civil Aircraft Registry. This makes immediate identification significantly more difficult while preserving required ADS-B safety broadcasts. The FAA also notes that ADS-B transmissions remain receivable with ordinary receivers even when a Privacy ICAO Address is being used; the programme reduces straightforward identification rather than making an aircraft invisible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Department of Transportation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
+The PIA programme allows eligible aircraft to use an alternate, temporary ICAO address that is not linked to the owner in the public Civil Aircraft Registry. This makes immediate identification significantly more difficult while preserving required ADS-B safety broadcasts. The FAA also notes that ADS-B transmissions remain receivable with ordinary receivers even when a Privacy ICAO Address is being used; the programme reduces straightforward identification rather than making an aircraft invisible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration+2Department of Transportation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</span></span></span>
 
 The distinction is important because it reflects a policy preference for limiting unnecessary attribution instead of attempting to conceal aircraft operations.
 
@@ -381,194 +381,194 @@ Such a policy improves scientific transparency while reducing unnecessary privac
 <img src="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_faa_flight_privacy_3fbbdc-Illustration-3-dark.svg" | relative_url }}" alt="FAA Privacy illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_faa_flight_privacy_3fbbdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_legal_privacy_airspa_3f6619_faa_flight_privacy_3fbbdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Aircraft Disappear From Public Feeds. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Aircraft Disappear From Public Feeds. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
-        </h4>
-        <p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
+</h4>
+<p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
         
-        <p class="fr-book-desc">Covers modern airspace, surveillance and regulatory context relevant to public aircraft tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern airspace, surveillance and regulatory context relevant to public aircraft tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Introduces practical aviation rules and responsible use of airspace.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces practical aviation rules and responsible use of airspace.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Pilot&#x27;s Handbook">Drone Pilot&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Adam Juniper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Pilot&#x27;s Handbook">Drone Pilot&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">First published 2016.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Pilot&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="faa-privacy-why-some-aircraft-disappear-from-public-feeds-automated-instrumented-ufo-detectors-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,114 +774,114 @@ Such a policy improves scientific transparency while reducing unnecessary privac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationLimiting Aircraft Data Displayed (LADD)1 May 2025 — The LADD program provides aircraft owners the ability...</p></details>
+   Link:<a href="https://www.faa.gov/pilots/ladd" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/ladd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationLimiting Aircraft Data Displayed (LADD)1 May 2025 — The LADD program provides aircraft owners the ability...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: transportation.gov  
    Title: privacy icao address program  
-   Link: <a href="https://www.transportation.gov/individuals/privacy/privacy-icao-address-program" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/individuals/privacy/privacy-icao-address-program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of TransportationPrivacy ICAO Address ProgramDec 23, 2019 — The FAA created the Privacy International Civil Aviation Organizat...</p></details>
+   Link:<a href="https://www.transportation.gov/individuals/privacy/privacy-icao-address-program" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/individuals/privacy/privacy-icao-address-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of TransportationPrivacy ICAO Address ProgramDec 23, 2019 — The FAA created the Privacy International Civil Aviation Organizat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: adsbperformance.faa.gov  
-   Link: <a href="https://adsbperformance.faa.gov/PIA/Application.aspx" target="_blank" rel="noopener noreferrer nofollow">https://adsbperformance.faa.gov/PIA/Application.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO Address Application: Checklist - Equip ADS-BThe FAA Program Office provides this automated tool in order to assist aircraft owners a...</p></details>
+   Link:<a href="https://adsbperformance.faa.gov/PIA/Application.aspx" target="_blank" rel="noopener noreferrer nofollow">https://adsbperformance.faa.gov/PIA/Application.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO Address Application: Checklist - Equip ADS-BThe FAA Program Office provides this automated tool in order to assist aircraft owners a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/media/91986" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/91986</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PIA Articles of UseLimiting Aircraft Data Displayed (LADD) list and aircrafts with Privacy International Civil Aviation Organization (ICA...</p></details>
+   Link:<a href="https://www.faa.gov/media/91986" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/91986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PIA Articles of UseLimiting Aircraft Data Displayed (LADD) list and aircrafts with Privacy International Civil Aviation Organization (ICA...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nbaa.org  
    Title: Privacy ICAO Address (PIA)  
-   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft OperationsThe FAA has created the Privacy ICAO Address (PIA) program, which allows operators to use alternate, ICAO aircraft add...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft OperationsThe FAA has created the Privacy ICAO Address (PIA) program, which allows operators to use alternate, ICAO aircraft add...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faasafety.gov  
    Title: Safer Skies Through Education  
-   Link: <a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
+   Link:<a href="https://www.faasafety.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA - FAASTeam...The AMT Awards program encourages AMTs and employers to take advantage of initial and recurrent training by issuing awa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40FAAnews/featured" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40FAAnews/featured</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
+   Link:<a href="https://www.youtube.com/%40FAAnews/featured" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40FAAnews/featured</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationWelcome to the official YouTube channel of the Federal Aviation Administration (FAA). Our mission is simpl...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nbaa.org  
-   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy FAQThe FAA&#x27;s Limiting Aircraft Data Displayed (LADD) and Privacy ICAO Address (PIA) programs offer privacy protections in t...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy FAQThe FAA&#x27;s Limiting Aircraft Data Displayed (LADD) and Privacy ICAO Address (PIA) programs offer privacy protections in t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cs.ox.ac.uk  
-   Link: <a href="https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Improving the Privacy ICAO Address...by G Michel · Cited by 3 — In order to track aircraft enrolled in the FAA PIA program efficient...</p></details>
+   Link:<a href="https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ox.ac.uk/files/13229/flying-in-private-mode.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Improving the Privacy ICAO Address...by G Michel · Cited by 3 — In order to track aircraft enrolled in the FAA PIA program efficient...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: interactive.aviationtoday.com  
    Title: faa privacy icao program gains foothold but extent limited thus far  
-   Link: <a href="https://interactive.aviationtoday.com/avionicsmagazine/october-november-2020/faa-privacy-icao-program-gains-foothold-but-extent-limited-thus-far/" target="_blank" rel="noopener noreferrer nofollow">https://interactive.aviationtoday.com/avionicsmagazine/october-november-2020/faa-privacy-icao-program-gains-foothold-but-extent-limited-thus-far/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy ICAO Program Gains Foothold, But Extent...The PIA program provides a layer of privacy for aircraft operators who seek to anonymi...</p></details>
+   Link:<a href="https://interactive.aviationtoday.com/avionicsmagazine/october-november-2020/faa-privacy-icao-program-gains-foothold-but-extent-limited-thus-far/" target="_blank" rel="noopener noreferrer nofollow">https://interactive.aviationtoday.com/avionicsmagazine/october-november-2020/faa-privacy-icao-program-gains-foothold-but-extent-limited-thus-far/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy ICAO Program Gains Foothold, But Extent...The PIA program provides a layer of privacy for aircraft operators who seek to anonymi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kyWtIcz8UNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kyWtIcz8UNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEF CON Safe Mode Aerospace Village - Gui Michel - Breakdown of the FAA Privacy ICAO Address Program - YouTube DEF CON Safe Mode Aerospac...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kyWtIcz8UNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kyWtIcz8UNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEF CON Safe Mode Aerospace Village - Gui Michel - Breakdown of the FAA Privacy ICAO Address Program - YouTube DEF CON Safe Mode Aerospac...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jetstreamlaw.com  
    Title: how to block your aircraft tail number from public tracking  
-   Link: <a href="https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 20, 2025 — The FAA now has two programs that enable aircraft owners to block or limit access to their ADS-B data: the Limiting Aircra...</p></details>
+   Link:<a href="https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://jetstreamlaw.com/how-to-block-your-aircraft-tail-number-from-public-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jun 20, 2025 — The FAA now has two programs that enable aircraft owners to block or limit access to their ADS-B data: the Limiting Aircra...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nbaa.org  
-   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ress (PIA) program, which allows operators to use alternate...Read more...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ress (PIA) program, which allows operators to use alternate...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nbaa.org  
    Title: faa expands privacy icao address availability  
-   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/faa-expands-privacy-icao-address-availability/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/faa-expands-privacy-icao-address-availability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 6, 2024 — PIA began in January 2020, with the mandate for ADS-B Out. NBAA requested early on that PIA be available for offshore and G...</p></details>
+   Link:<a href="https://nbaa.org/aircraft-operations/security/privacy/faa-expands-privacy-icao-address-availability/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/faa-expands-privacy-icao-address-availability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 6, 2024 — PIA began in January 2020, with the mandate for ADS-B Out. NBAA requested early on that PIA be available for offshore and G...</p></details>
    Published: January 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/flying/comments/1ef9ks7/does_ladd_prevent_your_address_from_showing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1ef9ks7/does_ladd_prevent_your_address_from_showing_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>my home address, and I’d rather not have this info public. LADD seems...</p></details>
+   Link:<a href="https://www.reddit.com/r/flying/comments/1ef9ks7/does_ladd_prevent_your_address_from_showing_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1ef9ks7/does_ladd_prevent_your_address_from_showing_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>my home address, and I’d rather not have this info public. LADD seems...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pilot-protection-services.aopa.org  
    Title: If you would like to track your own aircraft  
-   Link: <a href="https://pilot-protection-services.aopa.org/news/2021/december/01/flight-tracking-and-privacy" target="_blank" rel="noopener noreferrer nofollow">https://pilot-protection-services.aopa.org/news/2021/december/01/flight-tracking-and-privacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking and Privacy - Legal &amp; Medical Services (PPS)Dec 1, 2021 — The LADD Source Blocking option offers enhanced privacy by limiting th...</p></details>
+   Link:<a href="https://pilot-protection-services.aopa.org/news/2021/december/01/flight-tracking-and-privacy" target="_blank" rel="noopener noreferrer nofollow">https://pilot-protection-services.aopa.org/news/2021/december/01/flight-tracking-and-privacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking and Privacy - Legal &amp; Medical Services (PPS)Dec 1, 2021 — The LADD Source Blocking option offers enhanced privacy by limiting th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ainonline.com  
    Title: faas privacy program aircraft goes live  
-   Link: <a href="https://www.ainonline.com/aviation-news/business-aviation/2019-12-23/faas-privacy-program-aircraft-goes-live" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/business-aviation/2019-12-23/faas-privacy-program-aircraft-goes-live</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA&#x27;s Privacy Program for Aircraft Goes Live | AIN23 Dec 2019 — For now, the FAA is administering the PIA program, assigning an alternate...</p></details>
+   Link:<a href="https://www.ainonline.com/aviation-news/business-aviation/2019-12-23/faas-privacy-program-aircraft-goes-live" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/business-aviation/2019-12-23/faas-privacy-program-aircraft-goes-live</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA&#x27;s Privacy Program for Aircraft Goes Live | AIN23 Dec 2019 — For now, the FAA is administering the PIA program, assigning an alternate...</p></details>

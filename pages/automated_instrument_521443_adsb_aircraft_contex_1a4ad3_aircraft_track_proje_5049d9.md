@@ -274,23 +274,23 @@ image: /assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_ai
 
 ## Introduction
 
-Matching a reported aircraft to a light or object in a video requires more than displaying a flight-tracking map alongside the footage. An automated instrumented UAP detector must determine whether a specific aircraft should appear at a particular location in a particular video frame. That requires projecting the aircraft's reported three-dimensional position into the camera's two-dimensional image using the camera's location, orientation and optical characteristics. When this projection is accurate, the system can test whether a detection coincides with known air traffic or remains unexplained. When it is inaccurate, genuine aircraft may appear to be unrelated objects or anomalous motion may simply reflect calibration errors rather than anything unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPICommissioning an All-Sky Infrared Camera Array for ...by L Domine · 2025 · Cited by 11 — If the camera captures N images of an aircra...</span></span></span>
+Matching a reported aircraft to a light or object in a video requires more than displaying a flight-tracking map alongside the footage. An automated instrumented UAP detector must determine whether a specific aircraft should appear at a particular location in a particular video frame. That requires projecting the aircraft's reported three-dimensional position into the camera's two-dimensional image using the camera's location, orientation and optical characteristics. When this projection is accurate, the system can test whether a detection coincides with known air traffic or remains unexplained. When it is inaccurate, genuine aircraft may appear to be unrelated objects or anomalous motion may simply reflect calibration errors rather than anything unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPICommissioning an All-Sky Infrared Camera Array for ...by L Domine · 2025 · Cited by 11 — If the camera captures N images of an aircra...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-1-dark.svg" | relative_url }}" alt="Track Projection illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Camera Position, Orientation and Field of View
 
-Projection begins with a calibrated camera rather than with aircraft data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=x6YIwoQBBxA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Camera Calibration with MATLAB</span><span class="citation-popover-snippet">OPENCV &amp; C++ TUTORIALS - 214 &#124; Camera Calibration &#124; projectPoints - YouTube OPENCV &amp; C++ TUTORIALS - 214 &#124; Camera Calibration &#124; project...</span></span></span>
+Projection begins with a calibrated camera rather than with aircraft data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=x6YIwoQBBxA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Camera Calibration with MATLAB</span><span class="citation-popover-snippet">OPENCV &amp; C++ TUTORIALS - 214 &#124; Camera Calibration &#124; projectPoints - YouTube OPENCV &amp; C++ TUTORIALS - 214 &#124; Camera Calibration &#124; project...</span></span></span>
 
 Three groups of parameters define how the camera sees the sky:
 
 * **Position:** the camera's latitude, longitude and height above sea level, usually measured with GPS or survey methods.
 * **Orientation:** the direction the camera is [pointing]({{ 'pointing/' | relative_url }}), expressed as azimuth, elevation and roll, or equivalently as a three-dimensional rotation matrix.
-* **Optical characteristics:** focal length, sensor dimensions, principal point and lens distortion, which determine how incoming light rays map onto pixels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.adaptive-vision.com">[docs.adaptive-vision.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.adaptive-vision.com</span><span class="citation-popover-snippet">Camera Calibration and World CoordinatesCamera calibration, also known as camera resectioning, is a process of estimating parameters of a...</span></span></span>
+* **Optical characteristics:** focal length, sensor dimensions, principal point and lens distortion, which determine how incoming light rays map onto pixels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.adaptive-vision.com">[docs.adaptive-vision.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.adaptive-vision.com</span><span class="citation-popover-snippet">Camera Calibration and World CoordinatesCamera calibration, also known as camera resectioning, is a process of estimating parameters of a...</span></span></span>
 
-These are commonly separated into **intrinsic** and **extrinsic** calibration. Intrinsic calibration describes the camera itself, while extrinsic calibration describes where the camera sits and how it is rotated relative to the surrounding world. Both are required before a world position can be transformed into a predicted image position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Camera_resectioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Camera resectioning</span><span class="citation-popover-snippet">Camera resectioning</span></span></span>
+These are commonly separated into **intrinsic** and **extrinsic** calibration. Intrinsic calibration describes the camera itself, while extrinsic calibration describes where the camera sits and how it is rotated relative to the surrounding world. Both are required before a world position can be transformed into a predicted image position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Camera_resectioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Camera resectioning</span><span class="citation-popover-snippet">Camera resectioning</span></span></span>
 
-Wide-angle and fisheye lenses, which are common in all-sky observatories, make calibration especially important because straight-line perspective assumptions become increasingly inaccurate near the edge of the image unless lens distortion is explicitly modelled. Modern calibration approaches therefore include distortion models tailored to wide-angle optics rather than relying solely on the ideal pinhole camera approximation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.09014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Geometric Wide-Angle Camera Calibration: A Review and Comparative Study</span><span class="citation-popover-snippet">Geometric Wide-Angle Camera Calibration: A Review and Comparative StudyJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+Wide-angle and fisheye lenses, which are common in all-sky observatories, make calibration especially important because straight-line perspective assumptions become increasingly inaccurate near the edge of the image unless lens distortion is explicitly modelled. Modern calibration approaches therefore include distortion models tailored to wide-angle optics rather than relying solely on the ideal pinhole camera approximation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.09014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Geometric Wide-Angle Camera Calibration: A Review and Comparative Study</span><span class="citation-popover-snippet">Geometric Wide-Angle Camera Calibration: A Review and Comparative StudyJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-3-dark.svg" | relative_url }}" alt="Track Projection illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_aircraft_track_proje_5049d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,194 +356,194 @@ A robust scoring process typically evaluates:
 Combining these criteria is substantially stronger than simply asking whether an aircraft was somewhere nearby according to an online flight tracker. Two aircraft may occupy similar compass directions, yet only one follows the correct image path through the camera's field of view.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aircraft Tracks Land in Video. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aircraft Tracks Land in Video. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
+</h4>
+<p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+</h4>
+<p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7262990-M.jpg" alt="Cover for Learning OpenCV" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV">Learning OpenCV</a>
-        </h4>
-        <p class="fr-book-author">By Gary Bradski, Adrian Kaehler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7262990-M.jpg" alt="Cover for Learning OpenCV" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV">Learning OpenCV</a>
+</h4>
+<p class="fr-book-author">By Gary Bradski, Adrian Kaehler</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: OpenCV, Computer vision, Image processing, Human-computer interaction, Bildbehandling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: OpenCV, Computer vision, Image processing, Human-computer interaction, Bildbehandling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Learning+OpenCV&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Learning OpenCV</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Learning+OpenCV&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Learning OpenCV</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="track-projection-how-aircraft-tracks-land-in-video-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ Combining these criteria is substantially stronger than simply asking whether an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ Combining these criteria is substantially stronger than simply asking whether an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ Combining these criteria is substantially stronger than simply asking whether an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ Combining these criteria is substantially stronger than simply asking whether an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ Combining these criteria is substantially stronger than simply asking whether an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,86 +770,86 @@ That distinction is critical for automated instrumented UAP detectors. A convinc
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: docs.adaptive-vision.com  
-   Link: <a href="https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Calibration and World CoordinatesCamera calibration, also known as camera resectioning, is a process of estimating parameters of a...</p></details>
+   Link:<a href="https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.adaptive-vision.com/5.1/studio/machine_vision_guide/CameraCalibrationAndWorldCoordinates.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Calibration and World CoordinatesCamera calibration, also known as camera resectioning, is a process of estimating parameters of a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Camera resectioning  
-   Link: <a href="https://en.wikipedia.org/wiki/Camera_resectioning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Camera_resectioning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Camera_resectioning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Camera_resectioning</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Geometric Wide-Angle Camera Calibration: A [Review](&#123;&#123; 'review/' | relative_url &#125;&#125;) and Comparative Study  
-   Link: <a href="https://arxiv.org/abs/2306.09014" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.09014</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geometric Wide-Angle Camera Calibration: A Review and Comparative StudyJune 15, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.09014" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.09014</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geometric Wide-Angle Camera Calibration: A Review and Comparative StudyJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Pinhole camera model  
-   Link: <a href="https://en.wikipedia.org/wiki/Pinhole_camera_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pinhole_camera_model</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pinhole_camera_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pinhole_camera_model</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Perspective-n-Point" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspective-n-Point</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perspective-n-Point" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspective-n-Point</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/pdf/10.1142/S2251171723400020?download=true&amp;srsltid=AfmBOorzmjzR53J9N1L_7bwHEeJukrPxYpzFvoxuRmiAnwhJsFxYwwm5" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/pdf/10.1142/S2251171723400020?download=true&amp;srsltid=AfmBOorzmjzR53J9N1L_7bwHEeJukrPxYpzFvoxuRmiAnwhJsFxYwwm5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Hardware and Software Platform for Aerial Object...The camera-to-be-calibrated will capture N images of the airplane, associating with...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/pdf/10.1142/S2251171723400020?download=true&amp;srsltid=AfmBOorzmjzR53J9N1L_7bwHEeJukrPxYpzFvoxuRmiAnwhJsFxYwwm5" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/pdf/10.1142/S2251171723400020?download=true&amp;srsltid=AfmBOorzmjzR53J9N1L_7bwHEeJukrPxYpzFvoxuRmiAnwhJsFxYwwm5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Hardware and Software Platform for Aerial Object...The camera-to-be-calibrated will capture N images of the airplane, associating with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Using an automatically generated data set derived from ADS-B-data, a dataset of synthet...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Using an automatically generated data set derived from ADS-B-data, a dataset of synthet...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: e-consystems.com  
    Title: a comprehensive guide to understand camera projection and parameters  
-   Link: <a href="https://www.e-consystems.com/blog/camera/technology/a-comprehensive-guide-to-understand-camera-projection-and-parameters/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-consystems.com/blog/camera/technology/a-comprehensive-guide-to-understand-camera-projection-and-parameters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide to Understand Camera Projection...29 Jan 2025 — In this blog, you&#x27;ll get expert insights into these concepts as we...</p></details>
+   Link:<a href="https://www.e-consystems.com/blog/camera/technology/a-comprehensive-guide-to-understand-camera-projection-and-parameters/" target="_blank" rel="noopener noreferrer nofollow">https://www.e-consystems.com/blog/camera/technology/a-comprehensive-guide-to-understand-camera-projection-and-parameters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide to Understand Camera Projection...29 Jan 2025 — In this blog, you&#x27;ll get expert insights into these concepts as we...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/Can_we_find_the_projection_of_a_pixel_on_the_ground_plane_in_image_from_a_calibrated_camera" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Can_we_find_the_projection_of_a_pixel_on_the_ground_plane_in_image_from_a_calibrated_camera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The image contains a table with known corner coordinates (image coordinate...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Can_we_find_the_projection_of_a_pixel_on_the_ground_plane_in_image_from_a_calibrated_camera" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Can_we_find_the_projection_of_a_pixel_on_the_ground_plane_in_image_from_a_calibrated_camera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The image contains a table with known corner coordinates (image coordinate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: robots.ox.ac.uk  
-   Link: <a href="https://www.robots.ox.ac.uk/~cmei/articles/2009_IROS_VisualTracking_Salazar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.robots.ox.ac.uk/~cmei/articles/2009_IROS_VisualTracking_Salazar.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking of Planes with an Uncalibrated Central...by A Salazar-Garibay · Cited by 14 — In this paper, we have shown how to efficiently t...</p></details>
+   Link:<a href="https://www.robots.ox.ac.uk/~cmei/articles/2009_IROS_VisualTracking_Salazar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.robots.ox.ac.uk/~cmei/articles/2009_IROS_VisualTracking_Salazar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking of Planes with an Uncalibrated Central...by A Salazar-Garibay · Cited by 14 — In this paper, we have shown how to efficiently t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Mapping the 3D World to an Image  
-   Link: <a href="https://www.youtube.com/watch?v=nRVuLFQ_Bng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nRVuLFQ_Bng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Minutes with CyrillMapping 3D points to 2D pixel locations explained in 5 minutes Series: 5 Minutes with Cyrill Cyrill Stachniss, 2021...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nRVuLFQ_Bng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nRVuLFQ_Bng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Minutes with CyrillMapping 3D points to 2D pixel locations explained in 5 minutes Series: 5 Minutes with Cyrill Cyrill Stachniss, 2021...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Camera Calibration with MATLAB  
-   Link: <a href="https://www.youtube.com/watch?v=x6YIwoQBBxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x6YIwoQBBxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OPENCV &amp; C++ TUTORIALS - 214 | Camera Calibration | projectPoints - YouTube OPENCV &amp; C++ TUTORIALS - 214 | Camera Calibration | project...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x6YIwoQBBxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x6YIwoQBBxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OPENCV &amp; C++ TUTORIALS - 214 | Camera Calibration | projectPoints - YouTube OPENCV &amp; C++ TUTORIALS - 214 | Camera Calibration | project...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: doc.ic.ac.uk  
    Title: ic.ac.uk Robotics  
-   Link: <a href="https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of ComputingA perspective camera projects a 3D point at vector cC to image coordinates (u, v) via the camera calibration matri...</p></details>
+   Link:<a href="https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/lecture7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of ComputingA perspective camera projects a 3D point at vector cC to image coordinates (u, v) via the camera calibration matri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: [Open Source](&#123;&#123; 'open-source/' | relative_url &#125;&#125;) Astronomy  
-   Link: <a href="https://www.youtube.com/watch?v=rf1cyFFtYLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rf1cyFFtYLs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Intrinsic and Extrinsic Parameters, Camera Calibration...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rf1cyFFtYLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rf1cyFFtYLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Camera Intrinsic and Extrinsic Parameters, Camera Calibration...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ceiling Projection Mapping of Planes Using ADS-B  
-   Link: <a href="https://www.youtube.com/watch?v=k-N6mFycM_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k-N6mFycM_8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source Astronomy - Sky360 Automated Sky Monitoring...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k-N6mFycM_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k-N6mFycM_8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Source Astronomy - Sky360 Automated Sky Monitoring...</p></details>

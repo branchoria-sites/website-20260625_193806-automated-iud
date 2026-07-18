@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_si
 
 ## Introduction
 
-A single automated UAP monitoring station can produce valuable observations, but it rarely provides enough information to determine exactly what an object was, how far away it was, or how it moved in three dimensions. A camera may accurately record an object's apparent brightness, direction and angular motion, yet still be unable to distinguish between a nearby slow-moving object and a distant fast-moving one. This is why modern proposals for instrumented UAP research increasingly emphasise multiple stations, synchronised sensors and independent corroboration rather than relying on isolated recordings. NASA's independent UAP study likewise concluded that calibrated, repeatable, multi-sensor measurements are essential if unusual observations are to move beyond anecdote into scientific evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+A single automated UAP monitoring station can produce valuable observations, but it rarely provides enough information to determine exactly what an object was, how far away it was, or how it moved in three dimensions. A camera may accurately record an object's apparent brightness, direction and angular motion, yet still be unable to distinguish between a nearby slow-moving object and a distant fast-moving one. This is why modern proposals for instrumented UAP research increasingly emphasise multiple stations, synchronised sensors and independent corroboration rather than relying on isolated recordings. NASA's independent UAP study likewise concluded that calibrated, repeatable, multi-sensor measurements are essential if unusual observations are to move beyond anecdote into scientific evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-1-dark.svg" | relative_url }}" alt="One Station illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Within the broader question of hotspot monitoring versus random-sky coverage, th
 
 A well-designed automated station can gather far more than an ordinary witness account. Depending on its equipment, it may continuously record:
 
-* Precise time stamps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[avi-loeb.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</span></span></span>
+* Precise time stamps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[avi-loeb.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</span></span></span>
 * Apparent direction (azimuth and elevation).
 * Angular speed across the sky.
 * Brightness and colour changes.
@@ -298,7 +298,7 @@ A well-designed automated station can gather far more than an ordinary witness a
 * Local [weather]({{ 'weather/' | relative_url }}) and environmental conditions.
 * Nearby aircraft transponder signals, satellite predictions and other contextual data.
 
-These measurements make later analysis much stronger than relying on human memory alone. A calibrated camera also allows investigators to identify many ordinary objects—including aircraft, [satellites]({{ 'satellites/' | relative_url }}), meteors, drones and astronomical targets—with much greater confidence than eyewitness reports alone. NASA's report stresses that calibrated sensors, metadata and known instrument performance are fundamental requirements for reproducible scientific investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+These measurements make later analysis much stronger than relying on human memory alone. A calibrated camera also allows investigators to identify many ordinary objects—including aircraft, [satellites]({{ 'satellites/' | relative_url }}), meteors, drones and astronomical targets—with much greater confidence than eyewitness reports alone. NASA's report stresses that calibrated sensors, metadata and known instrument performance are fundamental requirements for reproducible scientific investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 A single station is therefore excellent for answering questions such as:
 
@@ -349,7 +349,7 @@ This [uncertainty]({{ 'uncertainty/' | relative_url }}) affects several key meas
 
 </div>
 
-NASA specifically notes that apparent anomalous motion in some widely discussed recordings can arise from camera geometry and the movement of the observing platform itself rather than extraordinary object behaviour. Without independent geometric constraints, perspective remains one of the largest sources of error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA specifically notes that apparent anomalous motion in some widely discussed recordings can arise from camera geometry and the movement of the observing platform itself rather than extraordinary object behaviour. Without independent geometric constraints, perspective remains one of the largest sources of error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-2-dark.svg" | relative_url }}" alt="One Station illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -364,7 +364,7 @@ Once range is known, investigators can calculate:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* three-dimensional position, <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[avi-loeb.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</span></span></span>
+* three-dimensional position,<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[avi-loeb.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</span></span></span>
 * altitude,
 * true velocity,
 * acceleration,
@@ -375,7 +375,7 @@ Once range is known, investigators can calculate:
 
 Time synchronisation is equally important. Modern systems generally rely on GPS-derived [timing]({{ 'timing/' | relative_url }}) or similarly precise clocks so observations from different stations can be matched frame by frame.
 
-The Galileo Project identifies triangulation between widely separated observing units as a core design requirement because accurate three-dimensional trajectories are necessary before claims about unusual flight performance can even be evaluated. Its proposed observatories combine multiple cameras with radio, infrared, acoustic and environmental sensors specifically to improve corroboration while reducing false positives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
+The Galileo Project identifies triangulation between widely separated observing units as a core design requirement because accurate three-dimensional trajectories are necessary before claims about unusual flight performance can even be evaluated. Its proposed observatories combine multiple cameras with radio, infrared, acoustic and environmental sensors specifically to improve corroboration while reducing false positives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -404,7 +404,7 @@ The most useful corroboration often combines different sensing methods, includin
 
 </div>
 
-Agreement across different sensor types provides stronger evidence than repeated observations from identical instruments alone. This multi-modal philosophy is central to several current scientific UAP monitoring proposals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
+Agreement across different sensor types provides stronger evidence than repeated observations from identical instruments alone. This multi-modal philosophy is central to several current scientific UAP monitoring proposals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-3-dark.svg" | relative_url }}" alt="One Station illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167_single_station_limit_b5ba6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -412,9 +412,9 @@ Agreement across different sensor types provides stronger evidence than repeated
 
 Recent instrumented UAP efforts increasingly treat networking as an engineering requirement rather than an optional enhancement.
 
-The Galileo Project's published observatory design explicitly incorporates separated observing stations capable of triangulating targets while simultaneously collecting optical, infrared, radio and environmental measurements. The goal is not merely to detect unusual events but to measure them well enough that conventional explanations can be confidently tested and, where appropriate, eliminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
+The Galileo Project's published observatory design explicitly incorporates separated observing stations capable of triangulating targets while simultaneously collecting optical, infrared, radio and environmental measurements. The goal is not merely to detect unusual events but to measure them well enough that conventional explanations can be confidently tested and, where appropriate, eliminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</span></span></span>
 
-Similarly, reports from the UAPx Catalina Island expedition emphasised practical lessons about synchronising instruments, preserving ancillary sensor data and integrating aircraft tracking information. Several initially intriguing observations became less mysterious once additional contextual information was considered, illustrating how incomplete sensor integration can limit interpretation even when cameras record unusual imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Project Hessdalen Report issue for preceding 5.1.1). ADS-B exchange, were recorded. single sensor...</span></span></span>
+Similarly, reports from the UAPx Catalina Island expedition emphasised practical lessons about synchronising instruments, preserving ancillary sensor data and integrating aircraft tracking information. Several initially intriguing observations became less mysterious once additional contextual information was considered, illustrating how incomplete sensor integration can limit interpretation even when cameras record unusual imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Project Hessdalen Report issue for preceding 5.1.1). ADS-B exchange, were recorded. single sensor...</span></span></span>
 
 These experiences reflect a broader engineering lesson: collecting more video is less important than collecting better-correlated measurements.
 
@@ -440,201 +440,201 @@ With multiple stations, investigators can rapidly determine whether an event cor
 
 Even when an event remains unidentified, the uncertainty is narrower because range, altitude and trajectory have been constrained directly rather than inferred indirectly.
 
-For automated UAP detection systems, this represents an important shift in philosophy. The objective is not to maximise the number of unexplained sightings but to maximise the quality of measurements so that as many observations as possible can be confidently identified. Only the small remainder then merit closer investigation, supported by independently corroborated data rather than a single intriguing recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+For automated UAP detection systems, this represents an important shift in philosophy. The objective is not to maximise the number of unexplained sightings but to maximise the quality of measurements so that as many observations as possible can be confidently identified. Only the small remainder then merit closer investigation, supported by independently corroborated data rather than a single intriguing recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When One UAP Station Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When One UAP Station Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places modern UAP evidence discussions into context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places modern UAP evidence discussions into context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses limitations of isolated observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses limitations of isolated observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Covers positional calculations relevant to single-station limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers positional calculations relevant to single-station limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/3ea05f8678a358198667.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="one-station-when-one-uap-station-is-not-enough-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ For automated UAP detection systems, this represents an important shift in philo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ For automated UAP detection systems, this represents an important shift in philo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ For automated UAP detection systems, this represents an important shift in philo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ For automated UAP detection systems, this represents an important shift in philo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ For automated UAP detection systems, this represents an important shift in philo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -840,85 +840,85 @@ For automated UAP detection systems, this represents an important shift in philo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Eye- witness reports should be considered along with corroborating sensor d...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use tha...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use tha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Hessdalen Report issue for preceding 5.1.1). ADS-B exchange, were recorded. single sensor...</p></details>
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Hessdalen Report issue for preceding 5.1.1). ADS-B exchange, were recorded. single sensor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-scientific-alternative-to-government-[disclosure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Alternative to Government Disclosure: The Galileo...This method of triangulation, enabled by accurate time stamps, allows us...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abdn.elsevierpure.com  
    Title: the scientific investigation of unidentified aerial phenomena uap  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...13 May 2023 — A primary objective of the Galileo Project is to build an integrated...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/the-scientific-investigation-of-unidentified-aerial-phenomena-uap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...13 May 2023 — A primary objective of the Galileo Project is to build an integrated...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: leonarddavid.com  
    Title: nasa report released unidentified anomalous phenomena uap  
-   Link: <a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
+   Link:<a href="https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — NASA has released its Unidentified Anomalous Phenomena (UAP) report comple...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: old.hessdalen.org  
    Title: 2025 2502.06794v2  
-   Link: <a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of Unidentified Aerospace-Undersea...1 Apr 2025 — UAP, formerly known as UFOs, Studies range from field station development...</p></details>
+   Link:<a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of Unidentified Aerospace-Undersea...1 Apr 2025 — UAP, formerly known as UFOs, Studies range from field station development...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UAP Files JUST Released: Harvard Scientist Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=jzLnzBPTDXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jzLnzBPTDXM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jzLnzBPTDXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jzLnzBPTDXM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Galileo Project's First Data on Half a Million Objects with Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  

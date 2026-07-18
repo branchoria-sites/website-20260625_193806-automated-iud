@@ -4,662 +4,662 @@ sidebar_generated:
   url: /automated-instrumented-ufo-detectors/
   children:
   - title: Acoustics
-    title_full: Can Sound Help Identify Sky Objects?
+    title_full: Can Sound Help Identify Sky Objects? | Automated Instrument
     url: /acoustics/
     children:
     - title: Aircraft Noise
-      title_full: Does the Engine Fit the Light?
+      title_full: Does the Engine Fit the Light? | Automated Instrument 521443 Acoustic Sensors
       url: /aircraft-noise/
     - title: Audio Setup
-      title_full: What Makes Sky Audio Trustworthy?
+      title_full: What Makes Sky Audio Trustworthy? | Automated Instrument 521443 Acoustic Sensors
       url: /audio-setup/
     - title: Drone Buzz
-      title_full: Can a Buzz Point to a Drone?
+      title_full: Can a Buzz Point to a Drone? | Automated Instrument 521443 Acoustic Sensors
       url: /drone-buzz/
     - title: Fireworks
-      title_full: Was the Flash Just Fireworks?
+      title_full: Was the Flash Just Fireworks? | Automated Instrument 521443 Acoustic Sensors
       url: /fireworks/
     - title: Meteor Sound
-      title_full: The Delayed Boom After a Meteor
+      title_full: The Delayed Boom After a Meteor | Automated Instrument 521443 Acoustic Sensors
       url: /meteor-sound/
     - title: Silent Lights
-      title_full: When a Quiet UFO Is Not Silent
+      title_full: When a Quiet UFO Is Not Silent | Automated Instrument 521443 Acoustic Sensors
       url: /silent-lights/
   - title: ADS B
-    title_full: How Aircraft Tracking Filters UAP Alerts
+    title_full: How Aircraft Tracking Filters UAP Alerts | Automated Instrument
     url: /ads-b/
     children:
     - title: Data Sources
-      title_full: Should UAP Stations Trust Flight Trackers?
+      title_full: Should UAP Stations Trust Flight Trackers? | Automated Instrument 521443 Adsb Aircraft Contex
       url: /data-sources/
     - title: Decision Rules
-      title_full: When Aircraft Data Should Close a Case
+      title_full: When Aircraft Data Should Close a Case | Automated Instrument 521443 Adsb Aircraft Contex
       url: /decision-rules/
     - title: Known Aircraft
-      title_full: The Airliners That Test UAP Detectors
+      title_full: The Airliners That Test UAP Detectors | Automated Instrument 521443 Adsb Aircraft Contex
       url: /known-aircraft/
     - title: No Match
-      title_full: When No ADS B Match Misleads
+      title_full: When No ADS B Match Misleads | Automated Instrument 521443 Adsb Aircraft Contex
       url: /no-match/
     - title: Timing Errors
-      title_full: Why Seconds Matter in UAP Footage
+      title_full: Why Seconds Matter in UAP Footage | Automated Instrument 521443 Adsb Aircraft Contex
       url: /timing-errors/
     - title: Track Projection
-      title_full: How Aircraft Tracks Land in Video
+      title_full: How Aircraft Tracks Land in Video | Automated Instrument 521443 Adsb Aircraft Contex
       url: /track-projection/
   - title: Baselines
-    title_full: Why Normal Sky Data Matters Most
+    title_full: Why Normal Sky Data Matters Most | Automated Instrument
     url: /baselines/
     children:
     - title: 90 Day Runs
-      title_full: What a 90 Day Sky Watch Can Learn
+      title_full: What a 90 Day Sky Watch Can Learn | Automated Instrument 521443 Baseline Sky Data
       url: /90-day-runs/
     - title: Low Horizon
-      title_full: Why the Horizon Creates So Many False Mysteries
+      title_full: Why the Horizon Creates So Many False Mysteries | Automated Instrument 521443 Baseline Sky Data
       url: /low-horizon/
     - title: Missed Aircraft
-      title_full: When Ordinary Aircraft Slip Through the Net
+      title_full: When Ordinary Aircraft Slip Through the Net | Automated Instrument 521443 Baseline Sky Data
       url: /missed-aircraft/
     - title: Satellites
-      title_full: Why Repeating Satellite Tracks Matter
+      title_full: Why Repeating Satellite Tracks Matter | Automated Instrument 521443 Baseline Sky Data
       url: /satellites/
     - title: Sensor Mistakes
-      title_full: The Baseline Should Record the Detector Too
+      title_full: The Baseline Should Record the Detector Too | Automated Instrument 521443 Baseline Sky Data
       url: /sensor-mistakes/
     - title: Weather Effects
-      title_full: Weather Can Change the Detector Before the Sky
+      title_full: Weather Can Change the Detector Before the Sky | Automated Instrument 521443 Baseline Sky Data
       url: /weather-effects/
   - title: Buy or Build
-    title_full: Should You Buy or Build a UFO Detector?
+    title_full: Should You Buy or Build a UFO Detector? | Automated Instrument
     url: /buy-or-build/
     children:
     - title: Cost Tradeoff
-      title_full: Does DIY Really Cost Less Than UFODAP?
+      title_full: Does DIY Really Cost Less Than UFODAP? | Automated Instrument 521443 Buy Vs Build Detecto
       url: /cost-tradeoff/
     - title: Raw Data
-      title_full: Can Your Detector Save the Evidence?
+      title_full: Can Your Detector Save the Evidence? | Automated Instrument 521443 Buy Vs Build Detecto
       url: /raw-data/
     - title: Reproducibility
-      title_full: Can Another Builder Recreate Your Station?
+      title_full: Can Another Builder Recreate Your Station? | Automated Instrument 521443 Buy Vs Build Detecto
       url: /reproducibility/
     - title: Sensor Add ons
-      title_full: What Extra Sensors Actually Add
+      title_full: What Extra Sensors Actually Add | Automated Instrument 521443 Buy Vs Build Detecto
       url: /sensor-add-ons/
     - title: Software Trust
-      title_full: Should Sky Tracking Software Be Open?
+      title_full: Should Sky Tracking Software Be Open? | Automated Instrument 521443 Buy Vs Build Detecto
       url: /software-trust/
     - title: Weatherproofing
-      title_full: The Outdoor Problems That Break Sky Detectors
+      title_full: The Outdoor Problems That Break Sky Detectors | Automated Instrument 521443 Buy Vs Build Detecto
       url: /weatherproofing-e3a05c/
   - title: Calibration
-    title_full: Why UFO Detectors Need Ordinary Planes
+    title_full: Why UFO Detectors Need Ordinary Planes | Automated Instrument
     url: /calibration/
     children:
     - title: Beyond Filtering
-      title_full: Why matched planes should not just disappear
+      title_full: Why matched planes should not just disappear | Automated Instrument 521443 Aircraft Calibration
       url: /beyond-filtering/
     - title: Clock Errors
-      title_full: The tiny timing error that can fake mystery
+      title_full: The tiny timing error that can fake mystery | Automated Instrument 521443 Aircraft Calibration
       url: /clock-errors/
     - title: Galileo Baseline
-      title_full: What Galileo learned from ordinary planes
+      title_full: What Galileo learned from ordinary planes | Automated Instrument 521443 Aircraft Calibration
       url: /galileo-baseline/
     - title: Missed Planes
-      title_full: What missed planes reveal about UAP detectors
+      title_full: What missed planes reveal about UAP detectors | Automated Instrument 521443 Aircraft Calibration
       url: /missed-planes/
     - title: Moving Targets
-      title_full: How planes turn pixels into sky measurements
+      title_full: How planes turn pixels into sky measurements | Automated Instrument 521443 Aircraft Calibration
       url: /moving-targets/
     - title: Weather Tests
-      title_full: How bad weather tests sky cameras
+      title_full: How bad weather tests sky cameras | Automated Instrument 521443 Aircraft Calibration
       url: /weather-tests/
   - title: Edge Computer
-    title_full: Why UAP Detectors Need Computers On Site
+    title_full: Why UAP Detectors Need Computers On Site | Automated Instrument
     url: /edge-computer/
     children:
     - title: Camera Handoff
-      title_full: Can a detector react before the object is gone?
+      title_full: Can a detector react before the object is gone? | Automated Instrument 521443 Edge Computing
       url: /camera-handoff/
     - title: Data Triage
-      title_full: Why sky stations cannot upload everything
+      title_full: Why sky stations cannot upload everything | Automated Instrument 521443 Edge Computing
       url: /data-triage/
     - title: Health Checks
-      title_full: Is the sky event real or the station misbehaving?
+      title_full: Is the sky event real or the station misbehaving? | Automated Instrument 521443 Edge Computing
       url: /health-checks/
     - title: Pre Trigger
-      title_full: Why the seconds before a trigger matter
+      title_full: Why the seconds before a trigger matter | Automated Instrument 521443 Edge Computing
       url: /pre-trigger/
     - title: Trigger Rules
-      title_full: When should a sky station hit record?
+      title_full: When should a sky station hit record? | Automated Instrument 521443 Edge Computing
       url: /trigger-rules/
     - title: UAPx Storage
-      title_full: What one UAPx week says about data overload
+      title_full: What one UAPx week says about data overload | Automated Instrument 521443 Edge Computing
       url: /uapx-storage/
   - title: False Positives
-    title_full: What Fools UFO Detectors Most Often?
+    title_full: What Fools UFO Detectors Most Often? | Automated Instrument
     url: /false-positives/
     children:
     - title: Ephemeris Checks
-      title_full: The Satellite Check Every UFO Alert Needs
+      title_full: The Satellite Check Every UFO Alert Needs | Automated Instrument 521443 False Positives
       url: /ephemeris-checks/
     - title: Local Ecology
-      title_full: Why Every UFO Camera Needs Local Wildlife Data
+      title_full: Why Every UFO Camera Needs Local Wildlife Data | Automated Instrument 521443 False Positives
       url: /local-ecology/
     - title: Near lens Bugs
-      title_full: When Bugs Look Like Fast UFOs
+      title_full: When Bugs Look Like Fast UFOs | Automated Instrument 521443 False Positives
       url: /near-lens-bugs/
     - title: Star Discs
-      title_full: When Stars Turn Into Glowing Discs
+      title_full: When Stars Turn Into Glowing Discs | Automated Instrument 521443 False Positives
       url: /star-discs/
     - title: Starlink Trains
-      title_full: How Starlink Trains Become UAP Reports
+      title_full: How Starlink Trains Become UAP Reports | Automated Instrument 521443 False Positives
       url: /starlink-trains/
     - title: Thermal Birds
-      title_full: Why Birds Fool Infrared UFO Cameras
+      title_full: Why Birds Fool Infrared UFO Cameras | Automated Instrument 521443 False Positives
       url: /thermal-birds/
   - title: Fixed vs Portable
-    title_full: Should UAP Sensors Stay Put or Move?
+    title_full: Should UAP Sensors Stay Put or Move? | Automated Instrument
     url: /fixed-vs-portable/
     children:
     - title: Fixed Baselines
-      title_full: When Does a Fixed Station Earn Trust?
+      title_full: When Does a Fixed Station Earn Trust? | Automated Instrument 521443 Fixed Vs Portable
       url: /fixed-baselines/
     - title: GREMLIN
-      title_full: Why GREMLIN Watches the Ordinary First
+      title_full: Why GREMLIN Watches the Ordinary First | Automated Instrument 521443 Fixed Vs Portable
       url: /gremlin-970632/
     - title: Hessdalen
-      title_full: What Hessdalen Proved by Staying Put
+      title_full: What Hessdalen Proved by Staying Put | Automated Instrument 521443 Fixed Vs Portable
       url: /hessdalen-39e8ba/
     - title: Portable Hotspots
-      title_full: Why Move a Detector to the Mystery?
+      title_full: Why Move a Detector to the Mystery? | Automated Instrument 521443 Fixed Vs Portable
       url: /portable-hotspots/
     - title: UAPx Limits
-      title_full: What UAPx Learned the Hard Way
+      title_full: What UAPx Learned the Hard Way | Automated Instrument 521443 Fixed Vs Portable
       url: /uapx-limits/
     - title: Weatherproofing
-      title_full: Can the Station Create the Mystery?
+      title_full: Can the Station Create the Mystery? | Automated Instrument 521443 Fixed Vs Portable
       url: /weatherproofing/
   - title: Galileo
-    title_full: What Would an Academic UAP Observatory Measure?
+    title_full: What Would an Academic UAP Observatory Measure? | Automated Instrument
     url: /galileo/
     children:
     - title: Aircraft Checks
-      title_full: Why Ordinary Aircraft Help Test Galileo
+      title_full: Why Ordinary Aircraft Help Test Galileo | Automated Instrument 521443 Galileo Observatorie
       url: /aircraft-checks/
     - title: Edge Compute
-      title_full: Can Galileo Catch Events Before They Vanish?
+      title_full: Can Galileo Catch Events Before They Vanish? | Automated Instrument 521443 Galileo Observatorie
       url: /edge-compute/
     - title: Photo Policy
-      title_full: Why Galileo Does Not Take UFO Photos
+      title_full: Why Galileo Does Not Take UFO Photos | Automated Instrument 521443 Galileo Observatorie
       url: /photo-policy/
     - title: Provenance
-      title_full: Why a UAP Clip Is Not Enough
+      title_full: Why a UAP Clip Is Not Enough | Automated Instrument 521443 Galileo Observatorie
       url: /provenance-5670c7/
     - title: Sky Census
-      title_full: What Half a Million Sky Tracks Revealed
+      title_full: What Half a Million Sky Tracks Revealed | Automated Instrument 521443 Galileo Observatorie
       url: /sky-census/
     - title: Weather Noise
-      title_full: When Weather Becomes a UAP Problem
+      title_full: When Weather Becomes a UAP Problem | Automated Instrument 521443 Galileo Observatorie
       url: /weather-noise/
   - title: GREMLIN
-    title_full: What Does Government Grade UAP Sensing Add?
+    title_full: What Does Government Grade UAP Sensing Add? | Automated Instrument
     url: /gremlin/
     children:
     - title: 90 Day Test
-      title_full: Why GREMLIN Watches Before It Judges
+      title_full: Why GREMLIN Watches Before It Judges | Automated Instrument 521443 Gremlin Sensors
       url: /90-day-test/
     - title: Case Gaps
-      title_full: The UAP Problem GREMLIN Is Built To Fix
+      title_full: The UAP Problem GREMLIN Is Built To Fix | Automated Instrument 521443 Gremlin Sensors
       url: /case-gaps/
     - title: False Targets
-      title_full: Why Better Sensors Still See False UAPs
+      title_full: Why Better Sensors Still See False UAPs | Automated Instrument 521443 Gremlin Sensors
       url: /false-targets/
     - title: Partner Network
-      title_full: Who Checks GREMLIN's UAP Evidence?
+      title_full: Who Checks GREMLIN's UAP Evidence? | Automated Instrument 521443 Gremlin Sensors
       url: /partner-network/
     - title: Security Sites
-      title_full: Why Sensitive Sites Complicate UAP Evidence
+      title_full: Why Sensitive Sites Complicate UAP Evidence | Automated Instrument 521443 Gremlin Sensors
       url: /security-sites/
     - title: Sensor Fusion
-      title_full: Can Multiple Sensors Make UAP Evidence Clearer?
+      title_full: Can Multiple Sensors Make UAP Evidence Clearer? | Automated Instrument 521443 Gremlin Sensors
       url: /sensor-fusion/
   - title: Hessdalen
-    title_full: What Did Hessdalen Teach UFO Detectors?
+    title_full: What Did Hessdalen Teach UFO Detectors? | Automated Instrument
     url: /hessdalen/
     children:
     - title: Blind Spots
-      title_full: The Blind Spots in Hessdalen's Sky Watch
+      title_full: The Blind Spots in Hessdalen's Sky Watch | Automated Instrument 521443 Hessdalen Station
       url: /blind-spots/
     - title: False Alarms
-      title_full: Why Ordinary Lights Had to Be Hidden
+      title_full: Why Ordinary Lights Had to Be Hidden | Automated Instrument 521443 Hessdalen Station
       url: /false-alarms/
     - title: Fixed Watch
-      title_full: Why a UFO Hotspot Needed a Permanent Watch
+      title_full: Why a UFO Hotspot Needed a Permanent Watch | Automated Instrument 521443 Hessdalen Station
       url: /fixed-watch/
     - title: Light Patterns
-      title_full: What Years of Hessdalen Records Revealed
+      title_full: What Years of Hessdalen Records Revealed | Automated Instrument 521443 Hessdalen Station
       url: /light-patterns/
     - title: Second Site
-      title_full: Why One Camera Was Not Enough
+      title_full: Why One Camera Was Not Enough | Automated Instrument 521443 Hessdalen Station
       url: /second-site/
     - title: Trigger Rules
-      title_full: How the Blue Box Chose a UFO Event
+      title_full: How the Blue Box Chose a UFO Event | Automated Instrument 521443 Hessdalen Station
       url: /trigger-rules-019474/
   - title: Hotspots
-    title_full: Should UFO Detectors Watch Hotspots or Everywhere?
+    title_full: Should UFO Detectors Watch Hotspots or Everywhere? | Automated Instrument
     url: /hotspots/
     children:
     - title: Baselines
-      title_full: Why Ordinary Skies Matter to UAP Detectors
+      title_full: Why Ordinary Skies Matter to UAP Detectors | Automated Instrument 521443 Hotspots Vs Networks
       url: /baselines-cd15d8/
     - title: Hessdalen
-      title_full: Why Hessdalen Still Matters for UAP Detectors
+      title_full: Why Hessdalen Still Matters for UAP Detectors | Automated Instrument 521443 Hotspots Vs Networks
       url: /hessdalen-119e88/
     - title: Hotspot Value
-      title_full: Do UFO Hotspots Really Give Better Data?
+      title_full: Do UFO Hotspots Really Give Better Data? | Automated Instrument 521443 Hotspots Vs Networks
       url: /hotspot-value/
     - title: NASA Baseline
-      title_full: What NASA Changed About UAP Evidence
+      title_full: What NASA Changed About UAP Evidence | Automated Instrument 521443 Hotspots Vs Networks
       url: /nasa-baseline/
     - title: One Station
-      title_full: When One UAP Station Is Not Enough
+      title_full: When One UAP Station Is Not Enough | Automated Instrument 521443 Hotspots Vs Networks
       url: /one-station/
     - title: Station Tradeoffs
-      title_full: Hotspot Stations or Citizen Sky Networks?
+      title_full: Hotspot Stations or Citizen Sky Networks? | Automated Instrument 521443 Hotspots Vs Networks
       url: /station-tradeoffs/
   - title: Infrared
-    title_full: What Infrared Adds to UAP Detection
+    title_full: What Infrared Adds to UAP Detection | Automated Instrument
     url: /infrared/
     children:
     - title: Aircraft Calibration
-      title_full: Why Ordinary Planes Make Better UAP Data
+      title_full: Why Ordinary Planes Make Better UAP Data | Automated Instrument 521443 Infrared Cameras
       url: /aircraft-calibration/
     - title: Array Coverage
-      title_full: Why One Thermal Camera Is Not Enough
+      title_full: Why One Thermal Camera Is Not Enough | Automated Instrument 521443 Infrared Cameras
       url: /array-coverage/
     - title: Dalek Census
-      title_full: What Galileo's Infrared Sky Census Found
+      title_full: What Galileo's Infrared Sky Census Found | Automated Instrument 521443 Infrared Cameras
       url: /dalek-census/
     - title: Testable Clips
-      title_full: What Makes Infrared UAP Footage Testable
+      title_full: What Makes Infrared UAP Footage Testable | Automated Instrument 521443 Infrared Cameras
       url: /testable-clips/
     - title: Thermal Ambiguity
-      title_full: Why Heat Alone Does Not Identify a UAP
+      title_full: Why Heat Alone Does Not Identify a UAP | Automated Instrument 521443 Infrared Cameras
       url: /thermal-ambiguity/
     - title: Weather Limits
-      title_full: How Weather Turns Infrared Into Guesswork
+      title_full: How Weather Turns Infrared Into Guesswork | Automated Instrument 521443 Infrared Cameras
       url: /weather-limits/
   - title: Magnetometers
-    title_full: Do Magnetic Sensors Help UAP Detection?
+    title_full: Do Magnetic Sensors Help UAP Detection? | Automated Instrument
     url: /magnetometers/
     children:
     - title: Baselines
-      title_full: Why one magnetometer is not enough
+      title_full: Why one magnetometer is not enough | Automated Instrument 521443 Magnetometers
       url: /baselines-38fd98/
     - title: Compass Claims
-      title_full: Do old compass stories justify magnetometers?
+      title_full: Do old compass stories justify magnetometers? | Automated Instrument 521443 Magnetometers
       url: /compass-claims/
     - title: Credible Spike
-      title_full: When is a magnetic spike worth attention?
+      title_full: When is a magnetic spike worth attention? | Automated Instrument 521443 Magnetometers
       url: /credible-spike/
     - title: Galileo Test
-      title_full: What Galileo learned from magnetic monitoring
+      title_full: What Galileo learned from magnetic monitoring | Automated Instrument 521443 Magnetometers
       url: /galileo-test/
     - title: Quiet Site
-      title_full: Why magnetometer placement can make or break data
+      title_full: Why magnetometer placement can make or break data | Automated Instrument 521443 Magnetometers
       url: /quiet-site/
     - title: Space Weather
-      title_full: Is the anomaly local or space weather?
+      title_full: Is the anomaly local or space weather? | Automated Instrument 521443 Magnetometers
       url: /space-weather/
   - title: Metadata
-    title_full: Why Strange Clips Need More Context
+    title_full: Why Strange Clips Need More Context | Automated Instrument
     url: /metadata/
     children:
     - title: Camera Effects
-      title_full: Is the UFO in the Sky or Camera?
+      title_full: Is the UFO in the Sky or Camera? | Automated Instrument 521443 Metadata Gaps
       url: /camera-effects/
     - title: Custody
-      title_full: Can a UFO Clip Survive the Sharing Chain?
+      title_full: Can a UFO Clip Survive the Sharing Chain? | Automated Instrument 521443 Metadata Gaps
       url: /custody/
     - title: Original Files
-      title_full: Why Reposted UFO Clips Lose Their Evidence
+      title_full: Why Reposted UFO Clips Lose Their Evidence | Automated Instrument 521443 Metadata Gaps
       url: /original-files/
     - title: Pointing
-      title_full: Where Was the Camera Really Pointing?
+      title_full: Where Was the Camera Really Pointing? | Automated Instrument 521443 Metadata Gaps
       url: /pointing/
     - title: Timestamps
-      title_full: Can the Clock Solve a UFO Video?
+      title_full: Can the Clock Solve a UFO Video? | Automated Instrument 521443 Metadata Gaps
       url: /timestamps/
     - title: Weather Context
-      title_full: Was the UFO Actually Weather Context?
+      title_full: Was the UFO Actually Weather Context? | Automated Instrument 521443 Metadata Gaps
       url: /weather-context/
   - title: Multi Sensor
-    title_full: Why One Camera Is Not Enough
+    title_full: Why One Camera Is Not Enough | Automated Instrument
     url: /multi-sensor/
     children:
     - title: ADS B Checks
-      title_full: The Aircraft Data That Solves Many Mysteries
+      title_full: The Aircraft Data That Solves Many Mysteries | Automated Instrument 521443 Multi Sensor Detecti
       url: /ads-b-checks/
     - title: Infrared
-      title_full: What Heat Cameras Reveal and Distort
+      title_full: What Heat Cameras Reveal and Distort | Automated Instrument 521443 Multi Sensor Detecti
       url: /infrared-931f0f/
     - title: Missing Range
-      title_full: Why Distance Changes the Whole UAP Story
+      title_full: Why Distance Changes the Whole UAP Story | Automated Instrument 521443 Multi Sensor Detecti
       url: /missing-range/
     - title: Parallax
-      title_full: When Camera Motion Creates Impossible Flight
+      title_full: When Camera Motion Creates Impossible Flight | Automated Instrument 521443 Multi Sensor Detecti
       url: /parallax-f1a241/
     - title: Satellite Flares
-      title_full: When Satellites Pretend to Be UAP
+      title_full: When Satellites Pretend to Be UAP | Automated Instrument 521443 Multi Sensor Detecti
       url: /satellite-flares/
     - title: Two Stations
-      title_full: Why One Sky Station Is Not Enough
+      title_full: Why One Sky Station Is Not Enough | Automated Instrument 521443 Multi Sensor Detecti
       url: /two-stations/
   - title: NASA Gap
-    title_full: What Data Gap Must UFO Detectors Close?
+    title_full: What Data Gap Must UFO Detectors Close? | Automated Instrument
     url: /nasa-gap/
     children:
     - title: Baselines
-      title_full: Normal Skies Are the Control Group
+      title_full: Normal Skies Are the Control Group | Automated Instrument 521443 NASA Data Gap
       url: /baselines-161cf5/
     - title: Calibration
-      title_full: From Strange Image to Usable Measurement
+      title_full: From Strange Image to Usable Measurement | Automated Instrument 521443 NASA Data Gap
       url: /calibration-e15b23/
     - title: Event Package
-      title_full: What Should Come With a UAP Clip?
+      title_full: What Should Come With a UAP Clip? | Automated Instrument 521443 NASA Data Gap
       url: /event-package/
     - title: IR Case
-      title_full: The Infrared Case That Needed More Data
+      title_full: The Infrared Case That Needed More Data | Automated Instrument 521443 NASA Data Gap
       url: /ir-case/
     - title: One Sensor
-      title_full: Why One Sensor Is Often Not Enough
+      title_full: Why One Sensor Is Often Not Enough | Automated Instrument 521443 NASA Data Gap
       url: /one-sensor/
     - title: Weather Data
-      title_full: The Weather Around a UAP Sighting Matters
+      title_full: The Weather Around a UAP Sighting Matters | Automated Instrument 521443 NASA Data Gap
       url: /weather-data/
   - title: Open Data
-    title_full: What Would Make UAP Detector Data Credible?
+    title_full: What Would Make UAP Detector Data Credible? | Automated Instrument
     url: /open-data/
     children:
     - title: AARO Imagery
-      title_full: When Official UAP Images Still Cannot Decide
+      title_full: When Official UAP Images Still Cannot Decide | Automated Instrument 521443 Open Data Replicatio
       url: /aaro-imagery/
     - title: Event Package
-      title_full: What Should Be Inside a UAP Event File?
+      title_full: What Should Be Inside a UAP Event File? | Automated Instrument 521443 Open Data Replicatio
       url: /event-package-b7f9b9/
     - title: Hessdalen
-      title_full: What Hessdalen Teaches About Repeat Observations
+      title_full: What Hessdalen Teaches About Repeat Observations | Automated Instrument 521443 Open Data Replicatio
       url: /hessdalen-09e04a/
     - title: Raw Clips
-      title_full: Why the Clip Is Not the Evidence
+      title_full: Why the Clip Is Not the Evidence | Automated Instrument 521443 Open Data Replicatio
       url: /raw-clips/
     - title: Tiered Access
-      title_full: Can UAP Data Be Open Without Being Reckless?
+      title_full: Can UAP Data Be Open Without Being Reckless? | Automated Instrument 521443 Open Data Replicatio
       url: /tiered-access/
     - title: UAPx Catalina
-      title_full: Why False Starts Matter in UAP Fieldwork
+      title_full: Why False Starts Matter in UAP Fieldwork | Automated Instrument 521443 Open Data Replicatio
       url: /uapx-catalina/
   - title: Parallax
-    title_full: Why UAP Speed Can Look Impossible
+    title_full: Why UAP Speed Can Look Impossible | Automated Instrument
     url: /parallax/
     children:
     - title: Acceleration
-      title_full: Can a Dot Prove Impossible Acceleration?
+      title_full: Can a Dot Prove Impossible Acceleration? | Automated Instrument 521443 Parallax Speed Error
       url: /acceleration/
     - title: Bad References
-      title_full: Why the Sky Has No Ruler
+      title_full: Why the Sky Has No Ruler | Automated Instrument 521443 Parallax Speed Error
       url: /bad-references/
     - title: Go Fast
-      title_full: Why Go Fast Looked Faster Than It Was
+      title_full: Why Go Fast Looked Faster Than It Was | Automated Instrument 521443 Parallax Speed Error
       url: /go-fast/
     - title: Metadata
-      title_full: The Data Missing From Most UAP Videos
+      title_full: The Data Missing From Most UAP Videos | Automated Instrument 521443 Parallax Speed Error
       url: /metadata-6aafd0/
     - title: Moving Cameras
-      title_full: When the Camera Is Doing the Speeding
+      title_full: When the Camera Is Doing the Speeding | Automated Instrument 521443 Parallax Speed Error
       url: /moving-cameras/
     - title: Triangulation
-      title_full: Why Two Cameras Beat One Mystery
+      title_full: Why Two Cameras Beat One Mystery | Automated Instrument 521443 Parallax Speed Error
       url: /triangulation-f8259a/
   - title: Provenance
-    title_full: How Do You Trust a UAP Event File?
+    title_full: How Do You Trust a UAP Event File? | Automated Instrument
     url: /provenance/
     children:
     - title: Audit Trail
-      title_full: Can the file trail be trusted?
+      title_full: Can the file trail be trusted? | Automated Instrument 521443 Data Provenance
       url: /audit-trail/
     - title: Event Packet
-      title_full: What belongs inside a UAP event file?
+      title_full: What belongs inside a UAP event file? | Automated Instrument 521443 Data Provenance
       url: /event-packet/
     - title: In An Automated, Instrumented UAP Detection...
-      title_full: What false alerts can teach detectors
+      title_full: What false alerts can teach detectors | Automated Instrument 521443 Data Provenance
       url: /in-an-automated-instrumented-uap/
     - title: Multi Sensor
-      title_full: Why one camera is rarely enough
+      title_full: Why one camera is rarely enough | Automated Instrument 521443 Data Provenance
       url: /multi-sensor-55fd80/
     - title: Raw Files
-      title_full: Why the raw file matters most
+      title_full: Why the raw file matters most | Automated Instrument 521443 Data Provenance
       url: /raw-files/
     - title: Sensor State
-      title_full: What was the camera actually doing?
+      title_full: What was the camera actually doing? | Automated Instrument 521443 Data Provenance
       url: /sensor-state/
   - title: Radar
-    title_full: Can Radar Make UAP Tracks Clearer?
+    title_full: Can Radar Make UAP Tracks Clearer? | Automated Instrument
     url: /radar/
     children:
     - title: ADS B Checks
-      title_full: The aircraft broadcast check every sky station needs
+      title_full: The aircraft broadcast check every sky station needs | Automated Instrument 521443 Radar Radio Tracking
       url: /ads-b-checks-f73db4/
     - title: Clutter Traps
-      title_full: When passive radar sees the wrong thing
+      title_full: When passive radar sees the wrong thing | Automated Instrument 521443 Radar Radio Tracking
       url: /clutter-traps/
     - title: FM Echoes
-      title_full: How FM radio signals can reveal sky objects
+      title_full: How FM radio signals can reveal sky objects | Automated Instrument 521443 Radar Radio Tracking
       url: /fm-echoes/
     - title: Passive Range
-      title_full: Can passive radar give UAP videos real distance?
+      title_full: Can passive radar give UAP videos real distance? | Automated Instrument 521443 Radar Radio Tracking
       url: /passive-range/
     - title: Radar Rules
-      title_full: Why backyard radar is not a casual upgrade
+      title_full: Why backyard radar is not a casual upgrade | Automated Instrument 521443 Radar Radio Tracking
       url: /radar-rules/
     - title: Sky Watch
-      title_full: The passive radar network built for real tracks
+      title_full: The passive radar network built for real tracks | Automated Instrument 521443 Radar Radio Tracking
       url: /sky-watch/
   - title: Review
-    title_full: What Happens After a Detector Triggers?
+    title_full: What Happens After a Detector Triggers? | Automated Instrument
     url: /review/
     children:
     - title: Categories
-      title_full: A Better Way to Label UFO Alerts
+      title_full: A Better Way to Label UFO Alerts | Automated Instrument 521443 Human Review Triage
       url: /categories/
     - title: Expert Panel
-      title_full: Why UFO Alerts Need More Than One Expert
+      title_full: Why UFO Alerts Need More Than One Expert | Automated Instrument 521443 Human Review Triage
       url: /expert-panel/
     - title: First Pass
-      title_full: When a UFO Alert Is Just Noise
+      title_full: When a UFO Alert Is Just Noise | Automated Instrument 521443 Human Review Triage
       url: /first-pass/
     - title: Multi Sensor
-      title_full: When More Sensors Make UFO Alerts Clearer
+      title_full: When More Sensors Make UFO Alerts Clearer | Automated Instrument 521443 Human Review Triage
       url: /multi-sensor-006657/
     - title: Starlink
-      title_full: When Starlink Looks Like a UFO Alert
+      title_full: When Starlink Looks Like a UFO Alert | Automated Instrument 521443 Human Review Triage
       url: /starlink-c586a7/
     - title: Unresolved
-      title_full: Why Some UFO Alerts Should Stay Unsolved
+      title_full: Why Some UFO Alerts Should Stay Unsolved | Automated Instrument 521443 Human Review Triage
       url: /unresolved/
   - title: Rules
-    title_full: What Rules Apply to Sky Monitoring Stations?
+    title_full: What Rules Apply to Sky Monitoring Stations? | Automated Instrument
     url: /rules/
     children:
     - title: Camera Privacy
-      title_full: When Sky Cameras Start Seeing People
+      title_full: When Sky Cameras Start Seeing People | Automated Instrument 521443 Legal Privacy Airspa
       url: /camera-privacy/
     - title: CCTV Rules
-      title_full: Are Home UAP Cameras Really CCTV?
+      title_full: Are Home UAP Cameras Really CCTV? | Automated Instrument 521443 Legal Privacy Airspa
       url: /cctv-rules/
     - title: Disclosure
-      title_full: What Should a UAP Station Publish?
+      title_full: What Should a UAP Station Publish? | Automated Instrument 521443 Legal Privacy Airspa
       url: /disclosure/
     - title: FAA Privacy
-      title_full: Why Some Aircraft Disappear From Public Feeds
+      title_full: Why Some Aircraft Disappear From Public Feeds | Automated Instrument 521443 Legal Privacy Airspa
       url: /faa-privacy/
     - title: Flight Data
-      title_full: Use Flight Data Without Becoming a Tracker
+      title_full: Use Flight Data Without Becoming a Tracker | Automated Instrument 521443 Legal Privacy Airspa
       url: /flight-data/
     - title: Laser Risk
-      title_full: Why Sky Stations Should Avoid Lasers
+      title_full: Why Sky Stations Should Avoid Lasers | Automated Instrument 521443 Legal Privacy Airspa
       url: /laser-risk/
   - title: Sky 360
-    title_full: Can Citizen Stations Watch the Sky Better?
+    title_full: Can Citizen Stations Watch the Sky Better? | Automated Instrument
     url: /sky-360/
     children:
     - title: Baseline Data
-      title_full: Why Boring Sky Footage Matters
+      title_full: Why Boring Sky Footage Matters | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /baseline-data/
     - title: Calibration
-      title_full: The Hidden Work Behind Useful Sky Data
+      title_full: The Hidden Work Behind Useful Sky Data | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /calibration-b2613c/
     - title: Camera Roles
-      title_full: Why One Camera Is Not Enough
+      title_full: Why One Camera Is Not Enough | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /camera-roles/
     - title: Cross Checks
-      title_full: First Rule Out the Ordinary Sky
+      title_full: First Rule Out the Ordinary Sky | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /cross-checks/
     - title: Metadata
-      title_full: The Details Missing From Viral UFO Videos
+      title_full: The Details Missing From Viral UFO Videos | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /metadata-4ed77c/
     - title: Open Source
-      title_full: Open Source Does Not Mean Solved
+      title_full: Open Source Does Not Mean Solved | Automated Instrument 521443 Sky 360 Citizen Stati
       url: /open-source/
   - title: Starlink
-    title_full: How Satellites Fool UAP Detectors
+    title_full: How Satellites Fool UAP Detectors | Automated Instrument
     url: /starlink/
     children:
     - title: AARO Limits
-      title_full: What AARO's Starlink Cases Reveal
+      title_full: What AARO's Starlink Cases Reveal | Automated Instrument 521443 Starlink Satellite
       url: /aaro-limits/
     - title: Flare Checks
-      title_full: The Geometry Behind a Starlink Flash
+      title_full: The Geometry Behind a Starlink Flash | Automated Instrument 521443 Starlink Satellite
       url: /flare-checks/
     - title: Orbit Matching
-      title_full: Can the Track Match a Known Satellite?
+      title_full: Can the Track Match a Known Satellite? | Automated Instrument 521443 Starlink Satellite
       url: /orbit-matching/
     - title: Pacific Case
-      title_full: The Starlink Case Pilots Could Not Check
+      title_full: The Starlink Case Pilots Could Not Check | Automated Instrument 521443 Starlink Satellite
       url: /pacific-case/
     - title: Pilot Flares
-      title_full: Why Pilots Report Starlink as UAP
+      title_full: Why Pilots Report Starlink as UAP | Automated Instrument 521443 Starlink Satellite
       url: /pilot-flares/
     - title: Starlink Trains
-      title_full: Why Starlink Trains Look Like Formations
+      title_full: Why Starlink Trains Look Like Formations | Automated Instrument 521443 Starlink Satellite
       url: /starlink-trains-acba9d/
   - title: Timing
-    title_full: Why Every UAP Sensor Needs the Same Clock
+    title_full: Why Every UAP Sensor Needs the Same Clock | Automated Instrument
     url: /timing/
     children:
     - title: Clock Drift
-      title_full: When Bad Timing Creates Strange Motion
+      title_full: When Bad Timing Creates Strange Motion | Automated Instrument 521443 Time Synchronization
       url: /clock-drift/
     - title: GPS Clocks
-      title_full: Why UAP Stations Need a Real Clock
+      title_full: Why UAP Stations Need a Real Clock | Automated Instrument 521443 Time Synchronization
       url: /gps-clocks/
     - title: Network Time
-      title_full: Is Internet Time Good Enough for UAP Video?
+      title_full: Is Internet Time Good Enough for UAP Video? | Automated Instrument 521443 Time Synchronization
       url: /network-time/
     - title: Sensor Matching
-      title_full: Do the Video and Logs Tell One Story?
+      title_full: Do the Video and Logs Tell One Story? | Automated Instrument 521443 Time Synchronization
       url: /sensor-matching/
     - title: Triangulation
-      title_full: Two Cameras Help Only If Their Clocks Agree
+      title_full: Two Cameras Help Only If Their Clocks Agree | Automated Instrument 521443 Time Synchronization
       url: /triangulation-2dcc0a/
     - title: Uncertainty
-      title_full: A Timestamp Without Uncertainty Is Not Enough
+      title_full: A Timestamp Without Uncertainty Is Not Enough | Automated Instrument 521443 Time Synchronization
       url: /uncertainty/
   - title: Triangulation
-    title_full: How Multiple Stations Pin Down a Sky Object
+    title_full: How Multiple Stations Pin Down a Sky Object | Automated Instrument
     url: /triangulation/
     children:
     - title: 2 D Outliers
-      title_full: Odd on screen is not odd in the sky
+      title_full: Odd on screen is not odd in the sky | Automated Instrument 521443 Multi Site Triangula
       url: /2-d-outliers/
     - title: Baselines
-      title_full: How far apart should sky stations be?
+      title_full: How far apart should sky stations be? | Automated Instrument 521443 Multi Site Triangula
       url: /baselines-d626c9/
     - title: Clock Sync
-      title_full: When two cameras disagree on time
+      title_full: When two cameras disagree on time | Automated Instrument 521443 Multi Site Triangula
       url: /clock-sync/
     - title: Meteor Lessons
-      title_full: What meteor hunters already solved
+      title_full: What meteor hunters already solved | Automated Instrument 521443 Multi Site Triangula
       url: /meteor-lessons/
     - title: Object Matching
-      title_full: Are both cameras seeing the same thing?
+      title_full: Are both cameras seeing the same thing? | Automated Instrument 521443 Multi Site Triangula
       url: /object-matching/
     - title: Sensor Checks
-      title_full: What checks a triangulated UAP track?
+      title_full: What checks a triangulated UAP track? | Automated Instrument 521443 Multi Site Triangula
       url: /sensor-checks/
   - title: UFODAP
-    title_full: What Makes UFODAP More Than a Camera?
+    title_full: What Makes UFODAP More Than a Camera? | Automated Instrument
     url: /ufodap/
     children:
     - title: Camera Handoff
-      title_full: Can one camera both find and follow?
+      title_full: Can one camera both find and follow? | Automated Instrument 521443 Ufodap Optical Track
       url: /camera-handoff-9687f1/
     - title: Camera Motion
-      title_full: The hidden motion inside a zoomed clip
+      title_full: The hidden motion inside a zoomed clip | Automated Instrument 521443 Ufodap Optical Track
       url: /camera-motion/
     - title: Event Triggers
-      title_full: When does sky motion become an event?
+      title_full: When does sky motion become an event? | Automated Instrument 521443 Ufodap Optical Track
       url: /event-triggers/
     - title: False Alerts
-      title_full: What keeps a detector from crying UFO?
+      title_full: What keeps a detector from crying UFO? | Automated Instrument 521443 Ufodap Optical Track
       url: /false-alerts/
     - title: Starter Setup
-      title_full: What does a real starter station need?
+      title_full: What does a real starter station need? | Automated Instrument 521443 Ufodap Optical Track
       url: /starter-setup/
     - title: Triangulation
-      title_full: When does a camera network measure distance?
+      title_full: When does a camera network measure distance? | Automated Instrument 521443 Ufodap Optical Track
       url: /triangulation-91fce1/
   - title: Vision Filters
-    title_full: Can Software Spot False UFO Alarms?
+    title_full: Can Software Spot False UFO Alarms? | Automated Instrument
     url: /vision-filters/
     children:
     - title: Bird Motion
-      title_full: Why Birds Are Harder Than They Look
+      title_full: Why Birds Are Harder Than They Look | Automated Instrument 521443 Machine Vision Filte
       url: /bird-motion/
     - title: Foliage Alerts
-      title_full: The Tree That Keeps Reporting UFOs
+      title_full: The Tree That Keeps Reporting UFOs | Automated Instrument 521443 Machine Vision Filte
       url: /foliage-alerts/
     - title: Human Review
-      title_full: Why the Software Should Not Be the Judge
+      title_full: Why the Software Should Not Be the Judge | Automated Instrument 521443 Machine Vision Filte
       url: /human-review/
     - title: In An Automated Instrumented UFO Detector,...
-      title_full: Why a Plane Can Still Look Unknown
+      title_full: Why a Plane Can Still Look Unknown | Automated Instrument 521443 Machine Vision Filte
       url: /in-an-automated-instrumented-ufo/
     - title: Thermal Traps
-      title_full: When Heat Looks Like a Moving Object
+      title_full: When Heat Looks Like a Moving Object | Automated Instrument 521443 Machine Vision Filte
       url: /thermal-traps/
     - title: Tracking Boxes
-      title_full: When a Box Finds Something in the Sky
+      title_full: When a Box Finds Something in the Sky | Automated Instrument 521443 Machine Vision Filte
       url: /tracking-boxes/
   - title: Weather
-    title_full: Why Weather Belongs in UFO Detection
+    title_full: Why Weather Belongs in UFO Detection | Automated Instrument
     url: /weather/
     children:
     - title: Cloud Height
-      title_full: Can clouds expose a false altitude?
+      title_full: Can clouds expose a false altitude? | Automated Instrument 521443 Weather Context
       url: /cloud-height/
     - title: Event Metadata
-      title_full: What weather belongs in a UAP file?
+      title_full: What weather belongs in a UAP file? | Automated Instrument 521443 Weather Context
       url: /event-metadata/
     - title: IR Contrast
-      title_full: Why infrared skies can fool detectors
+      title_full: Why infrared skies can fool detectors | Automated Instrument 521443 Weather Context
       url: /ir-contrast/
     - title: Local Sensors
-      title_full: Why the weather station belongs on site
+      title_full: Why the weather station belongs on site | Automated Instrument 521443 Weather Context
       url: /local-sensors/
     - title: Upper Winds
-      title_full: Why ground wind is not enough
+      title_full: Why ground wind is not enough | Automated Instrument 521443 Weather Context
       url: /upper-winds/
     - title: Visibility
-      title_full: When bad visibility creates strange targets
+      title_full: When bad visibility creates strange targets | Automated Instrument 521443 Weather Context
       url: /visibility/

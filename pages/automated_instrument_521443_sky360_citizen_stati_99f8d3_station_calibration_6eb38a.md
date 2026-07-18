@@ -280,17 +280,17 @@ image: /assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_st
 
 ## Introduction
 
-For a network such as Sky360, calibration is the difference between collecting many videos and collecting measurements. A citizen station becomes scientifically useful only when its images, [timestamps]({{ 'timestamps/' | relative_url }}) and operating settings can be compared directly with those from other stations. Without calibration, one camera may report an object as high in the western sky while another records the same event with slightly different geometry, [timing]({{ 'timing/' | relative_url }}) or lens distortion, making comparison unreliable. NASA's independent UAP study identified poor sensor calibration, missing metadata and inconsistent measurements as major obstacles to analysing unusual aerial observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+For a network such as Sky360, calibration is the difference between collecting many videos and collecting measurements. A citizen station becomes scientifically useful only when its images, [timestamps]({{ 'timestamps/' | relative_url }}) and operating settings can be compared directly with those from other stations. Without calibration, one camera may report an object as high in the western sky while another records the same event with slightly different geometry, [timing]({{ 'timing/' | relative_url }}) or lens distortion, making comparison unreliable. NASA's independent UAP study identified poor sensor calibration, missing metadata and inconsistent measurements as major obstacles to analysing unusual aerial observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In practical terms, calibration means knowing exactly where each pixel points in the sky, how accurately the station's clock is synchronised, where the station is located, and what camera settings were used when an event was recorded. Those details rarely appear in ordinary UFO videos, but they are essential if a distributed network hopes to estimate trajectories, compare observations or rule out sensor artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+In practical terms, calibration means knowing exactly where each pixel points in the sky, how accurately the station's clock is synchronised, where the station is located, and what camera settings were used when an event was recorded. Those details rarely appear in ordinary UFO videos, but they are essential if a distributed network hopes to estimate trajectories, compare observations or rule out sensor artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## Mapping Pixels to Real Sky Directions
 
-The first calibration challenge is geometric. An all-sky camera equipped with a fisheye lens does not produce a simple photograph. The lens bends and distorts the scene so that the relationship between image pixels and real sky directions is highly non-linear. Before observations from different stations can be compared, each camera must be calibrated so that every pixel corresponds to a known azimuth and elevation in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Calibration and Applications of the All-Sky Camera at...10 Jan 2025 — The calibration model for an all-sky camera can be distilled...</span></span></span>
+The first calibration challenge is geometric. An all-sky camera equipped with a fisheye lens does not produce a simple photograph. The lens bends and distorts the scene so that the relationship between image pixels and real sky directions is highly non-linear. Before observations from different stations can be compared, each camera must be calibrated so that every pixel corresponds to a known azimuth and elevation in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Calibration and Applications of the All-Sky Camera at...10 Jan 2025 — The calibration model for an all-sky camera can be distilled...</span></span></span>
 
-Astronomers have solved similar problems for years using astrometric calibration, often called "plate solving". The software identifies known stars in an image and matches them against star catalogues. Once enough stars are matched, the system can calculate exactly how the camera is oriented and how its lens distorts the image. The result is a map that converts image coordinates into real sky coordinates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2AstroBackyard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">ORION software tool for the geometrical calibration of all-sky...by JC Antuña-Sánchez · 2022 · Cited by 16 — This software has been...</span></span></span>
+Astronomers have solved similar problems for years using astrometric calibration, often called "plate solving". The software identifies known stars in an image and matches them against star catalogues. Once enough stars are matched, the system can calculate exactly how the camera is oriented and how its lens distorts the image. The result is a map that converts image coordinates into real sky coordinates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2AstroBackyard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">ORION software tool for the geometrical calibration of all-sky...by JC Antuña-Sánchez · 2022 · Cited by 16 — This software has been...</span></span></span>
 
 For a citizen monitoring network, this produces several benefits:
 
@@ -304,14 +304,14 @@ For a citizen monitoring network, this produces several benefits:
 
 </div>
 
-Research on all-sky camera calibration shows that star-based methods can achieve very high positional accuracy, often well below a pixel of error when properly implemented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
+Research on all-sky camera calibration shows that star-based methods can achieve very high positional accuracy, often well below a pixel of error when properly implemented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ### Why True North Matters More Than It Appears
 
-A camera may appear to be aimed correctly even when it is slightly rotated. A few degrees of error in orientation can significantly affect triangulation over long distances. Modern calibration systems therefore estimate roll, pitch and yaw relative to the horizon and true north rather than relying on manual alignment by volunteers. Recent work on automated all-sky imaging networks even performs continuous recalibration using star tracks to detect small shifts caused by [weather]({{ 'weather/' | relative_url }}), maintenance or mechanical movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
+A camera may appear to be aimed correctly even when it is slightly rotated. A few degrees of error in orientation can significantly affect triangulation over long distances. Modern calibration systems therefore estimate roll, pitch and yaw relative to the horizon and true north rather than relying on manual alignment by volunteers. Recent work on automated all-sky imaging networks even performs continuous recalibration using star tracks to detect small shifts caused by [weather]({{ 'weather/' | relative_url }}), maintenance or mechanical movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</span><span class="citation-popover-meta">Published: August 23, 2025</span></span></span>
 
 This hidden geometric work is what allows separate stations to describe the same object in a common language.
 
@@ -319,11 +319,11 @@ This hidden geometric work is what allows separate stations to describe the same
 
 Knowing where a camera points is only part of the problem. A useful observation also requires accurate information about where the station itself is located and when the observation occurred.
 
-The station's latitude, longitude and elevation provide the baseline needed for multi-station analysis. If two calibrated stations observe the same event from different locations, analysts can compare their lines of sight and estimate distance, altitude and motion. Without precise station coordinates, triangulation becomes unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
+The station's latitude, longitude and elevation provide the baseline needed for multi-station analysis. If two calibrated stations observe the same event from different locations, analysts can compare their lines of sight and estimate distance, altitude and motion. Without precise station coordinates, triangulation becomes unreliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
 
 Time synchronisation is equally important. An aircraft, meteor or satellite can move substantially in a fraction of a second. If clocks differ between stations, calculations of speed and position quickly become inaccurate. A network therefore benefits from disciplined timekeeping, typically through GPS-based timing or internet time synchronisation with known accuracy.
 
-NASA's UAP study repeatedly emphasised that reliable interpretation depends not only on imagery but also on accompanying metadata, including time, location and sensor operating information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">In short,</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+NASA's UAP study repeatedly emphasised that reliable interpretation depends not only on imagery but also on accompanying metadata, including time, location and sensor operating information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">In short,</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-2-dark.svg" | relative_url }}" alt="Calibration illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,7 +346,7 @@ Useful metadata commonly includes:
 
 </div>
 
-This information allows later investigators to reconstruct what the instrument was doing at the moment of observation. NASA notes that several apparent UAP cases have been traced to sensor artefacts once calibration and metadata were examined carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
+This information allows later investigators to reconstruct what the instrument was doing at the moment of observation. NASA notes that several apparent UAP cases have been traced to sensor artefacts once calibration and metadata were examined carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-fwpoiTyfmc" title="The PiFinder: The Plate-Solving Object Locator for Your Telescope! IN DEPTH REVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-fwpoiTyfmc" target="_blank" rel="noopener noreferrer">The PiFinder: The Plate-Solving Object Locator for Your Telescope! IN DEPTH REVIEW</a></p><p class="youtube-embed-meta">Channel: Maximum Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-fwpoiTyfmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-fwpoiTyfmc">Open on YouTube</a></p></div></div></div>
@@ -374,7 +374,7 @@ For this reason, comparable stations typically define standard operating procedu
 
 Consistency does not mean every station must use identical hardware. Citizen-science networks often contain mixed equipment. The goal is that differences are documented and understood rather than hidden. A known difference can be modelled; an undocumented difference can become a false anomaly.
 
-This principle mirrors a central recommendation from the NASA UAP study: future investigations need systematic data collection, calibrated instruments and complete sensor metadata rather than isolated imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+This principle mirrors a central recommendation from the NASA UAP study: future investigations need systematic data collection, calibrated instruments and complete sensor metadata rather than isolated imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-3-dark.svg" | relative_url }}" alt="Calibration illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -382,203 +382,203 @@ This principle mirrors a central recommendation from the NASA UAP study: future 
 
 The most valuable outcome of calibration is not prettier imagery. It is interoperability.
 
-When two Sky360-style stations share a calibrated coordinate system, accurate timing and documented settings, they can contribute to a common observational record. An event detected at one location can be compared with observations from another. Known objects such as aircraft, [satellites]({{ 'satellites/' | relative_url }}), meteors or atmospheric phenomena can be matched against their expected positions more reliably. Sensor artefacts become easier to recognise. Triangulation becomes possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
+When two Sky360-style stations share a calibrated coordinate system, accurate timing and documented settings, they can contribute to a common observational record. An event detected at one location can be compared with observations from another. Known objects such as aircraft, [satellites]({{ 'satellites/' | relative_url }}), meteors or atmospheric phenomena can be matched against their expected positions more reliably. Sensor artefacts become easier to recognise. Triangulation becomes possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-snippet">the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</span></span></span>
 
-In the context of automated instrumented UFO or UAP detection, calibration is therefore not a technical afterthought. It is the mechanism that turns a collection of volunteer cameras into a distributed instrument. The cameras may be owned by different people in different places, but calibration allows them to speak the same measurement language. Without that shared framework, a network gains more footage. With it, the network gains evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+In the context of automated instrumented UFO or UAP detection, calibration is therefore not a technical afterthought. It is the mechanism that turns a collection of volunteer cameras into a distributed instrument. The cameras may be owned by different people in different places, but calibration allows them to speak the same measurement language. Without that shared framework, a network gains more footage. With it, the network gains evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lAMyEpBcLV4" title="Platesolving and auto-centering in NINA!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lAMyEpBcLV4" target="_blank" rel="noopener noreferrer">Platesolving and auto-centering in NINA!</a></p><p class="youtube-embed-meta">Channel: Cuiv, The Lazy Geek</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lAMyEpBcLV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lAMyEpBcLV4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Work Behind Useful Sky Data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Work Behind Useful Sky Data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Handbook of Astronomical Image Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4810234-M.jpg" alt="Cover for The Handbook of Astronomical Image Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Handbook of Astronomical Image Processing">The Handbook of Astronomical Image Processing</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Handbook of Astronomical Image Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4810234-M.jpg" alt="Cover for The Handbook of Astronomical Image Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Handbook of Astronomical Image Processing">The Handbook of Astronomical Image Processing</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly covers calibration, image geometry, distortion correction, plate solving, and extracting reliable measurements from astronomical...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers calibration, image geometry, distortion correction, plate solving, and extracting reliable measurements from astronomical...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
-        </h4>
-        <p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
+</h4>
+<p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
         
-        <p class="fr-book-desc">First published 1994.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Explains coordinate systems, timing, positional calculations, and the mathematical foundations behind mapping observations to the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains coordinate systems, timing, positional calculations, and the mathematical foundations behind mapping observations to the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography Manual">Astrophotography Manual</a>
-        </h4>
-        <p class="fr-book-author">By Chris Woodhouse</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography Manual">Astrophotography Manual</a>
+</h4>
+<p class="fr-book-author">By Chris Woodhouse</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Astronomical photography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Astronomical photography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+of+Astronomical+Image+Processing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The of Astronomical Image Processing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+of+Astronomical+Image+Processing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The of Astronomical Image Processing books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="calibration-b2613c-the-hidden-work-behind-useful-sky-data-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,123 +784,123 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.08358v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and Applications of the All-Sky Camera at...10 Jan 2025 — The calibration model for an all-sky camera can be distilled...</p></details>
+   Link:<a href="https://arxiv.org/html/2501.08358v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.08358v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and Applications of the All-Sky Camera at...10 Jan 2025 — The calibration model for an all-sky camera can be distilled...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ORION software tool for the geometrical calibration of all-sky...by JC Antuña-Sánchez · 2022 · Cited by 16 — This software has been...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0265959</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ORION software tool for the geometrical calibration of all-sky...by JC Antuña-Sánchez · 2022 · Cited by 16 — This software has been...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: astrobackyard.com  
-   Link: <a href="https://astrobackyard.com/plate-solving/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/plate-solving/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Plate Solving? (And Why You Need...Plate solving is a method used in astrophotography to determine the right ascension and decli...</p></details>
+   Link:<a href="https://astrobackyard.com/plate-solving/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/plate-solving/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Plate Solving? (And Why You Need...Plate solving is a method used in astrophotography to determine the right ascension and decli...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ilrs.gsfc.nasa.gov  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</p></details>
+   Link:<a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the instrumental coordinates (pixel or encoder positions) to sky coordinates.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2501.08358" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.08358</a>  
+   Link:<a href="https://arxiv.org/abs/2501.08358" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2501.08358</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.17146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2508.17146" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.17146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-Cal: Automated and Continuous Geo-Referencing of All-Sky Imagers Using Fisheye Lens Modeling and Star TracksAugust 23, 2025...</p></details>
    Published: August 23, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.wikisource.org  
    Title: In short,  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</p></details>
    Published: September 14, 2023  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388062241_Calibration_and_applications_of_the_all-sky_camera_at_the_Ali_Observatory_in_Tibet" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388062241_Calibration_and_applications_of_the_all-sky_camera_at_the_Ali_Observatory_in_Tibet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and applications of the all-sky camera at the Ali...22 Jan 2025 — This method achieves high-precision calibration for indivi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388062241_Calibration_and_applications_of_the_all-sky_camera_at_the_Ali_Observatory_in_Tibet" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388062241_Calibration_and_applications_of_the_all-sky_camera_at_the_Ali_Observatory_in_Tibet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration and applications of the all-sky camera at the Ali...22 Jan 2025 — This method achieves high-precision calibration for indivi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: managingexpectations.net  
-   Link: <a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
+   Link:<a href="https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html" target="_blank" rel="noopener noreferrer nofollow">https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeThe panel said UAP analysis is hampered by “poor sensor calibration,” a lack of mul...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: astrogb.com  
-   Link: <a href="https://www.astrogb.com/astrogb/All_Sky_Plate_Solver.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astrogb.com/astrogb/All_Sky_Plate_Solver.html</a>  
+   Link:<a href="https://www.astrogb.com/astrogb/All_Sky_Plate_Solver.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astrogb.com/astrogb/All_Sky_Plate_Solver.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... data collection that involves calibrating instruments, multiple measurements and...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 —... data collection that involves calibrating instruments, multiple measurements and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: defensescoop.com  
    Title: pentagon office developing new sensors to better detect ufos  
-   Link: <a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — The Pentagon&#x27;s All-domain Anomaly Resolution Office (AARO) is pu...</p></details>
+   Link:<a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — The Pentagon&#x27;s All-domain Anomaly Resolution Office (AARO) is pu...</p></details>
    Published: May 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: elib.dlr.de  
-   Link: <a href="https://elib.dlr.de/214034/1/1-s2.0-S0038092X25002397-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/214034/1/1-s2.0-S0038092X25002397-main.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DLR Electronic LibraryGeometric calibration of all-sky cameras using sun and...by N Blum · 2025 · Cited by 6 — A calibration based on ce...</p></details>
+   Link:<a href="https://elib.dlr.de/214034/1/1-s2.0-S0038092X25002397-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/214034/1/1-s2.0-S0038092X25002397-main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DLR Electronic LibraryGeometric calibration of all-sky cameras using sun and...by N Blum · 2025 · Cited by 6 — A calibration based on ce...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — ” Analysis, it continues, “is hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Didn&#x27;t Find Aliens—but if You See Any UFOs, Holler14 Sept 2023 — ” Analysis, it continues, “is hampered by poor sensor calibration...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of [baseline data](&#123;&#123; 'baseline-data/' | relative_url &#125;&#125;)," the report states.Read more  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>

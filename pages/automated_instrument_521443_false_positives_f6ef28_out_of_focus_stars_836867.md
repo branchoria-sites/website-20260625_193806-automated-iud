@@ -280,13 +280,13 @@ image: /assets/images/automated_instrument_521443_false_positives_f6ef28_out_of_
 
 ## Introduction
 
-In automated instrumented UFO detection systems, some of the most convincing-looking “objects” are not objects at all. A bright star can be transformed by poor focus, lens aberrations, atmospheric effects and camera processing into a glowing disc that appears to have size, structure, colour changes and even apparent motion. To an observer reviewing footage, the result can resemble a distant craft rather than a point source of starlight. The risk is particularly high for unattended night cameras, which often operate with fixed focus, aggressive exposure settings and wide-angle optics. Understanding how stars become discs is therefore an essential part of filtering [false positives]({{ 'false-positives/' | relative_url }}) from genuine anomalies. Astronomical imaging research and optical engineering both show that point sources change shape dramatically when focus shifts or optical aberrations are present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
+In automated instrumented UFO detection systems, some of the most convincing-looking “objects” are not objects at all. A bright star can be transformed by poor focus, lens aberrations, atmospheric effects and camera processing into a glowing disc that appears to have size, structure, colour changes and even apparent motion. To an observer reviewing footage, the result can resemble a distant craft rather than a point source of starlight. The risk is particularly high for unattended night cameras, which often operate with fixed focus, aggressive exposure settings and wide-angle optics. Understanding how stars become discs is therefore an essential part of filtering [false positives]({{ 'false-positives/' | relative_url }}) from genuine anomalies. Astronomical imaging research and optical engineering both show that point sources change shape dramatically when focus shifts or optical aberrations are present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_out_of_focus_stars_836867-Illustration-1-dark.svg" | relative_url }}" alt="Star Discs illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_out_of_focus_stars_836867-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_out_of_focus_stars_836867-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Focus Turns Points Into Discs
 
-A star is effectively a point source at astronomical distances. In a properly focused optical system, that point is recorded as a tiny image determined by the system's point-spread function (PSF), the characteristic way an optical system renders a point of light. When focus is lost, the star's light is no longer concentrated into a tiny spot and instead spreads across a larger area of the sensor. Astronomers routinely use the changing size and shape of stellar images to measure focus because the effect is so pronounced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
+A star is effectively a point source at astronomical distances. In a properly focused optical system, that point is recorded as a tiny image determined by the system's point-spread function (PSF), the characteristic way an optical system renders a point of light. When focus is lost, the star's light is no longer concentrated into a tiny spot and instead spreads across a larger area of the sensor. Astronomers routinely use the changing size and shape of stellar images to measure focus because the effect is so pronounced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
 
 For a UFO observer, this matters because the enlarged image no longer resembles a star. Instead it can appear as:
 
@@ -301,9 +301,9 @@ For a UFO observer, this matters because the enlarged image no longer resembles 
 
 </div>
 
-The illusion becomes stronger when digital zoom is applied. Enlarging a defocused star enlarges the blur pattern rather than revealing detail. Viewers often interpret the resulting shape as surface structure, windows, rotating features or energy effects when they are actually looking at an enlarged optical artefact. This is a common failure mode in night-sky UFO videos because stars are among the brightest fixed targets available to the camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://forums.sharpcap.co.uk/viewtopic.php?t=9444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.sharpcap.co.uk">[forums.sharpcap.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.sharpcap.co.uk</span><span class="citation-popover-title">I can&#x27;t see any stars at all with any camera</span><span class="citation-popover-snippet">please help!If you are out of focus by a long way, the star light is spread over a large, faint, disk, but with these settings you should...</span></span></span>
+The illusion becomes stronger when digital zoom is applied. Enlarging a defocused star enlarges the blur pattern rather than revealing detail. Viewers often interpret the resulting shape as surface structure, windows, rotating features or energy effects when they are actually looking at an enlarged optical artefact. This is a common failure mode in night-sky UFO videos because stars are among the brightest fixed targets available to the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://forums.sharpcap.co.uk/viewtopic.php?t=9444" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.sharpcap.co.uk">[forums.sharpcap.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.sharpcap.co.uk</span><span class="citation-popover-title">I can&#x27;t see any stars at all with any camera</span><span class="citation-popover-snippet">please help!If you are out of focus by a long way, the star light is spread over a large, faint, disk, but with these settings you should...</span></span></span>
 
-A further complication is that many camera systems continuously adjust focus or exposure. As the camera hunts for focus, the star's apparent size can expand and contract, creating the impression that the object itself is changing shape or distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
+A further complication is that many camera systems continuously adjust focus or exposure. As the camera hunts for focus, the star's apparent size can expand and contract, creating the impression that the object itself is changing shape or distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/klvU0K2JQ7s" title="How To Easily Focus On Stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=klvU0K2JQ7s" target="_blank" rel="noopener noreferrer">How To Easily Focus On Stars</a></p><p class="youtube-embed-meta">Channel: Andrea Minoia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=klvU0K2JQ7s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=klvU0K2JQ7s">Open on YouTube</a></p></div></div></div>
@@ -317,9 +317,9 @@ Several aberrations are particularly relevant:
 * **Coma** can stretch stars into comet-like shapes with apparent tails.
 * **Astigmatism** can elongate stars into lines, crosses or asymmetric forms.
 * **Field curvature** can leave edge stars out of focus when the centre is sharp.
-* **Distortion and combined aberrations** can produce irregular shapes that look non-natural. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[astropix.com+2Telescopic Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Things That Go Wrong</span><span class="citation-popover-snippet">Optical AberrationsStars at the edge of the field will be out of focus. Solution: Use a field... Solution: Stop the camera lens down, or...</span></span></span>
+* **Distortion and combined aberrations** can produce irregular shapes that look non-natural.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[astropix.com+2Telescopic Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-title">Things That Go Wrong</span><span class="citation-popover-snippet">Optical AberrationsStars at the edge of the field will be out of focus. Solution: Use a field... Solution: Stop the camera lens down, or...</span></span></span>
 
-Astronomy observers often describe severely aberrated stars near field edges as looking like birds, seagulls, comets or fan-shaped objects. These descriptions are striking because they mirror language frequently used in UFO reports. What appears to be a structured craft can sometimes be a bright star recorded through optics operating outside their best-corrected region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights+2astropix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights What do all the different aberrations look like?</span><span class="citation-popover-snippet">coma and astigmatism, the plagues of long focal length wide field eyepieces, i.e. stars turning into little birds towards the edge of the...</span></span></span>
+Astronomy observers often describe severely aberrated stars near field edges as looking like birds, seagulls, comets or fan-shaped objects. These descriptions are striking because they mirror language frequently used in UFO reports. What appears to be a structured craft can sometimes be a bright star recorded through optics operating outside their best-corrected region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights+2astropix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights What do all the different aberrations look like?</span><span class="citation-popover-snippet">coma and astigmatism, the plagues of long focal length wide field eyepieces, i.e. stars turning into little birds towards the edge of the...</span></span></span>
 
 For automated UFO detectors, this creates a classification hazard. Software may identify the apparent shape rather than recognising that the source remains a fixed astronomical object. If the detector has been trained primarily on daytime imagery or lacks calibration data describing lens behaviour, edge-of-frame stars can be assigned anomalous scores despite being entirely predictable optical artefacts.
 
@@ -333,7 +333,7 @@ Atmospheric turbulence causes rapid fluctuations in the path of starlight. The e
 
 Electronic image stabilisation, tracking errors, sensor noise and autofocus adjustments can add further apparent motion. Because the source lacks visible reference features, observers may interpret the shifting glow as controlled manoeuvring rather than a stationary celestial target.
 
-The combination of a bright star, slight defocus and atmospheric disturbance is therefore capable of producing footage that appears surprisingly dynamic despite containing no moving object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
+The combination of a bright star, slight defocus and atmospheric disturbance is therefore capable of producing footage that appears surprisingly dynamic despite containing no moving object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kFpN79l0HIo" title="Stargazing Outreach: The Focus Problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kFpN79l0HIo" target="_blank" rel="noopener noreferrer">Stargazing Outreach: The Focus Problem</a></p><p class="youtube-embed-meta">Channel: Adam Block</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kFpN79l0HIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kFpN79l0HIo">Open on YouTube</a></p></div></div></div>
@@ -378,185 +378,185 @@ The most useful checks include:
 
 </div>
 
-These checks align with the broader principle behind serious automated UFO detection: extraordinary classifications should survive calibration, optical analysis and astronomical cross-checking before being treated as genuinely unexplained. A bright star transformed into a glowing disc may look unusual, but once focus behaviour, lens performance and sky position are examined, it often becomes one of the most predictable false positives in the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2astropix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
+These checks align with the broader principle behind serious automated UFO detection: extraordinary classifications should survive calibration, optical analysis and astronomical cross-checking before being treated as genuinely unexplained. A bright star transformed into a glowing disc may look unusual, but once focus behaviour, lens performance and sky position are examined, it often becomes one of the most predictable false positives in the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2astropix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</span><span class="citation-popover-meta">Published: June 1, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3fJHG0g6jWs" title="Out Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3fJHG0g6jWs" target="_blank" rel="noopener noreferrer">Out Out</a></p><p class="youtube-embed-meta">Channel: Skye Newman - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3fJHG0g6jWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3fJHG0g6jWs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Stars Turn Into Glowing Discs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Stars Turn Into Glowing Discs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Explains optics, observing equipment, focus, star appearance, and common observational misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains optics, observing equipment, focus, star appearance, and common observational misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Helps readers understand what stars and celestial objects actually look like through optical systems, reducing false identifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand what stars and celestial objects actually look like through optical systems, reducing false identifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Covers star identification, sky navigation, and practical observing checks that help distinguish stars from apparent anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers star identification, sky navigation, and practical observing checks that help distinguish stars from apparent anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Provides foundational knowledge about focus, exposure, lens behavior, and image interpretation relevant to apparent glowing-disc effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Provides foundational knowledge about focus, exposure, lens behavior, and image interpretation relevant to apparent glowing-disc effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="star-discs-when-stars-turn-into-glowing-discs-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ These checks align with the broader principle behind serious automated UFO detec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ These checks align with the broader principle behind serious automated UFO detec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ These checks align with the broader principle behind serious automated UFO detec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ These checks align with the broader principle behind serious automated UFO detec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ These checks align with the broader principle behind serious automated UFO detec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,109 +762,109 @@ These checks align with the broader principle behind serious automated UFO detec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1706.00386</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1706.00386" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1706.00386</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The M4 Core Project with HST -- V. Characterizing the PSFs of WFC3/UVIS by FocusJune 1, 2017...</p></details>
    Published: June 1, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: forums.sharpcap.co.uk  
    Title: I can't see any stars at all with any camera  
-   Link: <a href="https://forums.sharpcap.co.uk/viewtopic.php?t=9444" target="_blank" rel="noopener noreferrer nofollow">https://forums.sharpcap.co.uk/viewtopic.php?t=9444</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>please help!If you are out of focus by a long way, the star light is spread over a large, faint, disk, but with these settings you should...</p></details>
+   Link:<a href="https://forums.sharpcap.co.uk/viewtopic.php?t=9444" target="_blank" rel="noopener noreferrer nofollow">https://forums.sharpcap.co.uk/viewtopic.php?t=9444</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>please help!If you are out of focus by a long way, the star light is spread over a large, faint, disk, but with these settings you should...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astropix.com  
    Title: Things That Go Wrong  
-   Link: <a href="https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical AberrationsStars at the edge of the field will be out of focus. Solution: Use a field... Solution: Stop the camera lens down, or...</p></details>
+   Link:<a href="https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/books/BGDA/CHAPTER9/907.HTM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical AberrationsStars at the edge of the field will be out of focus. Solution: Use a field... Solution: Stop the camera lens down, or...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astronomy.com  
    Title: out of focus observing  
-   Link: <a href="https://www.astronomy.com/observing/out-of-focus-observing/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/out-of-focus-observing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-focus observing18 May 2023 — Placing the object of attention purposefully out of focus can help us make better sense or more accur...</p></details>
+   Link:<a href="https://www.astronomy.com/observing/out-of-focus-observing/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/out-of-focus-observing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-focus observing18 May 2023 — Placing the object of attention purposefully out of focus can help us make better sense or more accur...</p></details>
    Published: May 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights I can't see any stars at all with any camera  
-   Link: <a href="https://www.cloudynights.com/forums/topic/997317-i-cant-see-any-stars-at-all-with-any-camera-please-help/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/997317-i-cant-see-any-stars-at-all-with-any-camera-please-help/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I can&#x27;t see any stars at all with any camera - please help!7 Apr 2026 — Set the exposure for 1 second and aim at something bright like th...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/997317-i-cant-see-any-stars-at-all-with-any-camera-please-help/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/997317-i-cant-see-any-stars-at-all-with-any-camera-please-help/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I can&#x27;t see any stars at all with any camera - please help!7 Apr 2026 — Set the exposure for 1 second and aim at something bright like th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: telescopicwatch.com  
-   Link: <a href="https://telescopicwatch.com/spherical-chromatic-optical-aberrations/" target="_blank" rel="noopener noreferrer nofollow">https://telescopicwatch.com/spherical-chromatic-optical-aberrations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spherical, Chromatic &amp; Other Optical Aberrations: A Stellar...A coma is an optical aberration distinctly recognized by the comet-like or...</p></details>
+   Link:<a href="https://telescopicwatch.com/spherical-chromatic-optical-aberrations/" target="_blank" rel="noopener noreferrer nofollow">https://telescopicwatch.com/spherical-chromatic-optical-aberrations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spherical, Chromatic &amp; Other Optical Aberrations: A Stellar...A coma is an optical aberration distinctly recognized by the comet-like or...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights What do all the different aberrations look like?  
-   Link: <a href="https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>coma and astigmatism, the plagues of long focal length wide field eyepieces, i.e. stars turning into little birds towards the edge of the...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/528064-what-do-all-the-different-aberrations-look-like/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>coma and astigmatism, the plagues of long focal length wide field eyepieces, i.e. stars turning into little birds towards the edge of the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3fJHG0g6jWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3fJHG0g6jWs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out OutProvided to YouTube by Columbia Out Out · Skye Newman Out Out ℗ 2025 Skye Newman Released on: 2025-07-18 Composer, Programmer, Piano...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3fJHG0g6jWs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3fJHG0g6jWs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out OutProvided to YouTube by Columbia Out Out · Skye Newman Out Out ℗ 2025 Skye Newman Released on: 2025-07-18 Composer, Programmer, Piano...</p></details>
    Published: July 18, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Out" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Out</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OutSports and recreation · Out (baseball), a play which retires the batter or a base runner · Out (cricket), the loss of a wicket by a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Out" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OutSports and recreation · Out (baseball), a play which retires the batter or a base runner · Out (cricket), the loss of a wicket by a...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/out" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUT Definition &amp; Meaningto identify (someone) publicly as being such secretly ・ adjective 1 a: situated outside: external She didn&#x27;t wa...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/out" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUT Definition &amp; Meaningto identify (someone) publicly as being such secretly ・ adjective 1 a: situated outside: external She didn&#x27;t wa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/out" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUT Definition &amp; MeaningOUT definition: away from, or not in, the normal or usual place, position, state, etc.: to go out to dinner. See...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/out" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUT Definition &amp; MeaningOUT definition: away from, or not in, the normal or usual place, position, state, etc.: to go out to dinner. See...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lonelyspeck.com  
    Title: a practical guide to lens aberrations and the lonely speck aberration test  
-   Link: <a href="https://www.lonelyspeck.com/a-practical-guide-to-lens-aberrations-and-the-lonely-speck-aberration-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyspeck.com/a-practical-guide-to-lens-aberrations-and-the-lonely-speck-aberration-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Lens Aberrations and the...15 Jul 2015 — In this article I review one of the most common problems that affects the...</p></details>
+   Link:<a href="https://www.lonelyspeck.com/a-practical-guide-to-lens-aberrations-and-the-lonely-speck-aberration-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyspeck.com/a-practical-guide-to-lens-aberrations-and-the-lonely-speck-aberration-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Lens Aberrations and the...15 Jul 2015 — In this article I review one of the most common problems that affects the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=klvU0K2JQ7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=klvU0K2JQ7s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Easily Focus On StarsIn this video, I will tell you what are the tale-telling signs to look for when focusing and how to build you...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=klvU0K2JQ7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=klvU0K2JQ7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Easily Focus On StarsIn this video, I will tell you what are the tale-telling signs to look for when focusing and how to build you...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kFpN79l0HIo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kFpN79l0HIo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing Outreach: The Focus ProblemThe Stargazing Outreach series explores public outreach in astronomy programs- especially stargazin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kFpN79l0HIo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kFpN79l0HIo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazing Outreach: The Focus ProblemThe Stargazing Outreach series explores public outreach in astronomy programs- especially stargazin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/722821620530123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/722821620530123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recently I noticed that when attempting to image dark nebulae (especially in Ophiuchus) the background...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/722821620530123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/722821620530123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recently I noticed that when attempting to image dark nebulae (especially in Ophiuchus) the background...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: baader-planetarium.com  
-   Link: <a href="https://www.baader-planetarium.com/en/downloads/dl/file/id/1925/thoughts-about-aberrations-in-optical-systems-and-their-effects-on-the-image.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.baader-planetarium.com/en/downloads/dl/file/id/1925/thoughts-about-aberrations-in-optical-systems-and-their-effects-on-the-image.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The inner focus point is longer by about.04&quot; than the outer. It is called third order...Read more...</p></details>
+   Link:<a href="https://www.baader-planetarium.com/en/downloads/dl/file/id/1925/thoughts-about-aberrations-in-optical-systems-and-their-effects-on-the-image.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.baader-planetarium.com/en/downloads/dl/file/id/1925/thoughts-about-aberrations-in-optical-systems-and-their-effects-on-the-image.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The inner focus point is longer by about.04&quot; than the outer. It is called third order...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: evidentscientific.com  
-   Link: <a href="https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/opticalaberrations" target="_blank" rel="noopener noreferrer nofollow">https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/opticalaberrations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>romatic, comatic, astigmatic, and field curvature — and how objectives correct...</p></details>
+   Link:<a href="https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/opticalaberrations" target="_blank" rel="noopener noreferrer nofollow">https://evidentscientific.com/en/microscope-resource/knowledge-hub/lightandcolor/opticalaberrations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>romatic, comatic, astigmatic, and field curvature — and how objectives correct...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/out-of" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/out-of</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF | English meaning - Cambridge Dictionaryused to say that no more of something is available: We&#x27;re nearly out of petrol...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/out-of" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/out-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF | English meaning - Cambridge Dictionaryused to say that no more of something is available: We&#x27;re nearly out of petrol...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stargazerslounge.com  
    Title: 414950 stars elongated and out of focus  
-   Link: <a href="https://stargazerslounge.com/topic/414950-stars-elongated-and-out-of-focus/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/414950-stars-elongated-and-out-of-focus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stars elongated and out of focus27 Oct 2023 — I am having trouble with my images. They are not looking great at all. The stars seem to de...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/414950-stars-elongated-and-out-of-focus/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/414950-stars-elongated-and-out-of-focus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stars elongated and out of focus27 Oct 2023 — I am having trouble with my images. They are not looking great at all. The stars seem to de...</p></details>

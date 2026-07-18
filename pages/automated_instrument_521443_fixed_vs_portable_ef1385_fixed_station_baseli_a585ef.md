@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_fixed
 
 ## Introduction
 
-A fixed UAP detector station earns trust gradually rather than through a single dramatic recording. Its real value emerges once it has accumulated enough observations of the ordinary local sky to distinguish routine events from genuine outliers. In practice, this means building a baseline: a well-characterised record of what normally passes through the station's field of view, how its instruments behave under changing environmental conditions, and how frequently common sources of [false alarms]({{ 'false-alarms/' | relative_url }}) appear. Scientific UAP programmes increasingly emphasise that anomaly detection depends less on spectacular imagery than on long-term, calibrated measurements against a known local background. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific+2Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
+A fixed UAP detector station earns trust gradually rather than through a single dramatic recording. Its real value emerges once it has accumulated enough observations of the ordinary local sky to distinguish routine events from genuine outliers. In practice, this means building a baseline: a well-characterised record of what normally passes through the station's field of view, how its instruments behave under changing environmental conditions, and how frequently common sources of [false alarms]({{ 'false-alarms/' | relative_url }}) appear. Scientific UAP programmes increasingly emphasise that anomaly detection depends less on spectacular imagery than on long-term, calibrated measurements against a known local background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific+2Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_fixed_station_baseli_a585ef-Illustration-1-dark.svg" | relative_url }}" alt="Fixed Baselines illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_fixed_station_baseli_a585ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_fixed_station_baseli_a585ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,7 +300,7 @@ Over months or years, a fixed station records recurring patterns such as:
 
 </div>
 
-The aim is to establish the expected behaviour of both the sky and the instruments. Once those expectations are well understood, automated software can identify events that depart significantly from established patterns instead of simply flagging anything visually unusual. This approach underpins the [Galileo]({{ 'galileo/' | relative_url }}) Project's concept of a continuous "multimodal census" of aerial phenomena, where optical, infrared and other sensors collectively define normal conditions before attempting to classify anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
+The aim is to establish the expected behaviour of both the sky and the instruments. Once those expectations are well understood, automated software can identify events that depart significantly from established patterns instead of simply flagging anything visually unusual. This approach underpins the [Galileo]({{ 'galileo/' | relative_url }}) Project's concept of a continuous "multimodal census" of aerial phenomena, where optical, infrared and other sensors collectively define normal conditions before attempting to classify anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
 
 Importantly, a baseline is location-specific. A coastal station, a mountain observatory and an urban rooftop experience different aircraft traffic, [weather]({{ 'weather/' | relative_url }}), wildlife, light pollution and radio environments. A model trained in one setting cannot simply be transplanted elsewhere without rebuilding local expectations.
 
@@ -328,7 +328,7 @@ Repeated calibration allows operators to understand how their equipment behaves 
 
 Because these effects develop slowly, they are often invisible in a single observation but obvious across months of archived data.
 
-Modern scientific observatories therefore treat calibration as a continuous process rather than a one-off installation task. The Galileo Project's published instrument strategy explicitly links physical measurements to calibration requirements and discusses selecting deployment sites where instrument performance can first be characterised before scientific observations begin. More recent work describing the commissioning of its infrared camera array demonstrates calibration against independently verified aircraft positions from ADS-B (Automatic Dependent Surveillance–Broadcast) data, illustrating how routine traffic becomes a valuable calibration reference rather than unwanted clutter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
+Modern scientific observatories therefore treat calibration as a continuous process rather than a one-off installation task. The Galileo Project's published instrument strategy explicitly links physical measurements to calibration requirements and discusses selecting deployment sites where instrument performance can first be characterised before scientific observations begin. More recent work describing the commissioning of its infrared camera array demonstrates calibration against independently verified aircraft positions from ADS-B (Automatic Dependent Surveillance–Broadcast) data, illustrating how routine traffic becomes a valuable calibration reference rather than unwanted clutter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</span></span></span>
 
 This philosophy mirrors established practice in astronomy and atmospheric science, where long-term sensor stability is considered as important as momentary sensitivity.
 
@@ -353,7 +353,7 @@ Initially, many detections appear surprising because operators have little exper
 
 Documenting these effects reduces false positives and improves confidence when something genuinely differs from previous observations.
 
-The Hessdalen Automatic Measurement Station illustrates this principle. Decades of repeated monitoring have produced statistics on when luminous events are reported most frequently, while also revealing the strengths and weaknesses of different sensors. Researchers found that some instruments produced useful long-term measurements whereas others generated excessive noise or ambiguous results, prompting revisions to monitoring strategies rather than stronger anomaly claims. In other words, the station's credibility grew not because every observation was mysterious, but because repeated measurements clarified which data could and could not be trusted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">Project HessdalenA Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 97 — Abstract—The balls of light which appear i...</span></span></span>
+The Hessdalen Automatic Measurement Station illustrates this principle. Decades of repeated monitoring have produced statistics on when luminous events are reported most frequently, while also revealing the strengths and weaknesses of different sensors. Researchers found that some instruments produced useful long-term measurements whereas others generated excessive noise or ambiguous results, prompting revisions to monitoring strategies rather than stronger anomaly claims. In other words, the station's credibility grew not because every observation was mysterious, but because repeated measurements clarified which data could and could not be trusted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-snippet">Project HessdalenA Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 97 — Abstract—The balls of light which appear i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
@@ -394,194 +394,194 @@ That accumulated context is what allows a fixed UAP detector station to earn its
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does a Fixed Station Earn Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does a Fixed Station Earn Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Best general book for evidence standards, skepticism, and resisting dramatic but weak claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best general book for evidence standards, skepticism, and resisting dramatic but weak claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Supports the fixed-station idea of learning normal local sky behaviour through repeated observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the fixed-station idea of learning normal local sky behaviour through repeated observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Matches the page’s focus on calibration, trust, and long-term evidence accumulation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page’s focus on calibration, trust, and long-term evidence accumulation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Relevant to fixed observing setups, local conditions, optics, and practical sky monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to fixed observing setups, local conditions, optics, and practical sky monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/98b821c4e3dce92ed034.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/98b821c4e3dce92ed034.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="fixed-baselines-when-does-a-fixed-station-earn-trust-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ That accumulated context is what allows a fixed UAP detector station to earn its
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ That accumulated context is what allows a fixed UAP detector station to earn its
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ That accumulated context is what allows a fixed UAP detector station to earn its
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ That accumulated context is what allows a fixed UAP detector station to earn its
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ That accumulated context is what allows a fixed UAP detector station to earn its
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,65 +787,65 @@ That accumulated context is what allows a fixed UAP detector station to earn its
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOooEQ9WCcMAB3arVZhEgR_titDkDvUVM2Dhs-19rGc4HclT0idHK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World ScientificThe Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 47 — The primary science goal of t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hessdalen.org  
-   Link: <a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenA Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 97 — Abstract—The balls of light which appear i...</p></details>
+   Link:<a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project HessdalenA Long-Term Scientific Survey of the...by M TEODORANI · 2004 · Cited by 97 — Abstract—The balls of light which appear i...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Instrumented Monitoring of Aerial AnomaliesPDF | Anomalous atmospheric light phenomena tend to occur recurrently in several places...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Instrumented Monitoring of Aerial AnomaliesPDF | Anomalous atmospheric light phenomena tend to occur recurrently in several places...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: catalogue.leidenuniv.nl  
-   Link: <a href="https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51256309870002711" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51256309870002711</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>leidenuniv.nl[https://catalogue.leidenuniv.nl/permalink/f/n95gpj...No](https://catalogue.leidenuniv.nl/permalink/f/n95gpj...No) information is available for this page...</p></details>
+   Link:<a href="https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51256309870002711" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA51256309870002711</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>leidenuniv.nl[https://catalogue.leidenuniv.nl/permalink/f/n95gpj...No](https://catalogue.leidenuniv.nl/permalink/f/n95gpj...No) information is available for this page...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aurora.unis.no  
-   Link: <a href="https://aurora.unis.no/doc/Auroral%20all-sky%20camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aurora.unis.no/doc/Auroral%20all-sky%20camera%20calibration.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-Sky Camera Calibrationby F Sigernes · Cited by 20 — A two-step method to calibrate and flat-field correct an all-sky camera is outlin...</p></details>
+   Link:<a href="https://aurora.unis.no/doc/Auroral%20all-sky%20camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aurora.unis.no/doc/Auroral%20all-sky%20camera%20calibration.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-Sky Camera Calibrationby F Sigernes · Cited by 20 — A two-step method to calibrate and flat-field correct an all-sky camera is outlin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mcst.gsfc.nasa.gov  
-   Link: <a href="https://mcst.gsfc.nasa.gov/publications?field_authors_target_id=P.+Abel&amp;page=11" target="_blank" rel="noopener noreferrer nofollow">https://mcst.gsfc.nasa.gov/publications?field_authors_target_id=P.+Abel&amp;page=11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MCST - NASAThe use of the Sonoran Desert as a Pseudo-invariant Site for Optical Sensor Cross-Calibration and Long-Term Stability Monito...</p></details>
+   Link:<a href="https://mcst.gsfc.nasa.gov/publications?field_authors_target_id=P.+Abel&amp;page=11" target="_blank" rel="noopener noreferrer nofollow">https://mcst.gsfc.nasa.gov/publications?field_authors_target_id=P.+Abel&amp;page=11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MCST - NASAThe use of the Sonoran Desert as a Pseudo-invariant Site for Optical Sensor Cross-Calibration and Long-Term Stability Monito...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scienti¯c Investigation of Unidenti¯ed Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is t...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scienti¯c Investigation of Unidenti¯ed Aerial...by WA Watters · 2023 · Cited by 47 — A primary objective of the Galileo Project is t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2024EGUGA..2613321W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024EGUGA..2613321W/abstract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>satellite remote sensing to evaluate and calibrate...by A Widforss · 2024 — In this study we demonstrate how satellite remote sensing al...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2024EGUGA..2613321W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2024EGUGA..2613321W/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>satellite remote sensing to evaluate and calibrate...by A Widforss · 2024 — In this study we demonstrate how satellite remote sensing al...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/14/18/4679" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/14/18/4679</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inter-Calibration and Statistical Validation of Topside...by A Pignalberi · 2022 · Cited by 16 — CSES-01 is a sun-synchronous satellite...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/14/18/4679" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/14/18/4679</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inter-Calibration and Statistical Validation of Topside...by A Pignalberi · 2022 · Cited by 16 — CSES-01 is a sun-synchronous satellite...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: [Open Source](&#123;&#123; 'open-source/' | relative_url &#125;&#125;) Astronomy  
-   Link: <a href="https://www.youtube.com/watch?v=rf1cyFFtYLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rf1cyFFtYLs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rf1cyFFtYLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rf1cyFFtYLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inventor says his new radar network could spot UAPs...</p></details>

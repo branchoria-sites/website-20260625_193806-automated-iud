@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_uf
 
 ## Introduction
 
-Automated UAP camera systems begin with motion detection, not with proof that an object is unusual. [UFODAP]({{ 'ufodap/' | relative_url }})’s contribution is to convert continuous sky watching into a stream of structured events that can be examined later. Instead of requiring an operator to [review]({{ 'review/' | relative_url }}) hours of largely empty footage, the system watches for movement, applies qualification rules, records relevant data when those rules are met, and organises the results into reviewable event records. In practical terms, the key question is not “Did the system detect a UFO?” but “When did ordinary video become an event worth saving and checking?” UFODAP’s Optical Tracking Data Acquisition Unit (OTDAU) is designed around that transition from raw motion to documented event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyMoving target detection and tracking using a Pan-Tilt-Zoom (PTZ) camera and the Optical Tracking Data A...</span></span></span>
+Automated UAP camera systems begin with motion detection, not with proof that an object is unusual. [UFODAP]({{ 'ufodap/' | relative_url }})’s contribution is to convert continuous sky watching into a stream of structured events that can be examined later. Instead of requiring an operator to [review]({{ 'review/' | relative_url }}) hours of largely empty footage, the system watches for movement, applies qualification rules, records relevant data when those rules are met, and organises the results into reviewable event records. In practical terms, the key question is not “Did the system detect a UFO?” but “When did ordinary video become an event worth saving and checking?” UFODAP’s Optical Tracking Data Acquisition Unit (OTDAU) is designed around that transition from raw motion to documented event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyMoving target detection and tracking using a Pan-Tilt-Zoom (PTZ) camera and the Optical Tracking Data A...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-2-dark.svg" | relative_url }}" alt="Event Triggers illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -288,7 +288,7 @@ Automated UAP camera systems begin with motion detection, not with proof that an
 <img src="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-1-dark.svg" | relative_url }}" alt="Event Triggers illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_ufodap_optical_track_1b6d40_ufodap_event_trigger_7af226-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the software watches for
 
-UFODAP describes OTDAU as a machine-vision system that continuously analyses camera feeds from fixed cameras, PTZ (pan-tilt-zoom) cameras, or combinations of both. A designated detection region can be defined within the image, allowing the software to focus on specific portions of the sky rather than treating every pixel equally. When movement appears within that region, the software evaluates it as a potential target rather than immediately declaring it significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyMoving target detection and tracking using a Pan-Tilt-Zoom (PTZ) camera and the Optical Tracking Data A...</span></span></span>
+UFODAP describes OTDAU as a machine-vision system that continuously analyses camera feeds from fixed cameras, PTZ (pan-tilt-zoom) cameras, or combinations of both. A designated detection region can be defined within the image, allowing the software to focus on specific portions of the sky rather than treating every pixel equally. When movement appears within that region, the software evaluates it as a potential target rather than immediately declaring it significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Dap Camera, Science and TechnologyMoving target detection and tracking using a Pan-Tilt-Zoom (PTZ) camera and the Optical Tracking Data A...</span></span></span>
 
 The process resembles an event-monitoring system more than a traditional video recorder:
 
@@ -341,7 +341,7 @@ The transition from motion to event occurs when the candidate target survives th
 
 In a single-camera configuration, this may simply mean that the relevant video sequence is recorded and tagged for later review. In a two-camera configuration, the event can trigger a more complex handoff. A wide-angle camera first detects motion across a broad section of sky. OTDAU then directs a PTZ camera toward the target and attempts to keep it centred while recording. The event therefore becomes more than a saved clip; it becomes a tracked observation with additional context and potentially higher image detail. [UFODAP](https://ufodap.myshopify.com/collections/cameras)
 
-This design addresses a common problem in sky observation. Wide-angle cameras are excellent for detecting motion but poor at resolving distant objects. Zoomed cameras provide more detail but observe only a small portion of the sky. By linking detection and tracking, UFODAP turns an initial motion trigger into a richer observational record. [UFODAP](https://ufodap.myshopify.com/collections/cameras)
+This design addresses a common problem in sky observation. Wide-angle cameras are excellent for detecting motion but poor at resolving distant objects. Zoomed cameras provide but observe only a small portion of the sky. By linking detection and tracking, UFODAP turns an initial motion trigger into a richer observational record. [UFODAP](https://ufodap.myshopify.com/collections/cameras)
 
 ## What makes a saved event worth reviewing
 
@@ -368,178 +368,178 @@ OTDAU's event-trigger approach converts that flood of video into discrete observ
 For hobbyist UAP monitoring systems, that conversion of raw motion into organised, reviewable events is arguably the most important step in the entire workflow. Without it, the result is merely a camera pointed at the sky. With it, continuous observation becomes a searchable record of specific moments that can be investigated after the fact. [UFODAP](https://ufodap.com/technology)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does sky motion become an event?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does sky motion become an event?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of cases where structured records and corroborating data matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of cases where structured records and corroborating data matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Highlights why careful filtering and documentation are required before treating observations as significant events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights why careful filtering and documentation are required before treating observations as significant events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision: Algorithms and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision: Algorithms and Applications">Computer Vision: Algorithms and Applications</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision: Algorithms and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision: Algorithms and Applications">Computer Vision: Algorithms and Applications</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">Directly addresses motion detection, target qualification, tracking, and event recognition concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses motion detection, target qualification, tracking, and event recognition concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision: Algorithms and Applications</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision%3A+Algorithms+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision: Algorithms and Applications</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KODAK All Sky Camera 4kvr360 Used"><img src="{{ '/assets/images/marketplace-covers/49a38ae65915a658c111.jpg' | relative_url }}" alt="Listing image for KODAK All Sky Camera 4kvr360 Used" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">KODAK All Sky Camera 4kvr360 Used</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KODAK All Sky Camera 4kvr360 Used"><img src="{{ '/assets/images/marketplace-covers/49a38ae65915a658c111.jpg' | relative_url }}" alt="Listing image for KODAK All Sky Camera 4kvr360 Used" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">KODAK All Sky Camera 4kvr360 Used</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Sky Camera Housing"><img src="{{ '/assets/images/marketplace-covers/7aa3f1396a5d2ec285ef.jpg' | relative_url }}" alt="Listing image for All Sky Camera Housing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">All Sky Camera Housing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Sky Camera Housing"><img src="{{ '/assets/images/marketplace-covers/7aa3f1396a5d2ec285ef.jpg' | relative_url }}" alt="Listing image for All Sky Camera Housing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">All Sky Camera Housing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera"><img src="{{ '/assets/images/marketplace-covers/19f0f8f327f26820354d.jpg' | relative_url }}" alt="Listing image for All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera"><img src="{{ '/assets/images/marketplace-covers/19f0f8f327f26820354d.jpg' | relative_url }}" alt="Listing image for All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">All Sky Camera Housing for Raspberry PI and HQ or ZWO Uncooled camera</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for all sky camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: all sky camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=all+sky+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="all sky camera" data-ebay-reference="event-triggers-when-does-sky-motion-become-an-event-automated-instrumented-ufo-detectors-all-sky-camera" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,111 +745,111 @@ For hobbyist UAP monitoring systems, that conversion of raw motion into organise
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe UFO Data Acquisition Project (UFODAP) is a groundbreaking initiative dedicated to advancing the scien...</p></details>
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science and Technology, Ufo, UapThe UFO Data Acquisition Project (UFODAP) is a groundbreaking initiative dedicated to advancing the scien...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPCameras for UFO/UAP tracking and data collection  
-   Link: <a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerDetection and Tracking of Aircraft in the Far-Field from...February 26, 2021 — by CV Dolph · 2021 · Cited b...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerDetection and Tracking of Aircraft in the Far-Field from...February 26, 2021 — by CV Dolph · 2021 · Cited b...</p></details>
    Published: February 26, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_User_Guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2024 — Direct observation of this data may provide insights into conditions that may help identify the target, such as visibi...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFODAP_User_Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFODAP_User_Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2024 — Direct observation of this data may provide insights into conditions that may help identify the target, such as visibi...</p></details>
    Published: December 5, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: The UFO Data Acquisition Project UFODAP | Ronald Olch  
-   Link: <a href="https://www.youtube.com/watch?v=6bDGoVNyvh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bDGoVNyvh8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Presentation V2 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6bDGoVNyvh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6bDGoVNyvh8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Presentation V2 2...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: UFODAP Presentation V2 2  
-   Link: <a href="https://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06osHBotcxk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ron Olch of UFODAP in a Sept 2022 interview with Julia Mossbridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06osHBotcxk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ron Olch of UFODAP in a Sept 2022 interview with Julia Mossbridge...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3kf2lDjy69w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3kf2lDjy69w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Engineer Ron Olch Explains the Gear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3kf2lDjy69w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3kf2lDjy69w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Engineer Ron Olch Explains the Gear...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UFODAP Engineer Ron Olch Explains the Gear  
-   Link: <a href="https://www.youtube.com/watch?v=P0789_mAsRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P0789_mAsRI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P0789_mAsRI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P0789_mAsRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Protocols and Analysis with Ronald Olch (UFO Data Acquisition Project) | 2021 Interview...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Ron Olch video tracking sky UFODAP Cameras on High Alert with Rob Freeman | Marysburgh Vortex Expedition 2022 Rob Freeman UFO Worl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vJIt0vZyEKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vJIt0vZyEKQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP Ron Olch video tracking sky UFODAP Cameras on High Alert with Rob Freeman | Marysburgh Vortex Expedition 2022 Rob Freeman UFO Worl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software, came...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software, came...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uavionix.com  
-   Link: <a href="https://uavionix.com/uncrewed-aircraft-systems/uas-surveillance/?srsltid=AfmBOorMxJ0t-9O71qykvptMIrE1l0uGDJdWBMms4cI2ekWZ12eQkuLQ" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/uncrewed-aircraft-systems/uas-surveillance/?srsltid=AfmBOorMxJ0t-9O71qykvptMIrE1l0uGDJdWBMms4cI2ekWZ12eQkuLQ</a>  
+   Link:<a href="https://uavionix.com/uncrewed-aircraft-systems/uas-surveillance/?srsltid=AfmBOorMxJ0t-9O71qykvptMIrE1l0uGDJdWBMms4cI2ekWZ12eQkuLQ" target="_blank" rel="noopener noreferrer nofollow">https://uavionix.com/uncrewed-aircraft-systems/uas-surveillance/?srsltid=AfmBOorMxJ0t-9O71qykvptMIrE1l0uGDJdWBMms4cI2ekWZ12eQkuLQ</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOB: The Universal Object Tracker | by David Moorean [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) software solution to detecting, tracking and recording objects in the sk...</p></details>
+   Link:<a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOB: The Universal Object Tracker | by David Moorean [open source](&amp;#123;&amp;#123; &#x27;open-source/&#x27; | relative_url &amp;#125;&amp;#125;) software solution to detecting, tracking and recording objects in the sk...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rpg.ifi.uzh.ch  
-   Link: <a href="https://rpg.ifi.uzh.ch/research_dvs.html" target="_blank" rel="noopener noreferrer nofollow">https://rpg.ifi.uzh.ch/research_dvs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uzh.chEvent-based Vision, Event Cameras, Event Camera SLAMIn this work, we introduce the first framework for Motionaware Event Suppressio...</p></details>
+   Link:<a href="https://rpg.ifi.uzh.ch/research_dvs.html" target="_blank" rel="noopener noreferrer nofollow">https://rpg.ifi.uzh.ch/research_dvs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uzh.chEvent-based Vision, Event Cameras, Event Camera SLAMIn this work, we introduce the first framework for Motionaware Event Suppressio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tns.thss.tsinghua.edu.cn  
-   Link: <a href="https://tns.thss.tsinghua.edu.cn/~danyang/assets/pdf/flyTracker-INFOCOM24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tns.thss.tsinghua.edu.cn/~danyang/assets/pdf/flyTracker-INFOCOM24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tsinghua.edu.cnFlyTracker: Motion Tracking and Obstacle Detection for...by Y Wu · Cited by 9 — In this paper, we propose FlyTracker, aim...</p></details>
+   Link:<a href="https://tns.thss.tsinghua.edu.cn/~danyang/assets/pdf/flyTracker-INFOCOM24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tns.thss.tsinghua.edu.cn/~danyang/assets/pdf/flyTracker-INFOCOM24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tsinghua.edu.cnFlyTracker: Motion Tracking and Obstacle Detection for...by Y Wu · Cited by 9 — In this paper, we propose FlyTracker, aim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tYb3G9jzpCA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection &amp; Tracking | David HooperDavid Hooper showcases his work on a multispectral UAP detection system at the UAP Hackathon 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tYb3G9jzpCA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection &amp; Tracking | David HooperDavid Hooper showcases his work on a multispectral UAP detection system at the UAP Hackathon 2025...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8838470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8838470/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Event-Based Camera Depth Estimation...by J Furmonas · 2022 · Cited by 60 — The major differentiating performance parameters of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8838470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8838470/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Event-Based Camera Depth Estimation...by J Furmonas · 2022 · Cited by 60 — The major differentiating performance parameters of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: help.axis.com  
    Title: get started with rules for events  
-   Link: <a href="https://help.axis.com/en-us/get-started-with-rules-for-events" target="_blank" rel="noopener noreferrer nofollow">https://help.axis.com/en-us/get-started-with-rules-for-events</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>started with rules for events - Axis DocumentationTo make an event trigger an action automatically, you create a rule that consist of one...</p></details>
+   Link:<a href="https://help.axis.com/en-us/get-started-with-rules-for-events" target="_blank" rel="noopener noreferrer nofollow">https://help.axis.com/en-us/get-started-with-rules-for-events</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>started with rules for events - Axis DocumentationTo make an event trigger an action automatically, you create a rule that consist of one...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: ufodab finally complete  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1675osz/ufodab_finally_complete/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1675osz/ufodab_finally_complete/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsI finally finished initializing all of the new camera equipment, the new dell 7710 workstation just came yesterday.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1675osz/ufodab_finally_complete/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1675osz/ufodab_finally_complete/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsI finally finished initializing all of the new camera equipment, the new dell 7710 workstation just came yesterday.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2602.23204v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.23204v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motion-aware Event Suppression for Event Cameras1 Jun 2026 — In this work, we introduce the first framework for Motion-aware Event Suppre...</p></details>
+   Link:<a href="https://arxiv.org/html/2602.23204v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2602.23204v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motion-aware Event Suppression for Event Cameras1 Jun 2026 — In this work, we introduce the first framework for Motion-aware Event Suppre...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ceur-ws.org  
-   Link: <a href="https://ceur-ws.org/Vol-3248/paper12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-3248/paper12.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Event-based Indoor Positioning and Navigationby C Shi · 2022 · Cited by 6 — We also summarize event-based algorithms that hav...</p></details>
+   Link:<a href="https://ceur-ws.org/Vol-3248/paper12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-3248/paper12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Event-based Indoor Positioning and Navigationby C Shi · 2022 · Cited by 6 — We also summarize event-based algorithms that hav...</p></details>

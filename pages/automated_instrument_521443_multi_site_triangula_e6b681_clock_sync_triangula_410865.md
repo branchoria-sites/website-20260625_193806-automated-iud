@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_multi_site_triangula_e6b681_cl
 
 ## Introduction
 
-Multi-site triangulation only works if two or more stations measure the same object at the same instant. Even when cameras are accurately calibrated and positioned, poor clock synchronisation can produce incorrect estimates of range, altitude and speed because each camera may be recording the object at a slightly different point along its flight path. For automated instrumented UFO or UAP detector networks, [timing]({{ 'timing/' | relative_url }}) is therefore not a secondary engineering detail but one of the core measurement requirements. Without trustworthy [timestamps]({{ 'timestamps/' | relative_url }}), a convincing-looking geometric reconstruction can be physically wrong, while with accurate synchronisation the same network can distinguish nearby objects from distant ones with much greater confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
+Multi-site triangulation only works if two or more stations measure the same object at the same instant. Even when cameras are accurately calibrated and positioned, poor clock synchronisation can produce incorrect estimates of range, altitude and speed because each camera may be recording the object at a slightly different point along its flight path. For automated instrumented UFO or UAP detector networks, [timing]({{ 'timing/' | relative_url }}) is therefore not a secondary engineering detail but one of the core measurement requirements. Without trustworthy [timestamps]({{ 'timestamps/' | relative_url }}), a convincing-looking geometric reconstruction can be physically wrong, while with accurate synchronisation the same network can distinguish nearby objects from distant ones with much greater confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-1-dark.svg" | relative_url }}" alt="Clock Sync illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -310,11 +310,11 @@ Several limitations make ordinary camera clocks unsuitable for precision triangu
 * Internal oscillators drift with temperature and age.
 * Different cameras rarely start recording at exactly the same instant.
 * Video files often record presentation timing rather than true sensor exposure timing.
-* [Network Time]({{ 'network-time/' | relative_url }}) Protocol (NTP) usually synchronises computers to within milliseconds under favourable conditions, but network delays introduce uncertainty that varies over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Network Time Protocol</span><span class="citation-popover-snippet">Network Time Protocol</span></span></span>
+* [Network Time]({{ 'network-time/' | relative_url }}) Protocol (NTP) usually synchronises computers to within milliseconds under favourable conditions, but network delays introduce uncertainty that varies over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Network Time Protocol</span><span class="citation-popover-snippet">Network Time Protocol</span></span></span>
 
 Scientific imaging systems instead often rely on external timing references. A common approach is a Global Navigation Satellite System (GNSS), such as GPS, providing a one-pulse-per-second (1 PPS) signal that disciplines the local clock. Hardware triggering can then align image acquisition directly to this reference rather than relying solely on software timestamps.
 
-GPS-disciplined timing routinely reaches sub-microsecond or microsecond-level synchronisation when properly implemented, while Precision Time Protocol (IEEE 1588 PTP) can provide comparable performance on suitable local networks. These approaches are widely used in measurement, industrial control and scientific instrumentation because they reduce both clock drift and timestamp uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2University of Manchester]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
+GPS-disciplined timing routinely reaches sub-microsecond or microsecond-level synchronisation when properly implemented, while Precision Time Protocol (IEEE 1588 PTP) can provide comparable performance on suitable local networks. These approaches are widely used in measurement, industrial control and scientific instrumentation because they reduce both clock drift and timestamp uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2University of Manchester]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
 
 The distinction is important for automated UAP observatories. Synchronising computer clocks alone is not always enough if the camera sensor itself begins exposure independently of the recorded timestamp. The most robust systems synchronise both the clock and the image acquisition hardware.
 
@@ -374,7 +374,7 @@ For this reason, professional multi-sensor systems often validate synchronisatio
 
 Verification allows analysts to estimate actual timing uncertainty instead of assuming perfect alignment.
 
-This distinction is particularly important because clock drift is cumulative. Two cameras may agree closely when recording starts but gradually diverge over minutes or hours if they rely solely on free-running internal oscillators. Clock synchronisation research consistently identifies oscillator drift as a fundamental limitation requiring periodic correction or continuous disciplining. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clock_synchronization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clock synchronization</span><span class="citation-popover-snippet">Clock synchronization</span></span></span>
+This distinction is particularly important because clock drift is cumulative. Two cameras may agree closely when recording starts but gradually diverge over minutes or hours if they rely solely on free-running internal oscillators. Clock synchronisation research consistently identifies oscillator drift as a fundamental limitation requiring periodic correction or continuous disciplining.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clock_synchronization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clock synchronization</span><span class="citation-popover-snippet">Clock synchronization</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-3-dark.svg" | relative_url }}" alt="Clock Sync illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_site_triangula_e6b681_clock_sync_triangula_410865-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -382,183 +382,183 @@ This distinction is particularly important because clock drift is cumulative. Tw
 
 Within a multi-site automated detector, clock synchronisation should be treated as part of the measurement system rather than as a software convenience. A network with accurately calibrated optics but poorly synchronised clocks can produce convincing-looking three-dimensional tracks that are physically misleading.
 
-Conversely, combining known station positions, calibrated camera geometry and hardware-grade time synchronisation allows triangulation software to associate observations with the same physical instant, making estimated range, altitude and speed substantially more trustworthy. This is why modern scientific sensor networks invest heavily in precise timing infrastructure: accurate clocks do not merely improve data quality—they determine whether independent observations can be combined into a valid physical measurement at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2University of Manchester]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
+Conversely, combining known station positions, calibrated camera geometry and hardware-grade time synchronisation allows triangulation software to associate observations with the same physical instant, making estimated range, altitude and speed substantially more trustworthy. This is why modern scientific sensor networks invest heavily in precise timing infrastructure: accurate clocks do not merely improve data quality—they determine whether independent observations can be combined into a valid physical measurement at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilrs.gsfc.nasa.gov">[ILRS+2University of Manchester]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilrs.gsfc.nasa.gov</span><span class="citation-popover-title">Synchronization.Read more</span><span class="citation-popover-snippet">The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</span><span class="citation-popover-meta">Published: August 24, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/56So2gXKFcg" title="Breaking the UAP Stigma: How the Galileo Project is Changing the Game - Abby White | Merged EP0106" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer">Breaking the UAP Stigma: How the Galileo Project is Changing the Game - Abby White | Merged EP0106</a></p><p class="youtube-embed-meta">Channel: Merged Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=56So2gXKFcg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When two cameras disagree on time. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When two cameras disagree on time. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astronomical image and data analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3229788-M.jpg" alt="Cover for Astronomical image and data analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astronomical image and data analysis">Astronomical image and data analysis</a>
-        </h4>
-        <p class="fr-book-author">By J.-L Starck, F. Murtagh et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astronomical image and data analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3229788-M.jpg" alt="Cover for Astronomical image and data analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astronomical image and data analysis">Astronomical image and data analysis</a>
+</h4>
+<p class="fr-book-author">By J.-L Starck, F. Murtagh et al.</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Data processing, Imaging systems in astronomy, Imaging systems, Astronomy, data processing, Physics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Data processing, Imaging systems in astronomy, Imaging systems, Astronomy, data processing, Physics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Steve B. Howell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
+</h4>
+<p class="fr-book-author">By Steve B. Howell</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+</h4>
+<p class="fr-book-author">By Peter Duffett-Smith</p>
         
-        <p class="fr-book-desc">Supports geometric timing calculations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports geometric timing calculations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astronomical image and data analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astronomical image and data analysis</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=of+CCD+astronomy+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of CCD astronomy books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ilrs.gsfc.nasa.gov  
    Title: Synchronization.Read more  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</p></details>
+   Link:<a href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of GPS in Precise Time and Frequency...August 24, 2001 — Once the relationship between the receiver clock and GPS time is e...</p></details>
    Published: August 24, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Network Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Network_Time_Protocol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Network_Time_Protocol</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Precision Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Clock synchronization  
-   Link: <a href="https://en.wikipedia.org/wiki/Clock_synchronization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clock_synchronization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Clock_synchronization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clock_synchronization</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pure.manchester.ac.uk  
-   Link: <a href="https://pure.manchester.ac.uk/ws/files/51574975/CSEE_JPES_Time_Sync.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.manchester.ac.uk/ws/files/51574975/CSEE_JPES_Time_Sync.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of ManchesterTime Synchronization for Transmission Substations Using...by PA Crossley · Cited by 50 — The results show a 1588...</p></details>
+   Link:<a href="https://pure.manchester.ac.uk/ws/files/51574975/CSEE_JPES_Time_Sync.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.manchester.ac.uk/ws/files/51574975/CSEE_JPES_Time_Sync.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of ManchesterTime Synchronization for Transmission Substations Using...by PA Crossley · Cited by 50 — The results show a 1588...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ridgesolutions.ie  
    Title: raspberry pi and gps for testing camera image timestamps with ntp and pps  
-   Link: <a href="https://www.ridgesolutions.ie/index.php/2016/08/29/raspberry-pi-and-gps-for-testing-camera-image-timestamps-with-ntp-and-pps/" target="_blank" rel="noopener noreferrer nofollow">https://www.ridgesolutions.ie/index.php/2016/08/29/raspberry-pi-and-gps-for-testing-camera-image-timestamps-with-ntp-and-pps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raspberry Pi and GPS for Testing Camera Image Timestamps...29 Aug 2016 — A time-stamp&#x27;s accuracy is partly dependent on how well the cam...</p></details>
+   Link:<a href="https://www.ridgesolutions.ie/index.php/2016/08/29/raspberry-pi-and-gps-for-testing-camera-image-timestamps-with-ntp-and-pps/" target="_blank" rel="noopener noreferrer nofollow">https://www.ridgesolutions.ie/index.php/2016/08/29/raspberry-pi-and-gps-for-testing-camera-image-timestamps-with-ntp-and-pps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raspberry Pi and GPS for Testing Camera Image Timestamps...29 Aug 2016 — A time-stamp&#x27;s accuracy is partly dependent on how well the cam...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/f223/12fcd33e047d3413ef090a7a9c97405fa3e2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/f223/12fcd33e047d3413ef090a7a9c97405fa3e2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>semanticscholar.orgTwist-n-Sync: Software Clock Synchronization with...by M Faizullin · 2021 · Cited by 17 — In this paper, we show the...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/f223/12fcd33e047d3413ef090a7a9c97405fa3e2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/f223/12fcd33e047d3413ef090a7a9c97405fa3e2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>semanticscholar.orgTwist-n-Sync: Software Clock Synchronization with...by M Faizullin · 2021 · Cited by 17 — In this paper, we show the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uio.no  
    Title: l12 time and synchronization v24  
-   Link: <a href="https://www.uio.no/studier/emner/matnat/fys/FYS3240/v24/lectures/l12---time-and-synchronization-v24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uio.no/studier/emner/matnat/fys/FYS3240/v24/lectures/l12---time-and-synchronization-v24.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of OsloTime and synchronization18 Feb 2024 — The Network Time Protocol (NTP), designed to synchronize the clocks of computers...</p></details>
+   Link:<a href="https://www.uio.no/studier/emner/matnat/fys/FYS3240/v24/lectures/l12---time-and-synchronization-v24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uio.no/studier/emner/matnat/fys/FYS3240/v24/lectures/l12---time-and-synchronization-v24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of OsloTime and synchronization18 Feb 2024 — The Network Time Protocol (NTP), designed to synchronize the clocks of computers...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard&#x27;s Alien Hunt: What They&#x27;re Not Telling Us - YouTube Dr Brian Keating · 7.3K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard&#x27;s Alien Hunt: What They&#x27;re Not Telling Us - YouTube Dr Brian Keating · 7.3K views...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How the [Galileo](&#123;&#123; 'galileo/' | relative_url &#125;&#125;) Project is Changing the Game  
-   Link: <a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=56So2gXKFcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56So2gXKFcg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/301447264_Research_and_Implementation_of_high_accuracy_timing_method_based_on_GPS_PPS_in_spaceborne_remote_sensing_cameras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301447264_Research_and_Implementation_of_high_accuracy_timing_method_based_on_GPS_PPS_in_spaceborne_remote_sensing_cameras</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2015. DOI:10.2991/...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/301447264_Research_and_Implementation_of_high_accuracy_timing_method_based_on_GPS_PPS_in_spaceborne_remote_sensing_cameras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301447264_Research_and_Implementation_of_high_accuracy_timing_method_based_on_GPS_PPS_in_spaceborne_remote_sensing_cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 2015. DOI:10.2991/...Read more...</p></details>
    Published: January 2015  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Galileo Project is Changing the Game - Abby White | Merged EP0106...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pureadmin.qub.ac.uk  
    Title: fbuil 04 00082  
-   Link: <a href="https://pureadmin.qub.ac.uk/ws/portalfiles/portal/167420337/fbuil_04_00082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pureadmin.qub.ac.uk/ws/portalfiles/portal/167420337/fbuil_04_00082.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Queen&#x27;s University BelfastTime Synchronization for Wireless Sensors Using Low-...by KY Koo · 2019 · Cited by 14 — Time synchronization f...</p></details>
+   Link:<a href="https://pureadmin.qub.ac.uk/ws/portalfiles/portal/167420337/fbuil_04_00082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pureadmin.qub.ac.uk/ws/portalfiles/portal/167420337/fbuil_04_00082.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Queen&#x27;s University BelfastTime Synchronization for Wireless Sensors Using Low-...by KY Koo · 2019 · Cited by 14 — Time synchronization f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv [Open-Source](&#123;&#123; 'open-source/' | relative_url &#125;&#125;) Li DAR Time Synchronization System by Mimicking GNSS-clock  
-   Link: <a href="https://arxiv.org/abs/2107.02625" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.02625</a>  
+   Link:<a href="https://arxiv.org/abs/2107.02625" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.02625</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>

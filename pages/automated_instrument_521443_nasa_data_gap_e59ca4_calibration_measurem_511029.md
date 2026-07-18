@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibrati
 
 ## Introduction
 
-For an automated instrumented UAP detector, calibration is the step that transforms an intriguing image into evidence that can be measured, checked and compared. A photograph alone records what a sensor produced; a calibrated observation records how faithfully that sensor represented the scene. This distinction sits at the heart of NASA's 2023 Independent Study Team report, which argues that poor calibration is one of the main reasons existing UAP material often cannot support reliable scientific analysis. Without calibration, analysts cannot confidently determine whether an unusual shape, brightness or apparent motion belongs to the sky or to the instrument that captured it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+For an automated instrumented UAP detector, calibration is the step that transforms an intriguing image into evidence that can be measured, checked and compared. A photograph alone records what a sensor produced; a calibrated observation records how faithfully that sensor represented the scene. This distinction sits at the heart of NASA's 2023 Independent Study Team report, which argues that poor calibration is one of the main reasons existing UAP material often cannot support reliable scientific analysis. Without calibration, analysts cannot confidently determine whether an unusual shape, brightness or apparent motion belongs to the sky or to the instrument that captured it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,7 +300,7 @@ A calibrated imaging system establishes relationships such as:
 
 Once these relationships are known, analysts can replace subjective impressions with measurable quantities.
 
-For example, an object appearing to cross twenty pixels between frames says very little on its own. If the camera's focal length, pixel scale, exposure interval and [pointing]({{ 'pointing/' | relative_url }}) direction are calibrated, those twenty pixels can instead become an angular velocity. Combined with independent range information, that angular velocity can later be converted into a physical speed with known uncertainty rather than speculation. This is the transition from a sighting to a measurement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Optical Metrology Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+For example, an object appearing to cross twenty pixels between frames says very little on its own. If the camera's focal length, pixel scale, exposure interval and [pointing]({{ 'pointing/' | relative_url }}) direction are calibrated, those twenty pixels can instead become an angular velocity. Combined with independent range information, that angular velocity can later be converted into a physical speed with known uncertainty rather than speculation. This is the transition from a sighting to a measurement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Optical Metrology Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 Calibration also preserves confidence intervals. Scientific measurements are valuable not because they eliminate uncertainty, but because they quantify it. Knowing that an object's position is accurate to within 0.05° is far more informative than simply knowing where it appeared in an image.
 
@@ -312,7 +312,7 @@ Many apparently unusual features originate inside imaging systems rather than ou
 
 Most lenses bend light unevenly across the image. Straight paths through the sky may appear curved, while objects near the edge of the field can seem displaced from their true positions.
 
-Modern photogrammetry routinely measures these distortions so software can remove them before positional measurements are made. Without that correction, apparent manoeuvres may simply reflect optical geometry rather than object motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optical-metrology-centre.com">[Optical Metrology Centre+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optical-metrology-centre.com</span><span class="citation-popover-snippet">Optical Metrology CentreTHE DEVELOPMENT OF CAMERA CALIBRATION METHODS...by TA CLARKE · Cited by 609 — Correction for image distortion in...</span></span></span>
+Modern photogrammetry routinely measures these distortions so software can remove them before positional measurements are made. Without that correction, apparent manoeuvres may simply reflect optical geometry rather than object motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optical-metrology-centre.com">[Optical Metrology Centre+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optical-metrology-centre.com</span><span class="citation-popover-snippet">Optical Metrology CentreTHE DEVELOPMENT OF CAMERA CALIBRATION METHODS...by TA CLARKE · Cited by 609 — Correction for image distortion in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ Modern photogrammetry routinely measures these distortions so software can remov
 
 Many CMOS cameras expose each image line sequentially rather than simultaneously. If either the camera or the target moves during capture, objects become skewed, stretched or tilted.
 
-In everyday photography this may produce leaning buildings or distorted propellers. In sky observations it can also create misleading trajectories or apparent shape changes. Aerospace researchers studying star trackers devote significant effort to modelling and correcting rolling-shutter distortion because even small [timing]({{ 'timing/' | relative_url }}) offsets reduce measurement accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/14/22/5772" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis and Correction of the Rolling Shutter Effect for a...by Z Fu · 2022 · Cited by 3 — The rolling shutter effect decreases the...</span></span></span>
+In everyday photography this may produce leaning buildings or distorted propellers. In sky observations it can also create misleading trajectories or apparent shape changes. Aerospace researchers studying star trackers devote significant effort to modelling and correcting rolling-shutter distortion because even small [timing]({{ 'timing/' | relative_url }}) offsets reduce measurement accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2072-4292/14/22/5772" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Analysis and Correction of the Rolling Shutter Effect for a...by Z Fu · 2022 · Cited by 3 — The rolling shutter effect decreases the...</span></span></span>
 
 For automated UAP detectors, recording shutter mode and exposure timing is therefore part of calibration rather than an implementation detail.
 
@@ -331,7 +331,7 @@ Brightness can also deceive.
 
 Sensor saturation, blooming, hot pixels, automatic gain control and internal image processing may create halos, apparent glowing edges or changes in intensity unrelated to the object itself.
 
-Radiometric calibration measures how detector output corresponds to incoming light and identifies the limits where the sensor no longer behaves linearly. NASA has long treated radiometric calibration as essential because inaccurate brightness measurements can lead to incorrect scientific conclusions and prevent meaningful comparison between instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20060010387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerRadiometric Calibration Assessment of Commercial High...by K Holekamp · 2006 — Inaccurate radiometric calib...</span></span></span>
+Radiometric calibration measures how detector output corresponds to incoming light and identifies the limits where the sensor no longer behaves linearly. NASA has long treated radiometric calibration as essential because inaccurate brightness measurements can lead to incorrect scientific conclusions and prevent meaningful comparison between instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/20060010387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerRadiometric Calibration Assessment of Commercial High...by K Holekamp · 2006 — Inaccurate radiometric calib...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-2-dark.svg" | relative_url }}" alt="Calibration illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ Examples include:
 
 If these values are not recorded automatically, they cannot always be recovered later.
 
-This explains NASA's emphasis on collecting metadata alongside observations. A visually impressive recording without instrument state information often leaves analysts unable to distinguish genuine external behaviour from changes introduced by the camera itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This explains NASA's emphasis on collecting metadata alongside observations. A visually impressive recording without instrument state information often leaves analysts unable to distinguish genuine external behaviour from changes introduced by the camera itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -387,7 +387,7 @@ Shared calibration standards reduce this problem by ensuring that each station:
 
 Once those standards exist, observations from multiple sites can be combined into triangulation, trajectory reconstruction and independent verification.
 
-This mirrors established practice in astronomy, Earth observation and remote sensing, where common calibration procedures allow measurements from different observatories and [satellites]({{ 'satellites/' | relative_url }}) to be compared over long periods despite using different hardware. NASA Technical Reports Server+2NASA Technical Reports Server <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19970011087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerRadiometric Calibration of the Earth Observing System&#x27;s...by PN Slater · 1997 — The work on the grant invol...</span></span></span>
+This mirrors established practice in astronomy, Earth observation and remote sensing, where common calibration procedures allow measurements from different observatories and [satellites]({{ 'satellites/' | relative_url }}) to be compared over long periods despite using different hardware. NASA Technical Reports Server+2NASA Technical Reports Server<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/citations/19970011087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[ntrs.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerRadiometric Calibration of the Earth Observing System&#x27;s...by PN Slater · 1997 — The work on the grant invol...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-3-dark.svg" | relative_url }}" alt="Calibration illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_nasa_data_gap_e59ca4_calibration_measurem_511029-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -405,7 +405,7 @@ Documented sensor noise can explain isolated bright pixels.
 
 Verified pointing information can identify satellites, aircraft or planets occupying the recorded direction.
 
-Removing these false positives is scientifically valuable because it leaves fewer genuinely unexplained events requiring detailed investigation. NASA's report explicitly notes that some apparent UAP have proved to be sensor artefacts once calibration and metadata were examined carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Removing these false positives is scientifically valuable because it leaves fewer genuinely unexplained events requiring detailed investigation. NASA's report explicitly notes that some apparent UAP have proved to be sensor artefacts once calibration and metadata were examined carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 The result is a higher-quality evidence pipeline. Instead of treating every unusual image as equally mysterious, calibrated systems progressively separate instrumental effects from physical observations. Only after that filtering process does an observation become suitable for meaningful scientific analysis.
 
@@ -414,194 +414,194 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to From Strange Image to Usable Measurement. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to From Strange Image to Usable Measurement. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places measurement quality within UAP investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places measurement quality within UAP investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
-        </h4>
-        <p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
+</h4>
+<p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
         
-        <p class="fr-book-desc">First published 1994.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to error analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/714276-M.jpg" alt="Cover for An introduction to error analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
-        </h4>
-        <p class="fr-book-author">By Taylor, John R.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An introduction to error analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/714276-M.jpg" alt="Cover for An introduction to error analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
+</h4>
+<p class="fr-book-author">By Taylor, John R.</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Expériences, Physical measurements, Foutenleer, Error analysis (Mathematics), Physique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Expériences, Physical measurements, Foutenleer, Error analysis (Mathematics), Physique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Steve B. Howell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of CCD astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/359483-M.jpg" alt="Cover for Handbook of CCD astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
+</h4>
+<p class="fr-book-author">By Steve B. Howell</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence"><img src="{{ '/assets/images/marketplace-covers/b24425f441934b02d39d.jpg' | relative_url }}" alt="Listing image for Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search <span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence"><img src="{{ '/assets/images/marketplace-covers/b24425f441934b02d39d.jpg' | relative_url }}" alt="Listing image for Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Omnidirectional Ultra-Linear Measurement Microphone - XLR Connection Excellence</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search<span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector"><img src="{{ '/assets/images/marketplace-covers/e749ab3556df1a9b8926.jpg' | relative_url }}" alt="Listing image for Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search <span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector"><img src="{{ '/assets/images/marketplace-covers/e749ab3556df1a9b8926.jpg' | relative_url }}" alt="Listing image for Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Ultra-Linear Measurement Microphone with Omnidirectional Pattern &amp; XLR Connector</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search<span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra-Linear Measurement Condenser Microphone"><img src="{{ '/assets/images/marketplace-covers/e8e77a9f0fea4f76db6d.jpg' | relative_url }}" alt="Listing image for Ultra-Linear Measurement Condenser Microphone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Ultra-Linear Measurement Condenser Microphone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search <span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultra-Linear Measurement Condenser Microphone"><img src="{{ '/assets/images/marketplace-covers/e8e77a9f0fea4f76db6d.jpg' | relative_url }}" alt="Listing image for Ultra-Linear Measurement Condenser Microphone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">Ultra-Linear Measurement Condenser Microphone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search<span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone"><img src="{{ '/assets/images/marketplace-covers/4a6c116d444bfd4e5810.jpg' | relative_url }}" alt="Listing image for NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search <span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone"><img src="{{ '/assets/images/marketplace-covers/4a6c116d444bfd4e5810.jpg' | relative_url }}" alt="Listing image for NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">NTi Mini SPL 1/2&quot; Electret Capacitor Measuring Microphone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for measurement microphone">Search<span data-ebay-domain-label>eBay.co.uk</span>: measurement microphone</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=measurement+microphone&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="measurement microphone" data-ebay-reference="calibration-e15b23-from-strange-image-to-usable-measurement-automated-instrumented-ufo-detectors-measurement-microphone" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,124 +807,124 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: optical-metrology-centre.com  
-   Link: <a href="https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Metrology CentreTHE DEVELOPMENT OF CAMERA CALIBRATION METHODS...by TA CLARKE · Cited by 609 — Correction for image distortion in...</p></details>
+   Link:<a href="https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.optical-metrology-centre.com/Downloads/Papers/Photogrammetric%20Record%201998%20Camera%20calibration.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Metrology CentreTHE DEVELOPMENT OF CAMERA CALIBRATION METHODS...by TA CLARKE · Cited by 609 — Correction for image distortion in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4208234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4208234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration of Action Cameras for Photogrammetric Purposesby C Balletti · 2014 · Cited by 112 — In order to be able to use the sensor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4208234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4208234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calibration of Action Cameras for Photogrammetric Purposesby C Balletti · 2014 · Cited by 112 — In order to be able to use the sensor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/14/22/5772" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/14/22/5772</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis and Correction of the Rolling Shutter Effect for a...by Z Fu · 2022 · Cited by 3 — The rolling shutter effect decreases the...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/14/22/5772" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/14/22/5772</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis and Correction of the Rolling Shutter Effect for a...by Z Fu · 2022 · Cited by 3 — The rolling shutter effect decreases the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326515831_Calibration_and_Noise_Identification_of_a_Rolling_Shutter_Camera_and_a_Low-Cost_Inertial_Measurement_Unit" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326515831_Calibration_and_Noise_Identification_of_a_Rolling_Shutter_Camera_and_a_Low-Cost_Inertial_Measurement_Unit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Calibration and Noise Identification of a Rolling...10 Jul 2018 — This paper proposes a new calibration method that jointly estima...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/326515831_Calibration_and_Noise_Identification_of_a_Rolling_Shutter_Camera_and_a_Low-Cost_Inertial_Measurement_Unit" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326515831_Calibration_and_Noise_Identification_of_a_Rolling_Shutter_Camera_and_a_Low-Cost_Inertial_Measurement_Unit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Calibration and Noise Identification of a Rolling...10 Jul 2018 — This paper proposes a new calibration method that jointly estima...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20060010387" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20060010387</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRadiometric Calibration Assessment of Commercial High...by K Holekamp · 2006 — Inaccurate radiometric calib...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20060010387" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20060010387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRadiometric Calibration Assessment of Commercial High...by K Holekamp · 2006 — Inaccurate radiometric calib...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/7513531_Radiometric_validation_of_NASA%27s_Ames_Research_Center%27s_Sensor_Calibration_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7513531_Radiometric_validation_of_NASA%27s_Ames_Research_Center%27s_Sensor_Calibration_Laboratory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiometric validation of NASA&#x27;s Ames Research Center&#x27;s...The comparison was one of a series of validation activities overseen by the EO...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/7513531_Radiometric_validation_of_NASA%27s_Ames_Research_Center%27s_Sensor_Calibration_Laboratory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7513531_Radiometric_validation_of_NASA%27s_Ames_Research_Center%27s_Sensor_Calibration_Laboratory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiometric validation of NASA&#x27;s Ames Research Center&#x27;s...The comparison was one of a series of validation activities overseen by the EO...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19970011087" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19970011087</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRadiometric Calibration of the Earth Observing System&#x27;s...by PN Slater · 1997 — The work on the grant invol...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19970011087" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19970011087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRadiometric Calibration of the Earth Observing System&#x27;s...by PN Slater · 1997 — The work on the grant invol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403808219_A_NIST-Traceable_Lab-to-Sky_Spectral_and_Radiometric_Calibration_for_NASA%27s_High-Altitude_Airborne_Hyperspectral_Pushbroom_Imager_for_Cloud_and_Aerosol_Research_and_Development_PICARD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403808219_A_NIST-Traceable_Lab-to-Sky_Spectral_and_Radiometric_Calibration_for_NASA%27s_High-Altitude_Airborne_Hyperspectral_Pushbroom_Imager_for_Cloud_and_Aerosol_Research_and_Development_PICARD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A NIST-Traceable Lab-to-Sky Spectral and Radiometric...11 Jun 2026 — A NIST-Traceable Lab-to-Sky Spectral and Radiometric Calibration fo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403808219_A_NIST-Traceable_Lab-to-Sky_Spectral_and_Radiometric_Calibration_for_NASA%27s_High-Altitude_Airborne_Hyperspectral_Pushbroom_Imager_for_Cloud_and_Aerosol_Research_and_Development_PICARD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403808219_A_NIST-Traceable_Lab-to-Sky_Spectral_and_Radiometric_Calibration_for_NASA%27s_High-Altitude_Airborne_Hyperspectral_Pushbroom_Imager_for_Cloud_and_Aerosol_Research_and_Development_PICARD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A NIST-Traceable Lab-to-Sky Spectral and Radiometric...11 Jun 2026 — A NIST-Traceable Lab-to-Sky Spectral and Radiometric Calibration fo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19860034742" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19860034742</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>importance and attainment of accurate absolute...by PN Slater · 1984 · Cited by 36 — The importance of accurate absolute radiometric cal...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19860034742" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19860034742</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>importance and attainment of accurate absolute...by PN Slater · 1984 · Cited by 36 — The importance of accurate absolute radiometric cal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20170002654/downloads/20170002654.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20170002654/downloads/20170002654.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propulsion Lab and Rochester...Read more...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20170002654/downloads/20170002654.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20170002654/downloads/20170002654.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propulsion Lab and Rochester...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19850041613" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19850041613</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of some radiometric calibration problems...by PN Slater · 1984 · Cited by 13 — A review of some radiometric calibration problems...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/19850041613" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19850041613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of some radiometric calibration problems...by PN Slater · 1984 · Cited by 13 — A review of some radiometric calibration problems...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: isprs.org  
-   Link: <a href="https://www.isprs.org/proceedings/xxxi/congress/part5/534_XXXI-part5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isprs.org/proceedings/xxxi/congress/part5/534_XXXI-part5.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ction with the collinearity equations is sufficient.Read more...</p></details>
+   Link:<a href="https://www.isprs.org/proceedings/xxxi/congress/part5/534_XXXI-part5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isprs.org/proceedings/xxxi/congress/part5/534_XXXI-part5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ction with the collinearity equations is sufficient.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Report from NASA  
-   Link: <a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixTICcLXueg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This NASA UAP Report Presentation details why establishing strict sensor calibration baselines is crucial for transforming raw, ambiguous...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixTICcLXueg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This NASA UAP Report Presentation details why establishing strict sensor calibration baselines is crucial for transforming raw, ambiguous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
    Published: May 31, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — We compare the investigation of UAP to the process of calibration and interpret...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Civilian Astronomer&#x27;s Guide to UAP Research5 Nov 2024 — We compare the investigation of UAP to the process of calibration and interpret...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/0910.2233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0910.2233</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blind astrometric calibration of arbitrary astronomical imagesby D Lang · 2009 · Cited by 1552 — We have built a reliable and robust syst...</p></details>
+   Link:<a href="https://arxiv.org/abs/0910.2233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/0910.2233</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blind astrometric calibration of arbitrary astronomical imagesby D Lang · 2009 · Cited by 1552 — We have built a reliable and robust syst...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cs.auckland.ac.nz  
    Title: auckland.ac.nz Camera calibration with distortion models and accuracy  
-   Link: <a href="https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/camera%20distortion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/camera%20distortion.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using these parameters, the 3-D...Read more...</p></details>
+   Link:<a href="https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/camera%20distortion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.auckland.ac.nz/courses/compsci773s1c/lectures/camera%20distortion.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using these parameters, the 3-D...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Galileo Project's First Data on Half a Million Objects with Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Report from NASA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Report from NASA...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciopen.com  
-   Link: <a href="https://www.sciopen.com/local/article_pdf/10.1007/s42064-023-0168-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/local/article_pdf/10.1007/s42064-023-0168-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrometric calibration and source characterisation of the...by NO Ralph · 2023 · Cited by 36 — In these experiments, the EB space imagi...</p></details>
+   Link:<a href="https://www.sciopen.com/local/article_pdf/10.1007/s42064-023-0168-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciopen.com/local/article_pdf/10.1007/s42064-023-0168-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrometric calibration and source characterisation of the...by NO Ralph · 2023 · Cited by 36 — In these experiments, the EB space imagi...</p></details>

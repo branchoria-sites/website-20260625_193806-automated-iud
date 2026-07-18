@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_ua
 
 ## Introduction
 
-The UAPx Catalina expedition is notable not because it produced a definitive unexplained object, but because it documented how an instrumented UAP investigation can generate useful scientific evidence even when many initially interesting observations turn out to have ordinary explanations. Conducted around Santa Catalina Island in July 2021, the expedition combined visible-light cameras, infrared sensors and environmental instruments in an attempt to collect synchronised, multi-sensor observations rather than relying on eyewitness testimony alone. Its published account is unusual in openly describing technical limitations, [false positives]({{ 'false-positives/' | relative_url }}) and [unresolved]({{ 'unresolved/' | relative_url }}) questions in the same report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The UAPx Catalina expedition is notable not because it produced a definitive unexplained object, but because it documented how an instrumented UAP investigation can generate useful scientific evidence even when many initially interesting observations turn out to have ordinary explanations. Conducted around Santa Catalina Island in July 2021, the expedition combined visible-light cameras, infrared sensors and environmental instruments in an attempt to collect synchronised, multi-sensor observations rather than relying on eyewitness testimony alone. Its published account is unusual in openly describing technical limitations, [false positives]({{ 'false-positives/' | relative_url }}) and [unresolved]({{ 'unresolved/' | relative_url }}) questions in the same report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-1-dark.svg" | relative_url }}" alt="UAPx Catalina illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ Within the broader discussion of [open data]({{ 'open-data/' | relative_url }}) 
 
 ## What the Catalina expedition recorded
 
-The UAPx team established a temporary multi-sensor observing site overlooking the waters near Catalina Island. The equipment included visible and near-[infrared cameras]({{ 'infrared/' | relative_url }}), long-wave infrared imaging, radiation monitoring and supporting software intended to detect moving targets automatically. Rather than relying solely on triggered events, the campaign also accumulated a large archive of background observations against which potential anomalies could be compared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The UAPx team established a temporary multi-sensor observing site overlooking the waters near Catalina Island. The equipment included visible and near-[infrared cameras]({{ 'infrared/' | relative_url }}), long-wave infrared imaging, radiation monitoring and supporting software intended to detect moving targets automatically. Rather than relying solely on triggered events, the campaign also accumulated a large archive of background observations against which potential anomalies could be compared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 According to the published results, the expedition collected:
 
@@ -295,13 +295,13 @@ According to the published results, the expedition collected:
 * More than 600 hours of untriggered far-infrared video.
 * Roughly one hour of triggered visible and night-vision recordings.
 * Around 55 hours of background radiation measurements.
-* Continuous environmental observations intended to provide context for any candidate event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+* Continuous environmental observations intended to provide context for any candidate event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 </div>
 
-This distinction between triggered and untriggered data is important. Triggered clips are what observers naturally examine first, but long periods of apparently uneventful recording provide the baseline needed to understand ordinary environmental behaviour, sensor noise and detection thresholds. That mirrors recommendations later emphasised by NASA's independent UAP study, which argued that calibrated baseline measurements are essential before unusual observations can be interpreted confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This distinction between triggered and untriggered data is important. Triggered clips are what observers naturally examine first, but long periods of apparently uneventful recording provide the baseline needed to understand ordinary environmental behaviour, sensor noise and detection thresholds. That mirrors recommendations later emphasised by NASA's independent UAP study, which argued that calibrated baseline measurements are essential before unusual observations can be interpreted confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-The authors also discuss a remaining event recorded around 4 a.m. on 16 July 2021 involving a dark feature in visible imagery that they considered insufficiently explained after their initial analysis. Crucially, however, they present it as an unresolved ambiguity rather than evidence for extraordinary technology, explicitly noting that the available data do not justify speculative conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The authors also discuss a remaining event recorded around 4 a.m. on 16 July 2021 involving a dark feature in visible imagery that they considered insufficiently explained after their initial analysis. Crucially, however, they present it as an unresolved ambiguity rather than evidence for extraordinary technology, explicitly noting that the available data do not justify speculative conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a5lG0llUBUY" title="UAP Science &amp; Whistleblowers | Kevin Knuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a5lG0llUBUY" target="_blank" rel="noopener noreferrer">UAP Science &amp; Whistleblowers | Kevin Knuth</a></p><p class="youtube-embed-meta">Channel: Tim Ventura</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a5lG0llUBUY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a5lG0llUBUY">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ The authors also discuss a remaining event recorded around 4 a.m. on 16 July 202
 
 One of the strongest features of the Catalina report is that it spends considerable effort documenting why several apparently unusual observations ceased to be anomalous after closer inspection.
 
-Instead of treating every unexpected signature as potential proof of exotic phenomena, the investigators describe how additional analysis eliminated multiple candidate anomalies through ordinary explanations or identified weaknesses in the observing system. They frame these outcomes as successful scientific results rather than disappointments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+Instead of treating every unexpected signature as potential proof of exotic phenomena, the investigators describe how additional analysis eliminated multiple candidate anomalies through ordinary explanations or identified weaknesses in the observing system. They frame these outcomes as successful scientific results rather than disappointments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 That approach has several advantages for automated detector projects.
 
@@ -318,11 +318,11 @@ That approach has several advantages for automated detector projects.
 
 **It reduces confirmation bias.** If investigators publicly document ordinary explanations alongside unresolved cases, readers can better judge whether anomalous claims survive the same level of scrutiny.
 
-**It improves future system design.** The Catalina paper includes discussion of lessons learned, including refinements to instrumentation, observing procedures and statistical criteria for evaluating future detections rather than simply presenting a catalogue of interesting sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+**It improves future system design.** The Catalina paper includes discussion of lessons learned, including refinements to instrumentation, observing procedures and statistical criteria for evaluating future detections rather than simply presenting a catalogue of interesting sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
-The authors even recommend adopting quantitative statistical thresholds—drawing on concepts such as three- to five-sigma significance—to discourage overinterpretation of weak signals while avoiding premature dismissal of genuinely unusual observations. Although such thresholds cannot by themselves establish the nature of a detected object, they encourage more consistent treatment of candidate events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The authors even recommend adopting quantitative statistical thresholds—drawing on concepts such as three- to five-sigma significance—to discourage overinterpretation of weak signals while avoiding premature dismissal of genuinely unusual observations. Although such thresholds cannot by themselves establish the nature of a detected object, they encourage more consistent treatment of candidate events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
-This philosophy aligns closely with NASA's later recommendation that UAP investigations should prioritise calibrated instrumentation, structured metadata and repeatable analysis over isolated dramatic observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This philosophy aligns closely with NASA's later recommendation that UAP investigations should prioritise calibrated instrumentation, structured metadata and repeatable analysis over isolated dramatic observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-2-dark.svg" | relative_url }}" alt="UAPx Catalina illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ This philosophy aligns closely with NASA's later recommendation that UAP investi
 
 The Catalina expedition also illustrates a recurring difficulty in instrumented UAP research: publication does not necessarily mean complete public [reproducibility]({{ 'reproducibility/' | relative_url }}).
 
-The expedition eventually produced a detailed technical paper describing the instrumentation, observing strategy and selected results, but not every underlying dataset became immediately available for independent reanalysis. Some processing pipelines, raw recordings and associated materials remained unavailable or were released only selectively while analyses continued. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
+The expedition eventually produced a detailed technical paper describing the instrumentation, observing strategy and selected results, but not every underlying dataset became immediately available for independent reanalysis. Some processing pipelines, raw recordings and associated materials remained unavailable or were released only selectively while analyses continued.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</span><span class="citation-popover-meta">Published: December 1, 2023</span></span></span>
 
 From a scientific perspective, temporary embargoes are understandable for several reasons:
 
@@ -345,7 +345,7 @@ From a scientific perspective, temporary embargoes are understandable for severa
 
 However, embargoes also limit one of the central strengths of automated observing systems: independent replication.
 
-Without broad access to raw imagery, [timing]({{ 'timing/' | relative_url }}) information, calibration files and processing metadata, outside researchers cannot fully test alternative explanations, evaluate detection algorithms or determine whether similar events appear in other datasets. As NASA's independent study observed, structured data curation and accessible metadata are fundamental to building a cumulative evidence base rather than isolated claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Without broad access to raw imagery, [timing]({{ 'timing/' | relative_url }}) information, calibration files and processing metadata, outside researchers cannot fully test alternative explanations, evaluate detection algorithms or determine whether similar events appear in other datasets. As NASA's independent study observed, structured data curation and accessible metadata are fundamental to building a cumulative evidence base rather than isolated claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 For this reason, many researchers regard the Catalina expedition as an encouraging intermediate step rather than a completed model of open science. Publishing technical successes together with mistakes and unresolved observations increases transparency, but the long-term value of the campaign depends on how completely its underlying data can eventually be examined and compared with observations from future instrumented observatories.
 
@@ -362,178 +362,178 @@ For future automated detector networks, that lesson may prove more important tha
 <img src="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-3-dark.svg" | relative_url }}" alt="UAPx Catalina illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_open_data_replicatio_f0edf1_uapx_catalina_false_a33c09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why False Starts Matter in UAP Fieldwork. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why False Starts Matter in UAP Fieldwork. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Scientific evaluation of anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Scientific evaluation of anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Aligns with evidence-led field investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Aligns with evidence-led field investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Highlights the value of reporting false positives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the value of reporting false positives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="uapx-catalina-why-false-starts-matter-in-uap-fieldwork-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ For future automated detector networks, that lesson may prove more important tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ For future automated detector networks, that lesson may prove more important tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ For future automated detector networks, that lesson may prove more important tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ For future automated detector networks, that lesson may prove more important tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ For future automated detector networks, that lesson may prove more important tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,88 +739,88 @@ For future automated detector networks, that lesson may prove more important tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous PhenomenaDecember 1, 2023...</p></details>
    Published: December 1, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to...16 Oct 2024 — This paper reviews both the hardware and software techniques...</p></details>
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Results From the First Field Expedition of UAPx to...16 Oct 2024 — This paper reviews both the hardware and software techniques...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLE9mVbkrIzpG0Xpb0521JdnHC-f4eAKs1" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLE9mVbkrIzpG0Xpb0521JdnHC-f4eAKs1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPx | Portals Over Catalina Islands!Read more...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLE9mVbkrIzpG0Xpb0521JdnHC-f4eAKs1" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLE9mVbkrIzpG0Xpb0521JdnHC-f4eAKs1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAPx | Portals Over Catalina Islands!Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...PDF | (Abridged) The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project aims to investigate Unidentified Aerial...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Scientific Investigation of Unidentified Aerial...PDF | (Abridged) The [Galileo](&amp;#123;&amp;#123; &#x27;galileo/&#x27; | relative_url &amp;#125;&amp;#125;) Project aims to investigate Unidentified Aerial...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The UAP Assessment Matrix: A proposed framework...9 May 2025 — Unidentified Anomalous Phenomena (UAP) observations have been repor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390980555_The_UAP_Assessment_Matrix_A_proposed_framework_for_evaluating_evidence_and_understanding_regarding_Unidentified_Anomalous_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The UAP Assessment Matrix: A proposed framework...9 May 2025 — Unidentified Anomalous Phenomena (UAP) observations have been repor...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: einpresswire.com  
-   Link: <a href="https://www.einpresswire.com/article/911370997/statement-from-the-scientific-coalition-for-uap-studies-on-release-of-unidentified-anomalous-phenomena-related-records" target="_blank" rel="noopener noreferrer nofollow">https://www.einpresswire.com/article/911370997/statement-from-the-scientific-coalition-for-uap-studies-on-release-of-unidentified-anomalous-phenomena-related-records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement from the Scientific Coalition for UAP Studies on...8 May 2026 — SCU will monitor newly released UAP records and provide eviden...</p></details>
+   Link:<a href="https://www.einpresswire.com/article/911370997/statement-from-the-scientific-coalition-for-uap-studies-on-release-of-unidentified-anomalous-phenomena-related-records" target="_blank" rel="noopener noreferrer nofollow">https://www.einpresswire.com/article/911370997/statement-from-the-scientific-coalition-for-uap-studies-on-release-of-unidentified-anomalous-phenomena-related-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement from the Scientific Coalition for UAP Studies on...8 May 2026 — SCU will monitor newly released UAP records and provide eviden...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufology-news.com  
    Title: Tedesco J. Tedesco G. Nardo D. Nightcrawler eye on the sky 2024  
-   Link: <a href="https://ufology-news.com/wp-content/uploads/2025/05/Tedesco_J._Tedesco_G._Nardo_D._Nightcrawler_eye_on_the_sky_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/wp-content/uploads/2025/05/Tedesco_J._Tedesco_G._Nardo_D._Nightcrawler_eye_on_the_sky_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nightcrawler: Eye on the Sky13 May 2025 — Unidentified aerial phenomena (UAP) have been reported everywhere in the world, probably throug...</p></details>
+   Link:<a href="https://ufology-news.com/wp-content/uploads/2025/05/Tedesco_J._Tedesco_G._Nardo_D._Nightcrawler_eye_on_the_sky_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufology-news.com/wp-content/uploads/2025/05/Tedesco_J._Tedesco_G._Nardo_D._Nightcrawler_eye_on_the_sky_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nightcrawler: Eye on the Sky13 May 2025 — Unidentified aerial phenomena (UAP) have been reported everywhere in the world, probably throug...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on unidentifiable visual and [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) sightings East Coast south island.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on unidentifiable visual and [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) sightings East Coast south island.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ccurate, the observed UAP behaviors are not a series of isolated...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/26863639499938432/posts/27209432368692475/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ccurate, the observed UAP behaviors are not a series of isolated...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The meeting gathered 40 participants from government...Read more...</p></details>
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meeting gathered 40 participants from government...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/search/disinformation/feed/rss2/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/search/disinformation/feed/rss2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>up becoming a crucial part of the UFO mythos and...Read more...</p></details>
+   Link:<a href="https://thedebrief.org/search/disinformation/feed/rss2/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/search/disinformation/feed/rss2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>up becoming a crucial part of the UFO mythos and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: The UAPx Anomaly from Catalina Island  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/163ssjo/the_uapx_anomaly_from_catalina_island_july_16_2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/163ssjo/the_uapx_anomaly_from_catalina_island_july_16_2021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2021NASA places HIP12961b in the habitual zone. However, the planet itself is a gas giant and likely incapable of supporting lif...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/163ssjo/the_uapx_anomaly_from_catalina_island_july_16_2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/163ssjo/the_uapx_anomaly_from_catalina_island_july_16_2021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2021NASA places HIP12961b in the habitual zone. However, the planet itself is a gas giant and likely incapable of supporting lif...</p></details>

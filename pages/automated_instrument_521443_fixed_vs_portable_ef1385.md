@@ -452,7 +452,7 @@ A UAP detector station can either stay in one place for months or years, or move
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-overview.webp" | relative_url }}" alt="Overview image for Fixed vs Portable" loading="eager" decoding="sync" fetchpriority="high">
-The practical answer is not “fixed is better” or “portable is better”. Fixed observatories are strongest at building baselines: they learn what a normal sky looks like from the same location, with the same instruments, night after night. Portable systems are strongest when the question is urgent or place-specific: a military range, a reported hotspot, a field expedition, or a controlled test. NASA’s UAP study made the underlying problem clear: useful UAP work needs calibrated sensors, multiple measurements, good metadata and [baseline data]({{ 'baseline-data/' | relative_url }}), not just dramatic imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The practical answer is not “fixed is better” or “portable is better”. Fixed observatories are strongest at building baselines: they learn what a normal sky looks like from the same location, with the same instruments, night after night. Portable systems are strongest when the question is urgent or place-specific: a military range, a reported hotspot, a field expedition, or a controlled test. NASA’s UAP study made the underlying problem clear: useful UAP work needs calibrated sensors, multiple measurements, good metadata and [baseline data]({{ 'baseline-data/' | relative_url }}), not just dramatic imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
@@ -461,13 +461,13 @@ The practical answer is not “fixed is better” or “portable is better”. F
 
 A fixed detector station earns its keep by watching the same patch of sky long enough to learn the local “normal”. That normality is not trivial. A station may repeatedly see aircraft approach lights, Starlink flares, meteors, birds, insects near the lens, drifting balloons, drones, planets near the horizon, cloud-edge reflections, lens glare, radio interference and [weather effects]({{ 'weather-effects/' | relative_url }}). Without months of comparable records, an apparently strange track may be little more than an unfamiliar member of that local background.
 
-This is why permanent or semi-permanent systems are attractive for scientific UAP work. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatory concept is built around a “multimodal census” of aerial phenomena: wide-field cameras, narrow-field instruments, passive radar-style receivers, radio spectrum monitors, [acoustic sensors]({{ 'acoustics/' | relative_url }}) and environmental instruments working together to recognise outliers. Its published design explicitly links sensor choices to physical observables and discusses how to decide where instruments should be located for testing and final deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+This is why permanent or semi-permanent systems are attractive for scientific UAP work. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatory concept is built around a “multimodal census” of aerial phenomena: wide-field cameras, narrow-field instruments, passive radar-style receivers, radio spectrum monitors, [acoustic sensors]({{ 'acoustics/' | relative_url }}) and environmental instruments working together to recognise outliers. Its published design explicitly links sensor choices to physical observables and discusses how to decide where instruments should be located for testing and final deployment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 The fixed-station model also makes calibration less chaotic. Once the station is installed, operators can repeatedly check camera [pointing]({{ 'pointing/' | relative_url }}), sensor timing, field of view, weather readings, aircraft context and local obstructions. If a camera lens, mast, enclosure, power supply or software update introduces a fault, that change can be compared against a long record. In UAP work, this matters because many “events” are not objects at all; they are consequences of how an instrument, algorithm or environment behaved at a particular moment.
 
-Project Hessdalen is the clearest historical example of the fixed approach. The Hessdalen Automatic Measurement Station in Norway was set up in the late 1990s to monitor recurring light phenomena in one valley. Later system notes describe expansion with a weather station, a high-sensitivity camera and a sensor mast, but also document a sobering lesson: a radar screen produced so much noise that the team judged it too unreliable to publish as useful evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span> That is exactly the kind of lesson a fixed station can reveal. It does not merely record odd lights; it exposes which instruments are trustworthy, which are too noisy, and which environmental measurements need improvement.
+Project Hessdalen is the clearest historical example of the fixed approach. The Hessdalen Automatic Measurement Station in Norway was set up in the late 1990s to monitor recurring light phenomena in one valley. Later system notes describe expansion with a weather station, a high-sensitivity camera and a sensor mast, but also document a sobering lesson: a radar screen produced so much noise that the team judged it too unreliable to publish as useful evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span> That is exactly the kind of lesson a fixed station can reveal. It does not merely record odd lights; it exposes which instruments are trustworthy, which are too noisy, and which environmental measurements need improvement.
 
-Fixed stations are especially valuable when they are networked. Sky360’s citizen-science model is built around affordable 24/7 stations, harmonised hardware and a global network of sky awareness sites. Its own materials stress outdoor operation, standardised open-source hardware and software, and the need to protect sensitive electronics from all weather conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> In principle, a network of fixed stations can do what a single camera cannot: compare sightings across geography, triangulate tracks, estimate altitude or range, and test whether a report is local, atmospheric, orbital or sensor-specific.
+Fixed stations are especially valuable when they are networked. Sky360’s citizen-science model is built around affordable 24/7 stations, harmonised hardware and a global network of sky awareness sites. Its own materials stress outdoor operation, standardised open-source hardware and software, and the need to protect sensitive electronics from all weather conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> In principle, a network of fixed stations can do what a single camera cannot: compare sightings across geography, triangulate tracks, estimate altitude or range, and test whether a report is local, atmospheric, orbital or sensor-specific.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-1-dark.svg" | relative_url }}" alt="Fixed vs Portable illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -475,13 +475,13 @@ Fixed stations are especially valuable when they are networked. Sky360’s citiz
 
 Portable detector stations are useful because UAP reports are not evenly distributed across a map, and some of the most important questions arise at temporary sites. A field team may want to observe a coastal channel during a short expedition, a defence office may want to instrument a restricted area after repeated reports, or researchers may want to test sensors against known aircraft, drones, balloons or satellites before committing to a permanent installation.
 
-The UAPx field expedition around Laguna Beach and Catalina Island in July 2021 shows both the promise and the pain of portability. The team used a small, portable, multi-spectral suite with visible-light imaging, infrared cameras, night-vision equipment, radiation measurements and other instruments. It operated from more than one location, including a rooftop and a moving vehicle, and recorded approximately one hour of triggered visible or night-vision video, more than 600 hours of untriggered far-infrared video, and 55 hours of background radiation measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The UAPx field expedition around Laguna Beach and Catalina Island in July 2021 shows both the promise and the pain of portability. The team used a small, portable, multi-spectral suite with visible-light imaging, infrared cameras, night-vision equipment, radiation measurements and other instruments. It operated from more than one location, including a rooftop and a moving vehicle, and recorded approximately one hour of triggered visible or night-vision video, more than 600 hours of untriggered far-infrared video, and 55 hours of background radiation measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-That same expedition also illustrates the weakness of temporary deployment: there is little time to debug. The paper’s lessons learned are unusually candid. It reports that the UFODAP hardware appeared good enough for scientific instrumentation, but the software was unreliable for tracking and identification; ancillary data such as GPS location and ADS-B aircraft exchange were not recorded; aircraft transponders alone were not enough because satellites and rocket launches also had to be checked; multiple identical cameras were still necessary; and all clocks needed sub-second synchronisation with carefully recorded sensor positions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+That same expedition also illustrates the weakness of temporary deployment: there is little time to debug. The paper’s lessons learned are unusually candid. It reports that the UFODAP hardware appeared good enough for scientific instrumentation, but the software was unreliable for tracking and identification; ancillary data such as GPS location and ADS-B aircraft exchange were not recorded; aircraft transponders alone were not enough because satellites and rocket launches also had to be checked; multiple identical cameras were still necessary; and all clocks needed sub-second synchronisation with carefully recorded sensor positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 Portable systems therefore shine when the goal is rapid, targeted learning rather than long-baseline certainty. They can be carried to a hotspot, placed near a military range, used to compare two viewpoints, or deployed for a 90-day campaign. But every move creates new risks: changed horizons, changed radio noise, unknown insect behaviour, different power constraints, untested mounts, new weather exposure and fresh calibration problems.
 
-AARO’s GREMLIN programme sits firmly in this portable or deployable category. The office’s FY2024 report says GREMLIN is a prototype sensor system for detecting, tracking and characterising UAP; it successfully collected data during a March 2024 test event and was next planned for a 90-day “pattern of life” collection at a national-security site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span> That phrase, “pattern of life”, is important. It is not just about waiting for a spectacular object. It is about learning the ordinary traffic, sensor clutter and environmental rhythms of a sensitive site so that later anomalies can be judged against a local baseline.
+AARO’s GREMLIN programme sits firmly in this portable or deployable category. The office’s FY2024 report says GREMLIN is a prototype sensor system for detecting, tracking and characterising UAP; it successfully collected data during a March 2024 test event and was next planned for a 90-day “pattern of life” collection at a national-security site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span> That phrase, “pattern of life”, is important. It is not just about waiting for a spectacular object. It is about learning the ordinary traffic, sensor clutter and environmental rhythms of a sensitive site so that later anomalies can be judged against a local baseline.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -490,13 +490,13 @@ AARO’s GREMLIN programme sits firmly in this portable or deployable category. 
 
 The fixed-versus-portable decision often looks like a science question, but it quickly becomes an engineering question. A fixed station can justify heavier mounts, permanent cabling, weatherproof enclosures, stable network connections, larger batteries, mains power, solar backup and routine maintenance visits. A portable station must be carried, assembled, aligned, powered, secured and debugged under time pressure.
 
-Sky360’s outdoor-station materials make the fixed-site burden visible: a 24/7 sky observatory needs weather protection for sensitive electronics because it is exposed continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> UFODAP’s commercial configuration guidance shows the same issue from a modular angle. Cameras may be mounted on walls, poles or tripods; fixed and pan-tilt-zoom cameras require different mounts; multi-sensor units may need tripod or pole mounts; Power over Ethernet injectors, long cables, software and optional radio-frequency receivers all become part of the deployment design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPHow to Configure a UFODAP System</span><span class="citation-popover-snippet">UFODAPHow to Configure a UFODAP System</span></span></span>
+Sky360’s outdoor-station materials make the fixed-site burden visible: a 24/7 sky observatory needs weather protection for sensitive electronics because it is exposed continuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> UFODAP’s commercial configuration guidance shows the same issue from a modular angle. Cameras may be mounted on walls, poles or tripods; fixed and pan-tilt-zoom cameras require different mounts; multi-sensor units may need tripod or pole mounts; Power over Ethernet injectors, long cables, software and optional radio-frequency receivers all become part of the deployment design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPHow to Configure a UFODAP System</span><span class="citation-popover-snippet">UFODAPHow to Configure a UFODAP System</span></span></span>
 
-Weatherproofing is not just about keeping rain out. It affects data quality. A sealed enclosure can trap heat, fog, condensation or pressure changes. A mast can vibrate in wind. A dome can attract insects or collect dust. A weather station can give misleading readings if mounted in the wrong place. Hessdalen’s station notes, for example, state that one weather station was mounted in a tree, influencing wind measurement and making recorded wind speed lower than the actual local value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span> For UAP analysis, that kind of detail matters because wind, humidity, cloud base and [visibility]({{ 'visibility/' | relative_url }}) can decide whether a light, blob or track is ordinary or unexplained.
+Weatherproofing is not just about keeping rain out. It affects data quality. A sealed enclosure can trap heat, fog, condensation or pressure changes. A mast can vibrate in wind. A dome can attract insects or collect dust. A weather station can give misleading readings if mounted in the wrong place. Hessdalen’s station notes, for example, state that one weather station was mounted in a tree, influencing wind measurement and making recorded wind speed lower than the actual local value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span> For UAP analysis, that kind of detail matters because wind, humidity, cloud base and [visibility]({{ 'visibility/' | relative_url }}) can decide whether a light, blob or track is ordinary or unexplained.
 
-Portable stations add another constraint: power discipline. UAPx reported that no second camera captured its most puzzling UFODAP ambiguity, and some FLIR cameras pointed in the relevant direction were not active at the time because of the power needs of film equipment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That is a practical warning for any mobile skywatch: a sensor that is technically present but not powered, synchronised or recording is not corroboration.
+Portable stations add another constraint: power discipline. UAPx reported that no second camera captured its most puzzling UFODAP ambiguity, and some FLIR cameras pointed in the relevant direction were not active at the time because of the power needs of film equipment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That is a practical warning for any mobile skywatch: a sensor that is technically present but not powered, synchronised or recording is not corroboration.
 
-UFODAP’s multi-sensor unit illustrates the compromise. Its MSDAU is described as a waterproof enclosure containing a Raspberry Pi, sensors, GPS, optional software-defined radio, waterproof connectors and Power over Ethernet, with low power draw below 4W. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span><span class="citation-popover-snippet">UFODAP...</span></span></span> That is attractive for field use, but the system still needs planning: cabling, network access, clocks, mounts, software setup, storage and a clear decision about what counts as a trigger.
+UFODAP’s multi-sensor unit illustrates the compromise. Its MSDAU is described as a waterproof enclosure containing a Raspberry Pi, sensors, GPS, optional software-defined radio, waterproof connectors and Power over Ethernet, with low power draw below 4W.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span><span class="citation-popover-snippet">UFODAP...</span></span></span> That is attractive for field use, but the system still needs planning: cabling, network access, clocks, mounts, software setup, storage and a clear decision about what counts as a trigger.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-2-dark.svg" | relative_url }}" alt="Fixed vs Portable illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -510,7 +510,7 @@ The practical distinction can be summarised this way:
 
 Decision questionFixed station advantagePortable station advantageWhat does “normal” look like here?Strong: months or years of baseline dataWeak at first; improves during longer campaignsCan the system respond to a hotspot?Only if the hotspot is already nearbyStrong: can move to reports, exercises or test sitesIs calibration repeatable?Stronger after installation and maintenanceHarder because each move changes geometry and conditionsIs weatherproofing easier?Easier to justify robust permanent enclosuresHarder because equipment must stay transportableIs triangulation possible?Strong in a planned networkPossible, but requires careful field geometryIs national-security response possible?Useful for known fixed sitesStrong for deployable site-specific campaignsIs public science possible?Strong when data are open and standardisedStrong for expeditions, but harder to reproduce
 
-Neither approach removes the need for sceptical analysis. NASA’s report warns that UAP data are weakened by poor calibration, missing metadata, lack of multiple measurements and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> A portable detector that captures a dramatic clip but lacks timing, aircraft context and corroborating sensors may add another ambiguous case. A fixed station that runs for years but uses noisy, poorly understood instruments may simply create a larger archive of confusion.
+Neither approach removes the need for sceptical analysis. NASA’s report warns that UAP data are weakened by poor calibration, missing metadata, lack of multiple measurements and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> A portable detector that captures a dramatic clip but lacks timing, aircraft context and corroborating sensors may add another ambiguous case. A fixed station that runs for years but uses noisy, poorly understood instruments may simply create a larger archive of confusion.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -519,7 +519,7 @@ Neither approach removes the need for sceptical analysis. NASA’s report warns 
 
 The strongest implementation path is likely a hybrid: fixed observatories for baseline and validation, portable units for targeted collection and rapid response. The fixed sites establish sensor behaviour, false-positive rates and ordinary-sky patterns. The portable kits borrow those lessons, then apply them to hotspots, exercises, coastal corridors, military ranges or national-security sites.
 
-That hybrid model is already visible in separate parts of the field. Galileo’s observatory concept emphasises calibrated, multimodal ground-based census work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Sky360 aims at distributed 24/7 citizen stations using harmonised open-source designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> UAPx demonstrates expeditionary fieldwork with portable sensors, including the hard lessons of power, synchronisation, calibration and missed corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> AARO’s GREMLIN points towards deployable government sensor suites for specific areas of interest and short-to-medium “pattern of life” campaigns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+That hybrid model is already visible in separate parts of the field. Galileo’s observatory concept emphasises calibrated, multimodal ground-based census work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span> Sky360 aims at distributed 24/7 citizen stations using harmonised open-source designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span> UAPx demonstrates expeditionary fieldwork with portable sensors, including the hard lessons of power, synchronisation, calibration and missed corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> AARO’s GREMLIN points towards deployable government sensor suites for specific areas of interest and short-to-medium “pattern of life” campaigns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 For automated instrumented UFO detectors, the important implementation lesson is simple: mobility is not a substitute for baseline, and baseline is not a substitute for access. A well-designed fixed station can tell researchers what is ordinary in one sky. A well-designed portable station can test whether a reported pattern follows the place, the people, the instruments or the environment. The more the two designs share calibration standards, metadata formats, timing discipline and analysis tools, the more useful both become.
 
@@ -527,194 +527,194 @@ For automated instrumented UFO detectors, the important implementation lesson is
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-3-dark.svg" | relative_url }}" alt="Fixed vs Portable illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should UAP Sensors Stay Put or Move?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should UAP Sensors Stay Put or Move?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Anchors the page’s theme that reliable conclusions require disciplined evidence, not exciting footage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors the page’s theme that reliable conclusions require disciplined evidence, not exciting footage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Useful for understanding what fixed or portable skywatching stations must routinely observe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding what fixed or portable skywatching stations must routinely observe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Fits tradeoffs between fixed baselines, portable deployments, uncertainty, and measurement value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits tradeoffs between fixed baselines, portable deployments, uncertainty, and measurement value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers practical observing, site choice, weather, optics, and field setup considerations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers practical observing, site choice, weather, optics, and field setup considerations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="fixed-vs-portable-should-uap-sensors-stay-put-or-move-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ For automated instrumented UFO detectors, the important implementation lesson is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ For automated instrumented UFO detectors, the important implementation lesson is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ For automated instrumented UFO detectors, the important implementation lesson is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ For automated instrumented UFO detectors, the important implementation lesson is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ For automated instrumented UFO detectors, the important implementation lesson is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,216 +920,216 @@ For automated instrumented UFO detectors, the important implementation lesson is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: old.hessdalen.org  
    Title: Automatic Measurement Station (AMS)  
-   Link: <a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPHow to Configure a UFODAP System  
-   Link: <a href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPMulti-Sensor Data Acquisition Unit (MSDAU)  
-   Link: <a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufodap.com  
    Title: UFODA P  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufodap.com  
    Title: UFODA P  
-   Link: <a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
+   Link:<a href="https://ufodap.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
+   Link:<a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/development" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/development</a>  
+   Link:<a href="https://www.sky360.org/development" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/development</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hessdalen.org  
-   Link: <a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
+   Link:<a href="https://www.hessdalen.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.hessdalen.org/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dod announces the establishment of the all domain anomaly resolution office  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/the-second-half-of-2025-offers-exciting-new-opportunities-to-search-our-cosmic-mailbox-fe43dbaa40a9" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/the-second-half-of-2025-offers-exciting-new-opportunities-to-search-our-cosmic-mailbox-fe43dbaa40a9</a>  
+   Link:<a href="https://avi-loeb.medium.com/the-second-half-of-2025-offers-exciting-new-opportunities-to-search-our-cosmic-mailbox-fe43dbaa40a9" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/the-second-half-of-2025-offers-exciting-new-opportunities-to-search-our-cosmic-mailbox-fe43dbaa40a9</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
+   Link:<a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Hessdalen AMS  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ufodap.myshopify.com  
    Title: Cameras for UFO/UAP tracking and data collection  
-   Link: <a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: societyforuapstudies.org  
    Title: project hessdalen  
-   Link: <a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
+   Link:<a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: discoveryuk.com  
    Title: hessdalen lights natural phenomenon or extraterrestrial signals  
-   Link: <a href="https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/</a>  
+   Link:<a href="https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hessdalen-lights-natural-phenomenon-or-extraterrestrial-signals/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: github.com  
-   Link: <a href="https://github.com/Sky360-Repository/sky360" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository/sky360</a>  
+   Link:<a href="https://github.com/Sky360-Repository/sky360" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository/sky360</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Aliens: New Eyes on Ancient Questions // Richard Cloete...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Aliens: New Eyes on Ancient Questions // Richard Cloete...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: campbellsci.de  
-   Link: <a href="https://www.campbellsci.de/automated-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.de/automated-weather-stations</a>  
+   Link:<a href="https://www.campbellsci.de/automated-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellsci.de/automated-weather-stations</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: vaisala.com  
-   Link: <a href="https://www.vaisala.com/en/products/weather-environmental-sensors/automatic-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.vaisala.com/en/products/weather-environmental-sensors/automatic-weather-stations</a>  
+   Link:<a href="https://www.vaisala.com/en/products/weather-environmental-sensors/automatic-weather-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.vaisala.com/en/products/weather-environmental-sensors/automatic-weather-stations</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/123649529/Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123649529/Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+   Link:<a href="https://www.academia.edu/123649529/Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123649529/Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=135539" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=135539</a>  
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=135539" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=135539</a>  

@@ -284,7 +284,7 @@ A defensible UAP event record is more than a video, photograph or sensor trace. 
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-1-dark.svg" | relative_url }}" alt="Event Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction has become increasingly important as automated, instrumented UAP detection systems replace anecdotal observation with continuous monitoring. NASA's 2023 Independent Study Team concluded that meaningful progress depends on better-calibrated sensors, richer metadata and the inclusion of environmental information that can be correlated with observations. It specifically identified weather and other Earth-observing datasets as valuable context for analysing UAP reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+This distinction has become increasingly important as automated, instrumented UAP detection systems replace anecdotal observation with continuous monitoring. NASA's 2023 Independent Study Team concluded that meaningful progress depends on better-calibrated sensors, richer metadata and the inclusion of environmental information that can be correlated with observations. It specifically identified weather and other Earth-observing datasets as valuable context for analysing UAP reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 ## Minimum weather fields for a useful event packet
 
@@ -310,7 +310,7 @@ A practical minimum dataset includes:
 
 </div>
 
-These variables mirror the information routinely collected in professional meteorological observing systems because each directly affects optical propagation, infrared performance or the movement of airborne objects. International guidance from the World Meteorological Organization (WMO) treats temperature, pressure, humidity, wind, precipitation and cloud observations as core meteorological variables measured using standardised methods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no-8-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmo.int</span><span class="citation-popover-snippet">MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1. General; Chapter 2. Measurement of temperature; Chapter 3. Measurement of atmosphe...</span></span></span>
+These variables mirror the information routinely collected in professional meteorological observing systems because each directly affects optical propagation, infrared performance or the movement of airborne objects. International guidance from the World Meteorological Organization (WMO) treats temperature, pressure, humidity, wind, precipitation and cloud observations as core meteorological variables measured using standardised methods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmo.int">[World Meteorological Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmo.int</span><span class="citation-popover-snippet">MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1. General; Chapter 2. Measurement of temperature; Chapter 3. Measurement of atmosphe...</span></span></span>
 
 A single value is often less useful than a short time series. Recording weather measurements for several minutes before and after an event helps distinguish transient atmospheric changes from persistent background conditions.
 
@@ -342,7 +342,7 @@ This linkage allows later investigators to determine whether an apparent anomaly
 
 For example, increasing humidity combined with falling temperature may coincide with condensation on a camera enclosure. Strong winds may explain vibration in long-focal-length imagery. Thin cloud moving across the field of view may account for fluctuating brightness in a distant object. Without synchronised metadata, these relationships remain speculative rather than testable.
 
-NASA's Independent Study Team emphasised that metadata describing both the observed object and the observing instrument is essential because apparently unusual events have later proved to be sensor artefacts once calibration records and metadata were examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
+NASA's Independent Study Team emphasised that metadata describing both the observed object and the observing instrument is essential because apparently unusual events have later proved to be sensor artefacts once calibration records and metadata were examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 ## Why weather measurements need provenance
 
@@ -365,7 +365,7 @@ A defensible event record should preserve:
 
 This distinction matters because conditions can vary substantially over short distances. A regional weather report may accurately describe the surrounding area while failing to capture fog in a valley, sea-breeze effects along a coastline or cloud passing directly through the camera's field of view.
 
-Professional meteorological networks maintain extensive metadata describing station location, instrumentation, observing methods and equipment history precisely because observational context affects interpretation. Similar principles strengthen the evidential value of automated UAP monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">fespans, including identifiers, names, locations, observation times...Read more...</span></span></span>
+Professional meteorological networks maintain extensive metadata describing station location, instrumentation, observing methods and equipment history precisely because observational context affects interpretation. Similar principles strengthen the evidential value of automated UAP monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">fespans, including identifiers, names, locations, observation times...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-2-dark.svg" | relative_url }}" alt="Event Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,7 +408,7 @@ Useful complementary sources include:
 
 These datasets should supplement rather than replace local measurements. A station-mounted weather sensor records the immediate observing environment, while regional and national datasets provide broader atmospheric context.
 
-NASA's report specifically highlighted the value of combining UAP observations with existing Earth science datasets to characterise coincident environmental conditions rather than treating each sighting as an isolated observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+NASA's report specifically highlighted the value of combining UAP observations with existing Earth science datasets to characterise coincident environmental conditions rather than treating each sighting as an isolated observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-3-dark.svg" | relative_url }}" alt="Event Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_weather_context_16880f_weather_event_metada_76d993-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -425,7 +425,7 @@ Typical deficiencies include:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* missing sensor calibration records; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</span></span></span>
+* missing sensor calibration records;<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</span></span></span>
 * inability to determine whether weather measurements were local or regional;
 * no indication of weather sensor failures.
 
@@ -459,194 +459,194 @@ A robust event packet therefore combines:
 This approach shifts the discussion from subjective impressions of unusual footage towards reproducible evidence. Weather metadata cannot identify an unknown object on its own, but it provides the environmental framework needed for independent [review]({{ 'review/' | relative_url }}), replication and scientifically defensible analysis.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What weather belongs in a UAP file?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What weather belongs in a UAP file?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for richer, sensor-based case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for richer, sensor-based case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Covers weather variables that belong in observation records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers weather variables that belong in observation records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
-        </h4>
-        <p class="fr-book-author">By Jack Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
+</h4>
+<p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Explains practical weather observations and terminology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical weather observations and terminology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+Today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology Today</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor"><img src="{{ '/assets/images/marketplace-covers/50c4858958a84b1d09aa.jpg' | relative_url }}" alt="Listing image for Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station Indoor Outdoor Wireless Digital LCD Colored Screen with Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/4ebd32e4b2018ef2bae9.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor"><img src="{{ '/assets/images/marketplace-covers/37d1459f17f40accf48f.jpg' | relative_url }}" alt="Listing image for Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station WIFI Internet Wunderground Professional 7-in-1 Wireless Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor"><img src="{{ '/assets/images/marketplace-covers/b56e6f056845ae90f9f7.jpg' | relative_url }}" alt="Listing image for Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">Weather Station with MSF Radio Control Clock ( UK Version ) indoor / outdoor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather station sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: weather station sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+station+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather station sensor" data-ebay-reference="event-metadata-what-weather-belongs-in-a-uap-file-automated-instrumented-ufo-detectors-weather-station-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ This approach shifts the discussion from subjective impressions of unusual foota
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ This approach shifts the discussion from subjective impressions of unusual foota
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ This approach shifts the discussion from subjective impressions of unusual foota
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -766,7 +766,7 @@ This approach shifts the discussion from subjective impressions of unusual foota
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -811,7 +811,7 @@ This approach shifts the discussion from subjective impressions of unusual foota
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -852,168 +852,168 @@ This approach shifts the discussion from subjective impressions of unusual foota
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wmo.int  
-   Link: <a href="https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no-8-0" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no-8-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1. General; Chapter 2. Measurement of temperature; Chapter 3. Measurement of atmosphe...</p></details>
+   Link:<a href="https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no" target="_blank" rel="noopener noreferrer nofollow">https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEASUREMENT OF METEOROLOGICAL VARIABLES; Chapter 1. General; Chapter 2. Measurement of temperature; Chapter 3. Measurement of atmosphe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: community.wmo.int  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Instruments and Methods of Observation (WMO-No. 8)PROCESS FOR UPDATING THE WMO-No. 8. Procedure for updating the Guide to Instruments...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Instruments and Methods of Observation (WMO-No. 8)PROCESS FOR UPDATING THE WMO-No. 8. Procedure for updating the Guide to Instruments...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ncei.noaa.gov  
-   Link: <a href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/homr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fespans, including identifiers, names, locations, observation times...Read more...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/homr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fespans, including identifiers, names, locations, observation times...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Thus, NASA can help determine whether specific environmenta...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Thus, NASA can help determine whether specific environmenta...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: community.wmo.int  
    Title: int Data Access and Use  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-space-programme-wsp/data-access-and-use-3" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-space-programme-wsp/data-access-and-use-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Access and Use - WMO CommunityAdditional observations of atmospheric Temperature and Humidity profile are also provided by measuring the...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-space-programme-wsp/data-access-and-use-3" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/wmo-space-programme-wsp/data-access-and-use-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Access and Use - WMO CommunityAdditional observations of atmospheric Temperature and Humidity profile are also provided by measuring the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: community.wmo.int  
    Title: int CIM O Guide  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/weather-radar-observations/cimo-guide" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/weather-radar-observations/cimo-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide - WMO CommunityThe Preliminary 2018 Edition of the Guide to Meteorological Instruments and Methods of Observation (WMO-No. 8, CIMO...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/weather-radar-observations/cimo-guide" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/weather-radar-observations/cimo-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide - WMO CommunityThe Preliminary 2018 Edition of the Guide to Meteorological Instruments and Methods of Observation (WMO-No. 8, CIMO...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: community.wmo.int  
    Title: int Data Access  
-   Link: <a href="https://community.wmo.int/data-access" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/data-access</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Access - WMO CommunityData Access Basic information on access to satellite data and related information of relevance to WMO: See the Prod...</p></details>
+   Link:<a href="https://community.wmo.int/data-access" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/data-access</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Access - WMO CommunityData Access Basic information on access to satellite data and related information of relevance to WMO: See the Prod...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: community.wmo.int  
-   Link: <a href="https://community.wmo.int/standards-and-requirements-climate-observations" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/standards-and-requirements-climate-observations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical references: Guide to Climatological Practices.Read more...</p></details>
+   Link:<a href="https://community.wmo.int/standards-and-requirements-climate-observations" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/standards-and-requirements-climate-observations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technical references: Guide to Climatological Practices.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: community.wmo.int  
    Title: int Knowledge-sharing Portal  
-   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intKnowledge-sharing Portal - WMO CommunityPurpose of this web portal is to enable Members to share their experience and knowledge on...</p></details>
+   Link:<a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/knowledge-sharing-portal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intKnowledge-sharing Portal - WMO CommunityPurpose of this web portal is to enable Members to share their experience and knowledge on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instruments and Methods of Observation was published in 1954 and consisted of twelve chapters. Since then.Read more...</p></details>
+   Link:<a href="https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/epz/mesonet/CWOP-WMO8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instruments and Methods of Observation was published in 1954 and consisted of twelve chapters. Since then.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: Page:UAP Independent Study Team Final Report  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status of Existing Data. NASA collects an enormous amount of data using highly-calibrated, validated equipment from a variety of...Read...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/31</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Status of Existing Data. NASA collects an enormous amount of data using highly-calibrated, validated equipment from a variety of...Read...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
    Published: May 31, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.reading.ac.uk  
    Title: reading.ac.uk Observatory metadata  
-   Link: <a href="https://research.reading.ac.uk/meteorology/atmospheric-observatory/observatory-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/meteorology/atmospheric-observatory/observatory-metadata/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>metadata - Meteorology - ResearchThis observation includes &#x27;eye&#x27; observations of cloud amount and types, present weather, visibility and...</p></details>
+   Link:<a href="https://research.reading.ac.uk/meteorology/atmospheric-observatory/observatory-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/meteorology/atmospheric-observatory/observatory-metadata/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>metadata - Meteorology - ResearchThis observation includes &#x27;eye&#x27; observations of cloud amount and types, present weather, visibility and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: seedmech.com  
-   Link: <a href="https://www.seedmech.com/documents_folder/wmo_no_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seedmech.com/documents_folder/wmo_no_8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD METEOROLOGICAL ORGANIZATIONThe purpose of the Guide to Meteorological Instruments and Methods of Observation is to support these ac...</p></details>
+   Link:<a href="https://www.seedmech.com/documents_folder/wmo_no_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seedmech.com/documents_folder/wmo_no_8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD METEOROLOGICAL ORGANIZATIONThe purpose of the Guide to Meteorological Instruments and Methods of Observation is to support these ac...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amc.namem.gov.mn  
    Title: namem.gov.mn Guide to Instruments and Methods of Observation  
-   Link: <a href="https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866" target="_blank" rel="noopener noreferrer nofollow">https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Instruments and Methods of Observation... Many other Manuals and Guides issued by WMO refer to particular applications of meteo...</p></details>
+   Link:<a href="https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866" target="_blank" rel="noopener noreferrer nofollow">https://amc.namem.gov.mn/wp-content/uploads/WMO/1.%208_I-2023_en.pdf?_t=1638837866</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Instruments and Methods of Observation... Many other Manuals and Guides issued by WMO refer to particular applications of meteo...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...NASA has released the Unidentified Anomalous Phenomena independent study team&#x27;s report wi...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...NASA has released the Unidentified Anomalous Phenomena independent study team&#x27;s report wi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
+   Link:<a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iklim.bmkg.go.id  
-   Link: <a href="https://iklim.bmkg.go.id/bmkgadmin/storage/regulasi/Guide%20to%20WIGOS%201165-2019_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iklim.bmkg.go.id/bmkgadmin/storage/regulasi/Guide%20to%20WIGOS%201165-2019_en.pdf</a>  
+   Link:<a href="https://iklim.bmkg.go.id/bmkgadmin/storage/regulasi/Guide%20to%20WIGOS%201165-2019_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iklim.bmkg.go.id/bmkgadmin/storage/regulasi/Guide%20to%20WIGOS%201165-2019_en.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena...NASA defines UAP as observations of events in the sky that cannot be identified associat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPLAY! NASA Unidentified Anomalous Phenomena...NASA defines UAP as observations of events in the sky that cannot be identified associat...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe NASA Study will examine unclassified data on UAP in an attempt to separate...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Calculation on the Fly to the NASA UAP Study - Avi LoebThe NASA Study will examine unclassified data on UAP in an attempt to separate...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: uncclearn.org  
-   Link: <a href="https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instruments and Methods of Observation (WMO 1996) sets the required accuracy of...Read more...</p></details>
+   Link:<a href="https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uncclearn.org/wp-content/uploads/library/wmo107.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instruments and Methods of Observation (WMO 1996) sets the required accuracy of...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: astronomy.com  
    Title: nasa wants to take ufos seriously and scientifically  
-   Link: <a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
+   Link:<a href="https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/nasa-wants-to-take-ufos-seriously-and-scientifically/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA wants to take UFOs seriously — and scientifically19 Sept 2023 — The report highlighted the importance of gathering UAP data systemat...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aqxsolutions.com.au  
-   Link: <a href="https://aqxsolutions.com.au/2024/11/28/wmo-guidelines-automatic-weather-station/" target="_blank" rel="noopener noreferrer nofollow">https://aqxsolutions.com.au/2024/11/28/wmo-guidelines-automatic-weather-station/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Weather Station: The WMO&#x27;s Guidelines28 Nov 2024 — The “Guide to Instruments and Methods of Observation,” commonly known as WMO-No...</p></details>
+   Link:<a href="https://aqxsolutions.com.au/2024/11/28/wmo-guidelines-automatic-weather-station/" target="_blank" rel="noopener noreferrer nofollow">https://aqxsolutions.com.au/2024/11/28/wmo-guidelines-automatic-weather-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Weather Station: The WMO&#x27;s Guidelines28 Nov 2024 — The “Guide to Instruments and Methods of Observation,” commonly known as WMO-No...</p></details>

@@ -284,7 +284,7 @@ For an automated, instrumented UFO detector, a magnetometer is only as useful as
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-1-dark.svg" | relative_url }}" alt="Quiet Site illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Professional geomagnetic observatories devote considerable effort to site selection because magnetic contamination is far easier to prevent than to remove during data analysis. The same principle applies to smaller detector installations: reducing local interference is more valuable than relying on increasingly sophisticated software to reject [false alarms]({{ 'false-alarms/' | relative_url }}). Professional guidance from organisations such as INTERMAGNET and national geomagnetic observatories consistently places site quality among the primary determinants of reliable magnetic data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/_/downloads/en/development/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">INTERMAGNET Technical Reference ManualOct 20, 2014 — An INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory equip...</span></span></span>
+Professional geomagnetic observatories devote considerable effort to site selection because magnetic contamination is far easier to prevent than to remove during data analysis. The same principle applies to smaller detector installations: reducing local interference is more valuable than relying on increasingly sophisticated software to reject [false alarms]({{ 'false-alarms/' | relative_url }}). Professional guidance from organisations such as INTERMAGNET and national geomagnetic observatories consistently places site quality among the primary determinants of reliable magnetic data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tech-man.intermagnet.org/_/downloads/en/development/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tech-man.intermagnet.org">[INTERMAGNET+2pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tech-man.intermagnet.org</span><span class="citation-popover-snippet">INTERMAGNET Technical Reference ManualOct 20, 2014 — An INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory equip...</span></span></span>
 
 ## Why magnetometer placement can make or break data
 
@@ -292,7 +292,7 @@ A magnetometer measures changes in the local magnetic field, regardless of their
 
 For a detector network intended to investigate unusual aerial events, this creates an important challenge. A magnetic spike that coincides with a camera detection may appear intriguing until it is discovered that a delivery van stopped outside the property, a heat pump switched on, or maintenance work disturbed nearby infrastructure. Without a magnetically quiet site, every apparent coincidence becomes difficult to interpret.
 
-Professional observatories therefore aim to characterise the magnetic environment before permanent installation. Site surveys look for magnetic gradients, nearby sources of interference and long-term environmental stability rather than simply choosing an open area. Clean surroundings provide a predictable baseline that allows both natural geomagnetic activity and local disturbances to be recognised more confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datascience.codata.org/articles/10.5334/dsj-2024-009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datascience.codata.org">[Data Science Journal+2pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datascience.codata.org</span><span class="citation-popover-title">dsj 2024 009</span><span class="citation-popover-snippet">However, factors such as observation environment...Read more...</span></span></span>
+Professional observatories therefore aim to characterise the magnetic environment before permanent installation. Site surveys look for magnetic gradients, nearby sources of interference and long-term environmental stability rather than simply choosing an open area. Clean surroundings provide a predictable baseline that allows both natural geomagnetic activity and local disturbances to be recognised more confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datascience.codata.org/articles/10.5334/dsj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datascience.codata.org">[Data Science Journal+2pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datascience.codata.org</span><span class="citation-popover-title">dsj</span><span class="citation-popover-snippet">However, factors such as observation environment...Read more...</span></span></span>
 
 ## Local interference around real detector sites
 
@@ -316,7 +316,7 @@ Common problems include:
 
 Some disturbances occur only occasionally, making them especially deceptive. A weekly refuse collection, a neighbour installing new electrical equipment or seasonal farming activity may generate spikes that appear anomalous unless they are recognised as recurring local events.
 
-Urban environments present particular difficulties because numerous small interference sources combine into what geomagnetic researchers sometimes describe as "magnetic smog". Studies of observatory performance have shown that transport systems, industrial activity and expanding electrical infrastructure can gradually degrade station quality even when the original location was acceptable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgi.unistra.fr">[isgi.unistra.fr+2Data Science Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgi.unistra.fr</span><span class="citation-popover-snippet">Hermanus Magnetic ObservatoryJanuary 27, 2014 — The work is devoted to the analysis of magnetic survey signals caused by the presence of a...</span><span class="citation-popover-meta">Published: January 27, 2014</span></span></span>
+Urban environments present particular difficulties because numerous small interference sources combine into what geomagnetic researchers sometimes describe as "magnetic smog". Studies of observatory performance have shown that transport systems, industrial activity and expanding electrical infrastructure can gradually degrade station quality even when the original location was acceptable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgi.unistra.fr">[isgi.unistra.fr+2Data Science Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgi.unistra.fr</span><span class="citation-popover-snippet">Hermanus Magnetic ObservatoryJanuary 27, 2014 — The work is devoted to the analysis of magnetic survey signals caused by the presence of a...</span><span class="citation-popover-meta">Published: January 27, 2014</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mkm32Ss3_I0" title="UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer">UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck</a></p><p class="youtube-embed-meta">Channel: UAP Summit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mkm32Ss3_I0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mkm32Ss3_I0">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ Urban environments present particular difficulties because numerous small interf
 
 Even an excellent location can produce poor data if the installation itself introduces magnetic contamination.
 
-Professional guidance recommends using non-magnetic construction materials wherever practical around the sensing element. Steel brackets, reinforcing bars, nails, hinges or nearby tool storage can all distort measurements. Traditional observatories often mount sensors on dedicated non-magnetic pillars isolated from surrounding structures, while modern installations frequently use compact insulated huts or enclosures designed specifically to minimise nearby ferromagnetic material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmf.unizg.hr">[pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmf.unizg.hr</span><span class="citation-popover-snippet">IAGA Guide for magnetic measurements and observatory...by J JANKOWSKI · Cited by 417 — fluxgate variometers are 1 nTfC), and non-magnet...</span></span></span>
+Professional guidance recommends using non-magnetic construction materials wherever practical around the sensing element. Steel brackets, reinforcing bars, nails, hinges or nearby tool storage can all distort measurements. Traditional observatories often mount sensors on dedicated non-magnetic pillars isolated from surrounding structures, while modern installations frequently use compact insulated huts or enclosures designed specifically to minimise nearby ferromagnetic material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmf.unizg.hr">[pmf.unizg.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmf.unizg.hr</span><span class="citation-popover-snippet">IAGA Guide for magnetic measurements and observatory...by J JANKOWSKI · Cited by 417 — fluxgate variometers are 1 nTfC), and non-magnet...</span></span></span>
 
 Orientation also matters. Once installed, the sensor should remain mechanically stable so that measured changes represent the Earth's magnetic field rather than movement of the instrument itself. Accidental rotation during maintenance, settling of foundations or vibration from unstable mounting structures can introduce apparent magnetic variations unrelated to external events.
 
@@ -365,7 +365,7 @@ Useful tests include observing whether magnetic readings change when:
 
 </div>
 
-Professional geomagnetic programmes also compare candidate stations against established observatories to distinguish local interference from regional geomagnetic events. If multiple stations experience the same disturbance simultaneously, the cause is more likely to be genuine geomagnetic activity, such as [space weather]({{ 'space-weather/' | relative_url }}), rather than a local source. INTERMAGNET quality guidance similarly emphasises comparison with neighbouring observatories and independent measurements as part of maintaining reliable datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/15/18/10129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Improving the Quality of Magnetograms Using Data from...by I Vassilyev · 2025 — As an effective method for solving the problem of ma...</span></span></span>
+Professional geomagnetic programmes also compare candidate stations against established observatories to distinguish local interference from regional geomagnetic events. If multiple stations experience the same disturbance simultaneously, the cause is more likely to be genuine geomagnetic activity, such as [space weather]({{ 'space-weather/' | relative_url }}), rather than a local source. INTERMAGNET quality guidance similarly emphasises comparison with neighbouring observatories and independent measurements as part of maintaining reliable datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/15/18/10129" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Improving the Quality of Magnetograms Using Data from...by I Vassilyev · 2025 — As an effective method for solving the problem of ma...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M528GR8DgYU" title="Sky360: A Global UAP Tracking Network for Science | Richard Hopf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer">Sky360: A Global UAP Tracking Network for Science | Richard Hopf</a></p><p class="youtube-embed-meta">Channel: UAP Summit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M528GR8DgYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M528GR8DgYU">Open on YouTube</a></p></div></div></div>
@@ -392,7 +392,7 @@ Every change to the installation should be recorded, including:
 
 These records become invaluable when reviewing unusual magnetic events months later. An unexplained signal that initially appears significant may coincide exactly with installation of a new fence, servicing of an air-conditioning unit or replacement of a power supply.
 
-Professional observatories routinely document environmental changes because even seemingly minor alterations around a station can affect long-term magnetic records. Modern quality-assurance strategies likewise include monitoring changes in the observation environment alongside instrument maintenance and routine data verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://datascience.codata.org/articles/10.5334/dsj-2024-009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datascience.codata.org">[Data Science Journal+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datascience.codata.org</span><span class="citation-popover-title">dsj 2024 009</span><span class="citation-popover-snippet">However, factors such as observation environment...Read more...</span></span></span>
+Professional observatories routinely document environmental changes because even seemingly minor alterations around a station can affect long-term magnetic records. Modern quality-assurance strategies likewise include monitoring changes in the observation environment alongside instrument maintenance and routine data verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://datascience.codata.org/articles/10.5334/dsj" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datascience.codata.org">[Data Science Journal+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datascience.codata.org</span><span class="citation-popover-title">dsj</span><span class="citation-popover-snippet">However, factors such as observation environment...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-3-dark.svg" | relative_url }}" alt="Quiet Site illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_magnetometers_088bec_quiet_magnetometer_s_e96521-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -409,194 +409,194 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why magnetometer placement can make or break data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why magnetometer placement can make or break data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Observatories and Telescopes of Modern Times on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8870270-M.jpg" alt="Cover for Observatories and Telescopes of Modern Times" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Observatories and Telescopes of Modern Times">Observatories and Telescopes of Modern Times</a>
-        </h4>
-        <p class="fr-book-author">By David Leverington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Observatories and Telescopes of Modern Times on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8870270-M.jpg" alt="Cover for Observatories and Telescopes of Modern Times" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Observatories and Telescopes of Modern Times">Observatories and Telescopes of Modern Times</a>
+</h4>
+<p class="fr-book-author">By David Leverington</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Astronomical observatories, Radio astronomy, Telescopes, Radio telescopes, Astronomy, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Astronomical observatories, Radio astronomy, Telescopes, Radio telescopes, Astronomy, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times+David+Leverington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
-        </h4>
-        <p class="fr-book-author">By Wallace H. Campbell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Geomagnetic Fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/346771-M.jpg" alt="Cover for Introduction to Geomagnetic Fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
+</h4>
+<p class="fr-book-author">By Wallace H. Campbell</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement and Instrumentation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement and Instrumentation">Measurement and Instrumentation</a>
-        </h4>
-        <p class="fr-book-author">By Alan S. Morris, Reza Langari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement and Instrumentation on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement and Instrumentation">Measurement and Instrumentation</a>
+</h4>
+<p class="fr-book-author">By Alan S. Morris, Reza Langari</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Measurement, Engineering instruments, Engineering (general), Mechanical, Industrial technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Measurement, Engineering instruments, Engineering (general), Mechanical, Industrial technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measurement+and+Instrumentation+Alan+S.+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Observatories and Telescopes of Modern Times</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Observatories+and+Telescopes+of+Modern+Times&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Observatories and Telescopes of Modern Times</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Geomagnetic+Fields+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Geomagnetic Fields books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V"><img src="{{ '/assets/images/marketplace-covers/d3c6680d976cb105bcdd.jpg' | relative_url }}" alt="Listing image for HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">HMC5883L Triple Axis Compass Magnetometer Sensor Module For Arduino 3V-5V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO"><img src="{{ '/assets/images/marketplace-covers/8ada8dc485613c50d268.jpg' | relative_url }}" alt="Listing image for GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">GY-273 QMC5883L 3V-5V 3-AXIS COMPASS MAGNETOMETER SENSOR MODULE ARDUINO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic"><img src="{{ '/assets/images/marketplace-covers/5d66dc846e302aa62afb.jpg' | relative_url }}" alt="Listing image for 1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">1 x SF-SEN-14571 Sensor Position Magnetometer I2C IC MLX90393 Qwiic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search <span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor"><img src="{{ '/assets/images/marketplace-covers/58ea126407a9e353a3b0.jpg' | relative_url }}" alt="Listing image for WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">WIT WT9011DCL-BT50 Bluetooth5.0 Accelerometer Electronic Magnetometer Sensor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for magnetometer sensor">Search<span data-ebay-domain-label>eBay.co.uk</span>: magnetometer sensor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=magnetometer+sensor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="magnetometer sensor" data-ebay-reference="quiet-site-why-magnetometer-placement-can-make-or-break-data-automated-instrumented-ufo-detector-magnetometer-sensor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,148 +802,148 @@ That approach shifts the emphasis away from collecting dramatic magnetic spikes 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/_/downloads/en/development/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/_/downloads/en/development/pdf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical Reference ManualOct 20, 2014 — An INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory equip...</p></details>
+   Link:<a href="https://tech-man.intermagnet.org/_/downloads/en/development/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/_/downloads/en/development/pdf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical Reference ManualOct 20, 2014 — An INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory equip...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmf.unizg.hr  
-   Link: <a href="https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAGA Guide for magnetic measurements and observatory...by J JANKOWSKI · Cited by 417 — fluxgate variometers are 1 nTfC), and non-magnet...</p></details>
+   Link:<a href="https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pmf.unizg.hr/_download/repository/IAGA-Guide-Observatories.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAGA Guide for magnetic measurements and observatory...by J JANKOWSKI · Cited by 417 — fluxgate variometers are 1 nTfC), and non-magnet...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: isgi.unistra.fr  
-   Link: <a href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hermanus Magnetic ObservatoryJanuary 27, 2014 — The work is devoted to the analysis of magnetic survey signals caused by the presence of a...</p></details>
+   Link:<a href="https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isgi.unistra.fr/iagaDivV/docs/IAGA_Workshop_proceedings/XthIAGA_ws.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hermanus Magnetic ObservatoryJanuary 27, 2014 — The work is devoted to the analysis of magnetic survey signals caused by the presence of a...</p></details>
    Published: January 27, 2014  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/15/18/10129" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/18/10129</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving the Quality of Magnetograms Using Data from...by I Vassilyev · 2025 — As an effective method for solving the problem of ma...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/15/18/10129" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/18/10129</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving the Quality of Magnetograms Using Data from...by I Vassilyev · 2025 — As an effective method for solving the problem of ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: usgs.gov  
    Title: geomag plots  
-   Link: <a href="https://www.usgs.gov/tools/geomag-plots" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/tools/geomag-plots</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Geological Survey9 Feb 2022 — The &quot;Plots&quot; web application is an intuitive and flexible online visualization tool that allows users t...</p></details>
+   Link:<a href="https://www.usgs.gov/tools/geomag-plots" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/tools/geomag-plots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Geological Survey9 Feb 2022 — The &quot;Plots&quot; web application is an intuitive and flexible online visualization tool that allows users t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: intermagnet.org  
-   Link: <a href="https://intermagnet.org/docs/technical/im_tn_06_v1_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/docs/technical/im_tn_06_v1_0.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical NoteNoise level: If magnetometer noise power spectral density (PSD) was solely 1/f dependent, then a specified nois...</p></details>
+   Link:<a href="https://intermagnet.org/docs/technical/im_tn_06_v1_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/docs/technical/im_tn_06_v1_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical NoteNoise level: If magnetometer noise power spectral density (PSD) was solely 1/f dependent, then a specified nois...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/development/chapters/onesecondimos/instrumentationspecs.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/development/chapters/onesecondimos/instrumentationspecs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instrumentation/SpecificationsThese specifications are used by INTERMAGNET as a guideline for reviewing data quality when data are either...</p></details>
+   Link:<a href="https://tech-man.intermagnet.org/development/chapters/onesecondimos/instrumentationspecs.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/development/chapters/onesecondimos/instrumentationspecs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instrumentation/SpecificationsThese specifications are used by INTERMAGNET as a guideline for reviewing data quality when data are either...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: intermagnet.org  
    Title: Australia 2009  
-   Link: <a href="https://intermagnet.org/yearbooks/Australia_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/yearbooks/Australia_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Geomagnetism Report 2009Summary. During 2009, Geoscience Australia operated nine geomagnetic observatories in Australia, the s...</p></details>
+   Link:<a href="https://intermagnet.org/yearbooks/Australia_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/yearbooks/Australia_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Geomagnetism Report 2009Summary. During 2009, Geoscience Australia operated nine geomagnetic observatories in Australia, the s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: intermagnet.org  
-   Link: <a href="https://intermagnet.org/docs/technical/im_tn_4_v1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/docs/technical/im_tn_4_v1_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical Note1) The 1s INTERMAGNET variometer is a triaxial magnetometer providing measurements of the variations of the geo...</p></details>
+   Link:<a href="https://intermagnet.org/docs/technical/im_tn_4_v1_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://intermagnet.org/docs/technical/im_tn_4_v1_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTERMAGNET Technical Note1) The 1s INTERMAGNET variometer is a triaxial magnetometer providing measurements of the variations of the geo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tech-man.intermagnet.org  
-   Link: <a href="https://tech-man.intermagnet.org/latest/chapters/oneminuteimos/description.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/oneminuteimos/description.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intermagnet.org2.1. DescriptionAn INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory with full absolute control, making con...</p></details>
+   Link:<a href="https://tech-man.intermagnet.org/latest/chapters/oneminuteimos/description.html" target="_blank" rel="noopener noreferrer nofollow">https://tech-man.intermagnet.org/latest/chapters/oneminuteimos/description.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intermagnet.org2.1. DescriptionAn INTERMAGNET Magnetic Observatory (IMO) is a magnetic observatory with full absolute control, making con...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveySatellite [magnetometers](&amp;#123;&amp;#123; &#x27;magnetometers/&#x27; | relative_url &amp;#125;&amp;#125;) measure the part of Earth&#x27;s magnetic field... The compass needle aligns itself with the horizon...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/introduction-geomagnetism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveySatellite [magnetometers](&amp;#123;&amp;#123; &#x27;magnetometers/&#x27; | relative_url &amp;#125;&amp;#125;) measure the part of Earth&#x27;s magnetic field... The compass needle aligns itself with the horizon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetism Program | U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide continuo...</p></details>
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geomagnetism Program | U.S. Geological SurveyWe monitor the Earth&#x27;s magnetic field. Using ground-based observatories, we provide continuo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/programs/geomagnetism/science/observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/science/observatories</a>  
+   Link:<a href="https://www.usgs.gov/programs/geomagnetism/science/observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/geomagnetism/science/observatories</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubs.usgs.gov  
    Title: OF09 1226  
-   Link: <a href="https://pubs.usgs.gov/of/2009/1226/pdf/OF09-1226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/2009/1226/pdf/OF09-1226.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the XIIIth IAGA Workshop on Geomagnetic...21 Mar 2008 — The papers of U.S. Geological Survey authors were reviewed and approved for p...</p></details>
+   Link:<a href="https://pubs.usgs.gov/of/2009/1226/pdf/OF09-1226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/2009/1226/pdf/OF09-1226.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the XIIIth IAGA Workshop on Geomagnetic...21 Mar 2008 — The papers of U.S. Geological Survey authors were reviewed and approved for p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: catalog.data.gov  
-   Link: <a href="https://catalog.data.gov/dataset/?tags=geomagnetism-program" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/?tags=geomagnetism-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USGS Geomagnetism Program operates a network of magnetic observatories that collect vector and scalar magnetometer data for use in Earth...</p></details>
+   Link:<a href="https://catalog.data.gov/dataset/?tags=geomagnetism-program" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/?tags=geomagnetism-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USGS Geomagnetism Program operates a network of magnetic observatories that collect vector and scalar magnetometer data for use in Earth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: datascience.codata.org  
    Title: dsj 2024 009  
-   Link: <a href="https://datascience.codata.org/articles/10.5334/dsj-2024-009" target="_blank" rel="noopener noreferrer nofollow">https://datascience.codata.org/articles/10.5334/dsj-2024-009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, factors such as observation environment...Read more...</p></details>
+   Link:<a href="https://datascience.codata.org/articles/10.5334/dsj" target="_blank" rel="noopener noreferrer nofollow">https://datascience.codata.org/articles/10.5334/dsj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, factors such as observation environment...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: datascience.codata.org  
-   Link: <a href="https://datascience.codata.org/articles/119/files/submission/proof/119-1-223-1-10-20150414.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datascience.codata.org/articles/119/files/submission/proof/119-1-223-1-10-20150414.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INVESTIGATION INTO TECHNIQUES FOR ISOLATING...by C Turbitt · 2011 · Cited by 4 — The daily magnetogram of an INTERMAGNET observatory (no...</p></details>
+   Link:<a href="https://datascience.codata.org/articles/119/files/submission/proof/119-1-223-1-10-20150414.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datascience.codata.org/articles/119/files/submission/proof/119-1-223-1-10-20150414.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INVESTIGATION INTO TECHNIQUES FOR ISOLATING...by C Turbitt · 2011 · Cited by 4 — The daily magnetogram of an INTERMAGNET observatory (no...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: clu-in.org  
-   Link: <a href="https://clu-in.org/characterization/technologies/envmagnetics.cfm" target="_blank" rel="noopener noreferrer nofollow">https://clu-in.org/characterization/technologies/envmagnetics.cfm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical MethodsSensors can also be mounted high off the ground to eliminate interference from surface debris or close to the ground t...</p></details>
+   Link:<a href="https://clu-in.org/characterization/technologies/envmagnetics.cfm" target="_blank" rel="noopener noreferrer nofollow">https://clu-in.org/characterization/technologies/envmagnetics.cfm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geophysical MethodsSensors can also be mounted high off the ground to eliminate interference from surface debris or close to the ground t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gfz.de  
-   Link: <a href="https://www.gfz.de/en/section/geomagnetism/overview" target="_blank" rel="noopener noreferrer nofollow">https://www.gfz.de/en/section/geomagnetism/overview</a>  
+   Link:<a href="https://www.gfz.de/en/section/geomagnetism/overview" target="_blank" rel="noopener noreferrer nofollow">https://www.gfz.de/en/section/geomagnetism/overview</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iigm.res.in  
-   Link: <a href="https://iigm.res.in/content/magnetic-observatory-networks-instrumentations" target="_blank" rel="noopener noreferrer nofollow">https://iigm.res.in/content/magnetic-observatory-networks-instrumentations</a>  
+   Link:<a href="https://iigm.res.in/content/magnetic-observatory-networks-instrumentations" target="_blank" rel="noopener noreferrer nofollow">https://iigm.res.in/content/magnetic-observatory-networks-instrumentations</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 319864336 Noise in [raw data](&#123;&#123; 'raw-data/' | relative_url &#125;&#125;) from magnetic observatories  
-   Link: <a href="https://www.researchgate.net/publication/319864336_Noise_in_raw_data_from_magnetic_observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319864336_Noise_in_raw_data_from_magnetic_observatories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Noise in raw data from magnetic observatories15 Sept 2017 — INTERMAGNET observatories, red stars are non-INTERMAGNET observatories...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/319864336_Noise_in_raw_data_from_magnetic_observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319864336_Noise_in_raw_data_from_magnetic_observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Noise in raw data from magnetic observatories15 Sept 2017 — INTERMAGNET observatories, red stars are non-INTERMAGNET observatories...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: (PDF) Noise in raw data of magnetic observatories  
-   Link: <a href="https://www.researchgate.net/publication/316845007_Noise_in_raw_data_of_magnetic_observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316845007_Noise_in_raw_data_of_magnetic_observatories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2017 — In this paper, on the basis of the experience gained during long-term magnetic monitoring carried out at the observatories...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316845007_Noise_in_raw_data_of_magnetic_observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316845007_Noise_in_raw_data_of_magnetic_observatories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2017 — In this paper, on the basis of the experience gained during long-term magnetic monitoring carried out at the observatories...</p></details>
    Published: May 10, 2017  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubs.geoscienceworld.org  
    Title: U S Geological Survey Geomagnetic Variometer Data  
-   Link: <a href="https://pubs.geoscienceworld.org/ssa/srl/article/97/3/2179/666391/U-S-Geological-Survey-Geomagnetic-Variometer-Data" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/ssa/srl/article/97/3/2179/666391/U-S-Geological-Survey-Geomagnetic-Variometer-Data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>geoscienceworld.orgU.S. Geological Survey Geomagnetic Variometer Data5 Nov 2025 — When installing a magnetometer at a station, it is isol...</p></details>
+   Link:<a href="https://pubs.geoscienceworld.org/ssa/srl/article/97/3/2179/666391/U-S-Geological-Survey-Geomagnetic-Variometer-Data" target="_blank" rel="noopener noreferrer nofollow">https://pubs.geoscienceworld.org/ssa/srl/article/97/3/2179/666391/U-S-Geological-Survey-Geomagnetic-Variometer-Data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>geoscienceworld.orgU.S. Geological Survey Geomagnetic Variometer Data5 Nov 2025 — When installing a magnetometer at a station, it is isol...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ncei.noaa.gov  
    Title: world magnetic model  
-   Link: <a href="https://www.ncei.noaa.gov/products/world-magnetic-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/world-magnetic-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnetic Model (WMM)The World Magnetic Model (WMM) is the standard model for navigation, attitude, and heading referencing systems that u...</p></details>
+   Link:<a href="https://www.ncei.noaa.gov/products/world-magnetic-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/world-magnetic-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Magnetic Model (WMM)The World Magnetic Model (WMM) is the standard model for navigation, attitude, and heading referencing systems that u...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000014502" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000014502</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO DocumentsNotes on geomagnetic observatory and survey practice29 Piers, which should be of perfectly non-magnetic material, may be...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000014502" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000014502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO DocumentsNotes on geomagnetic observatory and survey practice29 Piers, which should be of perfectly non-magnetic material, may be...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Skywatcher: Function, Purpose, and Scientific Framework | Garry Nolan  
-   Link: <a href="http://www.youtube.com/watch?v=kPodKWDFrp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kPodKWDFrp4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=kPodKWDFrp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kPodKWDFrp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Detection Efforts within the American Institute of Aeronautics &amp; Astronautics | Michael Lembeck...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=0l_ZF_d2EQI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0l_ZF_d2EQI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UAP Summit&quot; magnetometer tracking OR sensor The Role of [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) in Multi-Mode Sensing | Gene Greneker UAP Summit...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0l_ZF_d2EQI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0l_ZF_d2EQI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UAP Summit&quot; magnetometer tracking OR sensor The Role of [Radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) in Multi-Mode Sensing | Gene Greneker UAP Summit...</p></details>
    Published: March 8, 2026  

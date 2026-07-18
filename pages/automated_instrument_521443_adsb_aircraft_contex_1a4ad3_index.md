@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-adsb/
 description: Focused pages that expand on ADS B.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_adsb_aircraft_contex_1a4ad3
 parent_title: ADS B
@@ -16,7 +16,7 @@ parent_permalink: /ads-b/
 
 # Explore Topics in ADS B
 
-The following pages expand on the main **[ADS B]({{ '/ads-b/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[ADS B]({{ '/ads-b/' | relative_url }})** page and cover its key branches in.
 
 - [Decision Rules]({{ '/decision-rules/' | relative_url }})
 - [Timing Errors]({{ '/timing-errors/' | relative_url }})

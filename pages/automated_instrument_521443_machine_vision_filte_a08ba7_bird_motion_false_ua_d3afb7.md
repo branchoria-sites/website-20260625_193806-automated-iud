@@ -274,7 +274,7 @@ image: /assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bi
 
 ## Introduction
 
-Birds are among the most common causes of [false alarms]({{ 'false-alarms/' | relative_url }}) in automated UAP (Unidentified Aerial Phenomena) detection systems. A bird that is small, close to the camera, rapidly changing shape or viewed only as a handful of pixels can appear surprisingly unlike a conventional bird. In infrared imagery it may also appear as a warm moving object without obvious wings, while in visible-light footage motion blur and changing wing positions can make successive frames look like entirely different objects. For this reason, modern automated sky-monitoring systems are designed to treat bird identification as a probabilistic tracking problem rather than a single-frame classification task. The objective is not to prove an object is a bird from one image, but to combine appearance, motion, trajectory and, where available, multiple sensors before deciding whether an event deserves further [review]({{ 'review/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
+Birds are among the most common causes of [false alarms]({{ 'false-alarms/' | relative_url }}) in automated UAP (Unidentified Aerial Phenomena) detection systems. A bird that is small, close to the camera, rapidly changing shape or viewed only as a handful of pixels can appear surprisingly unlike a conventional bird. In infrared imagery it may also appear as a warm moving object without obvious wings, while in visible-light footage motion blur and changing wing positions can make successive frames look like entirely different objects. For this reason, modern automated sky-monitoring systems are designed to treat bird identification as a probabilistic tracking problem rather than a single-frame classification task. The objective is not to prove an object is a bird from one image, but to combine appearance, motion, trajectory and, where available, multiple sensors before deciding whether an event deserves further [review]({{ 'review/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-1-dark.svg" | relative_url }}" alt="Bird Motion illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -294,7 +294,7 @@ Several factors make isolated frames unreliable:
 
 </div>
 
-These limitations are well recognised in computer-vision research beyond the UAP field. Bird-detection systems developed for wind farms, airports and wildlife monitoring all report that detecting small airborne birds against large, changing sky backgrounds is intrinsically difficult, requiring specialised datasets and temporal methods rather than static image classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
+These limitations are well recognised in computer-vision research beyond the UAP field. Bird-detection systems developed for wind farms, airports and wildlife monitoring all report that detecting small airborne birds against large, changing sky backgrounds is intrinsically difficult, requiring specialised datasets and temporal methods rather than static image classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
 
 The practical implication for automated UAP cameras is straightforward: a classifier assigning "unknown" to a single frame is not necessarily evidence of an anomalous object. It often reflects insufficient visual information.
 
@@ -315,19 +315,19 @@ Birds exhibit several motion characteristics that distinguish them statistically
 
 **Changing apparent size.** A nearby bird can rapidly expand or shrink in the image as it flies toward or away from the camera, something much less common for distant aircraft.
 
-Because of these behaviours, modern systems increasingly rely on object tracking across many frames instead of isolated detections. The [Galileo]({{ 'galileo/' | relative_url }}) Project's infrared observatory, for example, combines object detection with multi-frame tracking to reconstruct trajectories and identify statistical outliers for later review rather than treating every unusual-looking frame as an anomalous object. Their commissioning analysis also illustrates why trajectory analysis still requires [human review]({{ 'human-review/' | relative_url }}), since unusual image-space motion does not automatically indicate unusual physical motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
+Because of these behaviours, modern systems increasingly rely on object tracking across many frames instead of isolated detections. The [Galileo]({{ 'galileo/' | relative_url }}) Project's infrared observatory, for example, combines object detection with multi-frame tracking to reconstruct trajectories and identify statistical outliers for later review rather than treating every unusual-looking frame as an anomalous object. Their commissioning analysis also illustrates why trajectory analysis still requires [human review]({{ 'human-review/' | relative_url }}), since unusual image-space motion does not automatically indicate unusual physical motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
 
-Research on bird monitoring similarly improves performance by incorporating temporal stacking—using information from neighbouring frames—to stabilise detections of rapidly changing birds that would otherwise be missed or misclassified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
+Research on bird monitoring similarly improves performance by incorporating temporal stacking—using information from neighbouring frames—to stabilise detections of rapidly changing birds that would otherwise be missed or misclassified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
 
 ## Why Infrared Can Make Birds Look Unusual
 
 Thermal cameras introduce a different set of challenges.
 
-Birds are warm-bodied animals and therefore emit more long-wave infrared radiation than the surrounding sky. Against a cold background they often appear as bright thermal objects even when their visible-light image is tiny or poorly resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gyanganga.ai">[Ganga Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gyanganga.ai</span><span class="citation-popover-snippet">Ganga Knowledge PortalIntegrating Thermal UAV Imagery and Deep LearnApril 6, 2024 — Thermal image provides a clearer depiction of the pre...</span><span class="citation-popover-meta">Published: April 6, 2024</span></span></span>
+Birds are warm-bodied animals and therefore emit more long-wave infrared radiation than the surrounding sky. Against a cold background they often appear as bright thermal objects even when their visible-light image is tiny or poorly resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gyanganga.ai">[Ganga Knowledge Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gyanganga.ai</span><span class="citation-popover-snippet">Ganga Knowledge PortalIntegrating Thermal UAV Imagery and Deep LearnApril 6, 2024 — Thermal image provides a clearer depiction of the pre...</span><span class="citation-popover-meta">Published: April 6, 2024</span></span></span>
 
 However, thermal imagery usually contains less fine structural detail than high-resolution optical cameras. At long range, the detector may record little more than a bright moving spot. Wingbeats can intermittently alter the visible thermal shape, while body orientation changes modify the apparent heat signature.
 
-Consequently, an infrared-only system may detect a convincing moving thermal target without enough detail to determine whether it is a bird, drone or another airborne object. This is one reason why serious automated UAP observatories increasingly combine infrared with optical cameras and additional sensor types rather than relying on a single imaging modality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
+Consequently, an infrared-only system may detect a convincing moving thermal target without enough detail to determine whether it is a bird, drone or another airborne object. This is one reason why serious automated UAP observatories increasingly combine infrared with optical cameras and additional sensor types rather than relying on a single imaging modality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-2-dark.svg" | relative_url }}" alt="Bird Motion illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -359,7 +359,7 @@ Individual birds may merge into one detection before separating again. A trackin
 
 </div>
 
-These behaviours are well known in surveillance and ecological computer vision. Robust bird-monitoring systems therefore devote considerable effort to temporal association, object persistence and multi-frame consistency rather than relying solely on instantaneous detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
+These behaviours are well known in surveillance and ecological computer vision. Robust bird-monitoring systems therefore devote considerable effort to temporal association, object persistence and multi-frame consistency rather than relying solely on instantaneous detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JckDOdfreSc" title="UAP FILES - PR-016: Resolved as Birds over Europe in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JckDOdfreSc" target="_blank" rel="noopener noreferrer">UAP FILES - PR-016: Resolved as Birds over Europe in 2023</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 208 &middot; Uploaded: December 2025 &middot; Length: 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JckDOdfreSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JckDOdfreSc">Open on YouTube</a></p></div></div></div>
@@ -382,7 +382,7 @@ Successful approaches increasingly combine:
 
 </div>
 
-Research on bird detection around wind farms demonstrates that temporal stacking substantially improves recognition of small flying birds compared with analysing single images alone. Likewise, UAP observatories increasingly treat machine learning as a filtering stage that prioritises events for investigation instead of issuing definitive identifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
+Research on bird detection around wind farms demonstrates that temporal stacking substantially improves recognition of small flying birds compared with analysing single images alone. Likewise, UAP observatories increasingly treat machine learning as a filtering stage that prioritises events for investigation instead of issuing definitive identifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">YOLO Based Model birds wind farms</span><span class="citation-popover-snippet">A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-3-dark.svg" | relative_url }}" alt="Bird Motion illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_machine_vision_filte_a08ba7_bird_motion_false_ua_d3afb7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,194 +397,194 @@ These properties explain why an automated detector may initially assign a bird a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Birds Are Harder Than They Look. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Birds Are Harder Than They Look. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
-        </h4>
-        <p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Relevant to image classification and detection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Learning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Np9SDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Learning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Learning">Deep Learning</a>
+</h4>
+<p class="fr-book-author">By Ian Goodfellow, Yoshua Bengio et al.</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Relevant to image classification and detection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Learning+by+Ian+Goodfellow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader context for automated decision systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Artificial Intelligence">Artificial Intelligence</a>
+</h4>
+<p class="fr-book-author">By Stuart Jonathan Russell, Peter Norvig et al.</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 10 Google Books ratings</p>
+<p class="fr-book-desc">Provides broader context for automated decision systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Artificial+Intelligence+by+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Birds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418888-M.jpg" alt="Cover for The Sibley Guide to Birds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
-        </h4>
-        <p class="fr-book-author">By David Sibley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Birds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418888-M.jpg" alt="Cover for The Sibley Guide to Birds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
+</h4>
+<p class="fr-book-author">By David Sibley</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: North America, Bird watching, Guidebooks, Birds, Identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: North America, Bird watching, Guidebooks, Birds, Identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
+</h4>
+<p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Birds+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Birds books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Learning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Birds+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Birds books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver"><img src="{{ '/assets/images/marketplace-covers/96263978987482ad357f.jpg' | relative_url }}" alt="Listing image for 8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">8 Band Radio Transceiver HF SSB QRP Software Defined Radio Full Mode Transceiver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio"><img src="{{ '/assets/images/marketplace-covers/2e578c23e84f0664661a.jpg' | relative_url }}" alt="Listing image for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio"><img src="{{ '/assets/images/marketplace-covers/2e578c23e84f0664661a.jpg' | relative_url }}" alt="Listing image for New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">New 70Mhz~6Ghz AD9363 ZYNQ7020 Software Defined Radio SDR ADI Pluto Communicatio</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only"><img src="{{ '/assets/images/marketplace-covers/80e5178ff8242a936e8b.jpg' | relative_url }}" alt="Listing image for RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">RTL-SDR Blog V4 R828D RTL2832U 1PPM TCXO SMA Software Defined Radio (Dongle Only</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM"><img src="{{ '/assets/images/marketplace-covers/ea843ad5c3d5e0f3ed4b.jpg' | relative_url }}" alt="Listing image for Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">Software Defined Radio SDR Radio Receiver DSP Digital Demodulation /AM/SSB/FM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for software defined radio">Search<span data-ebay-domain-label>eBay.co.uk</span>: software defined radio</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=software+defined+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="software defined radio" data-ebay-reference="bird-motion-why-birds-are-harder-than-they-look-automated-instrumented-ufo-detectors-software-defined-radio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ These properties explain why an automated detector may initially assign a bird a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ These properties explain why an automated detector may initially assign a bird a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ These properties explain why an automated detector may initially assign a bird a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ These properties explain why an automated detector may initially assign a bird a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ These properties explain why an automated detector may initially assign a bird a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,85 +790,85 @@ These properties explain why an automated detector may initially assign a bird a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</p></details>
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction12 Nov 2024 — Galileo Project is designing, building, and commissioning a multi-modal, to continuously monitor the sky...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BirdRecorder&#x27;s AI on Sky: Safeguarding birds of prey by...25 Aug 2025 — The algorithm developed identifies motion in the sky by detectin...</p></details>
+   Link:<a href="https://arxiv.org/html/2508.18136v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.18136v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BirdRecorder&#x27;s AI on Sky: Safeguarding birds of prey by...25 Aug 2025 — The algorithm developed identifies motion in the sky by detectin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOopacIUJzHqCla0qxfM1NNca72mWGzvgHxMcuu3BBZeJCDBohl4i" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOopacIUJzHqCla0qxfM1NNca72mWGzvgHxMcuu3BBZeJCDBohl4i</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2 describes the motivations for our study, which includes a...Read more...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOopacIUJzHqCla0qxfM1NNca72mWGzvgHxMcuu3BBZeJCDBohl4i" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOopacIUJzHqCla0qxfM1NNca72mWGzvgHxMcuu3BBZeJCDBohl4i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2 describes the motivations for our study, which includes a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tethys.pnnl.gov  
    Title: YOLO Based Model birds wind farms  
-   Link: <a href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</p></details>
+   Link:<a href="https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tethys.pnnl.gov/sites/default/files/publications/YOLO_Based_Model_birds_wind_farms.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Temporal Boosted YOLO-Based Model for Birds...by H Alqaysi · 2021 · Cited by 37 — This paper proposes a YOLOv4-based ensemble mo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gyanganga.ai  
-   Link: <a href="https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ganga Knowledge PortalIntegrating Thermal UAV Imagery and Deep LearnApril 6, 2024 — Thermal image provides a clearer depiction of the pre...</p></details>
+   Link:<a href="https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gyanganga.ai/admin//fileupload//Bird_monitoring_intelligence_Integrating_Thermal_UAV_Imagery.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ganga Knowledge PortalIntegrating Thermal UAV Imagery and Deep LearnApril 6, 2024 — Thermal image provides a clearer depiction of the pre...</p></details>
    Published: April 6, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project - Harvard UniversityThe Galileo Project research group will aim to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project - Harvard UniversityThe Galileo Project research group will aim to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — (Abridged) The Galileo Project aims to investigate Unidentified...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — (Abridged) The Galileo Project aims to investigate Unidentified...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/khanaamer/bird-detection-dataset" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/khanaamer/bird-detection-dataset</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bird Detection DatasetIt addresses a key challenge in smart farming: accurately detecting small, fast-moving birds in wide-angle field im...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/khanaamer/bird-detection-dataset" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/khanaamer/bird-detection-dataset</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bird Detection DatasetIt addresses a key challenge in smart farming: accurately detecting small, fast-moving birds in wide-angle field im...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...A collection of sensors in the Galileo Project Observatory at Harvard University monito...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...A collection of sensors in the Galileo Project Observatory at Harvard University monito...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: open-access.bcu.ac.uk  
-   Link: <a href="https://www.open-access.bcu.ac.uk/16657/1/From_Blurs_to_Birds_Localization_and_Classification_of_Hard-to-See_Bird_Species_in_Norwegian_Wilderness_Camera_Trap_Images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.open-access.bcu.ac.uk/16657/1/From_Blurs_to_Birds_Localization_and_Classification_of_Hard-to-See_Bird_Species_in_Norwegian_Wilderness_Camera_Trap_Images.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham City University Open AccessLocalization and Classification of Hard-to-See Bird Species in...by H Teigen · 2025 — In the first...</p></details>
+   Link:<a href="https://www.open-access.bcu.ac.uk/16657/1/From_Blurs_to_Birds_Localization_and_Classification_of_Hard-to-See_Bird_Species_in_Norwegian_Wilderness_Camera_Trap_Images.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.open-access.bcu.ac.uk/16657/1/From_Blurs_to_Birds_Localization_and_Classification_of_Hard-to-See_Bird_Species_in_Norwegian_Wilderness_Camera_Trap_Images.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham City University Open AccessLocalization and Classification of Hard-to-See Bird Species in...by H Teigen · 2025 — In the first...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: digitalcameraworld.com  
-   Link: <a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The researchers&#x27; goal is to scan the sky across infrared, optical, ra...</p></details>
+   Link:<a href="https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalcameraworld.com/photography/astrophotography/harvard-researchers-are-using-this-strange-looking-camera-to-look-for-extraterrestrial-evidence-in-the-skies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard researchers are using this strange-looking...11 Apr 2025 — The researchers&#x27; goal is to scan the sky across infrared, optical, ra...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: drbriankeating.medium.com  
-   Link: <a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project: Systematically Searching for Evidence of...The Galileo Project aims to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
+   Link:<a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project: Systematically Searching for Evidence of...The Galileo Project aims to identify the nature of UAP and &#x27;Oumuamua-like in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  
+   Link:<a href="https://skepticalinquirer.org/2021/10/the-galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2021/10/the-galileo-project/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355707137_A_Temporal_Boosted_YOLO-Based_Model_for_Birds_Detection_around_Wind_Farms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355707137_A_Temporal_Boosted_YOLO-Based_Model_for_Birds_Detection_around_Wind_Farms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Temporal Boosted YOLO-Based Model for Birds...22 Oct 2021 — This paper proposes a YOLOv4-based ensemble model for bird detection...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355707137_A_Temporal_Boosted_YOLO-Based_Model_for_Birds_Detection_around_Wind_Farms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355707137_A_Temporal_Boosted_YOLO-Based_Model_for_Birds_Detection_around_Wind_Farms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Temporal Boosted YOLO-Based Model for Birds...22 Oct 2021 — This paper proposes a YOLOv4-based ensemble model for bird detection...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DE5a-5yy2El/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DE5a-5yy2El/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>syncing with the camera&#x27;s frame rate, a phenomenon known as the stroboscopic effect or...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DE5a-5yy2El/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DE5a-5yy2El/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>syncing with the camera&#x27;s frame rate, a phenomenon known as the stroboscopic effect or...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2072-4292/15/10/2638" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/10/2638</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Removing Human Bottlenecks in Bird Classification Using...by C Chalmers · 2023 · Cited by 40 — In this paper, we outline of bird spe...</p></details>
+   Link:<a href="https://www.mdpi.com/2072-4292/15/10/2638" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2072-4292/15/10/2638</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Removing Human Bottlenecks in Bird Classification Using...by C Chalmers · 2023 · Cited by 40 — In this paper, we outline of bird spe...</p></details>

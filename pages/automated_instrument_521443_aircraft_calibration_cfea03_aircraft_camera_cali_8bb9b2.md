@@ -280,19 +280,19 @@ image: /assets/images/automated_instrument_521443_aircraft_calibration_cfea03_ai
 
 ## Introduction
 
-In an automated instrumented UFO detector, a passing aircraft is more than a known object to be filtered out. It can become a moving calibration target that helps transform a camera from a device that merely records images into an instrument that measures positions in the sky. The key advantage is that many aircraft continuously broadcast their location, altitude, velocity, and identity through Automatic Dependent Surveillance–Broadcast ([ADS-B]({{ 'ads-b/' | relative_url }})), creating an independent record of where they should appear in a camera's field of view. By comparing those known positions with observed pixels, a sky-monitoring system can verify its [pointing]({{ 'pointing/' | relative_url }}), correct alignment errors, and measure how accurately it translates images into real-world directions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[Textron Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</span></span></span>
+In an automated instrumented UFO detector, a passing aircraft is more than a known object to be filtered out. It can become a moving calibration target that helps transform a camera from a device that merely records images into an instrument that measures positions in the sky. The key advantage is that many aircraft continuously broadcast their location, altitude, velocity, and identity through Automatic Dependent Surveillance–Broadcast ([ADS-B]({{ 'ads-b/' | relative_url }})), creating an independent record of where they should appear in a camera's field of view. By comparing those known positions with observed pixels, a sky-monitoring system can verify its [pointing]({{ 'pointing/' | relative_url }}), correct alignment errors, and measure how accurately it translates images into real-world directions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[Textron Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-1-dark.svg" | relative_url }}" alt="Moving Targets illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For systems intended to detect unusual aerial phenomena, this capability is crucial. Before any object can be judged anomalous, the detector must demonstrate that it can reliably map ordinary aircraft to the correct locations in the sky. Aircraft therefore act as continuously available reference points that test the camera under real operating conditions rather than laboratory conditions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+For systems intended to detect unusual aerial phenomena, this capability is crucial. Before any object can be judged anomalous, the detector must demonstrate that it can reliably map ordinary aircraft to the correct locations in the sky. Aircraft therefore act as continuously available reference points that test the camera under real operating conditions rather than laboratory conditions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 ## Why a camera needs real-world pointing checks
 
 A camera image is fundamentally a grid of pixels. On its own, a pixel coordinate does not reveal a direction in the sky. To measure an object's position, the system must know exactly how the camera is oriented, how its lens distorts incoming light, and how image coordinates correspond to azimuth and elevation angles.
 
-Even a carefully installed camera can drift. Temperature changes can slightly alter lens geometry. Wind can shift mounts. Mechanical settling can change orientation over time. Wide-angle and fisheye lenses often introduce substantial distortion near the edges of the field of view, making calibration especially important for all-sky monitoring systems. Astronomical all-sky camera research routinely treats accurate astrometric calibration as a major challenge because distortion and orientation errors can translate into large positional mistakes if left uncorrected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A+2ilrs.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa35580 19</span><span class="citation-popover-snippet">A&amp;AAstrometric calibration for all-sky cameras revisitedby D Barghini · 2019 · Cited by 26 — The astrometric calibration of an all-sky ca...</span></span></span>
+Even a carefully installed camera can drift. Temperature changes can slightly alter lens geometry. Wind can shift mounts. Mechanical settling can change orientation over time. Wide-angle and fisheye lenses often introduce substantial distortion near the edges of the field of view, making calibration especially important for all-sky monitoring systems. Astronomical all-sky camera research routinely treats accurate astrometric calibration as a major challenge because distortion and orientation errors can translate into large positional mistakes if left uncorrected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A+2ilrs.gsfc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa35580 19</span><span class="citation-popover-snippet">A&amp;AAstrometric calibration for all-sky cameras revisitedby D Barghini · 2019 · Cited by 26 — The astrometric calibration of an all-sky ca...</span></span></span>
 
-Traditional observatories often use stars for calibration because stellar positions are known with extreme precision. However, aircraft provide a complementary advantage for aerial surveillance systems: they move through the same airspace that the detector is intended to monitor. They therefore test not only pointing accuracy but also detection algorithms, tracking software, [timing]({{ 'timing/' | relative_url }}) synchronisation, and object classification pipelines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Traditional observatories often use stars for calibration because stellar positions are known with extreme precision. However, aircraft provide a complementary advantage for aerial surveillance systems: they move through the same airspace that the detector is intended to monitor. They therefore test not only pointing accuracy but also detection algorithms, tracking software, [timing]({{ 'timing/' | relative_url }}) synchronisation, and object classification pipelines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ Traditional observatories often use stars for calibration because stellar positi
 
 The calibration mechanism is conceptually straightforward.
 
-An ADS-B-equipped aircraft broadcasts its position and altitude. From the detector's location on the ground, those coordinates can be converted into the aircraft's expected azimuth, elevation angle, and range at a given moment. The camera simultaneously records the aircraft as a bright point or moving object in a sequence of frames. If the calibration is correct, the predicted sky position and observed pixel position should agree. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[Textron Aviation+2Analog Devices Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</span></span></span>
+An ADS-B-equipped aircraft broadcasts its position and altitude. From the detector's location on the ground, those coordinates can be converted into the aircraft's expected azimuth, elevation angle, and range at a given moment. The camera simultaneously records the aircraft as a bright point or moving object in a sequence of frames. If the calibration is correct, the predicted sky position and observed pixel position should agree.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[Textron Aviation+2Analog Devices Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</span></span></span>
 
 The process typically involves several stages:
 
@@ -316,9 +316,9 @@ The process typically involves several stages:
 
 </div>
 
-This effectively turns each aircraft into a moving calibration marker whose position is independently known. Unlike fixed calibration targets, aircraft cross different regions of the image and therefore probe multiple parts of the lens and sensor geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
+This effectively turns each aircraft into a moving calibration marker whose position is independently known. Unlike fixed calibration targets, aircraft cross different regions of the image and therefore probe multiple parts of the lens and sensor geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
 
-The approach has moved beyond theory. The [Galileo]({{ 'galileo/' | relative_url }}) Project's all-sky infrared observatory reported a dedicated extrinsic calibration method that uses airplane positions obtained from locally collected ADS-B data. Their calibration pipeline matches aircraft detections in infrared imagery with predicted positions derived from ADS-B trajectories and uses those matches to refine camera orientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+The approach has moved beyond theory. The [Galileo]({{ 'galileo/' | relative_url }}) Project's all-sky infrared observatory reported a dedicated extrinsic calibration method that uses airplane positions obtained from locally collected ADS-B data. Their calibration pipeline matches aircraft detections in infrared imagery with predicted positions derived from ADS-B trajectories and uses those matches to refine camera orientation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-2-dark.svg" | relative_url }}" alt="Moving Targets illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,9 +326,9 @@ The approach has moved beyond theory. The [Galileo]({{ 'galileo/' | relative_url
 
 A stationary calibration object only verifies a limited part of an image. Aircraft provide a richer test because they sweep through many viewing angles and elevations.
 
-A single airliner on approach may move from low elevation near the horizon to a much higher angle in the sky. Over that trajectory it samples different parts of the lens, exposing distortions that would be difficult to identify from a fixed reference point alone. Multiple aircraft travelling on different routes create an even denser calibration network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
+A single airliner on approach may move from low elevation near the horizon to a much higher angle in the sky. Over that trajectory it samples different parts of the lens, exposing distortions that would be difficult to identify from a fixed reference point alone. Multiple aircraft travelling on different routes create an even denser calibration network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
 
-Moving targets also test timing. If camera [timestamps]({{ 'timestamps/' | relative_url }}) are inaccurate, a predicted aircraft position and observed position will diverge along the direction of motion. This allows operators to identify clock offsets and synchronisation problems that might otherwise masquerade as tracking errors. The Galileo Project's commissioning work explicitly accounted for timing uncertainties when matching ADS-B predictions with image detections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
+Moving targets also test timing. If camera [timestamps]({{ 'timestamps/' | relative_url }}) are inaccurate, a predicted aircraft position and observed position will diverge along the direction of motion. This allows operators to identify clock offsets and synchronisation problems that might otherwise masquerade as tracking errors. The Galileo Project's commissioning work explicitly accounted for timing uncertainties when matching ADS-B predictions with image detections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
 
 For automated UFO detection, this is especially valuable because many apparent anomalies arise from geometry and timing misunderstandings rather than unusual object behaviour.
 
@@ -339,9 +339,9 @@ For automated UFO detection, this is especially valuable because many apparent a
 
 The greatest value emerges when calibration is not treated as a one-time procedure.
 
-A detector operating for weeks or months can accumulate thousands of aircraft tracks. Repeated comparisons between ADS-B predictions and image detections create a long-term record of instrument performance. Systematic offsets become visible. A camera that slowly shifts orientation can be identified because aircraft begin appearing consistently displaced from their predicted locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
+A detector operating for weeks or months can accumulate thousands of aircraft tracks. Repeated comparisons between ADS-B predictions and image detections create a long-term record of instrument performance. Systematic offsets become visible. A camera that slowly shifts orientation can be identified because aircraft begin appearing consistently displaced from their predicted locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
 
-The Galileo Project's commissioning work illustrates this idea. Their procedure collects observations from multiple aircraft before computing updated orientation solutions, allowing the system to monitor and correct changes in camera pointing. Rather than assuming the camera remains perfectly aligned forever, aircraft become a continual health check on the instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
+The Galileo Project's commissioning work illustrates this idea. Their procedure collects observations from multiple aircraft before computing updated orientation solutions, allowing the system to monitor and correct changes in camera pointing. Rather than assuming the camera remains perfectly aligned forever, aircraft become a continual health check on the instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The ADS-B...</span></span></span>
 
 Long-term aircraft observations can reveal:
 
@@ -357,7 +357,7 @@ Long-term aircraft observations can reveal:
 
 </div>
 
-Because commercial air traffic is abundant in many regions, these checks can occur naturally without deploying specialised calibration hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeADS-B help Aircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and fli...</span></span></span>
+Because commercial air traffic is abundant in many regions, these checks can occur naturally without deploying specialised calibration hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangeADS-B help Aircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and fli...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-3-dark.svg" | relative_url }}" alt="Moving Targets illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -365,187 +365,187 @@ Because commercial air traffic is abundant in many regions, these checks can occ
 
 The central lesson is that ordinary aircraft provide a measurable bridge between image space and physical space. When a detector repeatedly demonstrates that [known aircraft]({{ 'known-aircraft/' | relative_url }}) appear exactly where independent tracking data says they should appear, confidence increases that the system is correctly interpreting the sky.
 
-This does not guarantee that every unidentified object is extraordinary. Instead, it establishes something more fundamental: that the detector's measurements have a verified relationship to reality. A reported bearing, elevation, angular velocity, or trajectory becomes more credible because the same system has already been tested against thousands of independently tracked aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+This does not guarantee that every unidentified object is extraordinary. Instead, it establishes something more fundamental: that the detector's measurements have a verified relationship to reality. A reported bearing, elevation, angular velocity, or trajectory becomes more credible because the same system has already been tested against thousands of independently tracked aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-In that sense, aircraft are not merely clutter to be removed from UFO databases. They are moving calibration standards that continuously demonstrate whether a sky-monitoring camera is functioning as a scientific instrument or merely collecting images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+In that sense, aircraft are not merely clutter to be removed from UFO databases. They are moving calibration standards that continuously demonstrate whether a sky-monitoring camera is functioning as a scientific instrument or merely collecting images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sA376ly2cvo" title="Why Scientists Stopped LISTENING For Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer">Why Scientists Stopped LISTENING For Aliens</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sA376ly2cvo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How planes turn pixels into sky measurements. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How planes turn pixels into sky measurements. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
-        </h4>
-        <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
+</h4>
+<p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
         
-        <p class="fr-book-desc">Strong match for converting pixel locations into azimuth, elevation, and geometric measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for converting pixel locations into azimuth, elevation, and geometric measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Processing, Global Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785449-M.jpg" alt="Cover for Digital Image Processing, Global Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
+</h4>
+<p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+</h4>
+<p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Computer vision, Projective Geometry, Geometry, modern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="moving-targets-how-planes-turn-pixels-into-sky-measurements-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,123 +751,123 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</p></details>
    Published: November 12, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aanda.org  
    Title: aa35580 19  
-   Link: <a href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A&amp;AAstrometric calibration for all-sky cameras revisitedby D Barghini · 2019 · Cited by 26 — The astrometric calibration of an all-sky ca...</p></details>
+   Link:<a href="https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2019/06/aa35580-19/aa35580-19.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A&amp;AAstrometric calibration for all-sky cameras revisitedby D Barghini · 2019 · Cited by 26 — The astrometric calibration of an all-sky ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ilrs.gsfc.nasa.gov  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in operational GUIs with predicted [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) or ADS-B relayed aircraft) as...Read more...</p></details>
+   Link:<a href="https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/lw22/posters/papers/S06-P13_Jose_Rodriguez_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in operational GUIs with predicted [satellites](&amp;#123;&amp;#123; &#x27;satellites/&#x27; | relative_url &amp;#125;&amp;#125;) or ADS-B relayed aircraft) as...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wiki.analog.com  
-   Link: <a href="https://wiki.analog.com/resources/eval/user-guides/picozed_sdr/tutorials/adsb" target="_blank" rel="noopener noreferrer nofollow">https://wiki.analog.com/resources/eval/user-guides/picozed_sdr/tutorials/adsb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analog Devices WikiADS-B Airplane Tracking Tutorial30 Jan 2023 — Commercial aircraft use ADS-B transmitters to report their position, vel...</p></details>
+   Link:<a href="https://wiki.analog.com/resources/eval/user-guides/picozed_sdr/tutorials/adsb" target="_blank" rel="noopener noreferrer nofollow">https://wiki.analog.com/resources/eval/user-guides/picozed_sdr/tutorials/adsb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analog Devices WikiADS-B Airplane Tracking Tutorial30 Jan 2023 — Commercial aircraft use ADS-B transmitters to report their position, vel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ADS-B...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ADS-B...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
    Title: JAIS Detection and Tracking of Aircraft Systems R1b4  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Tracking of Aircraft in the Far-Field from...by CV Dolph · 2021 · Cited by 18 — –Broadcast (ADS-B), A 100-pixel radius corresponds t...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20210010503/downloads/JAIS%20Detection%20and%20Tracking%20of%20Aircraft%20%20Systems%20R1b4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Tracking of Aircraft in the Far-Field from...by CV Dolph · 2021 · Cited by 18 — –Broadcast (ADS-B), A 100-pixel radius corresponds t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Why Scientists Stopped LISTENING For Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sA376ly2cvo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sA376ly2cvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sA376ly2cvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Galileo Project  
-   Link: <a href="https://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YSxF8SuTBtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YSxF8SuTBtU</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</p></details>
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeADS-B help Aircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and fli...</p></details>
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeADS-B help Aircraft use ADS-B (Automatic Dependent Surveillance-Broadcast) to transmit their position and fli...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOormwXo-osRWw_QJzbIAbgoB7AdoQrWvMuS1j1ckl6ez-c8inn2g" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOormwXo-osRWw_QJzbIAbgoB7AdoQrWvMuS1j1ckl6ez-c8inn2g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4.2.1). •. We...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOormwXo-osRWw_QJzbIAbgoB7AdoQrWvMuS1j1ckl6ez-c8inn2g" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400020?srsltid=AfmBOormwXo-osRWw_QJzbIAbgoB7AdoQrWvMuS1j1ckl6ez-c8inn2g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4.2.1). •. We...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an All-Sky Infrared Camera Array for...In addition to performing intrinsic and thermal calibrations, we implement a novel extrinsic cali...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an All-Sky Infrared Camera Array for...In addition to performing intrinsic and thermal calibrations, we implement a novel extrinsic cali...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — In addition to performing intrinsic and thermal calibrations, w...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Commissioning an All-Sky Infrared Camera Array for...10 Jan 2025 — In addition to performing intrinsic and thermal calibrations, w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: raspberrypi.com  
-   Link: <a href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build your own Raspberry Pi flight trackerReceive signals from aircraft transponders and track flights with a Raspberry Pi 3 A+ and a low...</p></details>
+   Link:<a href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build your own Raspberry Pi flight trackerReceive signals from aircraft transponders and track flights with a Raspberry Pi 3 A+ and a low...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast (ADS-B) data was col...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...Airplane positions from Automatic Dependent Surveillance–Broadcast (ADS-B) data was col...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project has released the commissioning data from its f...</p></details>
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project has released the commissioning data from its f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sgf.rgo.ac.uk  
-   Link: <a href="https://sgf.rgo.ac.uk/operations/adsb.html" target="_blank" rel="noopener noreferrer nofollow">https://sgf.rgo.ac.uk/operations/adsb.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rgo.ac.ukADS-B technology informs the SGF in-sky aircraft safety systemThe latitudes, longitudes and altitudes are converted to in-sky az...</p></details>
+   Link:<a href="https://sgf.rgo.ac.uk/operations/adsb.html" target="_blank" rel="noopener noreferrer nofollow">https://sgf.rgo.ac.uk/operations/adsb.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rgo.ac.ukADS-B technology informs the SGF in-sky aircraft safety systemThe latitudes, longitudes and altitudes are converted to in-sky az...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: la.mathworks.com  
    Title: simulate and track en route air traffic with earth centered scenarios  
-   Link: <a href="https://la.mathworks.com/help/fusion/ug/simulate-and-track-en-route-air-traffic-with-earth-centered-scenarios.html" target="_blank" rel="noopener noreferrer nofollow">https://la.mathworks.com/help/fusion/ug/simulate-and-track-en-route-air-traffic-with-earth-centered-scenarios.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this section, you simulate the scenario and step the [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) tracker, track fuser, ADS-B transponder, and receiver. %...Read more...</p></details>
+   Link:<a href="https://la.mathworks.com/help/fusion/ug/simulate-and-track-en-route-air-traffic-with-earth-centered-scenarios.html" target="_blank" rel="noopener noreferrer nofollow">https://la.mathworks.com/help/fusion/ug/simulate-and-track-en-route-air-traffic-with-earth-centered-scenarios.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this section, you simulate the scenario and step the [radar](&amp;#123;&amp;#123; &#x27;radar/&#x27; | relative_url &amp;#125;&amp;#125;) tracker, track fuser, ADS-B transponder, and receiver. %...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: discussions.flightaware.com  
    Title: finding altitude azimuth of flight for telescope  
-   Link: <a href="https://discussions.flightaware.com/t/finding-altitude-azimuth-of-flight-for-telescope/61483" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/finding-altitude-azimuth-of-flight-for-telescope/61483</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FlightAware DiscussionsFinding altitude, azimuth of flight for telescope26 Feb 2020 — My goal would be to find all flight traffic in a re...</p></details>
+   Link:<a href="https://discussions.flightaware.com/t/finding-altitude-azimuth-of-flight-for-telescope/61483" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/finding-altitude-azimuth-of-flight-for-telescope/61483</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FlightAware DiscussionsFinding altitude, azimuth of flight for telescope26 Feb 2020 — My goal would be to find all flight traffic in a re...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discussions.flightaware.com  
    Title: interesting ads b broadcasts what are they  
-   Link: <a href="https://discussions.flightaware.com/t/interesting-ads-b-broadcasts-what-are-they/98186" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/interesting-ads-b-broadcasts-what-are-they/98186</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B broadcasts... What are they?5 May 2025 — Typically a radar/surveillance aircraft: Are aircraft/balloons at 120,000 being detected o...</p></details>
+   Link:<a href="https://discussions.flightaware.com/t/interesting-ads-b-broadcasts-what-are-they/98186" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/interesting-ads-b-broadcasts-what-are-they/98186</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B broadcasts... What are they?5 May 2025 — Typically a radar/surveillance aircraft: Are aircraft/balloons at 120,000 being detected o...</p></details>
    Published: May 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 317599939 Large Scale ADS B Data and Signal Quality Analysis  
-   Link: <a href="https://www.researchgate.net/publication/317599939_Large-Scale_ADS-B_Data_and_Signal_Quality_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317599939_Large-Scale_ADS-B_Data_and_Signal_Quality_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project is designing, building, and commissioning a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317599939_Large-Scale_ADS-B_Data_and_Signal_Quality_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317599939_Large-Scale_ADS-B_Data_and_Signal_Quality_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project is designing, building, and commissioning a...</p></details>

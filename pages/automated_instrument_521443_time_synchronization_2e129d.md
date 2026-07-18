@@ -452,13 +452,13 @@ Accurate timing is one of the least glamorous parts of automated instrumented UF
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-overview.webp" | relative_url }}" alt="Overview image for Timing" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many striking sky events are brief, fast and ambiguous. NASA’s 2023 UAP study found that current analysis is hampered by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}); it specifically identifies time, location and observing modes as part of the metadata needed to interpret a recorded event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> In automated detectors, “what happened?” often depends on a quieter question: “did these measurements happen at the same moment?”
+This matters because many striking sky events are brief, fast and ambiguous. NASA’s 2023 UAP study found that current analysis is hampered by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}); it specifically identifies time, location and observing modes as part of the metadata needed to interpret a recorded event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> In automated detectors, “what happened?” often depends on a quieter question: “did these measurements happen at the same moment?”
 
 ## Why timestamps are evidence
 
 A timestamp does more than sort files into chronological order. In an instrumented UAP record, it is part of the measurement. It tells the analyst when a sensor saw a light, when a pan-tilt unit moved, when an aircraft transponder packet was received, when the wind changed, when a microphone heard a pulse, and whether two geographically [separated stations]({{ 'triangulation-f8259a/' | relative_url }}) were observing the same thing or two unrelated things.
 
-That is why time belongs with calibration and provenance, not with office administration. NASA’s UAP report argues that AI and machine-learning tools only work on well-characterised data gathered to strong standards, and that future UAP analysis needs multiple, calibrated sensors with thorough metadata rather than isolated clips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The [Galileo]({{ 'galileo/' | relative_url }}) Project makes the same point through its observatory concept: wide-field cameras, narrow-field instruments, passive radar-style receivers, radio spectrum monitors, microphones and environmental sensors are useful because their measurements can be fused, cross-checked and used to reject artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories &#124; The Gali...</span></span></span> Without common timing, that “multi-sensor” record can degrade into several separate anecdotes.
+That is why time belongs with calibration and provenance, not with office administration. NASA’s UAP report argues that AI and machine-learning tools only work on well-characterised data gathered to strong standards, and that future UAP analysis needs multiple, calibrated sensors with thorough metadata rather than isolated clips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The [Galileo]({{ 'galileo/' | relative_url }}) Project makes the same point through its observatory concept: wide-field cameras, narrow-field instruments, passive radar-style receivers, radio spectrum monitors, microphones and environmental sensors are useful because their measurements can be fused, cross-checked and used to reject artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories &#124; The Gali...</span></span></span> Without common timing, that “multi-sensor” record can degrade into several separate anecdotes.
 
 Timing also changes what counts as corroboration. Two cameras showing a bright object are not automatically two observations of the same object. To compare them, analysts need to know whether the frames overlap in time closely enough for the object’s apparent direction, angular speed and brightness to be physically compatible. A one-second error may be harmless for a slow cloud illumination, but it can be decisive for a meteor, a nearby bird, a drone crossing a wide field, or a satellite flare that appears and fades quickly.
 
@@ -468,19 +468,19 @@ Timing also changes what counts as corroboration. Two cameras showing a bright o
 
 Automated UAP stations are usually built around heterogenous instruments: cameras may run at 25, 30, 60 or more frames per second; radio receivers may log events continuously; environmental sensors may sample every few seconds; microphones may record at audio rates; pan-tilt mounts may report positions after internal processing delays. Clock synchronisation is the mechanism that turns these different streams into a shared event record.
 
-The Galileo Project’s published observatory architecture is a useful concrete anchor. Its 2025 Observatory Class Integrated Computing Platform is designed to collect multimodal data from multiple sensors, manage provenance, support real-time acquisition, and later analyse events through commissioning, census operations and science operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span> In that kind of system, clock discipline is not a decorative feature. It is what allows a post-processing pipeline to ask whether an optical track, an acoustic signal and a radio-frequency feature belong to the same event window.
+The Galileo Project’s published observatory architecture is a useful concrete anchor. Its 2025 Observatory Class Integrated Computing Platform is designed to collect multimodal data from multiple sensors, manage provenance, support real-time acquisition, and later analyse events through commissioning, census operations and science operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span> In that kind of system, clock discipline is not a decorative feature. It is what allows a post-processing pipeline to ask whether an optical track, an acoustic signal and a radio-frequency feature belong to the same event window.
 
-The same logic is visible outside UAP research. The OpenSky Network, a large ADS-B aircraft sensor network used for aviation research, records raw aircraft messages at sensor nodes with nanosecond-precision timestamps for time-critical evaluations that require tight synchronisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-title">A Large-scale ADS-B Sensor Network for Research</span><span class="citation-popover-snippet">February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</span><span class="citation-popover-meta">Published: February 9, 2014</span></span></span> Meteor-camera networks also show why this matters: one recent multi-station meteor monitoring design highlights built-in GPS timing to about one microsecond as a key feature for accurately timing atmospheric entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> UAP detectors face similar reconstruction problems, even when the target ultimately proves to be ordinary.
+The same logic is visible outside UAP research. The OpenSky Network, a large ADS-B aircraft sensor network used for aviation research, records raw aircraft messages at sensor nodes with nanosecond-precision timestamps for time-critical evaluations that require tight synchronisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-title">A Large-scale ADS-B Sensor Network for Research</span><span class="citation-popover-snippet">February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</span><span class="citation-popover-meta">Published: February 9, 2014</span></span></span> Meteor-camera networks also show why this matters: one recent multi-station meteor monitoring design highlights built-in GPS timing to about one microsecond as a key feature for accurately timing atmospheric entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> UAP detectors face similar reconstruction problems, even when the target ultimately proves to be ordinary.
 
 ## GPS timing and network clocks
 
 Most practical UAP detector designs have three broad timing choices: use a satellite-disciplined clock at the station, synchronise computers over a network, or combine both.
 
-A GPS or broader GNSS receiver can provide a pulse-per-second timing signal and a UTC time reference. In scientific and engineering systems, this is often used to discipline a local oscillator so that timestamps remain stable even when the computer operating system is busy or the network is variable. A NASA technical paper on using GPS receiver one-pulse-per-second output illustrates the basic principle: the pulse is treated as a timing reference against which recorded data can be aligned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server USING GPS RECEIVER 1PPS OUTPUT TO VERIFY TIME</span><span class="citation-popover-snippet">Technical Reports Server USING GPS RECEIVER 1PPS OUTPUT TO VERIFY TIME</span></span></span> Physics experiments use the same idea at higher precision; a GPS-based timestamp facility at Gran Sasso National Laboratory was designed to assign accurate timestamps to underground detector events and reported 15 ns one-sigma timing accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span><span class="citation-popover-snippet">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span></span></span>
+A GPS or broader GNSS receiver can provide a pulse-per-second timing signal and a UTC time reference. In scientific and engineering systems, this is often used to discipline a local oscillator so that timestamps remain stable even when the computer operating system is busy or the network is variable. A NASA technical paper on using GPS receiver one-pulse-per-second output illustrates the basic principle: the pulse is treated as a timing reference against which recorded data can be aligned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server USING GPS RECEIVER 1PPS OUTPUT TO VERIFY TIME</span><span class="citation-popover-snippet">Technical Reports Server USING GPS RECEIVER 1PPS OUTPUT TO VERIFY TIME</span></span></span> Physics experiments use the same idea at higher precision; a GPS-based timestamp facility at Gran Sasso National Laboratory was designed to assign accurate timestamps to underground detector events and reported 15 ns one-sigma timing accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span><span class="citation-popover-snippet">arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory</span></span></span>
 
-Network Time Protocol, or NTP, is the common, low-cost way to keep computers roughly aligned to UTC over packet networks. It is good enough for many administrative and monitoring tasks, and the original NTP literature describes long-term accuracies on the order of a few milliseconds under suitable conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntp.org/reflib/papers/trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntp.org">[NTP: Network Time Protocol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntp.org</span><span class="citation-popover-snippet">Open source on ntp.org.</span></span></span> But NTP accuracy depends strongly on network latency, asymmetry, operating-system scheduling and configuration. For UAP reconstruction, that means NTP may be adequate for slow event correlation, but it should not be treated as automatically precise enough for frame-level or time-of-arrival analysis.
+Network Time Protocol, or NTP, is the common, low-cost way to keep computers roughly aligned to UTC over packet networks. It is good enough for many administrative and monitoring tasks, and the original NTP literature describes long-term accuracies on the order of a few milliseconds under suitable conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntp.org/reflib/papers/trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntp.org">[NTP: Network Time Protocol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntp.org</span><span class="citation-popover-snippet">Open source on ntp.org.</span></span></span> But NTP accuracy depends strongly on network latency, asymmetry, operating-system scheduling and configuration. For UAP reconstruction, that means NTP may be adequate for slow event correlation, but it should not be treated as automatically precise enough for frame-level or time-of-arrival analysis.
 
-Precision Time Protocol, or PTP, is designed for more demanding local networks. The IEEE 1588-2019 standard describes a protocol for synchronising clocks with sub-microsecond accuracy and precision using modest network and computing resources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ieeexplore.ieee.org/document/9120376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ieeexplore.ieee.org">[IEEE Xplore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ieeexplore.ieee.org</span><span class="citation-popover-snippet">Open source on ieee.org.</span></span></span> In an observatory setting, PTP can be especially useful when several sensors feed one local [edge-computing]({{ 'edge-computer/' | relative_url }}) system, because it can align cameras, receivers and acquisition boards more tightly than ordinary internet timekeeping.
+Precision Time Protocol, or PTP, is designed for more demanding local networks. The IEEE 1588-2019 standard describes a protocol for synchronising clocks with sub-microsecond accuracy and precision using modest network and computing resources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ieeexplore.ieee.org/document/9120376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ieeexplore.ieee.org">[IEEE Xplore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ieeexplore.ieee.org</span><span class="citation-popover-snippet">Open source on ieee.org.</span></span></span> In an observatory setting, PTP can be especially useful when several sensors feed one local [edge-computing]({{ 'edge-computer/' | relative_url }}) system, because it can align cameras, receivers and acquisition boards more tightly than ordinary internet timekeeping.
 
 The practical distinction is simple: GPS or GNSS gives a station a strong reference to world time; PTP can distribute precise time inside the station; NTP is often acceptable for coarse logging and system administration but risky as the only timing foundation for high-speed reconstruction.
 
@@ -491,13 +491,13 @@ The practical distinction is simple: GPS or GNSS gives a station a strong refere
 
 Timing errors do not merely add a little fuzz to a UAP record. They can create false speed, false acceleration, false coincidence and false mystery.
 
-The clearest failure mode is triangulation. If two cameras at known locations observe an object, analysts can estimate its three-dimensional position only if they know where each camera was pointing and when each image was taken. The Galileo Project’s observatory paper explicitly links wide-field cameras to deriving object positions and kinematics using triangulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories &#124; The Gali...</span></span></span> If one station’s clock is late by half a second, a moving aircraft, drone, meteor or nearby insect can be paired with the wrong point in the other station’s video. The resulting 3D track may look physically strange even though the input observations were ordinary.
+The clearest failure mode is triangulation. If two cameras at known locations observe an object, analysts can estimate its three-dimensional position only if they know where each camera was pointing and when each image was taken. The Galileo Project’s observatory paper explicitly links wide-field cameras to deriving object positions and kinematics using triangulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories &#124; The Gali...</span></span></span> If one station’s clock is late by half a second, a moving aircraft, drone, meteor or nearby insect can be paired with the wrong point in the other station’s video. The resulting 3D track may look physically strange even though the input observations were ordinary.
 
-A second failure mode is bad velocity. Suppose a detector records an object crossing ten degrees of sky in two seconds, but the frame timestamps are actually delayed or irregular because of buffering. The angular speed estimate changes immediately. If the distance is then inferred from triangulation or assumed from aircraft altitude, the speed estimate can shift from mundane to implausible. NASA’s UAP report warns that evidence thresholds are needed to avoid errors with automated methods, and says purpose-built sensors should be able to adjust on millisecond timescales while alert systems share transient information quickly and uniformly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> Millisecond-scale system behaviour is hard to interpret if the event record itself does not preserve millisecond-scale timing honestly.
+A second failure mode is bad velocity. Suppose a detector records an object crossing ten degrees of sky in two seconds, but the frame timestamps are actually delayed or irregular because of buffering. The angular speed estimate changes immediately. If the distance is then inferred from triangulation or assumed from aircraft altitude, the speed estimate can shift from mundane to implausible. NASA’s UAP report warns that evidence thresholds are needed to avoid errors with automated methods, and says purpose-built sensors should be able to adjust on millisecond timescales while alert systems share transient information quickly and uniformly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> Millisecond-scale system behaviour is hard to interpret if the event record itself does not preserve millisecond-scale timing honestly.
 
 A third failure mode is false coincidence. A magnetometer spike, microphone transient, aircraft ADS-B packet or weather change may look related to a visual sighting if the event window is too wide or the clocks drift. Conversely, real coincidences can be missed if sensors use different clocks and no uncertainty is recorded. In a serious event file, a timestamp should therefore be accompanied by an uncertainty estimate: for example, “frame exposure midpoint known to within 2 ms”, “ADS-B packet reception timestamped at receiver”, or “environmental reading sampled every 10 seconds”.
 
-The fourth failure mode is hidden latency. Many sensors do not timestamp the physical event directly. They timestamp the moment a driver delivered a frame, the moment software processed a packet, or the moment a file was written. ADS-B research is a useful warning here: OpenSky’s value for research comes partly from recording raw messages with precise reception timestamps, while other aviation studies distinguish between when a position was measured onboard and when the report was received at a ground station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-title">A Large-scale ADS-B Sensor Network for Research</span><span class="citation-popover-snippet">February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</span><span class="citation-popover-meta">Published: February 9, 2014</span></span></span> A UAP detector needs the same discipline: record the event time as close to the sensor as possible, and document the delay between sensing, processing and storage.
+The fourth failure mode is hidden latency. Many sensors do not timestamp the physical event directly. They timestamp the moment a driver delivered a frame, the moment software processed a packet, or the moment a file was written. ADS-B research is a useful warning here: OpenSky’s value for research comes partly from recording raw messages with precise reception timestamps, while other aviation studies distinguish between when a position was measured onboard and when the report was received at a ground station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opensky-network.org">[opensky-network.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opensky-network.org</span><span class="citation-popover-title">A Large-scale ADS-B Sensor Network for Research</span><span class="citation-popover-snippet">February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</span><span class="citation-popover-meta">Published: February 9, 2014</span></span></span> A UAP detector needs the same discipline: record the event time as close to the sensor as possible, and document the delay between sensing, processing and storage.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-2-dark.svg" | relative_url }}" alt="Timing illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -519,7 +519,7 @@ A practical record should preserve:
 
 </div>
 
-This may sound fussy, but it is what separates reusable evidence from a seductive clip. NASA’s report says several apparent UAP have been shown to be sensor artefacts once calibration and metadata scrutiny were applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> Timing metadata is part of that scrutiny because it shows whether the claimed sequence of events is physically supported by the instruments.
+This may sound fussy, but it is what separates reusable evidence from a seductive clip. NASA’s report says several apparent UAP have been shown to be sensor artefacts once calibration and metadata scrutiny were applied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> Timing metadata is part of that scrutiny because it shows whether the claimed sequence of events is physically supported by the instruments.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tYb3G9jzpCA" title="UAP Detection &amp; Tracking | David Hooper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer">UAP Detection &amp; Tracking | David Hooper</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tYb3G9jzpCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tYb3G9jzpCA">Open on YouTube</a></p></div></div></div>
@@ -532,7 +532,7 @@ For a slow, stationary light recorded for several minutes, second-level timing m
 
 The danger is overclaiming. If a station’s camera is synchronised only by ordinary NTP and the software timestamps frames after compression, it should not present sub-frame kinematics as hard evidence. If a network claims that [two stations]({{ 'two-stations/' | relative_url }}) saw the same fast object, it should show clock offsets and uncertainty. If a system reports extreme acceleration, the timing chain should be audited before the result is treated as anomalous.
 
-This is also where automated UAP work can learn from mature adjacent fields. Distributed particle and cosmic-ray detectors, meteor networks, ADS-B receiver networks and underground physics experiments all treat timestamping as a design problem rather than an afterthought. Low-cost GPS-based cosmic-ray detector cards have demonstrated event timestamping to about 50 ns UTC accuracy between widely separated sites, showing that high-quality timing is not limited to national laboratories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[INSPIRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">Open source on inspirehep.net.</span></span></span> The lesson for UAP systems is not that every sky camera needs that precision; it is that the timing requirement should be chosen deliberately and stated honestly.
+This is also where automated UAP work can learn from mature adjacent fields. Distributed particle and cosmic-ray detectors, meteor networks, ADS-B receiver networks and underground physics experiments all treat timestamping as a design problem rather than an afterthought. Low-cost GPS-based cosmic-ray detector cards have demonstrated event timestamping to about 50 ns UTC accuracy between widely separated sites, showing that high-quality timing is not limited to national laboratories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inspirehep.net">[INSPIRE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inspirehep.net</span><span class="citation-popover-snippet">Open source on inspirehep.net.</span></span></span> The lesson for UAP systems is not that every sky camera needs that precision; it is that the timing requirement should be chosen deliberately and stated honestly.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -549,194 +549,194 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Every UAP Sensor Needs the Same Clock. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Every UAP Sensor Needs the Same Clock. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open GPS for Land Surveyors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J0fLBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for GPS for Land Surveyors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
-        </h4>
-        <p class="fr-book-author">By Jan Van Sickle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open GPS for Land Surveyors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J0fLBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for GPS for Land Surveyors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
+</h4>
+<p class="fr-book-author">By Jan Van Sickle</p>
         
-        <p class="fr-book-desc">Covers precise positioning and timing concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers precise positioning and timing concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Highlights importance of accurate timestamps in evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights importance of accurate timestamps in evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">GPS for Land Surveyors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">GPS for Land Surveyors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="timing-why-every-uap-sensor-needs-the-same-clock-automated-instrumented-ufo-detectors-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -752,7 +752,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -772,7 +772,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -804,7 +804,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -856,7 +856,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -901,7 +901,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -942,202 +942,202 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: ar Xiv1  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: opensky-network.org  
    Title: A Large-scale ADS-B Sensor Network for Research  
-   Link: <a href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/files/publications/ipsn2014.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</p></details>
+   Link:<a href="https://opensky-network.org/files/publications/ipsn2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/files/publications/ipsn2014.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2014 — by M Schäfer · Cited by 761 — OpenSky records all messages as they are received by sensor nodes, including nanosecond...</p></details>
    Published: February 9, 2014  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
+   Link:<a href="https://arxiv.org/html/2409.19503v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.19503v1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server USING GPS RECEIVER 1PPS OUTPUT TO VERIFY TIME  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20180008450/downloads/20180008450.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Accurate GPS-based timestamp facility for Gran Sasso National Laboratory  
-   Link: <a href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.00233</a>  
+   Link:<a href="https://arxiv.org/abs/1903.00233" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.00233</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ntp.org  
-   Link: <a href="https://www.ntp.org/reflib/papers/trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntp.org/reflib/papers/trans.pdf</a>  
+   Link:<a href="https://www.ntp.org/reflib/papers/trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntp.org/reflib/papers/trans.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ieeexplore.ieee.org  
-   Link: <a href="https://ieeexplore.ieee.org/document/9120376" target="_blank" rel="noopener noreferrer nofollow">https://ieeexplore.ieee.org/document/9120376</a>  
+   Link:<a href="https://ieeexplore.ieee.org/document/9120376" target="_blank" rel="noopener noreferrer nofollow">https://ieeexplore.ieee.org/document/9120376</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv A study of uncompensated latency in ADS-B reports  
-   Link: <a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
+   Link:<a href="https://arxiv.org/abs/2008.06352" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06352</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19780042273" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19780042273</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19780042273" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19780042273</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ilrs.gsfc.nasa.gov  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf</a>  
+   Link:<a href="https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/docs/timing/gpsrole.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2503.19753v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.19753v2</a>  
+   Link:<a href="https://arxiv.org/html/2503.19753v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.19753v2</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
+   Link:<a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: s3.opensky-network.org  
-   Link: <a href="https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf</a>  
+   Link:<a href="https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.opensky-network.org/website-public-files/publications/dasc2016.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/about/publications" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/publications</a>  
+   Link:<a href="https://opensky-network.org/about/publications" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/publications</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/files/publications/ipsn2014_demo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/files/publications/ipsn2014_demo.pdf</a>  
+   Link:<a href="https://opensky-network.org/files/publications/ipsn2014_demo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/files/publications/ipsn2014_demo.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: standards.ieee.org  
-   Link: <a href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow">https://standards.ieee.org/standard/1588-2008.html</a>  
+   Link:<a href="https://standards.ieee.org/standard/1588-2008.html" target="_blank" rel="noopener noreferrer nofollow">https://standards.ieee.org/standard/1588-2008.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories | The Gali...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo ProjectThe Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories | The Gali...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: inspirehep.net  
-   Link: <a href="https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb</a>  
+   Link:<a href="https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb" target="_blank" rel="noopener noreferrer nofollow">https://inspirehep.net/files/717d2eaf1d3894de5e1ed07a1daf2afb</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Network Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Network_Time_Protocol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Network_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Network_Time_Protocol</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Precision Time Protocol  
-   Link: <a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Precision_Time_Protocol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Precision_Time_Protocol</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: papers.cool  
-   Link: <a href="https://papers.cool/arxiv/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.00125</a>  
+   Link:<a href="https://papers.cool/arxiv/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2506.00125</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: arubanetworking.hpe.com  
-   Link: <a href="https://arubanetworking.hpe.com/techdocs/AOS-CX/10.16/HTML/fundamentals_6300-6400/Content/Chp_PTP/ptp.htm" target="_blank" rel="noopener noreferrer nofollow">https://arubanetworking.hpe.com/techdocs/AOS-CX/10.16/HTML/fundamentals_6300-6400/Content/Chp_PTP/ptp.htm</a>  
+   Link:<a href="https://arubanetworking.hpe.com/techdocs/AOS-CX/10.16/HTML/fundamentals_6300-6400/Content/Chp_PTP/ptp.htm" target="_blank" rel="noopener noreferrer nofollow">https://arubanetworking.hpe.com/techdocs/AOS-CX/10.16/HTML/fundamentals_6300-6400/Content/Chp_PTP/ptp.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: microchip.com  
-   Link: <a href="https://www.microchip.com/en-us/products/clock-and-timing/systems" target="_blank" rel="noopener noreferrer nofollow">https://www.microchip.com/en-us/products/clock-and-timing/systems</a>  
+   Link:<a href="https://www.microchip.com/en-us/products/clock-and-timing/systems" target="_blank" rel="noopener noreferrer nofollow">https://www.microchip.com/en-us/products/clock-and-timing/systems</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5QeRJ_C4jlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5QeRJ_C4jlY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5QeRJ_C4jlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5QeRJ_C4jlY</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Build Your Own Data Logger: Module 3.4.1: What Time Is It?  
-   Link: <a href="https://www.youtube.com/watch?v=NA4Y9qti-Pw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NA4Y9qti-Pw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Time Synchronization for [Sensor Fusion](&amp;#123;&amp;#123; &#x27;sensor-fusion/&#x27; | relative_url &amp;#125;&amp;#125;) with A-PHY - YouTube Advanced Time Synchronization for Sensor Fusion with A-PHY - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NA4Y9qti-Pw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NA4Y9qti-Pw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Time Synchronization for [Sensor Fusion](&amp;#123;&amp;#123; &#x27;sensor-fusion/&#x27; | relative_url &amp;#125;&amp;#125;) with A-PHY - YouTube Advanced Time Synchronization for Sensor Fusion with A-PHY - YouTube...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GnG50qsUWbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GnG50qsUWbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in Embedded Systems, overview of gPTP (Precision Time Protocol)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GnG50qsUWbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GnG50qsUWbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time Synchronization in Embedded Systems, overview of gPTP (Precision Time Protocol)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: OAK4 PTP Sync: Precise Multi-Camera Time/Data Sync Over Ethernet  
-   Link: <a href="https://www.youtube.com/watch?v=txYDSPn9v-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=txYDSPn9v-I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPGA Horizons 2026: Timing in Embedded Systems – PTP, Clocking &amp; RF Synchronization...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=txYDSPn9v-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=txYDSPn9v-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FPGA Horizons 2026: Timing in Embedded Systems – PTP, Clocking &amp; RF Synchronization...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Advanced Time Synchronization for Sensor Fusion with A-PHY  
-   Link: <a href="https://www.youtube.com/watch?v=WfFmu77M8y8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WfFmu77M8y8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OAK4 PTP Sync: Precise Multi-Camera Time/Data Sync Over Ethernet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WfFmu77M8y8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WfFmu77M8y8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OAK4 PTP Sync: Precise Multi-Camera Time/Data Sync Over Ethernet...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZrujSridNpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrujSridNpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Your Own Data Logger: Module 3.4.1: What Time Is It?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZrujSridNpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZrujSridNpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Your Own Data Logger: Module 3.4.1: What Time Is It?...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp</a>  
+   Link:<a href="https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321736587_ADS-B_vulnerabilities_and_a_security_solution_with_a_timestamp</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks</a>  
+   Link:<a href="https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388713619_High-Precision_Time_Synchronization_Based_on_Timestamp_Mapping_in_Datacenter_Networks</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
+   Link:<a href="https://www.facebook.com/groups/625436697499583/posts/7266561173387069/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/625436697499583/posts/7266561173387069/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861</a>  
+   Link:<a href="https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Flow-chart-of-the-Automatic-Measurement-Station-in-Hessdalen-System-2_fig1_241556861</a>  

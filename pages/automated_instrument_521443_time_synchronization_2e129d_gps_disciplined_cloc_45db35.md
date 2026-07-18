@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_time_synchronization_2e129d_gp
 
 ## Introduction
 
-For an automated UAP detector, the station clock is part of the measuring instrument, not merely a way to name files. If the clock cannot be trusted, it becomes difficult to determine whether a camera frame, radio signal, environmental sensor reading or observation from another station truly describes the same event. A GPS-disciplined clock, more accurately described today as a GNSS-disciplined oscillator (GNSSDO), provides an independent reference to Coordinated Universal Time (UTC) that is far more stable than relying on an ordinary computer clock or an internet connection alone. Studies from the US National Institute of Standards and Technology (NIST) show that properly implemented GPS-disciplined oscillators can provide [timing]({{ 'timing/' | relative_url }}) referenced to UTC with uncertainties well below a microsecond after calibration, making them suitable for demanding scientific instrumentation rather than simple computer timekeeping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tf.boulder.nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tf.boulder.nist.gov</span><span class="citation-popover-snippet">Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</span></span></span>
+For an automated UAP detector, the station clock is part of the measuring instrument, not merely a way to name files. If the clock cannot be trusted, it becomes difficult to determine whether a camera frame, radio signal, environmental sensor reading or observation from another station truly describes the same event. A GPS-disciplined clock, more accurately described today as a GNSS-disciplined oscillator (GNSSDO), provides an independent reference to Coordinated Universal Time (UTC) that is far more stable than relying on an ordinary computer clock or an internet connection alone. Studies from the US National Institute of Standards and Technology (NIST) show that properly implemented GPS-disciplined oscillators can provide [timing]({{ 'timing/' | relative_url }}) referenced to UTC with uncertainties well below a microsecond after calibration, making them suitable for demanding scientific instrumentation rather than simple computer timekeeping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tf.boulder.nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tf.boulder.nist.gov</span><span class="citation-popover-snippet">Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-1-dark.svg" | relative_url }}" alt="GPS Clocks illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within an automated instrumented UAP station, a GPS-disciplined clock therefore 
 
 ## How satellite timing anchors station records
 
-A GPS-disciplined oscillator combines two complementary elements: a satellite navigation receiver that continuously receives precise timing information, and a high-quality local oscillator—typically an oven-controlled crystal oscillator (OCXO) or, in higher-end systems, a rubidium standard. Rather than simply reading GPS time, the system continuously adjusts, or "disciplines", the local oscillator so that its long-term behaviour remains aligned with UTC while preserving excellent short-term stability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
+A GPS-disciplined oscillator combines two complementary elements: a satellite navigation receiver that continuously receives precise timing information, and a high-quality local oscillator—typically an oven-controlled crystal oscillator (OCXO) or, in higher-end systems, a rubidium standard. Rather than simply reading GPS time, the system continuously adjusts, or "disciplines", the local oscillator so that its long-term behaviour remains aligned with UTC while preserving excellent short-term stability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
 
 This distinction matters because satellite signals alone are not perfectly stable over very short intervals. Atmospheric effects, receiver noise and antenna conditions introduce small fluctuations. Conversely, a quality local oscillator is exceptionally stable over seconds or minutes but gradually drifts over hours or days. A disciplined oscillator combines the strengths of both:
 
@@ -298,7 +298,7 @@ This distinction matters because satellite signals alone are not perfectly stabl
 * GPS provides long-term traceability to UTC.
 * The local oscillator smooths short-term variations.
 * Continuous steering prevents long-term drift.
-* The resulting clock remains stable even between successive satellite updates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
+* The resulting clock remains stable even between successive satellite updates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
 
 </div>
 
@@ -306,14 +306,14 @@ For a UAP station, this means every sensor can timestamp observations against th
 
 ## Pulse-per-second timing in practical detector builds
 
-The most useful output from a GPS-disciplined clock is usually not the displayed time but its one pulse per second (1 PPS) signal. This electrical pulse marks the start of every UTC second with extremely low [uncertainty]({{ 'uncertainty/' | relative_url }}) and can be distributed directly to cameras, data acquisition hardware, embedded computers and other instruments. Many systems also provide a stable 10 MHz reference for equipment requiring precise frequency synchronisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gps.gov">[gps.gov+2Safran - Navigation &amp; Timing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gps.gov</span><span class="citation-popover-snippet">An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</span></span></span>
+The most useful output from a GPS-disciplined clock is usually not the displayed time but its one pulse per second (1 PPS) signal. This electrical pulse marks the start of every UTC second with extremely low [uncertainty]({{ 'uncertainty/' | relative_url }}) and can be distributed directly to cameras, data acquisition hardware, embedded computers and other instruments. Many systems also provide a stable 10 MHz reference for equipment requiring precise frequency synchronisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gps.gov">[gps.gov+2Safran - Navigation &amp; Timing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gps.gov</span><span class="citation-popover-snippet">An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</span></span></span>
 
 In a practical automated UAP observatory, the PPS signal can be used in several ways:
 
 * **Camera synchronisation.** Frame counters can be locked or periodically aligned to PPS so that video [timestamps]({{ 'timestamps/' | relative_url }}) remain consistent over long observing sessions.
 * **Sensor correlation.** Radio receivers, microphones, [weather]({{ 'weather/' | relative_url }}) instruments and optical sensors can all record against the same second boundaries.
 * **Distributed stations.** Independent observatories separated by kilometres can compare observations without relying on internet latency or manually synchronised clocks.
-* **Event reconstruction.** Analysts can determine whether measurements from different sensors overlap closely enough to describe one physical object rather than unrelated events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gps.gov">[gps.gov+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gps.gov</span><span class="citation-popover-snippet">An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</span></span></span>
+* **Event reconstruction.** Analysts can determine whether measurements from different sensors overlap closely enough to describe one physical object rather than unrelated events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gps.gov">[gps.gov+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gps.gov</span><span class="citation-popover-snippet">An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</span></span></span>
 
 The important point is that PPS establishes a hardware timing reference. Software timestamps generated only after an operating system processes data packets may include unpredictable scheduling delays, whereas hardware timestamping tied to PPS substantially reduces this uncertainty.
 
@@ -324,7 +324,7 @@ The important point is that PPS establishes a hardware timing reference. Softwar
 
 A computer's internal clock is influenced by oscillator quality, processor scheduling, operating-system delays and power-management behaviour. Even when synchronised over the internet using [Network Time]({{ 'network-time/' | relative_url }}) Protocol (NTP), accuracy depends on network latency and asymmetry.
 
-A GPS-disciplined clock avoids these variables by generating its own local timing reference directly from satellite time. The detector does not need a continuously functioning internet connection to maintain accurate timing, and all connected instruments share the same physical clock rather than attempting to synchronise independently. NIST notes that GPS-disciplined oscillators can serve as primary frequency standards when correctly implemented and verified, although performance varies considerably between designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
+A GPS-disciplined clock avoids these variables by generating its own local timing reference directly from satellite time. The detector does not need a continuously functioning internet connection to maintain accurate timing, and all connected instruments share the same physical clock rather than attempting to synchronise independently. NIST notes that GPS-disciplined oscillators can serve as primary frequency standards when correctly implemented and verified, although performance varies considerably between designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
 
 For scientific event reconstruction, this independence is valuable because [timing errors]({{ 'timing-errors/' | relative_url }}) become measurable characteristics of the station itself instead of unknown properties of an external network.
 
@@ -343,7 +343,7 @@ Holdover performance depends almost entirely on oscillator quality:
 
 * inexpensive crystal oscillators may drift noticeably within minutes or hours;
 * high-grade OCXOs maintain useful accuracy much longer;
-* rubidium-based systems offer still longer holdover periods. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqdfrequencyproducts.com">[iqdfrequencyproducts.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqdfrequencyproducts.com</span><span class="citation-popover-snippet">8hrs, then there is no need to specify the clock module with its full holdover...Read more...</span></span></span>
+* rubidium-based systems offer still longer holdover periods.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iqdfrequencyproducts.com">[iqdfrequencyproducts.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iqdfrequencyproducts.com</span><span class="citation-popover-snippet">8hrs, then there is no need to specify the clock module with its full holdover...Read more...</span></span></span>
 
 </div>
 
@@ -353,7 +353,7 @@ A UAP station should therefore log when holdover begins and ends so analysts kno
 <img src="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-2-dark.svg" | relative_url }}" alt="GPS Clocks illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_time_synchronization_2e129d_gps_disciplined_cloc_45db35-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Antenna and installation effects
 
-GPS timing accuracy depends on more than the receiver itself. Antenna placement, cable length, multipath reflections from nearby structures and calibration of cable delays all influence final timing accuracy. NIST measurements show that cable-delay calibration is important when seeking sub-microsecond performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tf.boulder.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tf.boulder.nist.gov</span><span class="citation-popover-snippet">Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</span></span></span>
+GPS timing accuracy depends on more than the receiver itself. Antenna placement, cable length, multipath reflections from nearby structures and calibration of cable delays all influence final timing accuracy. NIST measurements show that cable-delay calibration is important when seeking sub-microsecond performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tf.boulder.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tf.boulder.nist.gov</span><span class="citation-popover-snippet">Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</span></span></span>
 
 For permanent detector stations, installation records should include:
 
@@ -375,7 +375,7 @@ These details become part of the station's measurement provenance.
 
 ### Jamming, spoofing and interference
 
-GNSS signals arriving at Earth are extremely weak. They can be disrupted accidentally by local radio-frequency interference or, more rarely, intentionally through jamming or spoofing. Timing systems designed for critical infrastructure therefore often monitor satellite lock quality, receiver alarms and holdover status rather than accepting every timing update uncritically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Holdover in synchronization applications</span><span class="citation-popover-snippet">Holdover in synchronization applications</span></span></span>
+GNSS signals arriving at Earth are extremely weak. They can be disrupted accidentally by local radio-frequency interference or, more rarely, intentionally through jamming or spoofing. Timing systems designed for critical infrastructure therefore often monitor satellite lock quality, receiver alarms and holdover status rather than accepting every timing update uncritically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Holdover in synchronization applications</span><span class="citation-popover-snippet">Holdover in synchronization applications</span></span></span>
 
 For UAP instrumentation, logging these receiver health indicators alongside every observation provides later analysts with evidence that the timing reference remained trustworthy throughout the recording.
 
@@ -409,197 +409,197 @@ Recording this information transforms timing from an assumption into a documente
 
 Most reported UAP events ultimately require comparison with independent data such as astronomical catalogues, aircraft transponders, meteor observations, weather records or observations from another detector station. Those comparisons depend on trustworthy timing at least as much as they depend on image quality.
 
-A GPS-disciplined clock cannot determine whether an observed object is ordinary or anomalous. Its contribution is more fundamental: it establishes a common, traceable timeline across every sensor in the observing system. When multiple stations independently record the same event against a documented UTC reference with known uncertainty, analysts gain a much firmer basis for triangulation, [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) and later verification than would ever be possible with loosely synchronised computer clocks alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
+A GPS-disciplined clock cannot determine whether an observed object is ordinary or anomalous. Its contribution is more fundamental: it establishes a common, traceable timeline across every sensor in the observing system. When multiple stations independently record the same event against a documented UTC reference with known uncertainty, analysts gain a much firmer basis for triangulation, [sensor fusion]({{ 'sensor-fusion/' | relative_url }}) and later verification than would ever be possible with loosely synchronised computer clocks alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UAP Stations Need a Real Clock. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UAP Stations Need a Real Clock. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
-        </h4>
-        <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1109260-M.jpg" alt="Cover for Digital image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
+</h4>
+<p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
         
-        <p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1977. Subjects: Digital techniques, Image processing, open_syllabus_project, Digital Image Processing, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
-        </h4>
-        <p class="fr-book-author">By Ernest O. Doebelin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Systems Application and Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4945163-M.jpg" alt="Cover for Measurement Systems Application and Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
+</h4>
+<p class="fr-book-author">By Ernest O. Doebelin</p>
         
-        <p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Systems Application and Design</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="gps-clocks-why-uap-stations-need-a-real-clock-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,111 +805,111 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tf.boulder.nist.gov  
-   Link: <a href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.boulder.nist.gov/general/pdf/2086.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</p></details>
+   Link:<a href="https://tf.boulder.nist.gov/general/pdf/2086.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.boulder.nist.gov/general/pdf/2086.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing the Performance of GPS Disciplined Oscillators...by MA Lombardi · Cited by 51 — can provide time accurate to within 1...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</p></details>
+   Link:<a href="https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/use-gps-disciplined-oscillators-primary-frequency-standards-calibration-and-metrology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It discusses how GPSDOs work, how measurement traceability can be established with a GPSDO,Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/1424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/1424.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS, well known as a versatile, global tool for positioning, has also become the primary system for distributing time and frequency.Read...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/1424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/1424.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GPS, well known as a versatile, global tool for positioning, has also become the primary system for distributing time and frequency.Read...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/2294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2294.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GPSDO designer is to transfer the inherent accuracy and stability of the satellite signals to the signals generated by the local oscillat...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/2294.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2294.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GPSDO designer is to transfer the inherent accuracy and stability of the satellite signals to the signals generated by the local oscillat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: GPS disciplined oscillator  
-   Link: <a href="https://en.wikipedia.org/wiki/GPS_disciplined_oscillator" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GPS_disciplined_oscillator</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GPS disciplined oscillatorThese signals are accurate to nanoseconds and provide a good reference for timing applications. A GPS discip...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/GPS_disciplined_oscillator" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GPS_disciplined_oscillator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GPS disciplined oscillatorThese signals are accurate to nanoseconds and provide a good reference for timing applications. A GPS discip...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gps.gov  
-   Link: <a href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</p></details>
+   Link:<a href="https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gps.gov/sites/default/files/2025-07/NIST.TN_.2189.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Dependencies of Critical Infrastructure...by MA Lombardi · 2021 · Cited by 34 — The LO provides disciplined output sign...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: safran-navigation-timing.com  
-   Link: <a href="https://safran-navigation-timing.com/solution/gps-disciplined-oscillators-gpsdo/" target="_blank" rel="noopener noreferrer nofollow">https://safran-navigation-timing.com/solution/gps-disciplined-oscillators-gpsdo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation &amp; TimingGPS Disciplined Oscillators (GPSDO)A multi-GNSS disciplined oscillator (GNSSDO) takes in signals from a GNSS, and spit...</p></details>
+   Link:<a href="https://safran-navigation-timing.com/solution/gps-disciplined-oscillators-gpsdo/" target="_blank" rel="noopener noreferrer nofollow">https://safran-navigation-timing.com/solution/gps-disciplined-oscillators-gpsdo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation &amp; TimingGPS Disciplined Oscillators (GPSDO)A multi-GNSS disciplined oscillator (GNSSDO) takes in signals from a GNSS, and spit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iqdfrequencyproducts.com  
-   Link: <a href="https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification" target="_blank" rel="noopener noreferrer nofollow">https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8hrs, then there is no need to specify the clock module with its full holdover...Read more...</p></details>
+   Link:<a href="https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification" target="_blank" rel="noopener noreferrer nofollow">https://www.iqdfrequencyproducts.com/en/app-note/disciplined-ocxo-specification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8hrs, then there is no need to specify the clock module with its full holdover...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Holdover in synchronization applications  
-   Link: <a href="https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Holdover_in_synchronization_applications</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tf.nist.gov  
-   Link: <a href="https://tf.nist.gov/general/pdf/2297.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2297.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of GPS Disciplined Oscillators as Primary Frequency...by MA Lombardi · Cited by 172 — The goal of the GPSDO designer is to transfer...</p></details>
+   Link:<a href="https://tf.nist.gov/general/pdf/2297.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tf.nist.gov/general/pdf/2297.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use of GPS Disciplined Oscillators as Primary Frequency...by MA Lombardi · Cited by 172 — The goal of the GPSDO designer is to transfer...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: microchip.com  
-   Link: <a href="https://www.microchip.com/en-us/products/clock-and-timing/components/gnss-gps-disciplined" target="_blank" rel="noopener noreferrer nofollow">https://www.microchip.com/en-us/products/clock-and-timing/components/gnss-gps-disciplined</a>  
+   Link:<a href="https://www.microchip.com/en-us/products/clock-and-timing/components/gnss-gps-disciplined" target="_blank" rel="noopener noreferrer nofollow">https://www.microchip.com/en-us/products/clock-and-timing/components/gnss-gps-disciplined</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kb.veexinc.com  
-   Link: <a href="https://kb.veexinc.com/en/knowledge/gps-disciplining-holdover-for-field-testing" target="_blank" rel="noopener noreferrer nofollow">https://kb.veexinc.com/en/knowledge/gps-disciplining-holdover-for-field-testing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat is continuously being corrected using the coordinated universal timing signal (...Read more...</p></details>
+   Link:<a href="https://kb.veexinc.com/en/knowledge/gps-disciplining-holdover-for-field-testing" target="_blank" rel="noopener noreferrer nofollow">https://kb.veexinc.com/en/knowledge/gps-disciplining-holdover-for-field-testing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hat is continuously being corrected using the coordinated universal timing signal (...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.bliley.com  
    Title: what are gps disciplined oscillators gpsdo applications  
-   Link: <a href="https://blog.bliley.com/what-are-gps-disciplined-oscillators-gpsdo-applications" target="_blank" rel="noopener noreferrer nofollow">https://blog.bliley.com/what-are-gps-disciplined-oscillators-gpsdo-applications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are GPS Disciplined Oscillators (GPSDO)?Apr 27, 2023 — GPSDO timing signals are accurate up to nanoseconds and are capable of generating...</p></details>
+   Link:<a href="https://blog.bliley.com/what-are-gps-disciplined-oscillators-gpsdo-applications" target="_blank" rel="noopener noreferrer nofollow">https://blog.bliley.com/what-are-gps-disciplined-oscillators-gpsdo-applications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are GPS Disciplined Oscillators (GPSDO)?Apr 27, 2023 — GPSDO timing signals are accurate up to nanoseconds and are capable of generating...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gssc.esa.int  
    Title: int GP S Time and Frequency Transfer Techniques  
-   Link: <a href="https://gssc.esa.int/navipedia/index.php/GPS_Time_and_Frequency_Transfer_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://gssc.esa.int/navipedia/index.php/GPS_Time_and_Frequency_Transfer_Techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and Frequency Transfer Techniques - NavipediaJun 21, 2012 — The GPS Carrier phase is one of the most powerful techniques for time tr...</p></details>
+   Link:<a href="https://gssc.esa.int/navipedia/index.php/GPS_Time_and_Frequency_Transfer_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://gssc.esa.int/navipedia/index.php/GPS_Time_and_Frequency_Transfer_Techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time and Frequency Transfer Techniques - NavipediaJun 21, 2012 — The GPS Carrier phase is one of the most powerful techniques for time tr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 269520225 A NIST Disciplined Oscillator  
-   Link: <a href="https://www.researchgate.net/publication/269520225_A_NIST_Disciplined_Oscillator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269520225_A_NIST_Disciplined_Oscillator</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A NIST Disciplined OscillatorDec 15, 2014 — This paper discusses the theory of operation of the NISTDO, and demonstrates the accura...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269520225_A_NIST_Disciplined_Oscillator" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269520225_A_NIST_Disciplined_Oscillator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A NIST Disciplined OscillatorDec 15, 2014 — This paper discusses the theory of operation of the NISTDO, and demonstrates the accura...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rntfnd.org  
    Title: UTC (USNO) via an external reference, currently GPS.Read more  
-   Link: <a href="https://rntfnd.org/wp-content/uploads/NIST-Paper-on-Modernized-Loran-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rntfnd.org/wp-content/uploads/NIST-Paper-on-Modernized-Loran-.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ptti capabilities of the modernized loran systemby K Montgomery · Cited by 10 — The TFE uses the oscillators to compute its own local tim...</p></details>
+   Link:<a href="https://rntfnd.org/wp-content/uploads/NIST-Paper-on-Modernized-Loran-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rntfnd.org/wp-content/uploads/NIST-Paper-on-Modernized-Loran-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ptti capabilities of the modernized loran systemby K Montgomery · Cited by 10 — The TFE uses the oscillators to compute its own local tim...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: BG7TBL GPSDO (GPS Disciplined Oscillator) and 10 MHz Distribution Amplifier  
-   Link: <a href="https://www.youtube.com/watch?v=EgF6-JbGUXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EgF6-JbGUXA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Calibrate Oscillators with GPS module...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EgF6-JbGUXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EgF6-JbGUXA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Calibrate Oscillators with GPS module...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: insidegnss.com  
-   Link: <a href="https://insidegnss.com/nist-confirms-stl-as-accurate-time-source-independent-of-gnss-and-indoors/" target="_blank" rel="noopener noreferrer nofollow">https://insidegnss.com/nist-confirms-stl-as-accurate-time-source-independent-of-gnss-and-indoors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Confirms STL as Accurate Time Source Independent...Apr 22, 2021 — The evaluation by NIST confirms that users of PNT-reliant applica...</p></details>
+   Link:<a href="https://insidegnss.com/nist-confirms-stl-as-accurate-time-source-independent-of-gnss-and-indoors/" target="_blank" rel="noopener noreferrer nofollow">https://insidegnss.com/nist-confirms-stl-as-accurate-time-source-independent-of-gnss-and-indoors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Confirms STL as Accurate Time Source Independent...Apr 22, 2021 — The evaluation by NIST confirms that users of PNT-reliant applica...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Stanford Research Systems FS752 GNSSDO teardown, [review](&#123;&#123; 'review/' | relative_url &#125;&#125;), and experiments  
-   Link: <a href="https://www.youtube.com/watch?v=mbS7AiLWte8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mbS7AiLWte8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing a GPSDO from scratch - part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mbS7AiLWte8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mbS7AiLWte8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing a GPSDO from scratch - part 1...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Developing a GPSDO from scratch  
-   Link: <a href="https://www.youtube.com/watch?v=pWjpdjZx554" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pWjpdjZx554</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BG7TBL GPSDO (GPS Disciplined Oscillator) and 10 MHz Distribution Amplifier...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pWjpdjZx554" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pWjpdjZx554</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BG7TBL GPSDO (GPS Disciplined Oscillator) and 10 MHz Distribution Amplifier...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-index/
 description: Focused pages that expand on Automated Instrumented UFO Detectors.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443
 parent_title: Automated Instrumented UFO Detectors
@@ -16,7 +16,7 @@ parent_permalink: /automated-instrumented-ufo-detectors/
 
 # Explore Topics in Automated Instrumented UFO Detectors
 
-The following pages expand on the main **[Automated Instrumented UFO Detectors]({{ '/automated-instrumented-ufo-detectors/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Automated Instrumented UFO Detectors]({{ '/automated-instrumented-ufo-detectors/' | relative_url }})** page and cover its key branches in.
 
 - [Acoustics]({{ '/acoustics/' | relative_url }})
 - [ADS B]({{ '/ads-b/' | relative_url }})

@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_false_positives_f6ef28_near_le
 
 ## Introduction
 
-Automated UFO and UAP detectors frequently encounter a simple but deceptive problem: a tiny insect flying a few centimetres from a camera can appear to be a large object moving at extraordinary speed across the sky. A single camera records only angular position, brightness and time. Without an independent measurement of distance, software can mistakenly interpret a nearby gnat, moth or spider as a distant object covering huge distances in fractions of a second. This is one of the most common mechanisms behind apparent “high-speed UFO” tracks in automated sky-monitoring systems, security cameras and wildlife cameras. The error arises from geometry rather than anything unusual in the sky. Close objects move rapidly across a camera’s field of view, become badly out of focus, and can reflect illumination in ways that make them look far larger and brighter than they really are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Automated UFO and UAP detectors frequently encounter a simple but deceptive problem: a tiny insect flying a few centimetres from a camera can appear to be a large object moving at extraordinary speed across the sky. A single camera records only angular position, brightness and time. Without an independent measurement of distance, software can mistakenly interpret a nearby gnat, moth or spider as a distant object covering huge distances in fractions of a second. This is one of the most common mechanisms behind apparent “high-speed UFO” tracks in automated sky-monitoring systems, security cameras and wildlife cameras. The error arises from geometry rather than anything unusual in the sky. Close objects move rapidly across a camera’s field of view, become badly out of focus, and can reflect illumination in ways that make them look far larger and brighter than they really are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-1-dark.svg" | relative_url }}" alt="Near lens Bugs illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Automated UFO and UAP detectors frequently encounter a simple but deceptive prob
 
 The key problem is that camera images do not directly contain distance information. A detector sees a bright moving feature and measures its apparent angular motion. If software assumes the object is far away, even a modest angular shift can imply enormous physical speed.
 
-An insect passing a few centimetres from a lens can cross a large fraction of the image in a fraction of a second. Because it is so close, it experiences strong perspective effects and motion relative to the camera. The same angular movement would require a distant aircraft or unknown object to travel much farther. A single camera cannot determine which interpretation is correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UNL Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+An insect passing a few centimetres from a lens can cross a large fraction of the image in a fraction of a second. Because it is so close, it experiences strong perspective effects and motion relative to the camera. The same angular movement would require a distant aircraft or unknown object to travel much farther. A single camera cannot determine which interpretation is correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UNL Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Focus makes the illusion worse. Sky-monitoring cameras are normally focused near infinity to observe distant objects. An insect close to the lens therefore falls far outside the focal plane and appears as a diffuse disc, glowing orb or elongated smear rather than a recognisable insect. The resulting image often contains no visible wings, legs or body structure. Instead, software sees a bright moving blob. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
+Focus makes the illusion worse. Sky-monitoring cameras are normally focused near infinity to observe distant objects. An insect close to the lens therefore falls far outside the focal plane and appears as a diffuse disc, glowing orb or elongated smear rather than a recognisable insect. The resulting image often contains no visible wings, legs or body structure. Instead, software sees a bright moving blob.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
 
-Night-time systems are especially vulnerable. Infrared illumination used in security and monitoring cameras can strongly illuminate insects flying near the lens. Because the insect is much closer to the light source than the distant background, it may reflect intense light directly back into the sensor and appear disproportionately bright. Security-camera operators routinely report insects appearing as luminous orbs, streaks and rapidly moving shapes that trigger motion alarms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
+Night-time systems are especially vulnerable. Infrared illumination used in security and monitoring cameras can strongly illuminate insects flying near the lens. Because the insect is much closer to the light source than the distant background, it may reflect intense light directly back into the sensor and appear disproportionately bright. Security-camera operators routinely report insects appearing as luminous orbs, streaks and rapidly moving shapes that trigger motion alarms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
 
 ## Why Apparent Speed Becomes Grossly Exaggerated
 
@@ -300,7 +300,7 @@ The speed illusion comes from converting angular motion into physical motion wit
 
 Imagine two objects crossing the same number of pixels between frames. One is a moth 5 cm from the lens. The other is assumed to be a craft several kilometres away. The distant interpretation implies a vastly larger physical displacement because the same angular change corresponds to a much greater distance at long range.
 
-This effect is closely related to parallax. Nearby objects show much larger apparent motion than distant ones when viewed from slightly different positions or over time. Astronomers exploit parallax to measure distance, but a single fixed camera cannot perform that calculation. Consequently, a nearby insect can generate motion signatures that appear incompatible with ordinary aircraft or birds if distance is incorrectly assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UCLA Astronomy+3Wikipedia+3Las Cumbres Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This effect is closely related to parallax. Nearby objects show much larger apparent motion than distant ones when viewed from slightly different positions or over time. Astronomers exploit parallax to measure distance, but a single fixed camera cannot perform that calculation. Consequently, a nearby insect can generate motion signatures that appear incompatible with ordinary aircraft or birds if distance is incorrectly assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[UCLA Astronomy+3Wikipedia+3Las Cumbres Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The resulting track may show:
 
@@ -323,21 +323,21 @@ Fortunately, near-lens insects leave several tell-tale signatures.
 
 A distant object observed by a camera focused at infinity should generally appear compact and reasonably sharp if atmospheric conditions are good. By contrast, a nearby insect often produces a large circular or irregular blur because it lies well outside the camera's depth of field.
 
-The apparent diameter of the blur can be much larger than the insect itself. In some recordings, a millimetre-scale insect creates an image occupying dozens of pixels or more. The mismatch between apparent image size and expected optical behaviour is often a strong clue that the target is close to the lens rather than far away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2110.09764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting Blurred Ground-based Sky/Cloud Images</span><span class="citation-popover-snippet">arXiv Detecting Blurred Ground-based Sky/Cloud Images</span></span></span>
+The apparent diameter of the blur can be much larger than the insect itself. In some recordings, a millimetre-scale insect creates an image occupying dozens of pixels or more. The mismatch between apparent image size and expected optical behaviour is often a strong clue that the target is close to the lens rather than far away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2110.09764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting Blurred Ground-based Sky/Cloud Images</span><span class="citation-popover-snippet">arXiv Detecting Blurred Ground-based Sky/Cloud Images</span></span></span>
 
 ### Infrared Overbrightness
 
-Near-lens insects illuminated by infrared LEDs frequently appear brighter than distant objects. The illumination geometry is highly favourable: the insect sits close to both the light source and the sensor. As a result, tiny insects can become the brightest objects in the frame despite their small physical size. This effect is widely recognised in night-vision surveillance systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
+Near-lens insects illuminated by infrared LEDs frequently appear brighter than distant objects. The illumination geometry is highly favourable: the insect sits close to both the light source and the sensor. As a result, tiny insects can become the brightest objects in the frame despite their small physical size. This effect is widely recognised in night-vision surveillance systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-2-dark.svg" | relative_url }}" alt="Near lens Bugs illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Streak Formation
 
-Long exposures or low-light imaging can turn an insect into a streak rather than a point. Community analyses of trail-camera footage repeatedly identify apparently mysterious rods or elongated luminous objects as insects moving during relatively slow exposures. The shape reflects camera [timing]({{ 'timing/' | relative_url }}) rather than the object's true form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What is this thing?</span><span class="citation-popover-snippet">It vertically flew by the camera twice. We...It&#x27;s an insect. The shutter speed is slow enough it looks like a long blur Cameras slow dow...</span></span></span>
+Long exposures or low-light imaging can turn an insect into a streak rather than a point. Community analyses of trail-camera footage repeatedly identify apparently mysterious rods or elongated luminous objects as insects moving during relatively slow exposures. The shape reflects camera [timing]({{ 'timing/' | relative_url }}) rather than the object's true form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">What is this thing?</span><span class="citation-popover-snippet">It vertically flew by the camera twice. We...It&#x27;s an insect. The shutter speed is slow enough it looks like a long blur Cameras slow dow...</span></span></span>
 
 ### Inconsistent Focus Behaviour
 
-A distant aircraft, satellite or star generally remains within a consistent focus regime throughout a short observation. A nearby insect may rapidly change appearance as it moves through different parts of the lens field, producing dramatic changes in size, brightness and shape from frame to frame. This instability is often diagnostic of a nearby target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
+A distant aircraft, satellite or star generally remains within a consistent focus regime throughout a short observation. A nearby insect may rapidly change appearance as it moves through different parts of the lens field, producing dramatic changes in size, brightness and shape from frame to frame. This instability is often diagnostic of a nearby target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-3-dark.svg" | relative_url }}" alt="Near lens Bugs illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_false_positives_f6ef28_near_lens_insects_6f9d94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -349,15 +349,15 @@ Several practical [rules]({{ 'rules/' | relative_url }}) are effective:
 
 **Blur-to-motion consistency tests.** If an object exhibits extremely large blur while simultaneously showing extraordinary apparent speed, a nearby explanation becomes more likely than a distant one.
 
-**Multi-camera triangulation.** Two separated cameras can estimate range through parallax. A nearby insect will appear in very different positions or may be visible in only one camera. A genuinely distant object should produce a consistent geometry across multiple sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Multi-camera triangulation.** Two separated cameras can estimate range through parallax. A nearby insect will appear in very different positions or may be visible in only one camera. A genuinely distant object should produce a consistent geometry across multiple sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 **Focus-plane modelling.** Knowing lens characteristics allows software to estimate whether an observed blur size is physically compatible with a distant target.
 
-**Infrared signature checks.** Extremely bright objects appearing only within infrared imagery and lacking corresponding detections on other sensors are often consistent with insects illuminated near the camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
+**Infrared signature checks.** Extremely bright objects appearing only within infrared imagery and lacking corresponding detections on other sensors are often consistent with insects illuminated near the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reolink.com">[Reolink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reolink.com</span><span class="citation-popover-title">Flying Bugs on Night Vision Cameras?</span><span class="citation-popover-snippet">How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span>
 
 **Track-shape filtering.** Insects frequently generate erratic trajectories, abrupt reversals and variable image sizes that differ from the smoother motion expected from distant airborne objects.
 
-**Cross-sensor confirmation.** The strongest defence is requiring independent confirmation from additional cameras, [radar]({{ 'radar/' | relative_url }}), [acoustic sensors]({{ 'acoustics/' | relative_url }}) or other instruments. A near-lens insect may trigger one optical camera but usually fails multi-sensor verification. This principle aligns with broader recommendations that anomalous detections should rely on calibrated measurements and multiple independent observations rather than a single video stream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Exploration of motion inhibition for the suppression of false...by A Melville-Smith · 2022 · Cited by 4 — These findings show that th...</span></span></span>
+**Cross-sensor confirmation.** The strongest defence is requiring independent confirmation from additional cameras, [radar]({{ 'radar/' | relative_url }}), [acoustic sensors]({{ 'acoustics/' | relative_url }}) or other instruments. A near-lens insect may trigger one optical camera but usually fails multi-sensor verification. This principle aligns with broader recommendations that anomalous detections should rely on calibrated measurements and multiple independent observations rather than a single video stream.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Exploration of motion inhibition for the suppression of false...by A Melville-Smith · 2022 · Cited by 4 — These findings show that th...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3SuH7HPFm0E" title="Determining a Star&#x27;s Distance with Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3SuH7HPFm0E" target="_blank" rel="noopener noreferrer">Determining a Star&#x27;s Distance with Parallax</a></p><p class="youtube-embed-meta">Channel: A. Kenneth Nolan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3SuH7HPFm0E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3SuH7HPFm0E">Open on YouTube</a></p></div></div></div>
@@ -366,201 +366,201 @@ Several practical [rules]({{ 'rules/' | relative_url }}) are effective:
 
 Near-lens insects illustrate a central challenge for automated UAP monitoring: cameras measure appearance, not distance. When range is unknown, tiny nearby objects can masquerade as enormous distant ones. The resulting tracks may seem to display impossible speed, acceleration or manoeuvrability even though the underlying object is a moth, fly or spider passing close to the lens.
 
-For this reason, sophisticated detector networks increasingly treat extraordinary apparent motion as a warning sign requiring additional verification rather than as evidence of an extraordinary object. The most reliable systems assume that any single-camera high-speed track could be a range illusion until independent measurements prove otherwise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UNL Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+For this reason, sophisticated detector networks increasingly treat extraordinary apparent motion as a warning sign requiring additional verification rather than as evidence of an extraordinary object. The most reliable systems assume that any single-camera high-speed track could be a range illusion until independent measurements prove otherwise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2UNL Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AiEyQDMWRBI" title="Photographing Flying Insects Is Almost Easy… With This Trick!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AiEyQDMWRBI" target="_blank" rel="noopener noreferrer">Photographing Flying Insects Is Almost Easy… With This Trick!</a></p><p class="youtube-embed-meta">Channel: Stewart Wood</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AiEyQDMWRBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AiEyQDMWRBI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bugs Look Like Fast UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bugs Look Like Fast UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages systematic evaluation of sightings and mundane explanations before extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages systematic evaluation of sightings and mundane explanations before extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
-        </h4>
-        <p class="fr-book-author">By Bryan F. Peterson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers understand shutter speed, depth of field, and lighting effects behind bug-related false positives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
+</h4>
+<p class="fr-book-author">By Bryan F. Peterson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers understand shutter speed, depth of field, and lighting effects behind bug-related false positives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
-        </h4>
-        <p class="fr-book-author">By Thierry Legault</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W0G4BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophotography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
+</h4>
+<p class="fr-book-author">By Thierry Legault</p>
         
-        <p class="fr-book-desc">Explains focus, blur circles, exposure effects, reflections, and imaging artefacts that make insects resemble distant objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains focus, blur circles, exposure effects, reflections, and imaging artefacts that make insects resemble distant objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophotography+by+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophotography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophotography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="near-lens-bugs-when-bugs-look-like-fast-ufos-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,108 +766,108 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astro.unl.edu  
    Title: Astronomy Parallax  
-   Link: <a href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow">https://astro.unl.edu/naap/distance/parallax.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNL AstronomyParallax - Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant back...</p></details>
+   Link:<a href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow">https://astro.unl.edu/naap/distance/parallax.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNL AstronomyParallax - Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant back...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reolink.com  
    Title: Flying Bugs on Night Vision Cameras?  
-   Link: <a href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow">https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</p></details>
+   Link:<a href="https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd" target="_blank" rel="noopener noreferrer nofollow">https://reolink.com/blog/flying-bugs-on-night-vision-cameras/?srsltid=AfmBOoqzDK9uy2vvuLNqmH0kgdAyy-DlzBdkxV6Z8l3Zv-Z45azWFtvd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Solve?July 3, 2025 — 26 Dec 2025 — Learn how to deal with flying bugs on night vision cameras. Find out what causes it and practic...</p></details>
    Published: July 3, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Detecting Blurred Ground-based Sky/Cloud Images  
-   Link: <a href="https://arxiv.org/abs/2110.09764" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.09764</a>  
+   Link:<a href="https://arxiv.org/abs/2110.09764" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.09764</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: astro.ucla.edu  
-   Link: <a href="https://www.astro.ucla.edu/~wright/distance.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.ucla.edu/~wright/distance.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA AstronomyThe ABC&#x27;s of Distances7 Sept 2018 — TRIGONOMETRIC PARALLAX. This method rates an A because it is the gold standard for astr...</p></details>
+   Link:<a href="https://www.astro.ucla.edu/~wright/distance.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.ucla.edu/~wright/distance.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA AstronomyThe ABC&#x27;s of Distances7 Sept 2018 — TRIGONOMETRIC PARALLAX. This method rates an A because it is the gold standard for astr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: What is this thing?  
-   Link: <a href="https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It vertically flew by the camera twice. We...It&#x27;s an insect. The shutter speed is slow enough it looks like a long blur Cameras slow dow...</p></details>
+   Link:<a href="https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/trailcam/comments/1e9ebom/what_is_this_thing_it_vertically_flew_by_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It vertically flew by the camera twice. We...It&#x27;s an insect. The shutter speed is slow enough it looks like a long blur Cameras slow dow...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration of motion inhibition for the suppression of false...by A Melville-Smith · 2022 · Cited by 4 — These findings show that th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9691501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploration of motion inhibition for the suppression of false...by A Melville-Smith · 2022 · Cited by 4 — These findings show that th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ghosts/comments/k73nm8/bug_as_i_have_never_seen_a_bug_on_my_lense_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/k73nm8/bug_as_i_have_never_seen_a_bug_on_my_lense_all/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ction in to camera. Camera always tried to focus on it. Correct?Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ghosts/comments/k73nm8/bug_as_i_have_never_seen_a_bug_on_my_lense_all/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ghosts/comments/k73nm8/bug_as_i_have_never_seen_a_bug_on_my_lense_all/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ction in to camera. Camera always tried to focus on it. Correct?Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lco.global  
-   Link: <a href="https://lco.global/spacebook/distance/parallax-and-distance-measurement/" target="_blank" rel="noopener noreferrer nofollow">https://lco.global/spacebook/distance/parallax-and-distance-measurement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Cumbres ObservatoryStellar ParallaxAstronomers use an effect called parallax to measure distances to nearby stars. Parallax is the ap...</p></details>
+   Link:<a href="https://lco.global/spacebook/distance/parallax-and-distance-measurement/" target="_blank" rel="noopener noreferrer nofollow">https://lco.global/spacebook/distance/parallax-and-distance-measurement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Las Cumbres ObservatoryStellar ParallaxAstronomers use an effect called parallax to measure distances to nearby stars. Parallax is the ap...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10956018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10956018/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we report a...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10956018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10956018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here we report a...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMiX-GQtoto/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMiX-GQtoto/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DMiX-GQtoto/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMiX-GQtoto/?hl=en-gb</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/camera-trap-in-chile-detects-strange-lights-blazing-through-the-wilderness-researchers-are-scrambling-to-explain-them" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/camera-trap-in-chile-detects-strange-lights-blazing-through-the-wilderness-researchers-are-scrambling-to-explain-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers are scrambling to explain them.In January 2025, a camera trap used by the University of Magallanes (UMAG) in Chile&#x27;s remote P...</p></details>
+   Link:<a href="https://www.livescience.com/space/extraterrestrial-life/camera-trap-in-chile-detects-strange-lights-blazing-through-the-wilderness-researchers-are-scrambling-to-explain-them" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/camera-trap-in-chile-detects-strange-lights-blazing-through-the-wilderness-researchers-are-scrambling-to-explain-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers are scrambling to explain them.In January 2025, a camera trap used by the University of Magallanes (UMAG) in Chile&#x27;s remote P...</p></details>
    Published: January 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: openaccess.thecvf.com  
    Title: Gebauer Towards a Dynamic Vision Sensor Based Insect Camera Trap WACV 2024 paper  
-   Link: <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Gebauer_Towards_a_Dynamic_Vision_Sensor-Based_Insect_Camera_Trap_WACV_2024_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/WACV2024/papers/Gebauer_Towards_a_Dynamic_Vision_Sensor-Based_Insect_Camera_Trap_WACV_2024_paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a Dynamic Vision Sensor-Based Insect Camera Trapby E Gebauer · 2024 · Cited by 12 — This paper introduces a visual real-time insect monit...</p></details>
+   Link:<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Gebauer_Towards_a_Dynamic_Vision_Sensor-Based_Insect_Camera_Trap_WACV_2024_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/WACV2024/papers/Gebauer_Towards_a_Dynamic_Vision_Sensor-Based_Insect_Camera_Trap_WACV_2024_paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Dynamic Vision Sensor-Based Insect Camera Trapby E Gebauer · 2024 · Cited by 12 — This paper introduces a visual real-time insect monit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RP_DDI6GZK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RP_DDI6GZK8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RP_DDI6GZK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RP_DDI6GZK8</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3SuH7HPFm0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3SuH7HPFm0E</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3SuH7HPFm0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3SuH7HPFm0E</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: alphauniverse.com  
    Title: its a small world camera setup tips for macro photography and insects in flight  
-   Link: <a href="https://alphauniverse.com/stories/its-a-small-world-camera-setup-tips-for-macro-photography-and-insects-in-flight/" target="_blank" rel="noopener noreferrer nofollow">https://alphauniverse.com/stories/its-a-small-world-camera-setup-tips-for-macro-photography-and-insects-in-flight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here he shares his top camera setup tips to capture a small world with big action.Read more...</p></details>
+   Link:<a href="https://alphauniverse.com/stories/its-a-small-world-camera-setup-tips-for-macro-photography-and-insects-in-flight/" target="_blank" rel="noopener noreferrer nofollow">https://alphauniverse.com/stories/its-a-small-world-camera-setup-tips-for-macro-photography-and-insects-in-flight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here he shares his top camera setup tips to capture a small world with big action.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/sustainabilitytransformation/article?id=10.1371%2Fjournal.pstr.0000051" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/sustainabilitytransformation/article?id=10.1371%2Fjournal.pstr.0000051</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>detection and identification of insects from camera...by K Bjerge · 2023 · Cited by 138 — Our camera system, dataset and deep learning f...</p></details>
+   Link:<a href="https://journals.plos.org/sustainabilitytransformation/article?id=10.1371%2Fjournal.pstr.0000051" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/sustainabilitytransformation/article?id=10.1371%2Fjournal.pstr.0000051</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>detection and identification of insects from camera...by K Bjerge · 2023 · Cited by 138 — Our camera system, dataset and deep learning f...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/455730808110700/posts/2837051403311950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/455730808110700/posts/2837051403311950/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et the camera to burst mode and try to move the camera...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/455730808110700/posts/2837051403311950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/455730808110700/posts/2837051403311950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et the camera to burst mode and try to move the camera...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cfa.harvard.edu  
    Title: distance measurement microlensing event  
-   Link: <a href="https://www.cfa.harvard.edu/news/distance-measurement-microlensing-event" target="_blank" rel="noopener noreferrer nofollow">https://www.cfa.harvard.edu/news/distance-measurement-microlensing-event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement of a Microlensing Event - Harvard CfAThe most direct method is called parallax: When a celestial body is viewed from differen...</p></details>
+   Link:<a href="https://www.cfa.harvard.edu/news/distance-measurement-microlensing-event" target="_blank" rel="noopener noreferrer nofollow">https://www.cfa.harvard.edu/news/distance-measurement-microlensing-event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measurement of a Microlensing Event - Harvard CfAThe most direct method is called parallax: When a celestial body is viewed from differen...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C51dBmSxBbd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C51dBmSxBbd/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>space! 1. Parallax - an angle measurement between an...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C51dBmSxBbd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C51dBmSxBbd/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>space! 1. Parallax - an angle measurement between an...</p></details>

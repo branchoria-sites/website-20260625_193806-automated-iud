@@ -278,7 +278,7 @@ A tamper-evident trail does not prove that a recorded unidentified aerial phenom
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-1-dark.svg" | relative_url }}" alt="Audit Trail illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within a broader [data provenance]({{ 'provenance/' | relative_url }}) and chain-of-custody framework, the audit trail answers a narrow question: can every important change to the event file be reconstructed and independently verified? Modern digital forensics treats this as a combination of cryptographic integrity checks, access logging, [timestamps]({{ 'timestamps/' | relative_url }}) and documented handling procedures rather than relying on trust in individual operators. International digital evidence guidance consistently recommends cryptographic hashing, secure preservation and documented custody as core practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Digital Evidence Preservation</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</span><span class="citation-popover-meta">Published: September 14, 2022</span></span></span>
+Within a broader [data provenance]({{ 'provenance/' | relative_url }}) and chain-of-custody framework, the audit trail answers a narrow question: can every important change to the event file be reconstructed and independently verified? Modern digital forensics treats this as a combination of cryptographic integrity checks, access logging, [timestamps]({{ 'timestamps/' | relative_url }}) and documented handling procedures rather than relying on trust in individual operators. International digital evidence guidance consistently recommends cryptographic hashing, secure preservation and documented custody as core practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Digital Evidence Preservation</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</span><span class="citation-popover-meta">Published: September 14, 2022</span></span></span>
 
 ## Can the file trail be trusted?
 
@@ -286,7 +286,7 @@ Trust does not come from claiming that a file is "original". It comes from makin
 
 For an automated UAP detector, the audit trail begins the moment an event is captured. The detector should immediately record a cryptographic fingerprint (hash) of the raw event package, preserve associated metadata, and record the exact software version, sensor identity and timestamp responsible for creating it. Every subsequent action—copying, exporting, annotating, compression or public release—should create another recorded event rather than overwriting history.
 
-A well-designed audit trail is therefore append-only. New information is added while earlier records remain intact. This allows reviewers to reconstruct a timeline instead of relying on someone's memory or handwritten notes. Similar principles underpin modern digital forensic evidence management and are increasingly replacing purely paper-based [custody]({{ 'custody/' | relative_url }}) records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</span></span></span>
+A well-designed audit trail is therefore append-only. New information is added while earlier records remain intact. This allows reviewers to reconstruct a timeline instead of relying on someone's memory or handwritten notes. Similar principles underpin modern digital forensic evidence management and are increasingly replacing purely paper-based [custody]({{ 'custody/' | relative_url }}) records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</span></span></span>
 
 ## What hashes can and cannot prove
 
@@ -310,7 +310,7 @@ A matching hash does **not** prove that the recorded object was an unknown craft
 
 Likewise, hashes cannot compensate for poor sensor calibration, missing metadata or an incomplete capture process. They preserve integrity, not scientific validity.
 
-Because of these limitations, forensic guidance recommends storing hash values separately from the evidence itself or in an independently controlled evidence management system. Doing so reduces the possibility that both the file and its recorded fingerprint could be altered together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Digital Evidence Preservation</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</span><span class="citation-popover-meta">Published: September 14, 2022</span></span></span>
+Because of these limitations, forensic guidance recommends storing hash values separately from the evidence itself or in an independently controlled evidence management system. Doing so reduces the possibility that both the file and its recorded fingerprint could be altered together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-title">Publications Digital Evidence Preservation</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</span><span class="citation-popover-meta">Published: September 14, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
@@ -347,7 +347,7 @@ Rather than recording only successful edits, a comprehensive audit system record
 
 This produces accountability without requiring every reviewer to trust previous reviewers personally.
 
-For automated detector networks, machine-generated logs are particularly valuable because they eliminate much of the ambiguity associated with handwritten evidence records. If every processing step leaves a timestamped record, disagreements can often be resolved by reconstructing the sequence rather than debating recollections. Current digital evidence literature increasingly favours automated custody logging because it is more consistent and easier to audit than manual documentation alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</span></span></span>
+For automated detector networks, machine-generated logs are particularly valuable because they eliminate much of the ambiguity associated with handwritten evidence records. If every processing step leaves a timestamped record, disagreements can often be resolved by reconstructing the sequence rather than debating recollections. Current digital evidence literature increasingly favours automated custody logging because it is more consistent and easier to audit than manual documentation alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-2-dark.svg" | relative_url }}" alt="Audit Trail illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,7 +397,7 @@ Examples include:
 
 </div>
 
-These techniques are widely used in secure logging systems because they provide tamper evidence without requiring every observer to trust a single database administrator. While blockchain-based custody systems have been proposed for digital forensics, reviews generally treat blockchain as one possible implementation rather than a universal requirement. Well-designed append-only logs with strong cryptographic protection can achieve the primary goal of detecting unauthorised modification without introducing unnecessary complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/immutable-audit-log" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[ResearchGate+3Emergent Mind+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">immutable audit log</span><span class="citation-popover-snippet">Emergent MindImmutable Audit Log Architecture28 Nov 2025 — They use multi-layered hashing, Merkle trees, and consensus protocols to link...</span></span></span>
+These techniques are widely used in secure logging systems because they provide tamper evidence without requiring every observer to trust a single database administrator. While blockchain-based custody systems have been proposed for digital forensics, reviews generally treat blockchain as one possible implementation rather than a universal requirement. Well-designed append-only logs with strong cryptographic protection can achieve the primary goal of detecting unauthorised modification without introducing unnecessary complexity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.emergentmind.com/topics/immutable-audit-log" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[ResearchGate+3Emergent Mind+3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">immutable audit log</span><span class="citation-popover-snippet">Emergent MindImmutable Audit Log Architecture28 Nov 2025 — They use multi-layered hashing, Merkle trees, and consensus protocols to link...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-3-dark.svg" | relative_url }}" alt="Audit Trail illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_data_provenance_941d9b_tamper_evident_file_38d91e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -408,194 +408,194 @@ The purpose of a tamper-evident trail is modest but essential. It cannot authent
 What it can do is establish confidence that the evidence being examined today is the same evidence captured by the automated detector, or clearly identify where changes occurred. In UAP investigations—where claims often become controversial long after collection—that distinction can substantially reduce avoidable disputes and allow discussion to focus on the recorded observations rather than [uncertainty]({{ 'uncertainty/' | relative_url }}) about the file's history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the file trail be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the file trail be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Strong coverage of audit trails and evidential reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of audit trails and evidential reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Provides context on integrity, trust and digital systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on integrity, trust and digital systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File system forensic analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/193355-M.jpg" alt="Cover for File system forensic analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File system forensic analysis">File system forensic analysis</a>
-        </h4>
-        <p class="fr-book-author">By Brian Carrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File system forensic analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/193355-M.jpg" alt="Cover for File system forensic analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File system forensic analysis">File system forensic analysis</a>
+</h4>
+<p class="fr-book-author">By Brian Carrier</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Computer science, Forensic sciences, File organization (computer science), Qa76.9.a25 c369 2005, 004.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Computer science, Forensic sciences, File organization (computer science), Qa76.9.a25 c369 2005, 004.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months)">LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Co...</a>
-        </h4>
-        <p class="fr-book-author">By Bill Nelson; Amelia Phillips; Christopher Steuart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months)">LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Co...</a>
+</h4>
+<p class="fr-book-author">By Bill Nelson; Amelia Phillips; Christopher Steuart</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Security, Professional, career &amp; trade -&gt; computer science -&gt; networking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Security, Professional, career &amp; trade -&gt; computer science -&gt; networking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=File+system+forensic+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File system forensic analysis</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=File+system+forensic+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File system forensic analysis</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="audit-trail-can-the-file-trail-be-trusted-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ What it can do is establish confidence that the evidence being examined today is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ What it can do is establish confidence that the evidence being examined today is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ What it can do is establish confidence that the evidence being examined today is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ What it can do is establish confidence that the evidence being examined today is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ What it can do is establish confidence that the evidence being examined today is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,97 +801,97 @@ What it can do is establish confidence that the evidence being examined today is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nvlpubs.nist.gov  
    Title: Publications Digital Evidence Preservation  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Evidence PreservationSeptember 14, 2022 — by B Guttman · 2022 · Cited by 12 — It is best practice to hash digita...</p></details>
    Published: September 14, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Chain of Custody in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody in the Era of Modern Forensics - PMCby T D’Anna · 2023 · Cited by 71 — The purpose of this work is to renew the interest...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Digital Evidence Chain of Custody: Navigating New...3 Dec 2024 — This paper explores the critical role of Chain of Cus...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.10359</a>  
+   Link:<a href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.10359</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.00065" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.00065</a>  
+   Link:<a href="https://arxiv.org/abs/2605.00065" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.00065</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
+   Link:<a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: emergentmind.com  
    Title: immutable audit log  
-   Link: <a href="https://www.emergentmind.com/topics/immutable-audit-log" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/immutable-audit-log</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergent MindImmutable Audit Log Architecture28 Nov 2025 — They use multi-layered hashing, Merkle trees, and consensus protocols to link...</p></details>
+   Link:<a href="https://www.emergentmind.com/topics/immutable-audit-log" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/immutable-audit-log</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergent MindImmutable Audit Log Architecture28 Nov 2025 — They use multi-layered hashing, Merkle trees, and consensus protocols to link...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dev.to  
-   Link: <a href="https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hash chains link events cryptographically—any modification is detectable; Ed25519 signatures prove who created each event; Merkle trees...</p></details>
+   Link:<a href="https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hash chains link events cryptographically—any modification is detectable; Ed25519 signatures prove who created each event; Merkle trees...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dev.to  
-   Link: <a href="https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Tamper-Evident Audit Log with SHA-256 Hash...27 Dec 2025 — Building a Tamper-Evident Audit Log with SHA-256 Hash Chains (Zero...</p></details>
+   Link:<a href="https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b" target="_blank" rel="noopener noreferrer nofollow">https://dev.to/veritaschain/building-a-tamper-evident-audit-log-with-sha-256-hash-chains-zero-dependencies-h0b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Tamper-Evident Audit Log with SHA-256 Hash...27 Dec 2025 — Building a Tamper-Evident Audit Log with SHA-256 Hash Chains (Zero...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mattermost.com  
    Title: compliance by design 18 tips to implement tamper proof audit logs  
-   Link: <a href="https://mattermost.com/blog/compliance-by-design-18-tips-to-implement-tamper-proof-audit-logs/" target="_blank" rel="noopener noreferrer nofollow">https://mattermost.com/blog/compliance-by-design-18-tips-to-implement-tamper-proof-audit-logs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Tips to Implement Tamper-Proof Audit Logs20 Feb 2026 — Tamper-proof” audit logs don&#x27;t happen by accident. They&#x27;re the result of choice...</p></details>
+   Link:<a href="https://mattermost.com/blog/compliance-by-design-18-tips-to-implement-tamper-proof-audit-logs/" target="_blank" rel="noopener noreferrer nofollow">https://mattermost.com/blog/compliance-by-design-18-tips-to-implement-tamper-proof-audit-logs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Tips to Implement Tamper-Proof Audit Logs20 Feb 2026 — Tamper-proof” audit logs don&#x27;t happen by accident. They&#x27;re the result of choice...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: computerforensicslab.co.uk  
    Title: data preservation in investigations 2026 best practices  
-   Link: <a href="https://computerforensicslab.co.uk/data-preservation-in-investigations-2026-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://computerforensicslab.co.uk/data-preservation-in-investigations-2026-best-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data preservation in investigations: 2026 best practices14 Jun 2026 — Chain of custody records must include hashes, timestamps, tools, an...</p></details>
+   Link:<a href="https://computerforensicslab.co.uk/data-preservation-in-investigations-2026-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://computerforensicslab.co.uk/data-preservation-in-investigations-2026-best-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data preservation in investigations: 2026 best practices14 Jun 2026 — Chain of custody records must include hashes, timestamps, tools, an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: forensicdiscovery.expert  
    Title: chain of custody for digital evidence best practices  
-   Link: <a href="https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital Evidence: Best Practices14 Jun 2026 — A source-first [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) for chain of custody for digital evidence should...</p></details>
+   Link:<a href="https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://forensicdiscovery.expert/blog/chain-of-custody-for-digital-evidence-best-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital Evidence: Best Practices14 Jun 2026 — A source-first [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) for chain of custody for digital evidence should...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: irjmets.com  
-   Link: <a href="https://www.irjmets.com/upload_newfiles/irjmets70600171331/paper_file/irjmets70600171331.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irjmets.com/upload_newfiles/irjmets70600171331/paper_file/irjmets70600171331.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uring immutable, transparent, and verifiable tracking of digital evidence...</p></details>
+   Link:<a href="https://www.irjmets.com/upload_newfiles/irjmets70600171331/paper_file/irjmets70600171331.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irjmets.com/upload_newfiles/irjmets70600171331/paper_file/irjmets70600171331.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uring immutable, transparent, and verifiable tracking of digital evidence...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: loginradius.com  
    Title: ensure log integrity non repudiation ai agents  
-   Link: <a href="https://www.loginradius.com/blog/engineering/ensure-log-integrity-non-repudiation-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.loginradius.com/blog/engineering/ensure-log-integrity-non-repudiation-ai-agents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ensuring Log Integrity and Non-Repudiation for AI Agents12 Mar 2026 — Non-repudiation ensures that actions recorded in logs can be defini...</p></details>
+   Link:<a href="https://www.loginradius.com/blog/engineering/ensure-log-integrity-non-repudiation-ai-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.loginradius.com/blog/engineering/ensure-log-integrity-non-repudiation-ai-agents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ensuring Log Integrity and Non-Repudiation for AI Agents12 Mar 2026 — Non-repudiation ensures that actions recorded in logs can be defini...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: crypto.stackexchange.com  
    Title: tamper evident audit logs  
-   Link: <a href="https://crypto.stackexchange.com/questions/11958/tamper-evident-audit-logs" target="_blank" rel="noopener noreferrer nofollow">https://crypto.stackexchange.com/questions/11958/tamper-evident-audit-logs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comTamper-evident audit logs - hash26 Nov 2013 — I want to be able to detect tampering in a log file that is under the cont...</p></details>
+   Link:<a href="https://crypto.stackexchange.com/questions/11958/tamper-evident-audit-logs" target="_blank" rel="noopener noreferrer nofollow">https://crypto.stackexchange.com/questions/11958/tamper-evident-audit-logs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comTamper-evident audit logs - hash26 Nov 2013 — I want to be able to detect tampering in a log file that is under the cont...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-51033-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-51033-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>der IBM noisy simulators...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-026-51033-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-51033-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>der IBM noisy simulators...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Amped Podcast Episode 1  
-   Link: <a href="https://www.youtube.com/watch?v=othRUUES4b0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=othRUUES4b0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Chain of Custody in Digital Forensics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=othRUUES4b0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=othRUUES4b0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Chain of Custody in Digital Forensics...</p></details>

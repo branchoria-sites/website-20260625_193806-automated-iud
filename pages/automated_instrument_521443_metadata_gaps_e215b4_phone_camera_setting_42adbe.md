@@ -278,7 +278,7 @@ A surprising number of “UFO” videos are actually recordings of camera behavi
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe-Illustration-1-dark.svg" | relative_url }}" alt="Camera Effects illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_metadata_gaps_e215b4_phone_camera_setting_42adbe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many viral sky clips are shared without the camera settings or [original files]({{ 'original-files/' | relative_url }}) needed to reconstruct what the device was doing. NASA’s UAP study emphasised that poor sensor calibration and missing metadata make unusual sightings difficult to evaluate scientifically, and noted that some apparent UAP have ultimately been identified as sensor artefacts once calibration and metadata were examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+This matters because many viral sky clips are shared without the camera settings or [original files]({{ 'original-files/' | relative_url }}) needed to reconstruct what the device was doing. NASA’s UAP study emphasised that poor sensor calibration and missing metadata make unusual sightings difficult to evaluate scientifically, and noted that some apparent UAP have ultimately been identified as sensor artefacts once calibration and metadata were examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## Is the UFO in the Sky or the Camera?
 
@@ -286,7 +286,7 @@ The key question is often not “What is the object?” but “What did the came
 
 Human vision and smartphone cameras operate differently. A person looking at Venus near the horizon may see a bright point of light. A phone camera, meanwhile, may increase gain, lengthen exposure, digitally sharpen the image, hunt for focus and apply noise reduction simultaneously. The resulting video can look dramatically different from what the witness actually saw.
 
-Because most social-media uploads strip technical metadata and often involve recompression or editing, later investigators may be unable to determine whether an apparent anomaly originated in the sky or inside the imaging pipeline itself. NASA has repeatedly highlighted the importance of complete sensor metadata for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+Because most social-media uploads strip technical metadata and often involve recompression or editing, later investigators may be unable to determine whether an apparent anomaly originated in the sky or inside the imaging pipeline itself. NASA has repeatedly highlighted the importance of complete sensor metadata for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## Zoom, Focus and Exposure Traps
 
@@ -294,13 +294,13 @@ Because most social-media uploads strip technical metadata and often involve rec
 
 One of the most common sources of misleading UFO imagery is digital zoom.
 
-Optical zoom changes the lens system. Digital zoom simply crops and enlarges part of the image. As magnification increases, image-processing artefacts, noise and compression errors become much more visible. A distant aircraft light that appears stable at wide angle can become a wobbling, irregular shape when digitally enlarged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theschoolofphotography.com/tutorials/photography-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theschoolofphotography.com">[theschoolofphotography.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theschoolofphotography.com</span><span class="citation-popover-title">Photography Terminology Explained &#124; A Beginner&#x27;s Guide</span><span class="citation-popover-snippet">May 10, 2024 — 10 May 2026 — Digital zoom is a feature found in digital cameras and smartphones that magnifies the central portion of an...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
+Optical zoom changes the lens system. Digital zoom simply crops and enlarges part of the image. As magnification increases, image-processing artefacts, noise and compression errors become much more visible. A distant aircraft light that appears stable at wide angle can become a wobbling, irregular shape when digitally enlarged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theschoolofphotography.com/tutorials/photography-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theschoolofphotography.com">[theschoolofphotography.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theschoolofphotography.com</span><span class="citation-popover-title">Photography Terminology Explained &#124; A Beginner&#x27;s Guide</span><span class="citation-popover-snippet">May 10, 2024 — 10 May 2026 — Digital zoom is a feature found in digital cameras and smartphones that magnifies the central portion of an...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
 This is especially important in night recordings. A bright light occupies only a tiny number of pixels on the sensor. When those pixels are enlarged, viewers may interpret the resulting blocky or amorphous shape as structure on the object itself.
 
 ### Autofocus can create artificial discs
 
-Smartphone autofocus systems rely on contrast. A single bright light in a dark sky often provides very little information for the camera to lock onto. When focus fails, the light expands into a large soft disc or orb. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samsung.com">[Samsung es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samsung.com</span><span class="citation-popover-snippet">Samsung esWhat to do if my Galaxy phone camera does not focus on...January 11, 2022 — 11 Jan 2026 — Dirt or foreign objects on the phone...</span><span class="citation-popover-meta">Published: January 11, 2022</span></span></span>
+Smartphone autofocus systems rely on contrast. A single bright light in a dark sky often provides very little information for the camera to lock onto. When focus fails, the light expands into a large soft disc or orb.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samsung.com">[Samsung es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samsung.com</span><span class="citation-popover-snippet">Samsung esWhat to do if my Galaxy phone camera does not focus on...January 11, 2022 — 11 Jan 2026 — Dirt or foreign objects on the phone...</span><span class="citation-popover-meta">Published: January 11, 2022</span></span></span>
 
 This effect is familiar to astronomers. Stars, planets and aircraft lights that should appear as points can become large circular objects when the lens focuses incorrectly. The shape is not the object; it is the lens rendering an out-of-focus point source.
 
@@ -321,7 +321,7 @@ Atmospheric turbulence can amplify the illusion. Small fluctuations caused by ai
 
 Out-of-focus lights frequently display rings, geometric shapes or textured interiors.
 
-Photographers refer to the appearance of out-of-focus highlights as bokeh. The exact shape depends on lens design, optical imperfections and image-processing algorithms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsa.com">[Popsa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsa.com</span><span class="citation-popover-snippet">Master depth of field in your Android photographyJuly 21, 2025 — 21 Jul 2025 — Bokeh – the Japanese word pronounced “bok-ay”, descri...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
+Photographers refer to the appearance of out-of-focus highlights as bokeh. The exact shape depends on lens design, optical imperfections and image-processing algorithms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsa.com">[Popsa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsa.com</span><span class="citation-popover-snippet">Master depth of field in your Android photographyJuly 21, 2025 — 21 Jul 2025 — Bokeh – the Japanese word pronounced “bok-ay”, descri...</span><span class="citation-popover-meta">Published: July 21, 2025</span></span></span>
 
 To an untrained observer, these patterns can resemble metallic discs, glowing spheres or structured craft. Yet the apparent structure often disappears immediately when the object is brought into proper focus.
 
@@ -331,7 +331,7 @@ To an untrained observer, these patterns can resemble metallic discs, glowing sp
 
 Modern phones use a combination of optical and digital stabilisation to reduce hand shake. This technology is extremely useful, but it can create strange behaviour when filming small bright objects against a mostly featureless sky.
 
-When the software struggles to identify stable reference points, it may suddenly reposition parts of the frame. The result can be a light that appears to jump, accelerate or change direction abruptly even though the movement originated in the camera system rather than the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Image Stabilization Explained</span><span class="citation-popover-snippet">Image Stabilization ExplainedApril 3, 2025 — By taking a firm grip of the camera and slowly releasing the shutter button, they can...</span><span class="citation-popover-meta">Published: April 3, 2025</span></span></span>
+When the software struggles to identify stable reference points, it may suddenly reposition parts of the frame. The result can be a light that appears to jump, accelerate or change direction abruptly even though the movement originated in the camera system rather than the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Image Stabilization Explained</span><span class="citation-popover-snippet">Image Stabilization ExplainedApril 3, 2025 — By taking a firm grip of the camera and slowly releasing the shutter button, they can...</span><span class="citation-popover-meta">Published: April 3, 2025</span></span></span>
 
 Digital enhancement can introduce additional artefacts:
 
@@ -355,7 +355,7 @@ These effects are particularly visible at night, when smartphone cameras operate
 
 Phone cameras are designed with filters that reduce infrared light, but those filters are not perfect. Some infrared still reaches the sensor.
 
-This matters because many artificial sources emit infrared energy that humans cannot see. Certain security systems, remote-control emitters, vehicle sensors and specialised lighting can produce unexpected camera responses. In unusual cases, infrared sources may appear as mysterious lights visible only through a camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Intense laser beams can heat and &quot;fry&quot; the camera sensors, rendering them unusable. One Reddit user shared their experience of their iPho...</span></span></span>
+This matters because many artificial sources emit infrared energy that humans cannot see. Certain security systems, remote-control emitters, vehicle sensors and specialised lighting can produce unexpected camera responses. In unusual cases, infrared sources may appear as mysterious lights visible only through a camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Intense laser beams can heat and &quot;fry&quot; the camera sensors, rendering them unusable. One Reddit user shared their experience of their iPho...</span></span></span>
 
 The effect can become even more confusing when a witness alternates between looking directly at the sky and looking at the phone screen. The camera may record light that appears absent to the naked eye, encouraging the belief that an unusual object has been detected.
 
@@ -402,7 +402,7 @@ A scientifically useful observation should record:
 
 </div>
 
-NASA's UAP study repeatedly stressed that reliable analysis depends on calibration, metadata and multiple measurements rather than isolated images. Apparent anomalies can emerge from sensor behaviour, and distinguishing a genuine unknown from a camera artefact requires knowing exactly how the instrument was configured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[indy100+3NASA Science+3nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+NASA's UAP study repeatedly stressed that reliable analysis depends on calibration, metadata and multiple measurements rather than isolated images. Apparent anomalies can emerge from sensor behaviour, and distinguishing a genuine unknown from a camera artefact requires knowing exactly how the instrument was configured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[indy100+3NASA Science+3nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 The practical consequence is that many dramatic sky videos are not necessarily evidence for extraordinary objects or evidence against them. They are often incomplete measurements. Without the accompanying camera settings, investigators may be unable to determine whether the strange shape was in the sky, in the optics, or in the software that interpreted the scene before anyone ever pressed “upload”.
 
@@ -411,194 +411,194 @@ The practical consequence is that many dramatic sky videos are not necessarily e
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is the UFO in the Sky or Camera?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is the UFO in the Sky or Camera?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JzemJH1SXugC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Digital Photography Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book">The Digital Photography Book</a>
-        </h4>
-        <p class="fr-book-author">By Scott Kelby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JzemJH1SXugC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Digital Photography Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book">The Digital Photography Book</a>
+</h4>
+<p class="fr-book-author">By Scott Kelby</p>
         
-        <p class="fr-book-desc">Covers exposure, focus, image quality, and common capture mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers exposure, focus, image quality, and common capture mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+by+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Illustrates how incomplete information and missing context can produce misleading conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how incomplete information and missing context can produce misleading conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The DAM Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pqpmJPtqJLAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The DAM Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DAM Book">The DAM Book</a>
-        </h4>
-        <p class="fr-book-author">By Peter Krogh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The DAM Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pqpmJPtqJLAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The DAM Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DAM Book">The DAM Book</a>
+</h4>
+<p class="fr-book-author">By Peter Krogh</p>
         
-        <p class="fr-book-desc">Highlights the importance of metadata and original files for later analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of metadata and original files for later analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+DAM+Book+by+Peter+Krogh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7741706-M.jpg" alt="Cover for The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN">The Digital Photography Book Parts 1 and 2 with 1 Month of Ac...</a>
-        </h4>
-        <p class="fr-book-author">By Scott Kelby</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7741706-M.jpg" alt="Cover for The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Digital Photography Book Parts 1 and 2 with 1 Month of Access to Kelby Training BN">The Digital Photography Book Parts 1 and 2 with 1 Month of Ac...</a>
+</h4>
+<p class="fr-book-author">By Scott Kelby</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Photography, Miscellanea, Digital techniques, Photographie, Miscellanées.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Photography, Miscellanea, Digital techniques, Photographie, Miscellanées.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Digital+Photography+Book+Parts+1+and+2+with+1+Month+of+Access+to+Kelby+Training+BN+Scott+Kelby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Digital+Photography+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Digital Photography Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+DAM+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The DAM Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Digital+Photography+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Digital Photography Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+DAM+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The DAM Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece"><img src="{{ '/assets/images/marketplace-covers/c6505cde2df737867ec6.jpg' | relative_url }}" alt="Listing image for Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece"><img src="{{ '/assets/images/marketplace-covers/c6505cde2df737867ec6.jpg' | relative_url }}" alt="Listing image for Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">Telescope Eyepiece Camera For Astronomy 4K 3in Color Display Electronic Eyepiece</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars"><img src="{{ '/assets/images/marketplace-covers/adb59f744e9e358a59d1.jpg' | relative_url }}" alt="Listing image for 4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars"><img src="{{ '/assets/images/marketplace-covers/adb59f744e9e358a59d1.jpg' | relative_url }}" alt="Listing image for 4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">4K infrared Night Vision Goggles, Head Mounted Night Vision binoculars</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK"><img src="{{ '/assets/images/marketplace-covers/605867c4c23688109658.jpg' | relative_url }}" alt="Listing image for SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK"><img src="{{ '/assets/images/marketplace-covers/605867c4c23688109658.jpg' | relative_url }}" alt="Listing image for SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">SVBONY SV305C Pro - Astronomy Camera for Telescope 1.25&quot; - 2MP - USB3.0 UK STOCK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography"><img src="{{ '/assets/images/marketplace-covers/570e3c6687551d8b568a.jpg' | relative_url }}" alt="Listing image for 1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography"><img src="{{ '/assets/images/marketplace-covers/570e3c6687551d8b568a.jpg' | relative_url }}" alt="Listing image for 1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">1.25&#x27;&#x27; CMOS Astronomy Camera USB 2.0 for Planetary Photography</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy camera">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy camera</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy camera" data-ebay-reference="camera-effects-is-the-ufo-in-the-sky-or-camera-automated-instrumented-ufo-detectors-astronomy-camera" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ The practical consequence is that many dramatic sky videos are not necessarily e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ The practical consequence is that many dramatic sky videos are not necessarily e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ The practical consequence is that many dramatic sky videos are not necessarily e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ The practical consequence is that many dramatic sky videos are not necessarily e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ The practical consequence is that many dramatic sky videos are not necessarily e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,123 +804,123 @@ The practical consequence is that many dramatic sky videos are not necessarily e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theschoolofphotography.com  
    Title: Photography Terminology Explained | A Beginner's Guide  
-   Link: <a href="https://www.theschoolofphotography.com/tutorials/photography-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.theschoolofphotography.com/tutorials/photography-terminology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2024 — 10 May 2026 — Digital zoom is a feature found in digital cameras and smartphones that magnifies the central portion of an...</p></details>
+   Link:<a href="https://www.theschoolofphotography.com/tutorials/photography-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.theschoolofphotography.com/tutorials/photography-terminology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2024 — 10 May 2026 — Digital zoom is a feature found in digital cameras and smartphones that magnifies the central portion of an...</p></details>
    Published: May 10, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: samsung.com  
-   Link: <a href="https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/" target="_blank" rel="noopener noreferrer nofollow">https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Samsung esWhat to do if my Galaxy phone camera does not focus on...January 11, 2022 — 11 Jan 2026 — Dirt or foreign objects on the phone...</p></details>
+   Link:<a href="https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/" target="_blank" rel="noopener noreferrer nofollow">https://www.samsung.com/latin_en/support/mobile-devices/what-to-do-if-my-galaxy-phone-camera-does-not-focus-on-the-subject/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Samsung esWhat to do if my Galaxy phone camera does not focus on...January 11, 2022 — 11 Jan 2026 — Dirt or foreign objects on the phone...</p></details>
    Published: January 11, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: popsa.com  
-   Link: <a href="https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/" target="_blank" rel="noopener noreferrer nofollow">https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Master depth of field in your Android photographyJuly 21, 2025 — 21 Jul 2025 — Bokeh – the Japanese word pronounced “bok-ay”, descri...</p></details>
+   Link:<a href="https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/" target="_blank" rel="noopener noreferrer nofollow">https://popsa.com/en-gb/perspectives/depth-of-field-android-photography-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master depth of field in your Android photographyJuly 21, 2025 — 21 Jul 2025 — Bokeh – the Japanese word pronounced “bok-ay”, descri...</p></details>
    Published: July 21, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
    Title: Image Stabilization Explained  
-   Link: <a href="https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Image Stabilization ExplainedApril 3, 2025 — By taking a firm grip of the camera and slowly releasing the shutter button, they can...</p></details>
+   Link:<a href="https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/hd-pro/image-stabilization-explained-4ac3aaa4f7a4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Image Stabilization ExplainedApril 3, 2025 — By taking a firm grip of the camera and slowly releasing the shutter button, they can...</p></details>
    Published: April 3, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: indy100.com  
    Title: nasa ufo report things learned  
-   Link: <a href="https://www.indy100.com/science-tech/nasa-ufo-report-things-learned" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/nasa-ufo-report-things-learned</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 things we learned from Nasa&#x27;s report on UFOs14 Sept 2023 — &quot;The importance of detecting UAP with multiple, well-calibrated sensors is t...</p></details>
+   Link:<a href="https://www.indy100.com/science-tech/nasa-ufo-report-things-learned" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/nasa-ufo-report-things-learned</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 things we learned from Nasa&#x27;s report on UFOs14 Sept 2023 — &quot;The importance of detecting UAP with multiple, well-calibrated sensors is t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intense laser beams can heat and &quot;fry&quot; the camera sensors, rendering them unusable. One Reddit user shared their experience of their iPho...</p></details>
+   Link:<a href="https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/35260174/summer-party-gadget-laser-fry-phone-break-camera-sensor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intense laser beams can heat and &quot;fry&quot; the camera sensors, rendering them unusable. One Reddit user shared their experience of their iPho...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: primitiveproton.com  
-   Link: <a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://primitiveproton.com/unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://primitiveproton.com/unidentified-anomalous-phenomena-uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — But any existing data sets applied to the question of UAPs w...</p></details>
    Published: May 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — They work to develop recommendations about how NASA could better examine them from a...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — They work to develop recommendations about how NASA could better examine them from a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=o8umYCt4tec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o8umYCt4tec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Astrophotography WorkshopAstrophotography (the process and its product) is widely regarded as one of the best ways to engage p...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o8umYCt4tec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o8umYCt4tec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Astrophotography WorkshopAstrophotography (the process and its product) is widely regarded as one of the best ways to engage p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: defensescoop.com  
    Title: pentagon office developing new sensors to better detect ufos  
-   Link: <a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — He suggested NASA take the lead on the government&#x27;s crowd-source...</p></details>
+   Link:<a href="https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/05/31/pentagon-office-developing-new-sensors-to-better-detect-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon office developing new sensors to better detect...31 May 2023 — He suggested NASA take the lead on the government&#x27;s crowd-source...</p></details>
    Published: May 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
+   Link:<a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nextgov.com  
    Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
+   Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>

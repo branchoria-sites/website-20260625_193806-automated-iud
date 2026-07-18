@@ -448,7 +448,7 @@ image: /assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-ov
 
 ## Introduction
 
-A single camera can show that something appeared in the sky, but it usually cannot prove what it was, how far away it was, how fast it moved, or whether its apparent behaviour came from the object or from the camera system. That is why serious automated UFO or UAP detectors are moving towards multi-sensor records: optical and [infrared cameras]({{ 'infrared/' | relative_url }}), radio receivers, microphones, [weather]({{ 'weather/' | relative_url }}) instruments, aircraft tracking, timing, position data and, where possible, observations from more than one site. NASA’s independent UAP study identified poor calibration, missing sensor metadata and lack of multiple measurements as core obstacles to useful analysis, not minor paperwork problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+A single camera can show that something appeared in the sky, but it usually cannot prove what it was, how far away it was, how fast it moved, or whether its apparent behaviour came from the object or from the camera system. That is why serious automated UFO or UAP detectors are moving towards multi-sensor records: optical and [infrared cameras]({{ 'infrared/' | relative_url }}), radio receivers, microphones, [weather]({{ 'weather/' | relative_url }}) instruments, aircraft tracking, timing, position data and, where possible, observations from more than one site. NASA’s independent UAP study identified poor calibration, missing sensor metadata and lack of multiple measurements as core obstacles to useful analysis, not minor paperwork problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-overview.webp" | relative_url }}" alt="Overview image for Multi Sensor" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,9 +456,9 @@ The practical aim is not to make a detector “believe” more reports. It is to
 
 ## The single-camera trap
 
-A camera records a two-dimensional image of a three-dimensional scene. Without reliable range, a small object nearby can resemble a large object far away, and a slow object at one distance can seem fast at another. This is the central weakness in many striking UAP clips: the image may be real, but the inferred size, altitude and speed may not be. AARO has explicitly highlighted parallax, forced perspective and sensor artefacts as sources of UAP reports in which apparent size or performance exceeds what the underlying geometry supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theforestawakening.com">[theforestawakening.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theforestawakening.com</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">January 1, 2024 — AARO discusses specular and diffuse reflection from man-made satellites and how satellite flaring can be misinterpreted...</span><span class="citation-popover-meta">Published: January 1, 2024</span></span></span>
+A camera records a two-dimensional image of a three-dimensional scene. Without reliable range, a small object nearby can resemble a large object far away, and a slow object at one distance can seem fast at another. This is the central weakness in many striking UAP clips: the image may be real, but the inferred size, altitude and speed may not be. AARO has explicitly highlighted parallax, forced perspective and sensor artefacts as sources of UAP reports in which apparent size or performance exceeds what the underlying geometry supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theforestawakening.com">[theforestawakening.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theforestawakening.com</span><span class="citation-popover-title">Effect of Forced Perspective and Parallax View on UAP Observations</span><span class="citation-popover-snippet">January 1, 2024 — AARO discusses specular and diffuse reflection from man-made satellites and how satellite flaring can be misinterpreted...</span><span class="citation-popover-meta">Published: January 1, 2024</span></span></span>
 
-This matters because “fast” in a video often means “fast across the frame”, not fast through the air. A camera on a moving aircraft, a tracking mount or even a handheld phone can make a distant balloon, bird, aircraft or satellite appear to move dramatically against the background. The well-known “GOFAST” case illustrates the point: AARO told a 2024 Senate hearing that geospatial analysis placed the object much higher than it first appeared, with parallax making its motion look unusually rapid, while still not necessarily identifying the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span>
+This matters because “fast” in a video often means “fast across the frame”, not fast through the air. A camera on a moving aircraft, a tracking mount or even a handheld phone can make a distant balloon, bird, aircraft or satellite appear to move dramatically against the background. The well-known “GOFAST” case illustrates the point: AARO told a 2024 Senate hearing that geospatial analysis placed the object much higher than it first appeared, with parallax making its motion look unusually rapid, while still not necessarily identifying the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span>
 
 Optics add another layer of [uncertainty]({{ 'uncertainty/' | relative_url }}). Focus, zoom, exposure, rolling shutter, compression, glare and infrared blooming can all change what an object appears to be doing. A bright aircraft light can become a shapeless blob; a distant point source can become a polygonal blur; an infrared engine plume can look larger than the vehicle producing it. These are not excuses to dismiss every case, but they are reasons why one camera alone is weak evidence for extreme claims.
 
@@ -468,19 +468,19 @@ Optics add another layer of [uncertainty]({{ 'uncertainty/' | relative_url }}). 
 
 A useful automated UAP detector treats every sensor as partial. No single channel is the truth machine. The value comes from knowing what each one measures well, what it cannot measure alone, and how it checks the others.
 
-**Visible-light cameras** are best at recording direction, brightness changes, shape as seen in a particular band, and angular motion across the sky. They are relatively cheap, intuitive and easy to deploy in citizen systems such as Sky360, which describes its goal as an [open-source]({{ 'open-source/' | relative_url }}) global network of AI-powered tracking stations for detecting, tracking, identifying and analysing aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s AtmosphereSky360 is an open-source global sky observation network using AI-powered trac...</span></span></span> But a visible camera usually cannot determine distance by itself, and therefore cannot reliably determine size or true speed without extra geometry.
+**Visible-light cameras** are best at recording direction, brightness changes, shape as seen in a particular band, and angular motion across the sky. They are relatively cheap, intuitive and easy to deploy in citizen systems such as Sky360, which describes its goal as an [open-source]({{ 'open-source/' | relative_url }}) global network of AI-powered tracking stations for detecting, tracking, identifying and analysing aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s AtmosphereSky360 is an open-source global sky observation network using AI-powered trac...</span></span></span> But a visible camera usually cannot determine distance by itself, and therefore cannot reliably determine size or true speed without extra geometry.
 
-**Infrared cameras** add heat contrast and night-time sensitivity. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared camera work uses an array of eight long-wave infrared cameras and explicitly calibrates them with synchronised ADS-B aircraft positions, showing how even a camera-centred instrument becomes more useful when tied to external aircraft data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Infrared still has its own traps: hot exhaust, sensor gain, blooming, reflections and atmospheric absorption can all distort the apparent outline or intensity of a target.
+**Infrared cameras** add heat contrast and night-time sensitivity. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s all-sky infrared camera work uses an array of eight long-wave infrared cameras and explicitly calibrates them with synchronised ADS-B aircraft positions, showing how even a camera-centred instrument becomes more useful when tied to external aircraft data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Infrared still has its own traps: hot exhaust, sensor gain, blooming, reflections and atmospheric absorption can all distort the apparent outline or intensity of a target.
 
-**Radar and passive radio systems** can add the missing quantity that cameras often lack: range. The Galileo Project’s SkyWatch concept uses passive multistatic radar based on broadcast FM transmitters of opportunity, with receivers spaced geographically to estimate three-dimensional position and velocity time series for aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> This is why radar-like channels are so important: once range and velocity are measured independently, the video is no longer forced to carry the whole burden. But radar can also generate false tracks, multipath returns and clutter, so it still needs correlation with other channels.
+**Radar and passive radio systems** can add the missing quantity that cameras often lack: range. The Galileo Project’s SkyWatch concept uses passive multistatic radar based on broadcast FM transmitters of opportunity, with receivers spaced geographically to estimate three-dimensional position and velocity time series for aerial objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> This is why radar-like channels are so important: once range and velocity are measured independently, the video is no longer forced to carry the whole burden. But radar can also generate false tracks, multipath returns and clutter, so it still needs correlation with other channels.
 
-**Aircraft-tracking receivers** such as ADS-B are not UAP sensors in the exotic sense; they are exclusion tools. ADS-B Out broadcasts an aircraft’s GPS-derived position, altitude, ground speed and other data, and the FAA describes it as updating once per second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">ins outs</span></span></span> For a sky detector, that means many “unknowns” can be checked against ordinary aircraft traffic before they become mystery clips. The limitation is equally important: not every object transmits ADS-B, and a missing ADS-B hit does not prove something is anomalous.
+**Aircraft-tracking receivers** such as ADS-B are not UAP sensors in the exotic sense; they are exclusion tools. ADS-B Out broadcasts an aircraft’s GPS-derived position, altitude, ground speed and other data, and the FAA describes it as updating once per second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">ins outs</span><span class="citation-popover-snippet">ins outs</span></span></span> For a sky detector, that means many “unknowns” can be checked against ordinary aircraft traffic before they become mystery clips. The limitation is equally important: not every object transmits ADS-B, and a missing ADS-B hit does not prove something is anomalous.
 
-**Acoustic sensors** can help when an event is within range and loud enough to stand above background noise. The Galileo Project’s acoustic monitoring work uses infrasonic, audible and ultrasonic microphones to provide an independent signal modality, with audible aircraft detections reported up to about one kilometre under suitable conditions and infrasonic sources potentially detectable over longer ranges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span></span></span> Silence, however, is not decisive. Wind, terrain, distance, directionality and atmospheric conditions can erase or distort sound.
+**Acoustic sensors** can help when an event is within range and loud enough to stand above background noise. The Galileo Project’s acoustic monitoring work uses infrasonic, audible and ultrasonic microphones to provide an independent signal modality, with audible aircraft detections reported up to about one kilometre under suitable conditions and infrasonic sources potentially detectable over longer ranges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span><span class="citation-popover-snippet">arXiv Multi-Band Acoustic Monitoring of Aerial Signatures</span></span></span> Silence, however, is not decisive. Wind, terrain, distance, directionality and atmospheric conditions can erase or distort sound.
 
-**Weather stations** are mundane but essential. Cloud base, wind, visibility, humidity, temperature gradients and storm activity can change what is visible, how sound travels and whether apparent motion might be drifting debris, balloons, birds, insects or atmospheric optics. Hessdalen’s automatic station was expanded with a weather station in 2002, a practical sign that long-term anomaly monitoring needs environmental context as well as cameras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
+**Weather stations** are mundane but essential. Cloud base, wind, visibility, humidity, temperature gradients and storm activity can change what is visible, how sound travels and whether apparent motion might be drifting debris, balloons, birds, insects or atmospheric optics. Hessdalen’s automatic station was expanded with a weather station in 2002, a practical sign that long-term anomaly monitoring needs environmental context as well as cameras.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
 
-**Magnetometers and other environmental sensors** are weaker as identification tools but useful as context channels. Hessdalen’s Automatic Measurement Station has used cameras and magnetometry, while Galileo Project work has explored magnetometry as auxiliary instrumentation to test reported associations between UAP sightings and local electromagnetic disturbances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen AMS</span><span class="citation-popover-snippet">Hessdalen AMS</span></span></span> A magnetic spike near an optical event would not identify an object by itself; it would create a testable correlation that analysts could compare against geomagnetic activity, local electrical equipment and other ordinary causes.
+**Magnetometers and other environmental sensors** are weaker as identification tools but useful as context channels. Hessdalen’s Automatic Measurement Station has used cameras and magnetometry, while Galileo Project work has explored magnetometry as auxiliary instrumentation to test reported associations between UAP sightings and local electromagnetic disturbances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hessdalen AMS</span><span class="citation-popover-snippet">Hessdalen AMS</span></span></span> A magnetic spike near an optical event would not identify an object by itself; it would create a testable correlation that analysts could compare against geomagnetic activity, local electrical equipment and other ordinary causes.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
@@ -489,9 +489,9 @@ A useful automated UAP detector treats every sensor as partial. No single channe
 
 The strongest reason for multi-sensor detection is not that every sensor adds drama. It is that independent channels fail in different ways. A lens reflection may appear on a camera but not on radar, ADS-B, acoustics or a second camera with a different angle. A satellite flare may be bright visually but should follow predictable orbital and illumination geometry. A drone may show optical motion, possible acoustic output and sometimes radio-frequency activity. A balloon may drift with wind and lack propulsion noise. A meteor may produce a fast luminous track but not a sustained low-altitude hover.
 
-This is where automated instrumented detectors become different from ordinary sky-watching. They do not merely capture a clip; they record a decision environment. A detected object can be checked against aircraft broadcasts, satellite predictions, weather, camera calibration, local radio data and other stations. AARO’s 2025 satellite-flaring paper, for example, describes how sunlight reflected from [Starlink satellite]({{ 'starlink/' | relative_url }}) surfaces can be misinterpreted as UAP and gives observers a method for testing whether a sighting may be attributable to satellite flaring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
+This is where automated instrumented detectors become different from ordinary sky-watching. They do not merely capture a clip; they record a decision environment. A detected object can be checked against aircraft broadcasts, satellite predictions, weather, camera calibration, local radio data and other stations. AARO’s 2025 satellite-flaring paper, for example, describes how sunlight reflected from [Starlink satellite]({{ 'starlink/' | relative_url }}) surfaces can be misinterpreted as UAP and gives observers a method for testing whether a sighting may be attributable to satellite flaring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">Correlations of Starlink Satellite Flaring with UAP</span></span></span>
 
-The same logic applies to “ordinary” aircraft. The Galileo infrared array’s use of ADS-B aircraft positions for extrinsic calibration is a good example of turning known air traffic into a calibration asset rather than treating it only as clutter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> If a detector can repeatedly recover the correct position and track of known aircraft, analysts gain confidence in the geometry of unknown tracks. If it cannot, then its anomalous detections are less persuasive.
+The same logic applies to “ordinary” aircraft. The Galileo infrared array’s use of ADS-B aircraft positions for extrinsic calibration is a good example of turning known air traffic into a calibration asset rather than treating it only as clutter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> If a detector can repeatedly recover the correct position and track of known aircraft, analysts gain confidence in the geometry of unknown tracks. If it cannot, then its anomalous detections are less persuasive.
 
 Multi-sensor systems also help separate detection from identification. A camera may trigger the event; radar may estimate range; ADS-B may exclude cooperative aircraft; weather data may explain drift; acoustics may suggest propulsion or its absence; a second site may triangulate position. No one channel has to do everything. The event becomes stronger when different channels agree, and weaker when the supposed anomaly depends on one fragile interpretation.
 
@@ -499,15 +499,15 @@ Multi-sensor systems also help separate detection from identification. A camera 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-2-dark.svg" | relative_url }}" alt="Multi Sensor illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hessdalen shows both the promise and the limits
 
-Hessdalen, Norway, is often cited because it moved beyond witness reports into long-term instrumented monitoring of unusual lights. Project Hessdalen’s own material describes field investigations using instruments such as radar, spectrum analysis, magnetometer, Geiger counter, laser and infrared viewing equipment, and later an Automatic Measurement Station with continuous cameras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meetingorganizer.copernicus.org">[CO Meeting Organizer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meetingorganizer.copernicus.org</span><span class="citation-popover-title">CO Meeting Organizer The Hessdalen Phenomena</span><span class="citation-popover-snippet">CO Meeting Organizer The Hessdalen Phenomena</span></span></span>
+Hessdalen, Norway, is often cited because it moved beyond witness reports into long-term instrumented monitoring of unusual lights. Project Hessdalen’s own material describes field investigations using instruments such as radar, spectrum analysis, magnetometer, Geiger counter, laser and infrared viewing equipment, and later an Automatic Measurement Station with continuous cameras.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meetingorganizer.copernicus.org">[CO Meeting Organizer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meetingorganizer.copernicus.org</span><span class="citation-popover-title">CO Meeting Organizer The Hessdalen Phenomena</span><span class="citation-popover-snippet">CO Meeting Organizer The Hessdalen Phenomena</span></span></span>
 
-The important lesson is not that Hessdalen solved all mystery lights. It did not. The lesson is that multi-instrument monitoring changed the quality of the question. A light seen by a witness becomes an anecdote. A light recorded with time, direction, camera view, possible radar return, spectrum, environmental data and repeat observations becomes something that can be compared, rejected, modelled or revisited. Even so, the Hessdalen station’s own public descriptions acknowledge limits: earlier arrangements could not determine distance to the lights, and later expansions were partly motivated by the need for closer images and better measurement geometry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
+The important lesson is not that Hessdalen solved all mystery lights. It did not. The lesson is that multi-instrument monitoring changed the quality of the question. A light seen by a witness becomes an anecdote. A light recorded with time, direction, camera view, possible radar return, spectrum, environmental data and repeat observations becomes something that can be compared, rejected, modelled or revisited. Even so, the Hessdalen station’s own public descriptions acknowledge limits: earlier arrangements could not determine distance to the lights, and later expansions were partly motivated by the need for closer images and better measurement geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Automatic Measurement Station (AMS</span><span class="citation-popover-snippet">Automatic Measurement Station (AMS</span></span></span>
 
 That is exactly the point for modern automated UAP detection. More sensors do not automatically produce certainty; they expose what is still missing. If a light is recorded optically but not ranged, range remains unknown. If radar sees something but the camera does not, analysts must examine radar clutter, line of sight, sensitivity and timing. If a magnetic fluctuation occurs near a sighting, it must be tested against ordinary geomagnetic and local electrical causes. Multi-sensor detection improves the evidence by making uncertainty visible rather than hiding it inside a striking image.
 
 ## What a useful event record includes
 
-A serious multi-sensor UAP event record should be built so that another analyst can reconstruct what happened without trusting the original observer’s impression. The Galileo Project’s observatory-class computing platform was designed around this problem: existing UAP data are often fragmented, uncalibrated and missing critical metadata, so the system emphasises real-time acquisition, sensor optimisation, data provenance and post-processing workflows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
+A serious multi-sensor UAP event record should be built so that another analyst can reconstruct what happened without trusting the original observer’s impression. The Galileo Project’s observatory-class computing platform was designed around this problem: existing UAP data are often fragmented, uncalibrated and missing critical metadata, so the system emphasises real-time acquisition, sensor optimisation, data provenance and post-processing workflows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
 
 A useful record normally needs:
 
@@ -531,11 +531,11 @@ This is why a networked detector is more than a camera in a box. A camera clip m
 
 ## The hard cases are correlation problems
 
-The hardest events are not always the most visually dramatic. They are the ones where several independent channels register something that remains inconsistent with ordinary explanations after calibration, timing and context checks. NASA’s UAP report called for systematic data calibration, multiple measurements and thorough sensor metadata because without those ingredients even intriguing cases can remain scientifically weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+The hardest events are not always the most visually dramatic. They are the ones where several independent channels register something that remains inconsistent with ordinary explanations after calibration, timing and context checks. NASA’s UAP report called for systematic data calibration, multiple measurements and thorough sensor metadata because without those ingredients even intriguing cases can remain scientifically weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 A multi-sensor detector therefore needs two opposite virtues. It must be sceptical enough to discard birds, balloons, aircraft, drones, [satellites]({{ 'satellites/' | relative_url }}), insects, weather artefacts, lens effects and software errors. But it must also be disciplined enough not to discard a genuinely unusual multi-channel record merely because the topic is culturally awkward. This is where automation helps: the system can apply the same filters to ordinary and unusual events, preserve failed detections as well as successful ones, and build a baseline of what the local sky normally looks like.
 
-AARO’s GREMLIN prototype reflects the same institutional turn towards instrumented collection. The FY2024 UAP annual report says GREMLIN contains several sensing modalities to detect, track, characterise and identify UAP, demonstrated functionality in a March 2024 test event, and was planned for a 90-day “pattern of life” collection at a national-security site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T has published a number of educational reports i...</span></span></span> The phrase “pattern of life” is important: anomaly detection depends on knowing the normal background first.
+AARO’s GREMLIN prototype reflects the same institutional turn towards instrumented collection. The FY2024 UAP annual report says GREMLIN contains several sensing modalities to detect, track, characterise and identify UAP, demonstrated functionality in a March 2024 test event, and was planned for a 90-day “pattern of life” collection at a national-security site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T has published a number of educational reports i...</span></span></span> The phrase “pattern of life” is important: anomaly detection depends on knowing the normal background first.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
@@ -550,194 +550,194 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
 <img src="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-3-dark.svg" | relative_url }}" alt="Multi Sensor illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_multi_sensor_detecti_7b7b02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Camera Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence quality, multiple witnesses, and the limits of single observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence quality, multiple witnesses, and the limits of single observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Explains independent sensing channels that complement optical observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains independent sensing channels that complement optical observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Provides practical thinking about uncertainty, evidence, and extracting useful measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical thinking about uncertainty, evidence, and extracting useful measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Centers on measurement, data quality, and scientific evaluation of anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on measurement, data quality, and scientific evaluation of anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search<span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="multi-sensor-why-one-camera-is-not-enough-automated-instrumented-ufo-detectors-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,249 +943,249 @@ That is the mechanism behind multi-sensor UAP detection. Cameras, radio, sound, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theforestawakening.com  
    Title: Effect of Forced Perspective and Parallax View on UAP Observations  
-   Link: <a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — AARO discusses specular and diffuse reflection from man-made satellites and how satellite flaring can be misinterpreted...</p></details>
+   Link:<a href="https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/effect-of-forced-perspective-and-parallax-view-on-uap-observations-35a2093a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — AARO discusses specular and diffuse reflection from man-made satellites and how satellite flaring can be misinterpreted...</p></details>
    Published: January 1, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T has published a number of educational reports i...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO S&amp;T has published a number of educational reports i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s AtmosphereSky360 is an open-source global sky observation network using AI-powered trac...</p></details>
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s AtmosphereSky360 is an open-source global sky observation network using AI-powered trac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Multi-Band Acoustic Monitoring of Aerial Signatures  
-   Link: <a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18551</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: old.hessdalen.org  
    Title: Automatic Measurement Station (AMS)  
-   Link: <a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Hessdalen AMS  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-AARO-UAP-Records-DT/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: old.hessdalen.org  
    Title: Hessdal article2000.shtml  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Galileo Galilei  
-   Link: <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galileo_Galilei</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Galileo_Galilei</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
+   Link:<a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: meetingorganizer.copernicus.org  
    Title: CO Meeting Organizer The Hessdalen Phenomena  
-   Link: <a href="https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf</a>  
+   Link:<a href="https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf" target="_blank" rel="noopener noreferrer nofollow">https://meetingorganizer.copernicus.org/EGU2011/EGU2011-9137.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
+   Link:<a href="https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/950338/satellite-flaring-phenomenon</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: thecrimson.com  
    Title: galileo project  
-   Link: <a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
+   Link:<a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: news.com.au  
    Title: 'Black object': Pentagon's wild UFO revelation Dr  
-   Link: <a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</p></details>
+   Link:<a href="https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/technology/science/space/very-anomalous-objects-pentagon-reveals-bizarre-ufo-sightings-under-investigation/news-story/a41d822643c8faf3a4ebce168b1d1f92</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jon T. Kosloski, head of the Pentagon&#x27;s UFO investigation office, detailed several anomalous UFO sightings that remain unexplained during...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference (  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
    Published: May 31, 2023  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: How Military Sensors Proved UFO Craft Were Physically Real  
-   Link: <a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)...</p></details>
    Published: May 31, 2023  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: AI & Aliens: New Eyes on Ancient Questions // Richard Cloete  
-   Link: <a href="https://www.youtube.com/watch?v=ZUBrIlxlNdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZUBrIlxlNdI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZUBrIlxlNdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZUBrIlxlNdI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Military Sensors Proved UFO Craft Were Physically Real...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Scientist explains how he hunts for alien life in space  
-   Link: <a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Aliens: New Eyes on Ancient Questions // Richard Cloete...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI &amp; Aliens: New Eyes on Ancient Questions // Richard Cloete...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it</a>  
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  

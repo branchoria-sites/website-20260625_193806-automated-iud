@@ -448,7 +448,7 @@ image: /assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-ov
 
 ## Introduction
 
-Should you buy a UFO detector or build one yourself? The practical answer is that commercial systems are better when you want a working installation quickly, with vendor-supported tracking software, weatherproof mounts and a defined upgrade path. DIY [open-source]({{ 'open-source/' | relative_url }}) builds are better when transparency, customisation, community experimentation and reproducible methods matter more than convenience. Neither route makes a sighting scientifically valuable by itself. The useful detector is the one that records time, location, pointing, calibration, aircraft context, weather and raw or near-raw data well enough for someone else to test the claim later. NASA’s UAP study made this the central problem: existing UAP evidence is often weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Should you buy a UFO detector or build one yourself? The practical answer is that commercial systems are better when you want a working installation quickly, with vendor-supported tracking software, weatherproof mounts and a defined upgrade path. DIY [open-source]({{ 'open-source/' | relative_url }}) builds are better when transparency, customisation, community experimentation and reproducible methods matter more than convenience. Neither route makes a sighting scientifically valuable by itself. The useful detector is the one that records time, location, pointing, calibration, aircraft context, weather and raw or near-raw data well enough for someone else to test the claim later. NASA’s UAP study made this the central problem: existing UAP evidence is often weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-overview.webp" | relative_url }}" alt="Overview image for Buy or Build" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,29 +456,29 @@ The buy-or-build choice therefore is not really about belief. It is about implem
 
 ## What Commercial Systems Simplify
 
-Commercial UAP detector systems mostly simplify the messy middle layer between a camera and a usable sky record. [UFODAP]({{ 'ufodap/' | relative_url }}), the clearest current example, sells software, cameras, multi-sensor units, mounts and accessories aimed specifically at UAP data collection rather than general CCTV or amateur astronomy. Its shop describes the project as a way to collect “scientifically valid data”, and its configuration guidance walks buyers through cameras, power over Ethernet, mounts, software and optional sensor modules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
+Commercial UAP detector systems mostly simplify the messy middle layer between a camera and a usable sky record. [UFODAP]({{ 'ufodap/' | relative_url }}), the clearest current example, sells software, cameras, multi-sensor units, mounts and accessories aimed specifically at UAP data collection rather than general CCTV or amateur astronomy. Its shop describes the project as a way to collect “scientifically valid data”, and its configuration guidance walks buyers through cameras, power over Ethernet, mounts, software and optional sensor modules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</span></span></span>
 
-The main convenience is integration. UFODAP’s Optical Tracking Data Acquisition Unit software is designed to detect and track moving objects with one camera, or optionally use a wide-angle camera for initial detection and a pan-tilt-zoom camera for close tracking. That saves the buyer from writing object-detection code, camera-control logic and hand-off routines from scratch. The same source also notes a real design tradeoff: PTZ cameras can zoom and centre a target, but fixed cameras avoid PTZ motion lag and may track faster objects better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPCameras for UFO/UAP tracking and data collection</span><span class="citation-popover-snippet">OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</span></span></span>
+The main convenience is integration. UFODAP’s Optical Tracking Data Acquisition Unit software is designed to detect and track moving objects with one camera, or optionally use a wide-angle camera for initial detection and a pan-tilt-zoom camera for close tracking. That saves the buyer from writing object-detection code, camera-control logic and hand-off routines from scratch. The same source also notes a real design tradeoff: PTZ cameras can zoom and centre a target, but fixed cameras avoid PTZ motion lag and may track faster objects better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPCameras for UFO/UAP tracking and data collection</span><span class="citation-popover-snippet">OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</span></span></span>
 
-Commercial systems also make multi-sensor expansion less improvised. UFODAP’s Multi-Sensor Data Acquisition Unit is described as a waterproof enclosure containing a Raspberry Pi, a sensor board, power-over-Ethernet communications, waterproof USB connectors and a software-defined-radio antenna connector for RF spectrum data. UFODAP’s technology page lists sensors including magnetometer, gyroscope, accelerometers, barometer, temperature, humidity and GPS for position and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span><span class="citation-popover-snippet">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span></span></span>
+Commercial systems also make multi-sensor expansion less improvised. UFODAP’s Multi-Sensor Data Acquisition Unit is described as a waterproof enclosure containing a Raspberry Pi, a sensor board, power-over-Ethernet communications, waterproof USB connectors and a software-defined-radio antenna connector for RF spectrum data. UFODAP’s technology page lists sensors including magnetometer, gyroscope, accelerometers, barometer, temperature, humidity and GPS for position and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-title">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span><span class="citation-popover-snippet">UFODAPMulti-Sensor Data Acquisition Unit (MSDAU</span></span></span>
 
-The cost of that simplification is visible. UFODAP’s own FAQ says a minimum system can start at “a few hundred dollars” with OTDAU software and a low-cost webcam, while a larger system with two cameras, two multi-sensor units, software and supporting equipment can reach several thousand dollars. Current shop listings show the Optical Tracking software and Mission Control software at $95 each, a low-cost fixed-camera starter system at $574.99 before required software and extra cable choices, and a portable tracking/data-collection system mount at $1,186.99 before the buyer adds a camera and other components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP+3UFODAP+3UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
+The cost of that simplification is visible. UFODAP’s own FAQ says a minimum system can start at “a few hundred dollars” with OTDAU software and a low-cost webcam, while a larger system with two cameras, two multi-sensor units, software and supporting equipment can reach several thousand dollars. Current shop listings show the Optical Tracking software and Mission Control software at $95 each, a low-cost fixed-camera starter system at $574.99 before required software and extra cable choices, and a portable tracking/data-collection system mount at $1,186.99 before the buyer adds a camera and other components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP+3UFODAP+3UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
 
-That pricing should be read as a convenience premium, not as a guarantee of scientific validity. A commercial bundle can reduce setup errors, but the resulting evidence still depends on site choice, calibration, weatherproofing, time synchronisation, aircraft filtering, logging discipline and how much [raw data]({{ 'raw-data/' | relative_url }}) is retained. The UAPx field expedition is a useful concrete example: it selected UFODAP for visible and near-infrared imagery because of advertised ease of use, data security and optional secondary sensors, but the study still treated the instrument as part of a wider field methodology rather than as a magic anomaly detector. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+That pricing should be read as a convenience premium, not as a guarantee of scientific validity. A commercial bundle can reduce setup errors, but the resulting evidence still depends on site choice, calibration, weatherproofing, time synchronisation, aircraft filtering, logging discipline and how much [raw data]({{ 'raw-data/' | relative_url }}) is retained. The UAPx field expedition is a useful concrete example: it selected UFODAP for visible and near-infrared imagery because of advertised ease of use, data security and optional secondary sensors, but the study still treated the instrument as part of a wider field methodology rather than as a magic anomaly detector.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-1-dark.svg" | relative_url }}" alt="Buy or Build illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Open-Source Builds Reveal
 
-DIY open-source builds expose the parts that a commercial product tends to hide: camera model, lens, detector thresholds, tracking logic, aircraft filtering, storage format, update history and failure modes. Sky360 describes itself as an open-source global sky-observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena, with hardware and software developed for an affordable 24/7 citizen sky observatory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
+DIY open-source builds expose the parts that a commercial product tends to hide: camera model, lens, detector thresholds, tracking logic, aircraft filtering, storage format, update history and failure modes. Sky360 describes itself as an open-source global sky-observation network using AI-powered tracking stations to detect, track, identify and analyse aerial phenomena, with hardware and software developed for an affordable 24/7 citizen sky observatory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
 
-The attraction is not only price. It is auditability. If a station is built from open components, other builders can inspect the code, reproduce the configuration, improve the detector, compare failures and decide whether an “unknown” was really outside the system’s ordinary classification limits. Sky360’s public GitHub organisation shows multiple repositories, including archived tracker projects and a newer public release candidate, which illustrates both the openness and the instability of community-led technical development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Sky360-Repository" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hub Sky360Observational Citizen Science of Earths atmosphere and beyond</span><span class="citation-popover-snippet">Git Hub Sky360Observational Citizen Science of Earths atmosphere and beyond</span></span></span>
+The attraction is not only price. It is auditability. If a station is built from open components, other builders can inspect the code, reproduce the configuration, improve the detector, compare failures and decide whether an “unknown” was really outside the system’s ordinary classification limits. Sky360’s public GitHub organisation shows multiple repositories, including archived tracker projects and a newer public release candidate, which illustrates both the openness and the instability of community-led technical development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Sky360-Repository" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hub Sky360Observational Citizen Science of Earths atmosphere and beyond</span><span class="citation-popover-snippet">Git Hub Sky360Observational Citizen Science of Earths atmosphere and beyond</span></span></span>
 
-Older Sky Hub material gives a sense of the builder mindset. The Sky Hub tracker was described as using readily available hardware, an Nvidia Jetson platform and machine-learning processing to record real-time data from cameras and environmental sensors. A related build guide estimated a base-level tracker at about $700, depending on camera, computer and shipping choices. Those numbers are not a fixed present-day bill of materials, but they show the practical appeal: a technically comfortable builder can assemble a capable station from commodity computing, cameras and sensors rather than buying a purpose-built package. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Building a Sky Hub UAP Tracker</span><span class="citation-popover-snippet">Building a Sky Hub UAP Tracker</span></span></span>
+Older Sky Hub material gives a sense of the builder mindset. The Sky Hub tracker was described as using readily available hardware, an Nvidia Jetson platform and machine-learning processing to record real-time data from cameras and environmental sensors. A related build guide estimated a base-level tracker at about $700, depending on camera, computer and shipping choices. Those numbers are not a fixed present-day bill of materials, but they show the practical appeal: a technically comfortable builder can assemble a capable station from commodity computing, cameras and sensors rather than buying a purpose-built package.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Building a Sky Hub UAP Tracker</span><span class="citation-popover-snippet">Building a Sky Hub UAP Tracker</span></span></span>
 
-DIY systems also make it easier to add ordinary-sky context, which is often more important than dramatic capture. A builder can add an ADS-B receiver to log aircraft transponder traffic, connect to open aircraft-tracking networks, store local [weather data]({{ 'weather-data/' | relative_url }}), or run an all-sky camera continuously for baseline patterns. Raspberry Pi’s own tutorial explains how a Raspberry Pi and low-cost software-defined radio can receive aircraft transponder signals, while the OpenSky Network provides guidance for feeding ADS-B data from a Raspberry Pi station. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raspberrypi.com">[Raspberry Pi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raspberrypi.com</span><span class="citation-popover-snippet">Open source on raspberrypi.com.</span></span></span>
+DIY systems also make it easier to add ordinary-sky context, which is often more important than dramatic capture. A builder can add an ADS-B receiver to log aircraft transponder traffic, connect to open aircraft-tracking networks, store local [weather data]({{ 'weather-data/' | relative_url }}), or run an all-sky camera continuously for baseline patterns. Raspberry Pi’s own tutorial explains how a Raspberry Pi and low-cost software-defined radio can receive aircraft transponder signals, while the OpenSky Network provides guidance for feeding ADS-B data from a Raspberry Pi station.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raspberrypi.com">[Raspberry Pi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raspberrypi.com</span><span class="citation-popover-snippet">Open source on raspberrypi.com.</span></span></span>
 
-That ordinary-sky context is not a side issue. The Galileo Project’s infrared camera work uses ADS-B aircraft positions for calibration, and its wider instrument papers emphasise localisation, calibration and multi-sensor measurements as the route towards estimating object position, velocity and acceleration. In other words, the best DIY lesson is that a detector must be good at identifying planes, satellites, meteors, insects, birds, clouds and optical artefacts before its “unknown” category deserves attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+That ordinary-sky context is not a side issue. The Galileo Project’s infrared camera work uses ADS-B aircraft positions for calibration, and its wider instrument papers emphasise localisation, calibration and multi-sensor measurements as the route towards estimating object position, velocity and acceleration. In other words, the best DIY lesson is that a detector must be good at identifying planes, satellites, meteors, insects, birds, clouds and optical artefacts before its “unknown” category deserves attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJtER5ahdPY" title="The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer">The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 68.1K &middot; Uploaded: November 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJtER5ahdPY">Open on YouTube</a></p></div></div></div>
@@ -491,21 +491,21 @@ A practical decision often falls into three bands:
 
 * **Lowest-cost experimentation:** a webcam, all-sky camera, Raspberry Pi, ADS-B receiver or repurposed security camera can teach the basics of sky monitoring. This is useful for learning but weak as evidence unless time, [pointing]({{ 'pointing/' | relative_url }}) and metadata are handled carefully.
 * **Mid-range serious hobby build:** a weatherproof all-sky camera, narrower tracking camera, local aircraft receiver, GPS time source and open logging pipeline can produce useful records, especially if the builder documents the configuration and shares raw data.
-* **Commercial or semi-commercial deployment:** a system such as UFODAP can shorten the route to object tracking, PTZ control and multi-sensor expansion, but the buyer still has to maintain the site and prove that the output is calibrated, contextual and reviewable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
+* **Commercial or semi-commercial deployment:** a system such as UFODAP can shorten the route to object tracking, PTZ control and multi-sensor expansion, but the buyer still has to maintain the site and prove that the output is calibrated, contextual and reviewable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.com</span><span class="citation-popover-snippet">Open source on ufodap.com.</span></span></span>
 
 Maintenance is where many ambitious builds fail. Outdoor detectors face condensation, heat, insects, vibration, poor focus, dirty domes, network dropouts, storage overflow, false triggers and software decay. Commercial gear may reduce some of these risks through supported parts and documented configurations, but it does not eliminate them. DIY gear may be easier to repair because the builder knows every component, but it can also become a private one-off that nobody else can interpret.
 
-Data quality is the sharper dividing line. A polished commercial video clip without raw frames, sensor settings, pointing geometry and aircraft context is less useful than an ugly DIY record with complete metadata. Conversely, an open-source build with undocumented code changes and no calibration can be less useful than a vendor-supported installation that records repeatable, timestamped data. NASA’s criticism of poor UAP evidence applies equally to both routes: calibration, metadata, multiple measurements and baseline data are the things that make later analysis possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Data quality is the sharper dividing line. A polished commercial video clip without raw frames, sensor settings, pointing geometry and aircraft context is less useful than an ugly DIY record with complete metadata. Conversely, an open-source build with undocumented code changes and no calibration can be less useful than a vendor-supported installation that records repeatable, timestamped data. NASA’s criticism of poor UAP evidence applies equally to both routes: calibration, metadata, multiple measurements and baseline data are the things that make later analysis possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-2-dark.svg" | relative_url }}" alt="Buy or Build illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Convenience Versus Transparency
 
-Commercial systems appeal to buyers who want to observe rather than engineer. That matters because automated sky detection is a systems problem, not a single-camera problem. UFODAP’s buyer guidance covers software choices, camera count, PoE power, cables, mounts and Mission Control functions such as viewing multiple data-acquisition units, recording weather and local aircraft flights, and triangulating target locations when more than one separated camera is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">Open source on myshopify.com.</span></span></span>
+Commercial systems appeal to buyers who want to observe rather than engineer. That matters because automated sky detection is a systems problem, not a single-camera problem. UFODAP’s buyer guidance covers software choices, camera count, PoE power, cables, mounts and Mission Control functions such as viewing multiple data-acquisition units, recording weather and local aircraft flights, and triangulating target locations when more than one separated camera is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodap.myshopify.com">[UFODAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodap.myshopify.com</span><span class="citation-popover-snippet">Open source on myshopify.com.</span></span></span>
 
 The weakness is that convenience can narrow understanding. If the detection algorithm, tracking settings or camera behaviour are opaque, a user may not know why an event was flagged, missed or misclassified. For hobby observation, that may be acceptable. For public scientific claims, it is a limitation because outside reviewers need to understand how the system created the record.
 
-Open-source projects reverse that tradeoff. They can be messy, unfinished and dependent on volunteer energy, but they let builders inspect assumptions and improve weak points. Sky360’s website explicitly invites participation in software development and station building, while its public repositories show the reality of an evolving project rather than a finished appliance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
+Open-source projects reverse that tradeoff. They can be messy, unfinished and dependent on volunteer energy, but they let builders inspect assumptions and improve weak points. Sky360’s website explicitly invites participation in software development and station building, while its public repositories show the reality of an evolving project rather than a finished appliance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span>
 
 For a community network, that transparency has a second benefit: standardisation can emerge in public. If many stations use documented hardware, documented calibration routines and common data formats, the network can compare events across sites and refine false-positive filters. If every commercial or private station uses a closed configuration, the result may be many isolated captures that are difficult to combine.
 
@@ -514,11 +514,11 @@ For a community network, that transparency has a second benefit: standardisation
 
 ## Scientific Usefulness Depends on the Workflow, Not the Label
 
-The most important lesson from professional UAP instrumentation is that “commercial” and “open source” are secondary categories. The primary category is whether the system behaves like a measurement instrument. The Galileo Project’s aerial-object localisation platform uses weatherised multi-camera visible, infrared and near-infrared sensors, calibration procedures and software intended to estimate three-dimensional positions and derive velocities and accelerations over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Hardware and Software Platform for Aerial Object Localization</span><span class="citation-popover-snippet">arXiv A Hardware and Software Platform for Aerial Object Localization</span></span></span>
+The most important lesson from professional UAP instrumentation is that “commercial” and “open source” are secondary categories. The primary category is whether the system behaves like a measurement instrument. The Galileo Project’s aerial-object localisation platform uses weatherised multi-camera visible, infrared and near-infrared sensors, calibration procedures and software intended to estimate three-dimensional positions and derive velocities and accelerations over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Hardware and Software Platform for Aerial Object Localization</span><span class="citation-popover-snippet">arXiv A Hardware and Software Platform for Aerial Object Localization</span></span></span>
 
-Its later observatory-class architecture goes further by treating data provenance, sensor optimisation, post-processing workflows and system-effectiveness monitoring as core requirements. That is a useful benchmark for buyers and builders alike: a detector that cannot explain where its data came from, how sensors were configured, how time was synchronised and how events were filtered is not yet producing strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
+Its later observatory-class architecture goes further by treating data provenance, sensor optimisation, post-processing workflows and system-effectiveness monitoring as core requirements. That is a useful benchmark for buyers and builders alike: a detector that cannot explain where its data came from, how sensors were configured, how time was synchronised and how events were filtered is not yet producing strong evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Galileo Project Observatory Class System Architecture</span><span class="citation-popover-snippet">arXiv Galileo Project Observatory Class System Architecture</span></span></span>
 
-Government work points in the same direction. AARO’s FY2024 report says its GREMLIN prototype sensor system was built to detect, track and characterise UAP, demonstrated functionality in March 2024 and was planned for a 90-day “pattern of life” collection at a national security site. The phrase “pattern of life” matters because it implies that anomaly detection requires baseline observation of normal activity, not only dramatic event capture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+Government work points in the same direction. AARO’s FY2024 report says its GREMLIN prototype sensor system was built to detect, track and characterise UAP, demonstrated functionality in March 2024 and was planned for a 90-day “pattern of life” collection at a national security site. The phrase “pattern of life” matters because it implies that anomaly detection requires baseline observation of normal activity, not only dramatic event capture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 For a home or community station, this means the first scientific job is boring by design: collect many nights of ordinary data, label common causes, test the false-trigger rate, document maintenance changes, and preserve enough raw material for reanalysis. A commercial package can help start that workflow. An open-source build can make the workflow more transparent. Neither can skip it.
 
@@ -546,178 +546,178 @@ A useful automated UAP detector should be judged by a short set of hard question
 For a practical skywatcher, the right choice is the one they can keep running, document honestly and improve over time. For scientific usefulness, a modest open build with disciplined metadata can beat an expensive black box, while a well-configured commercial station can beat a clever DIY project that never becomes stable. The detector is only the start; the evidence is made by the whole operating practice.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should You Buy or Build a UFO Detector?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should You Buy or Build a UFO Detector?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces systematic investigation of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces systematic investigation of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes evidence quality and credible investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes evidence quality and credible investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="buy-or-build-should-you-buy-or-build-a-ufo-detector-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ For a practical skywatcher, the right choice is the one they can keep running, d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ For a practical skywatcher, the right choice is the one they can keep running, d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ For a practical skywatcher, the right choice is the one they can keep running, d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ For a practical skywatcher, the right choice is the one they can keep running, d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ For a practical skywatcher, the right choice is the one they can keep running, d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,232 +923,232 @@ For a practical skywatcher, the right choice is the one they can keep running, d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/how-to-configure-a-ufodap-system</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPCameras for UFO/UAP tracking and data collection  
-   Link: <a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/collections/cameras" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/cameras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OTDAU software requires one camera, and optionally two, to detect and then track moving objects. It provides for three types of har...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPMulti-Sensor Data Acquisition Unit (MSDAU)  
-   Link: <a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/multi-sensor-data-acquisition-unit-msdau</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
+   Link:<a href="https://ufodap.com/technology" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/technology</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
+   Link:<a href="https://ufodap.com/faq" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/faq</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/collections/software" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/software</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/software" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/software</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufodap.myshopify.com  
    Title: UFODAPLow-Cost Starter System for fixed lens Camera  
-   Link: <a href="https://ufodap.myshopify.com/products/sys-starter" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sys-starter</a>  
+   Link:<a href="https://ufodap.myshopify.com/products/sys-starter" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sys-starter</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/products/sys-track2" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sys-track2</a>  
+   Link:<a href="https://ufodap.myshopify.com/products/sys-track2" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sys-track2</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v4" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v4</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: github.com  
    Title: Git Hub Sky360Observational Citizen Science of Earths atmosphere and beyond  
-   Link: <a href="https://github.com/Sky360-Repository" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository</a>  
+   Link:<a href="https://github.com/Sky360-Repository" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
    Title: Building a Sky Hub UAP Tracker  
-   Link: <a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
+   Link:<a href="https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/skyhub10/building-a-sky-hub-uap-tracker-95e1750f2c63</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: opensky-network.org  
-   Link: <a href="https://opensky-network.org/feed/raspberry" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/feed/raspberry</a>  
+   Link:<a href="https://opensky-network.org/feed/raspberry" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/feed/raspberry</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
    Title: arXiv A Hardware and Software Platform for Aerial Object Localization  
-   Link: <a href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18555</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18555</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
    Title: arXiv Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: github.com  
-   Link: <a href="https://github.com/Sky360-Repository/sky360" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository/sky360</a>  
+   Link:<a href="https://github.com/Sky360-Repository/sky360" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Sky360-Repository/sky360</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: github.com  
-   Link: <a href="https://github.com/JCSDA/jedi-docs/blob/develop/docs/inside/jedi-components/ufo/obsops.rst" target="_blank" rel="noopener noreferrer nofollow">https://github.com/JCSDA/jedi-docs/blob/develop/docs/inside/jedi-components/ufo/obsops.rst</a>  
+   Link:<a href="https://github.com/JCSDA/jedi-docs/blob/develop/docs/inside/jedi-components/ufo/obsops.rst" target="_blank" rel="noopener noreferrer nofollow">https://github.com/JCSDA/jedi-docs/blob/develop/docs/inside/jedi-components/ufo/obsops.rst</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: github.com  
-   Link: <a href="https://github.com/sgoudelis/ground-station" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sgoudelis/ground-station</a>  
+   Link:<a href="https://github.com/sgoudelis/ground-station" target="_blank" rel="noopener noreferrer nofollow">https://github.com/sgoudelis/ground-station</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: github.com  
-   Link: <a href="https://github.com/highsource/raspberry-pi-adsb" target="_blank" rel="noopener noreferrer nofollow">https://github.com/highsource/raspberry-pi-adsb</a>  
+   Link:<a href="https://github.com/highsource/raspberry-pi-adsb" target="_blank" rel="noopener noreferrer nofollow">https://github.com/highsource/raspberry-pi-adsb</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
+   Link:<a href="https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jdxm21/bob-the-universal-object-tracker-82082916b016</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea</a>  
+   Link:<a href="https://medium.com/%40arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ufodap.com  
-   Link: <a href="https://ufodap.com/downloads" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/downloads</a>  
+   Link:<a href="https://ufodap.com/downloads" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.com/downloads</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</p></details>
+   Link:<a href="https://ufodap.myshopify.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFODAP ShopHelp advance Ufology by collecting scientifically valid data. This is the place to get the gear to participate. Software...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: raspberrypi.com  
-   Link: <a href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/</a>  
+   Link:<a href="https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://www.raspberrypi.com/tutorials/build-your-own-raspberry-pi-flight-tracker/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15kqy2r/ufodap_cant_wait_to_buy_will_post_captured_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15kqy2r/ufodap_cant_wait_to_buy_will_post_captured_video/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15kqy2r/ufodap_cant_wait_to_buy_will_post_captured_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15kqy2r/ufodap_cant_wait_to_buy_will_post_captured_video/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/search" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/search</a>  
+   Link:<a href="https://ufodap.myshopify.com/search" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/search</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/pages/ufodap-hardware-and-software-products-terms-and-conditions" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/pages/ufodap-hardware-and-software-products-terms-and-conditions</a>  
+   Link:<a href="https://ufodap.myshopify.com/pages/ufodap-hardware-and-software-products-terms-and-conditions" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/pages/ufodap-hardware-and-software-products-terms-and-conditions</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ufodap.myshopify.com  
    Title: Optical Tracking software  
-   Link: <a href="https://ufodap.myshopify.com/products/sw-otdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sw-otdau</a>  
+   Link:<a href="https://ufodap.myshopify.com/products/sw-otdau" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/products/sw-otdau</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ufodap.myshopify.com  
-   Link: <a href="https://ufodap.myshopify.com/collections/systems" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/systems</a>  
+   Link:<a href="https://ufodap.myshopify.com/collections/systems" target="_blank" rel="noopener noreferrer nofollow">https://ufodap.myshopify.com/collections/systems</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06osHBotcxk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=06osHBotcxk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=06osHBotcxk</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1WD_dgjCBVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WD_dgjCBVc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1WD_dgjCBVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1WD_dgjCBVc</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cloudynights.com  
    Title: All-sky camera  
-   Link: <a href="https://www.cloudynights.com/forums/topic/729639-all-sky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/729639-all-sky-camera/</a>  
+   Link:<a href="https://www.cloudynights.com/forums/topic/729639-all-sky-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/729639-all-sky-camera/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/sky-hub" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/sky-hub</a>  
+   Link:<a href="https://www.linkedin.com/company/sky-hub" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/sky-hub</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: forums.raspberrypi.com  
-   Link: <a href="https://forums.raspberrypi.com/viewtopic.php?t=113523" target="_blank" rel="noopener noreferrer nofollow">https://forums.raspberrypi.com/viewtopic.php?t=113523</a>  
+   Link:<a href="https://forums.raspberrypi.com/viewtopic.php?t=113523" target="_blank" rel="noopener noreferrer nofollow">https://forums.raspberrypi.com/viewtopic.php?t=113523</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Data Acquisition Project UFODAP | Ronald Olch - YouTube The UFO Data Acquisition Project UFODAP | Ronald Olch - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Data Acquisition Project UFODAP | Ronald Olch - YouTube The UFO Data Acquisition Project UFODAP | Ronald Olch - YouTube...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9rClEfTlhXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9rClEfTlhXY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9rClEfTlhXY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9rClEfTlhXY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb talks UFO [disclosure](&amp;#123;&amp;#123; &#x27;disclosure/&#x27; | relative_url &amp;#125;&amp;#125;), interstellar objects and the search for alien life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi Loeb talks UFO [disclosure](&amp;#123;&amp;#123; &#x27;disclosure/&#x27; | relative_url &amp;#125;&amp;#125;), interstellar objects and the search for alien life...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1854966875090855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1854966875090855/</a>  
+   Link:<a href="https://www.facebook.com/groups/172438633343696/posts/1854966875090855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1854966875090855/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h9jv3p/building_an_aipowered_247_ufo_detection_system/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: aavso.org  
-   Link: <a href="https://www.aavso.org/cloud-monitor-all-sky-camera-budget" target="_blank" rel="noopener noreferrer nofollow">https://www.aavso.org/cloud-monitor-all-sky-camera-budget</a>  
+   Link:<a href="https://www.aavso.org/cloud-monitor-all-sky-camera-budget" target="_blank" rel="noopener noreferrer nofollow">https://www.aavso.org/cloud-monitor-all-sky-camera-budget</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1708070873113790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1708070873113790/</a>  
+   Link:<a href="https://www.facebook.com/groups/172438633343696/posts/1708070873113790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1708070873113790/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hi7/i_am_relaunching_the_ufo_detector_project_with_a/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12cyhvy/join_our_sky360_open_source_project_to_observe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12cyhvy/join_our_sky360_open_source_project_to_observe/</a>  
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/12cyhvy/join_our_sky360_open_source_project_to_observe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12cyhvy/join_our_sky360_open_source_project_to_observe/</a>  

@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_pa
 
 ## Introduction
 
-Passive [radar]({{ 'radar/' | relative_url }}) can help turn a puzzling point of light in a video into something that is physically measurable. A conventional camera records where an object appears in the sky and how its apparent position changes from frame to frame, but it usually cannot determine how far away that object is. Passive radar addresses that gap by exploiting existing radio transmissions, such as FM radio or digital television broadcasts, and measuring how their reflections from an object arrive at one or more receivers. Combined with camera imagery, these measurements can provide estimates of distance, speed and associated [uncertainty]({{ 'uncertainty/' | relative_url }}) rather than relying solely on visual interpretation. This is one reason passive multistatic radar has attracted interest for automated, instrumented UAP observatories, although it remains a supporting measurement rather than a definitive identifier. galileo.hsites.harvard.edu+2ftp.idu.ac.id <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+Passive [radar]({{ 'radar/' | relative_url }}) can help turn a puzzling point of light in a video into something that is physically measurable. A conventional camera records where an object appears in the sky and how its apparent position changes from frame to frame, but it usually cannot determine how far away that object is. Passive radar addresses that gap by exploiting existing radio transmissions, such as FM radio or digital television broadcasts, and measuring how their reflections from an object arrive at one or more receivers. Combined with camera imagery, these measurements can provide estimates of distance, speed and associated [uncertainty]({{ 'uncertainty/' | relative_url }}) rather than relying solely on visual interpretation. This is one reason passive multistatic radar has attracted interest for automated, instrumented UAP observatories, although it remains a supporting measurement rather than a definitive identifier. galileo.hsites.harvard.edu+2ftp.idu.ac.id<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_range_d64db3-Illustration-1-dark.svg" | relative_url }}" alt="Passive Range illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_range_d64db3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_radar_radio_tracking_da2ccb_passive_radar_range_d64db3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ A single camera measures angles, not absolute position. If a bright object cross
 
 This creates a fundamental ambiguity. A nearby insect, a drone a few hundred metres away, a commercial aircraft tens of kilometres distant or even a satellite can all appear as similarly sized points of light under certain conditions. Apparent speed is equally deceptive because angular motion depends on both true velocity and distance. A nearby slow-moving object may sweep rapidly across the frame, while a distant fast-moving aircraft may appear almost stationary.
 
-This limitation explains why many dramatic [acceleration]({{ 'acceleration/' | relative_url }}) claims based on video alone later prove to be artefacts of perspective, zoom changes or [camera motion]({{ 'camera-motion/' | relative_url }}). Without an independent estimate of range, converting image motion into real-world velocity is inherently uncertain. NASA's independent UAP study highlighted the importance of calibrated, multi-sensor measurements precisely because optical imagery alone often lacks the metadata needed to reconstruct an object's true motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mathworks.com/discovery/how-do-radars-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MathWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-title">Math Works How Do Radars Work?</span><span class="citation-popover-snippet">How Do Radars Work? - MATLAB &amp; SimulinkDecember 24, 2021 — Learn how radar uses RF energy to sense the environment for detection...</span><span class="citation-popover-meta">Published: December 24, 2021</span></span></span>
+This limitation explains why many dramatic [acceleration]({{ 'acceleration/' | relative_url }}) claims based on video alone later prove to be artefacts of perspective, zoom changes or [camera motion]({{ 'camera-motion/' | relative_url }}). Without an independent estimate of range, converting image motion into real-world velocity is inherently uncertain. NASA's independent UAP study highlighted the importance of calibrated, multi-sensor measurements precisely because optical imagery alone often lacks the metadata needed to reconstruct an object's true motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mathworks.com/discovery/how-do-radars-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathworks.com">[MathWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathworks.com</span><span class="citation-popover-title">Math Works How Do Radars Work?</span><span class="citation-popover-snippet">How Do Radars Work? - MATLAB &amp; SimulinkDecember 24, 2021 — Learn how radar uses RF energy to sense the environment for detection...</span><span class="citation-popover-meta">Published: December 24, 2021</span></span></span>
 
 ## How reflected broadcasts add range clues
 
@@ -307,7 +307,7 @@ The basic geometry involves three components:
 
 </div>
 
-The receiver simultaneously records the direct broadcast signal and any delayed copy reflected by the target. By comparing these signals, signal-processing algorithms estimate the extra travel time, known as the **bistatic delay**, and the frequency shift caused by motion, known as the **Doppler shift**. These measurements define where the object could be relative to the transmitter and receiver. With several receivers, or several transmitters, the possible locations intersect, allowing estimation of three-dimensional position and velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.idu.ac.id">[ftp.idu.ac.id+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.idu.ac.id</span><span class="citation-popover-snippet">31 Mar 2012 — Readers will find practical guidance on direct signal suppression, passive radar performance prediction, and detection and...</span></span></span>
+The receiver simultaneously records the direct broadcast signal and any delayed copy reflected by the target. By comparing these signals, signal-processing algorithms estimate the extra travel time, known as the **bistatic delay**, and the frequency shift caused by motion, known as the **Doppler shift**. These measurements define where the object could be relative to the transmitter and receiver. With several receivers, or several transmitters, the possible locations intersect, allowing estimation of three-dimensional position and velocity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.idu.ac.id">[ftp.idu.ac.id+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.idu.ac.id</span><span class="citation-popover-snippet">31 Mar 2012 — Readers will find practical guidance on direct signal suppression, passive radar performance prediction, and detection and...</span></span></span>
 
 For an automated UAP detector, this means the optical system no longer has to infer distance entirely from appearance. Instead, the passive radar contributes an independently measured geometric constraint that can be fused with the camera track.
 
@@ -349,7 +349,7 @@ A single passive radar receiver usually cannot determine a unique position. The 
 
 Adding more receivers dramatically improves the situation. Each additional receiver contributes another independent delay and Doppler measurement. Their combined geometry allows triangulation and reduces ambiguity, much as multiple cameras improve optical triangulation.
 
-The Galileo Project's proposed SkyWatch passive multistatic radar illustrates this approach. Rather than relying on [one station]({{ 'one-station/' | relative_url }}), it distributes receivers across a region and combines delay and Doppler measurements centrally to estimate three-dimensional position and velocity. Published design goals include tracking objects out to roughly 150 km horizontally and altitudes approaching 80 km using commercial FM broadcasts as illuminators of opportunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The Galileo Project's proposed SkyWatch passive multistatic radar illustrates this approach. Rather than relying on [one station]({{ 'one-station/' | relative_url }}), it distributes receivers across a region and combines delay and Doppler measurements centrally to estimate three-dimensional position and velocity. Published design goals include tracking objects out to roughly 150 km horizontally and altitudes approaching 80 km using commercial FM broadcasts as illuminators of opportunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 For a UAP observatory, this means that the "distance" attached to a video track is not guessed from image size but estimated from measured radio propagation.
 
@@ -362,7 +362,7 @@ Passive radar does not eliminate uncertainty. It changes the type of uncertainty
 Important limitations include:
 
 * **Dependence on existing transmitters.** Performance varies with the strength, location and waveform of available broadcasts.
-* **Limited range resolution.** FM radio has relatively narrow bandwidth, producing coarser range estimates than some digital television signals. Digital broadcast systems generally offer finer range resolution but introduce different tracking challenges for [moving targets]({{ 'moving-targets/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ffi.no">[Norsk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ffi.no</span><span class="citation-popover-title">Norsk DVB-T based Passive Bistatic Radar</span><span class="citation-popover-snippet">NorskDVB-T based Passive Bistatic RadarJanuary 1, 2010 — The next generation Passive Bistatic Radar systems will be based on digital tran...</span><span class="citation-popover-meta">Published: January 1, 2010</span></span></span>
+* **Limited range resolution.** FM radio has relatively narrow bandwidth, producing coarser range estimates than some digital television signals. Digital broadcast systems generally offer finer range resolution but introduce different tracking challenges for [moving targets]({{ 'moving-targets/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ffi.no">[Norsk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ffi.no</span><span class="citation-popover-title">Norsk DVB-T based Passive Bistatic Radar</span><span class="citation-popover-snippet">NorskDVB-T based Passive Bistatic RadarJanuary 1, 2010 — The next generation Passive Bistatic Radar systems will be based on digital tran...</span><span class="citation-popover-meta">Published: January 1, 2010</span></span></span>
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -372,7 +372,7 @@ Important limitations include:
 
 </div>
 
-Modern passive radar research focuses heavily on improving localisation algorithms, clutter rejection and uncertainty estimation because these practical issues dominate real-world performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/15/7/3460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ebuah.uah.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Compact Bistatic Iterative Passive Radar Based on...by VP Gil Jiménez · 2025 · Cited by 1 — This paper presents the design of a comp...</span></span></span>
+Modern passive radar research focuses heavily on improving localisation algorithms, clutter rejection and uncertainty estimation because these practical issues dominate real-world performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2076-3417/15/7/3460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2ebuah.uah.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Compact Bistatic Iterative Passive Radar Based on...by VP Gil Jiménez · 2025 · Cited by 1 — This paper presents the design of a comp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FpAJm6X2a4c" title="»Radar in Action« DVB-S based passive radar imaging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FpAJm6X2a4c" target="_blank" rel="noopener noreferrer">»Radar in Action« DVB-S based passive radar imaging</a></p><p class="youtube-embed-meta">Channel: Fraunhofer FHR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FpAJm6X2a4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FpAJm6X2a4c">Open on YouTube</a></p></div></div></div>
@@ -383,201 +383,201 @@ The practical contribution of passive radar is not that it proves an unidentifie
 
 A camera alone may show an unexplained moving light. A camera combined with passive radar can often estimate where that light was, how fast it moved and how uncertain those estimates are. Those measurements make it easier to compare the event against aircraft, balloons, drones, satellites and atmospheric phenomena before considering more unusual possibilities.
 
-Within an automated instrumented UAP detector, passive radar therefore serves as an independent ranging and kinematic sensor. Its greatest strength lies in reducing one of the largest weaknesses of sky video—the absence of reliable distance—while still recognising that every measurement carries uncertainty that must be quantified rather than ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+Within an automated instrumented UAP detector, passive radar therefore serves as an independent ranging and kinematic sensor. Its greatest strength lies in reducing one of the largest weaknesses of sky video—the absence of reliable distance—while still recognising that every measurement carries uncertainty that must be quantified rather than ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[galileo.hsites.harvard.edu+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvFCjX1HHGo" title="Fundamental Concepts in Radar Signal Processing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvFCjX1HHGo" target="_blank" rel="noopener noreferrer">Fundamental Concepts in Radar Signal Processing</a></p><p class="youtube-embed-meta">Channel: Wireless Pi</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvFCjX1HHGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvFCjX1HHGo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can passive radar give UAP videos real distance?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can passive radar give UAP videos real distance?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
-        </h4>
-        <p class="fr-book-author">By Merrill Ivan Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Radar Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eQhTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Radar Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
+</h4>
+<p class="fr-book-author">By Merrill Ivan Skolnik</p>
         
-        <p class="fr-book-desc">Provides the essential concepts behind range measurement and radar-based target localization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the essential concepts behind range measurement and radar-based target localization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
-        </h4>
-        <p class="fr-book-author">By Mark A. Richards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Radar Signal Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1079619-M.jpg" alt="Cover for Fundamentals of Radar Signal Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
+</h4>
+<p class="fr-book-author">By Mark A. Richards</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Radar, Signal processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
-        </h4>
-        <p class="fr-book-author">By Mr. Carl Laufer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
+</h4>
+<p class="fr-book-author">By Mr. Carl Laufer</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13299491-M.jpg" alt="Cover for Radar Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Merrill I. Skolnik</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13299491-M.jpg" alt="Cover for Radar Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
+</h4>
+<p class="fr-book-author">By Merrill I. Skolnik</p>
         
-        <p class="fr-book-desc">First published 1970. Subjects: Radar.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1970. Subjects: Radar.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Radar Signal Processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hobbyist%27s+to+the+RTL+SDR+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hobbyist&#x27;s to the RTL SDR books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Radar+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Radar Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Radar Signal Processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hobbyist%27s+to+the+RTL+SDR+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hobbyist&#x27;s to the RTL SDR books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V"><img src="{{ '/assets/images/marketplace-covers/595252fbbeff44d521a4.jpg' | relative_url }}" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V"><img src="{{ '/assets/images/marketplace-covers/595252fbbeff44d521a4.jpg' | relative_url }}" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit RDP-064 Input 10.0-31.2V</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts"><img src="{{ '/assets/images/marketplace-covers/77605acdfbff917b74c3.jpg' | relative_url }}" alt="Listing image for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts"><img src="{{ '/assets/images/marketplace-covers/77605acdfbff917b74c3.jpg' | relative_url }}" alt="Listing image for 1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1/350 Scale Rotating Gun Turret &amp; Radar Rotation System Model Ship Upgrade Parts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit with Radome"><img src="{{ '/assets/images/marketplace-covers/bbe9d6ed22f3d987861b.jpg' | relative_url }}" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit with Radome" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit with Radome</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FURUNO Marine Radar Model 1720 Display Unit with Radome"><img src="{{ '/assets/images/marketplace-covers/bbe9d6ed22f3d987861b.jpg' | relative_url }}" alt="Listing image for FURUNO Marine Radar Model 1720 Display Unit with Radome" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">FURUNO Marine Radar Model 1720 Display Unit with Radome</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:400 Airport Building Model Sand Table Decoration Collection Scene Display"><img src="{{ '/assets/images/marketplace-covers/9f9f893ae255e9660a7a.jpg' | relative_url }}" alt="Listing image for 1:400 Airport Building Model Sand Table Decoration Collection Scene Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1:400 Airport Building Model Sand Table Decoration Collection Scene Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:400 Airport Building Model Sand Table Decoration Collection Scene Display"><img src="{{ '/assets/images/marketplace-covers/9f9f893ae255e9660a7a.jpg' | relative_url }}" alt="Listing image for 1:400 Airport Building Model Sand Table Decoration Collection Scene Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">1:400 Airport Building Model Sand Table Decoration Collection Scene Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar display model">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar display model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+display+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar display model" data-ebay-reference="passive-range-can-passive-radar-give-uap-videos-real-distance-automated-instrumented-ufo-detecto-radar-display-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,138 +783,138 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/skywatch-passive-multistatic-radar-network-measurement-object-position-and</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftp.idu.ac.id  
-   Link: <a href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2012 — Readers will find practical guidance on direct signal suppression, passive radar performance prediction, and detection and...</p></details>
+   Link:<a href="https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/ADNVANCED%20MILITARY%20PLATFORM%20DESIGN/An%20Introduction%20to%20Passive%20Radar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Mar 2012 — Readers will find practical guidance on direct signal suppression, passive radar performance prediction, and detection and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mathworks.com  
    Title: Math Works How Do Radars Work?  
-   Link: <a href="https://www.mathworks.com/discovery/how-do-radars-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mathworks.com/discovery/how-do-radars-work.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Radars Work? - MATLAB &amp; SimulinkDecember 24, 2021 — Learn how radar uses RF energy to sense the environment for detection...</p></details>
+   Link:<a href="https://www.mathworks.com/discovery/how-do-radars-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mathworks.com/discovery/how-do-radars-work.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Radars Work? - MATLAB &amp; SimulinkDecember 24, 2021 — Learn how radar uses RF energy to sense the environment for detection...</p></details>
    Published: December 24, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — A system designed for the comprehensive scientific study of aerial phenomena which integrates multiple sensor...</p></details>
    Published: May 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: Passive radar tutorial | Request PDFThe radar receiver aims to estimate the initial range (delay), range-rate (Doppler shift)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331723832_Tutorial_Passive_radar_tutorial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: Passive radar tutorial | Request PDFThe radar receiver aims to estimate the initial range (delay), range-rate (Doppler shift)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18562</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328033052_Passive_bistatic_radar_using_digital_video_broadcasting-terrestrial_receivers_as_general-purpose_software-defined_radio_receivers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328033052_Passive_bistatic_radar_using_digital_video_broadcasting-terrestrial_receivers_as_general-purpose_software-defined_radio_receivers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Passive bistatic radar using digital video...19 Oct 2018 — We demonstrate the detection of static and moving targets as well as sh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328033052_Passive_bistatic_radar_using_digital_video_broadcasting-terrestrial_receivers_as_general-purpose_software-defined_radio_receivers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328033052_Passive_bistatic_radar_using_digital_video_broadcasting-terrestrial_receivers_as_general-purpose_software-defined_radio_receivers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Passive bistatic radar using digital video...19 Oct 2018 — We demonstrate the detection of static and moving targets as well as sh...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/15/7/3460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/7/3460</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compact Bistatic Iterative Passive Radar Based on...by VP Gil Jiménez · 2025 · Cited by 1 — This paper presents the design of a comp...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/15/7/3460" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/7/3460</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compact Bistatic Iterative Passive Radar Based on...by VP Gil Jiménez · 2025 · Cited by 1 — This paper presents the design of a comp...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebuah.uah.es  
-   Link: <a href="https://ebuah.uah.es/xmlui/bitstream/handle/10017/50902/Thesis%20Pedro%20Jose%20Gomez%20del%20Hoyo.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://ebuah.uah.es/xmlui/bitstream/handle/10017/50902/Thesis%20Pedro%20Jose%20Gomez%20del%20Hoyo.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improvement of detection and tracking techniques in...This PhD Thesis is the result of a intense research activity focused on the improv...</p></details>
+   Link:<a href="https://ebuah.uah.es/xmlui/bitstream/handle/10017/50902/Thesis%20Pedro%20Jose%20Gomez%20del%20Hoyo.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://ebuah.uah.es/xmlui/bitstream/handle/10017/50902/Thesis%20Pedro%20Jose%20Gomez%20del%20Hoyo.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improvement of detection and tracking techniques in...This PhD Thesis is the result of a intense research activity focused on the improv...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mdpi.com  
    Title: 2504 446X  
-   Link: <a href="https://www.mdpi.com/2504-446X/9/1/76" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/1/76</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV Detection with Passive Radar: Algorithms...by Z Tang · 2025 · Cited by 39 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) aims to offer insights that can support furt...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-446X/9/1/76" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-446X/9/1/76</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAV Detection with Passive Radar: Algorithms...by Z Tang · 2025 · Cited by 39 — This [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) aims to offer insights that can support furt...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 392334596 Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Galileo Project Observatory Class System Architecture30 May 2025 — The Galileo Project aims to investigate Unidentified Aerial Phen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Galileo Project Observatory Class System Architecture30 May 2025 — The Galileo Project aims to investigate Unidentified Aerial Phen...</p></details>
    Published: May 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: galileo.hsites.harvard.edu  
    Title: scientific investigation unidentified aerial phenomena uap using multimodal  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an integrated softwar...</p></details>
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Investigation of Unidentified Aerial Phenomena...A primary objective of the Galileo Project is to build an integrated softwar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/19/7/1672" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/19/7/1672</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Multiple Targets from Multistatic Doppler Radar...by CT Do · 2019 · Cited by 31 — This paper proposes a method for tracking mul...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/19/7/1672" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/19/7/1672</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Multiple Targets from Multistatic Doppler Radar...by CT Do · 2019 · Cited by 31 — This paper proposes a method for tracking mul...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ffi.no  
    Title: Norsk DVB-T based Passive Bistatic Radar  
-   Link: <a href="https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar" target="_blank" rel="noopener noreferrer nofollow">https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NorskDVB-T based Passive Bistatic RadarJanuary 1, 2010 — The next generation Passive Bistatic Radar systems will be based on digital tran...</p></details>
+   Link:<a href="https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar" target="_blank" rel="noopener noreferrer nofollow">https://www.ffi.no/en/publications-archive/dvb-t-based-passive-bistatic-radar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NorskDVB-T based Passive Bistatic RadarJanuary 1, 2010 — The next generation Passive Bistatic Radar systems will be based on digital tran...</p></details>
    Published: January 1, 2010  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/commissioning-data-on-half-a-million-objects-in-the-sky-from-the-galileo-project-observatory-are-a23bd084233a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data on Half a Million Objects in the Sky from...The GP Observatories offer an array of multi-modal, multi-spectral sensors that continu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jmfriedt.free.fr  
-   Link: <a href="https://jmfriedt.free.fr/dvbt_hardware.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jmfriedt.free.fr/dvbt_hardware.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bistatic radar using DVB-T receivers as general...We demonstrate the detection of static and moving targets as well as short-range targe...</p></details>
+   Link:<a href="https://jmfriedt.free.fr/dvbt_hardware.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jmfriedt.free.fr/dvbt_hardware.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bistatic radar using DVB-T receivers as general...We demonstrate the detection of static and moving targets as well as short-range targe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project Observatories offer an array of multimodal, mu...</p></details>
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Releases Commissioning Data on Half a...12 Nov 2024 — The Galileo Project Observatories offer an array of multimodal, mu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mvFCjX1HHGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvFCjX1HHGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamental Concepts in Radar Signal ProcessingThis video dives into the core principles of radar signal processing such as waveforms, ra...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mvFCjX1HHGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvFCjX1HHGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamental Concepts in Radar Signal ProcessingThis video dives into the core principles of radar signal processing such as waveforms, ra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FpAJm6X2a4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FpAJm6X2a4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>»Radar in Action« DVB-S based passive radar imagingOne of the most recent development in the field of passive radar is the possibility to...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FpAJm6X2a4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FpAJm6X2a4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>»Radar in Action« DVB-S based passive radar imagingOne of the most recent development in the field of passive radar is the possibility to...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: publications.sto.nato.int  
-   Link: <a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/RTO-EN-SET-119-2009/EN-SET-119%282009%29-03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/RTO-EN-SET-119-2009/EN-SET-119%282009%29-03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PBR) systems, and in particular the nature of the waveforms of illuminators of opportunity that...Read more...</p></details>
+   Link:<a href="https://publications.sto.nato.int/publications/STO%20Educational%20Notes/RTO-EN-SET-119-2009/EN-SET-119%282009%29-03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.sto.nato.int/publications/STO%20Educational%20Notes/RTO-EN-SET-119-2009/EN-SET-119%282009%29-03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PBR) systems, and in particular the nature of the waveforms of illuminators of opportunity that...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sto.nato.int  
    Title: passive radar for satellite detection and tracking  
-   Link: <a href="https://www.sto.nato.int/document/passive-radar-for-satellite-detection-and-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/passive-radar-for-satellite-detection-and-tracking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar for Satellite Detection and Tracking20 Jan 2026 — This lecture presents an overview of passive radar techniques for the detection a...</p></details>
+   Link:<a href="https://www.sto.nato.int/document/passive-radar-for-satellite-detection-and-tracking/" target="_blank" rel="noopener noreferrer nofollow">https://www.sto.nato.int/document/passive-radar-for-satellite-detection-and-tracking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar for Satellite Detection and Tracking20 Jan 2026 — This lecture presents an overview of passive radar techniques for the detection a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Inventor says his new radar network could spot UAPs | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwsEatnZ358</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Dark Track: Filtering UAP Telemetry - YouTube Project Dark Track: Filtering UAP Telemetry - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mwsEatnZ358" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mwsEatnZ358</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Dark Track: Filtering UAP Telemetry - YouTube Project Dark Track: Filtering UAP Telemetry - YouTube...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: More "Reality Check" episodes  
-   Link: <a href="https://www.youtube.com/watch?v=rEYDY2EMm8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rEYDY2EMm8c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Retired U.S. Navy Rear Admiral Tim Gallaudet on Grusch, UAP claims: Full Interview | Reality Check: [https://www.youtube.com/watch?v=Qh_h5...&quot;](https://www.youtube.com/watch?v=Qh_h5...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rEYDY2EMm8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rEYDY2EMm8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Retired U.S. Navy Rear Admiral Tim Gallaudet on Grusch, UAP claims: Full Interview | Reality Check: [https://www.youtube.com/watch?v=Qh_h5...&quot;](https://www.youtube.com/watch?v=Qh_h5...&quot;)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/990347377/IEEE-a-E-SYSTEMS-MAGAZINE-Heiner-Kuschel-Diego-Cristallini-Fraunhofer-Germany-Karl-Erik-Olsen-Norwegian-Defence-Research-Establishment-Norway" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/990347377/IEEE-a-E-SYSTEMS-MAGAZINE-Heiner-Kuschel-Diego-Cristallini-Fraunhofer-Germany-Karl-Erik-Olsen-Norwegian-Defence-Research-Establishment-Norway</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pment, and processing techniques over the past...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/990347377/IEEE-a-E-SYSTEMS-MAGAZINE-Heiner-Kuschel-Diego-Cristallini-Fraunhofer-Germany-Karl-Erik-Olsen-Norwegian-Defence-Research-Establishment-Norway" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/990347377/IEEE-a-E-SYSTEMS-MAGAZINE-Heiner-Kuschel-Diego-Cristallini-Fraunhofer-Germany-Karl-Erik-Olsen-Norwegian-Defence-Research-Establishment-Norway</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pment, and processing techniques over the past...Read more...</p></details>

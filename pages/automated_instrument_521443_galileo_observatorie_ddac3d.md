@@ -448,17 +448,17 @@ image: /assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-ov
 
 ## Introduction
 
-The Galileo Project matters because it treats unidentified anomalous phenomena, or UAP, as an observatory problem: not “Who saw something?”, but “What did calibrated instruments record, under what conditions, and can another team inspect the chain of evidence?” Within the wider field of [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), it is the most explicit academic attempt to build a repeatable measurement system around the sky itself. Its published plan is not a single UFO camera; it is a multimodal ground-based observatory designed to census ordinary aerial objects, identify outliers, and preserve enough metadata to test whether an event is mundane, instrumental, or genuinely unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The Galileo Project matters because it treats unidentified anomalous phenomena, or UAP, as an observatory problem: not “Who saw something?”, but “What did calibrated instruments record, under what conditions, and can another team inspect the chain of evidence?” Within the wider field of [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}), it is the most explicit academic attempt to build a repeatable measurement system around the sky itself. Its published plan is not a single UFO camera; it is a multimodal ground-based observatory designed to census ordinary aerial objects, identify outliers, and preserve enough metadata to test whether an event is mundane, instrumental, or genuinely unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-overview.webp" | relative_url }}" alt="Overview image for Galileo" loading="eager" decoding="sync" fetchpriority="high">
-That distinction is important because the strongest recent official reviews point to the same weakness in legacy UAP evidence: poor calibration, missing metadata, too few simultaneous measurements, and little [baseline data]({{ 'baseline-data/' | relative_url }}) about normal sky traffic. NASA’s 2023 independent study said future UAP work needs multiple well-calibrated sensors, multispectral data and rigorous acquisition standards; AARO’s 2024 report likewise tied many [unresolved]({{ 'unresolved/' | relative_url }}) cases to insufficient actionable sensor data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+That distinction is important because the strongest recent official reviews point to the same weakness in legacy UAP evidence: poor calibration, missing metadata, too few simultaneous measurements, and little [baseline data]({{ 'baseline-data/' | relative_url }}) about normal sky traffic. NASA’s 2023 independent study said future UAP work needs multiple well-calibrated sensors, multispectral data and rigorous acquisition standards; AARO’s 2024 report likewise tied many [unresolved]({{ 'unresolved/' | relative_url }}) cases to insufficient actionable sensor data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 ## Why Galileo turns UAP into an observatory problem
 
-Most UFO evidence begins after the event: a witness report, a short video, a memory of motion, or a military sensor clip whose full context may be classified. The Galileo Project reverses that order. It aims to collect new data continuously, from known instruments, with known fields of view, clocks, calibrations, environmental context and processing records. Its public description says the work is based on transparent analysis of open scientific data collected using optimised instruments, rather than on classified government holdings or anecdotal sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Activities &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Activities &#124; The Galileo Project</span></span></span>
+Most UFO evidence begins after the event: a witness report, a short video, a memory of motion, or a military sensor clip whose full context may be classified. The Galileo Project reverses that order. It aims to collect new data continuously, from known instruments, with known fields of view, clocks, calibrations, environmental context and processing records. Its public description says the work is based on transparent analysis of open scientific data collected using optimised instruments, rather than on classified government holdings or anecdotal sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Activities &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Activities &#124; The Galileo Project</span></span></span>
 
-This is a different evidential lane from “[disclosure]({{ 'disclosure/' | relative_url }})” debates. Galileo’s UAP branch says it will use artificial intelligence to filter observations into known classes, then examine remaining observations for anomalous characteristics. Its FAQ is unusually clear about the boundary: popular anecdotes are not part of the research data, and the project is not accepting outside photos or videos because it wants information that is high-quality, reliable, consistent, calibrated and comparable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span></span></span>
+This is a different evidential lane from “[disclosure]({{ 'disclosure/' | relative_url }})” debates. Galileo’s UAP branch says it will use artificial intelligence to filter observations into known classes, then examine remaining observations for anomalous characteristics. Its FAQ is unusually clear about the boundary: popular anecdotes are not part of the research data, and the project is not accepting outside photos or videos because it wants information that is high-quality, reliable, consistent, calibrated and comparable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span></span></span>
 
 The observatory model also changes what counts as a useful negative result. If a site records thousands of birds, aircraft, insects, clouds, [satellites]({{ 'satellites/' | relative_url }}) and [weather]({{ 'weather/' | relative_url }}) artefacts, that is not wasted effort. It builds the ordinary-sky baseline against which unusual events can be measured. In a field where many dramatic claims collapse because distance, size, speed or camera state is unknown, a well-documented census of ordinary aerial phenomena is part of the measurement system, not a distraction from it.
 
@@ -466,11 +466,11 @@ The observatory model also changes what counts as a useful negative result. If a
 <img src="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-1-dark.svg" | relative_url }}" alt="Galileo illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Galileo multimodal instrument concept
 
-The core design is multimodal and multispectral. In the Galileo Project’s 2023 Journal of Astronomical Instrumentation paper, the proposed package includes wide-field cameras in multiple bands for detection and tracking, narrow-field instruments for morphology and spectra, passive multistatic antenna arrays for radar-derived range and kinematics, radio spectrum analysers, microphones, environmental sensors, electric and magnetic field measurements and energetic-particle sensors. The stated purpose is not to assume exotic explanations, but to make artefacts recognisable and detections corroborated and verifiable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The core design is multimodal and multispectral. In the Galileo Project’s 2023 Journal of Astronomical Instrumentation paper, the proposed package includes wide-field cameras in multiple bands for detection and tracking, narrow-field instruments for morphology and spectra, passive multistatic antenna arrays for radar-derived range and kinematics, radio spectrum analysers, microphones, environmental sensors, electric and magnetic field measurements and energetic-particle sensors. The stated purpose is not to assume exotic explanations, but to make artefacts recognisable and detections corroborated and verifiable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 That sensor mix answers a basic problem in skywatching: one camera can show angular motion, but it often cannot prove range, true size or true speed. A nearby insect, a distant aircraft and a balloon can all make surprising tracks in a single image. The Galileo concept therefore tries to connect physical questions to observables: direction, brightness, spectrum, sound, radio context, magnetic context, weather and, where possible, triangulated position. The point is to make an event hard to explain only after ordinary explanations have been given a fair chance.
 
-Galileo’s first detailed instrument result came from an all-sky infrared camera array nicknamed Dalek. The array uses eight uncooled long-wave infrared FLIR Boson 640 cameras, arranged to observe the sky around the site. The project’s Sensors paper describes intrinsic, thermal and extrinsic calibration, including a notable method that uses aircraft positions from Automatic Dependent Surveillance–Broadcast, or ADS-B, as calibration references. In plain terms, ordinary aircraft become moving calibration targets because their reported positions can be compared with where the cameras see them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+Galileo’s first detailed instrument result came from an all-sky infrared camera array nicknamed Dalek. The array uses eight uncooled long-wave infrared FLIR Boson 640 cameras, arranged to observe the sky around the site. The project’s Sensors paper describes intrinsic, thermal and extrinsic calibration, including a notable method that uses aircraft positions from Automatic Dependent Surveillance–Broadcast, or ADS-B, as calibration references. In plain terms, ordinary aircraft become moving calibration targets because their reported positions can be compared with where the cameras see them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 This is exactly the kind of unglamorous work that academic UAP measurement requires. Before a detector can claim something unusual, it has to show what it misses, what it detects, how weather affects it, how aircraft appear at different ranges, and how often its algorithms create false or fragmented tracks. Galileo’s commissioning work is therefore less like a UFO stakeout and more like the early validation of an astronomical or atmospheric instrument.
 
@@ -479,11 +479,11 @@ This is exactly the kind of unglamorous work that academic UAP measurement requi
 
 ## Edge computing and data provenance
 
-A modern UAP observatory has to make fast decisions without losing the evidential trail. The Galileo Project’s Observatory Class Integrated Computing Platform, or OCICP, is designed around two main subsystems: an edge computing subsystem at the observatory site and a post-processing subsystem away from the site. The edge subsystem directly interfaces with sensors, performs real-time data acquisition, supports sensor optimisation and manages [data provenance]({{ 'provenance/' | relative_url }}); the post-processing subsystem supports commissioning, census operations, science operations and system-effectiveness monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
+A modern UAP observatory has to make fast decisions without losing the evidential trail. The Galileo Project’s Observatory Class Integrated Computing Platform, or OCICP, is designed around two main subsystems: an edge computing subsystem at the observatory site and a post-processing subsystem away from the site. The edge subsystem directly interfaces with sensors, performs real-time data acquisition, supports sensor optimisation and manages [data provenance]({{ 'provenance/' | relative_url }}); the post-processing subsystem supports commissioning, census operations, science operations and system-effectiveness monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
 
-The edge-computing emphasis matters because aerial events are transient. A system may need to detect a moving object, decide whether it is worth higher-resolution follow-up, preserve the raw and processed data, and keep enough metadata to reconstruct what happened later. Galileo’s architecture describes event-driven processing, multi-sensor acquisition, object detection and tracking, data fusion, sensor control, data persistence and egress, and data inspection. It also notes that clocks are synchronised with GPS time and monitored for drift, a small but crucial detail when trying to match observations across instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
+The edge-computing emphasis matters because aerial events are transient. A system may need to detect a moving object, decide whether it is worth higher-resolution follow-up, preserve the raw and processed data, and keep enough metadata to reconstruct what happened later. Galileo’s architecture describes event-driven processing, multi-sensor acquisition, object detection and tracking, data fusion, sensor control, data persistence and egress, and data inspection. It also notes that clocks are synchronised with GPS time and monitored for drift, a small but crucial detail when trying to match observations across instruments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
 
-Data provenance is not just a database nicety here. In UAP analysis, provenance is often the difference between a measurement and a mystery story. The OCICP paper describes provenance goals as supporting the immutability, integrity and traceability of sensor data, system configuration and calibration data for repeatable science operations. It also describes a raw data lake whose records are intended to preserve traceability of sensor data and relevant calibration data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
+Data provenance is not just a database nicety here. In UAP analysis, provenance is often the difference between a measurement and a mystery story. The OCICP paper describes provenance goals as supporting the immutability, integrity and traceability of sensor data, system configuration and calibration data for repeatable science operations. It also describes a raw data lake whose records are intended to preserve traceability of sensor data and relevant calibration data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
 
 The practical implication is simple: a future Galileo candidate event should not be judged only by a clip. A serious event record would include what each sensor was doing, whether the instrument was calibrated, what software processed it, what environmental conditions applied, whether ADS-B or other contextual sources explained it, and how the classification changed from raw observation to interpreted result.
 
@@ -491,13 +491,13 @@ The practical implication is simple: a future Galileo candidate event should not
 <img src="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-2-dark.svg" | relative_url }}" alt="Galileo illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the first commissioning data actually showed
 
-The most valuable Galileo result so far is not a claimed breakthrough UAP; it is a working example of how difficult, measurable and error-prone sky census work really is. The Dalek commissioning study covered five months of field operation and reconstructed about 500,000 trajectories of various aerial objects. Its pipeline used a YOLO machine-learning object detector and the SORT tracking algorithm, then tested performance against ADS-B-derived aircraft data, synthetic trajectories and manually labelled real-world data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The most valuable Galileo result so far is not a claimed breakthrough UAP; it is a working example of how difficult, measurable and error-prone sky census work really is. The Dalek commissioning study covered five months of field operation and reconstructed about 500,000 trajectories of various aerial objects. Its pipeline used a YOLO machine-learning object detector and the SORT tracking algorithm, then tested performance against ADS-B-derived aircraft data, synthetic trajectories and manually labelled real-world data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-The numbers are sobering. For ADS-B-equipped aircraft, the study found a 41% acceptance rate for aircraft passing through the effective field of view of at least one camera and a mean frame-by-frame detection efficiency of 36% for recorded aircraft. Detection efficiency depended on weather, range and aircraft size. The paper also notes that precipitation, reduced visibility, high relative humidity, dust, raindrops and treeline effects reduced performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The numbers are sobering. For ADS-B-equipped aircraft, the study found a 41% acceptance rate for aircraft passing through the effective field of view of at least one camera and a mean frame-by-frame detection efficiency of 36% for recorded aircraft. Detection efficiency depended on weather, range and aircraft size. The paper also notes that precipitation, reduced visibility, high relative humidity, dust, raindrops and treeline effects reduced performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-The outlier exercise is especially instructive. Out of 502,015 reconstructed trajectories, 81,873 were flagged by a deliberately simple “toy” outlier search based on high apparent two-dimensional trajectory sinuosity. After manual inspection, 144 trajectories remained ambiguous, but the authors described them as likely mundane objects that could not be further resolved at that stage without distance, kinematics or other sensor modalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+The outlier exercise is especially instructive. Out of 502,015 reconstructed trajectories, 81,873 were flagged by a deliberately simple “toy” outlier search based on high apparent two-dimensional trajectory sinuosity. After manual inspection, 144 trajectories remained ambiguous, but the authors described them as likely mundane objects that could not be further resolved at that stage without distance, kinematics or other sensor modalities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
-That result is easy to misread. It does not prove that 144 objects were extraordinary, and it does not prove that no extraordinary object was present. It shows how a scientific system can move from a large pile of detections to a smaller set of ambiguous cases while preserving uncertainty. The authors then used a likelihood-based method to place an upper limit on the number of outliers for that five-month interval, and argued that the method can be generalised to future outlier searches using other metrics and other sensor channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
+That result is easy to misread. It does not prove that 144 objects were extraordinary, and it does not prove that no extraordinary object was present. It shows how a scientific system can move from a large pile of detections to a smaller set of ambiguous cases while preserving uncertainty. The authors then used a likelihood-based method to place an upper limit on the number of outliers for that five-month interval, and argued that the method can be generalised to future outlier searches using other metrics and other sensor channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -511,9 +511,9 @@ That shift raises the standard in several ways:
 * **From image to measurement.** A picture is not enough unless the system can connect pixels to time, [pointing]({{ 'pointing/' | relative_url }}), calibration, range constraints and environmental conditions.
 * **From witness confidence to sensor performance.** The question becomes how often the detector misses aircraft, fragments trajectories, misclassifies birds or fails in rain.
 * **From isolated anomaly to statistical outlier.** An event is more meaningful if it stands out against months or years of ordinary-sky data collected by the same system.
-* **From secrecy to reproducibility.** Galileo’s stated deliverables include peer-reviewed articles and an open-access observational data archive with raw, calibrated and interpreted data products. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span></span></span>
+* **From secrecy to reproducibility.** Galileo’s stated deliverables include peer-reviewed articles and an open-access observational data archive with raw, calibrated and interpreted data products.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[The Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-title">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span><span class="citation-popover-snippet">The Galileo Project Frequently Asked Questions &#124; The Galileo Project</span></span></span>
 
-This does not make the project immune to criticism. It still has to show that its instruments can run reliably, scale beyond development sites, estimate distance and kinematics well enough, combine modalities effectively, and release data in a form other researchers can scrutinise. The OCICP paper says the platform has been deployed at three observatory sites and is supporting long-term multimodal data collection, but also notes that some features are not yet operational, that real-time classification is not currently implemented, and that autonomous sensor response and expanded real-time decision-making remain future work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
+This does not make the project immune to criticism. It still has to show that its instruments can run reliably, scale beyond development sites, estimate distance and kinematics well enough, combine modalities effectively, and release data in a form other researchers can scrutinise. The OCICP paper says the platform has been deployed at three observatory sites and is supporting long-term multimodal data collection, but also notes that some features are not yet operational, that real-time classification is not currently implemented, and that autonomous sensor response and expanded real-time decision-making remain future work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">ar Xiv1</span><span class="citation-popover-snippet">1 Introduction...</span></span></span>
 
 That caution is healthy. Academic UAP measurement should not be judged by whether it rapidly produces spectacular claims. It should be judged by whether it reduces ambiguity in a disciplined way, quantifies what its instruments can and cannot see, and allows other researchers to inspect the route from raw sky data to candidate anomaly.
 
@@ -521,7 +521,7 @@ That caution is healthy. Academic UAP measurement should not be judged by whethe
 <img src="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-3-dark.svg" | relative_url }}" alt="Galileo illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_galileo_observatorie_ddac3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Galileo sits among instrumented UFO detectors
 
-In the automated instrumented UFO detector landscape, Galileo occupies the academic-observatory lane. It is more formal and publication-driven than citizen-science skywatching networks, more open-science oriented than military sensor programmes, and more system-engineered than ad hoc UFO camera projects. NASA’s report and AARO’s GREMLIN sensor work show that the broader field is converging on a similar diagnosis: UAP cases cannot be resolved reliably without better sensors, calibration, metadata and repeated baseline collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+In the automated instrumented UFO detector landscape, Galileo occupies the academic-observatory lane. It is more formal and publication-driven than citizen-science skywatching networks, more open-science oriented than military sensor programmes, and more system-engineered than ad hoc UFO camera projects. NASA’s report and AARO’s GREMLIN sensor work show that the broader field is converging on a similar diagnosis: UAP cases cannot be resolved reliably without better sensors, calibration, metadata and repeated baseline collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 The Galileo Project’s distinct value is that it makes those requirements explicit and testable in public research papers. Its first infrared commissioning study did not deliver a clean catalogue of exotic objects; it delivered calibration methods, failure modes, performance baselines, ambiguity counts and a statistical framework for future outlier searches. That is less dramatic than a viral video, but it is more useful for science.
 
@@ -532,194 +532,194 @@ If the project succeeds, its most important output may not be a single famous ca
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would an Academic UAP Observatory Measure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would an Academic UAP Observatory Measure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classification, observation quality, and the need for systematic investigation of unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classification, observation quality, and the need for systematic investigation of unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence, official investigations, sensor data, and the challenge of establishing credible standards for anomalous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, official investigations, sensor data, and the challenge of establishing credible standards for anomalous observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how to assess extraordinary claims using rigorous standards, a core theme of observatory-based UAP research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how to assess extraordinary claims using rigorous standards, a core theme of observatory-based UAP research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Provides the scientific mindset and observational framework that underpins the Galileo Project&#x27;s instrument-driven approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the scientific mindset and observational framework that underpins the Galileo Project&#x27;s instrument-driven approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="galileo-what-would-an-academic-uap-observatory-measure-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ If the project succeeds, its most important output may not be a single famous ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ If the project succeeds, its most important output may not be a single famous ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ If the project succeeds, its most important output may not be a single famous ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ If the project succeeds, its most important output may not be a single famous ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ If the project succeeds, its most important output may not be a single famous ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,170 +925,170 @@ If the project succeeds, its most important output may not be a single famous ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
    Title: Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: ar Xiv1  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 44 — A primary objective of the Galileo Project is...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial...by WA Watters · 2023 · Cited by 44 — A primary objective of the Galileo Project is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System Architectureby P Bridgham · 2025 — This design and implementation paper describes the system lif...</p></details>
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo Project Observatory Class System Architectureby P Bridgham · 2025 — This design and implementation paper describes the system lif...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Galileo Project's Search for UAP  
-   Link: <a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Galileo Project public announcement...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=87POecVP-s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87POecVP-s4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The Galileo Project public announcement...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Galileo Project public announcement  
-   Link: <a href="https://www.youtube.com/watch?v=Q3NqRak2tjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3NqRak2tjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q3NqRak2tjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3NqRak2tjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Galileo Project&#x27;s First Data on Half a Million Objects with Avi Loeb...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Galileo Project's First Data on Half a Million Objects with Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Could There Be Alien Artifacts Orbiting Us? With Dr. Avi Loeb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uJtER5ahdPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uJtER5ahdPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Could There Be Alien Artifacts Orbiting Us? With Dr. Avi Loeb...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: galileo.hsites.harvard.edu  
    Title: The Galileo Project Frequently Asked Questions | The Galileo Project  
-   Link: <a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/FAQ" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/FAQ</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: galileo.hsites.harvard.edu  
    Title: The Galileo Project Activities | The Galileo Project  
-   Link: <a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/activities" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/activities</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/search" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/search</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: galileo.hsites.harvard.edu  
    Title: integrated computing platform detection and tracking unidentified aerial  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/integrated-computing-platform-detection-and-tracking-unidentified-aerial" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/integrated-computing-platform-detection-and-tracking-unidentified-aerial</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/integrated-computing-platform-detection-and-tracking-unidentified-aerial" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/integrated-computing-platform-detection-and-tracking-unidentified-aerial</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: galileo.hsites.harvard.edu  
    Title: public announcement  
-   Link: <a href="https://galileo.hsites.harvard.edu/public-announcement" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/public-announcement</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/public-announcement" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/public-announcement</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: drbriankeating.medium.com  
-   Link: <a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
+   Link:<a href="https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351" target="_blank" rel="noopener noreferrer nofollow">https://drbriankeating.medium.com/the-galileo-project-systematically-searching-for-evidence-of-extraterrestrial-technological-cb4535c6f351</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1go9ej4/the_galileo_project_under_my_leadership_avi_loeb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1go9ej4/the_galileo_project_under_my_leadership_avi_loeb/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1go9ej4/the_galileo_project_under_my_leadership_avi_loeb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1go9ej4/the_galileo_project_under_my_leadership_avi_loeb/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thecrimson.com  
    Title: galileo project  
-   Link: <a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
+   Link:<a href="https://www.thecrimson.com/article/2021/8/11/galileo-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecrimson.com/article/2021/8/11/galileo-project/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Could There Be Alien Artifacts Orbiting Us? With Dr. Avi Loeb  
-   Link: <a href="https://www.youtube.com/watch?v=tNCh6iQGbuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tNCh6iQGbuk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube Bloomberg Originals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tNCh6iQGbuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tNCh6iQGbuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the AI Alien Hunting Project at Harvard - YouTube Inside the AI Alien Hunting Project at Harvard - YouTube Bloomberg Originals...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtu.be  
    Title: Will the Galileo Project Solve the Fermi Paradox?  
-   Link: <a href="https://youtu.be/WSAOTXYeUlw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/WSAOTXYeUlw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial: The First Sign of Intelligent Life Beyond Earth [https://amzn.to/2LiIxoo](https://amzn.to/2LiIxoo) affiliate link...</p></details>
+   Link:<a href="https://youtu.be/WSAOTXYeUlw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/WSAOTXYeUlw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial: The First Sign of Intelligent Life Beyond Earth [https://amzn.to/2LiIxoo](https://amzn.to/2LiIxoo) affiliate link...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Inside the AI Alien Hunting Project at Harvard  
-   Link: <a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oDAY0_wRjxA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oDAY0_wRjxA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Galileo Project&#x27;s Search for UAP - with Andy Mead | Merged EP0115...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f46ned/galileo_project_distances_itself_from_published/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f46ned/galileo_project_distances_itself_from_published/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f46ned/galileo_project_distances_itself_from_published/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f46ned/galileo_project_distances_itself_from_published/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/930540941927100/posts/1026209159026944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1026209159026944/</a>  
+   Link:<a href="https://www.facebook.com/groups/930540941927100/posts/1026209159026944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/930540941927100/posts/1026209159026944/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/qrubd9/opinion_and_discussion_on_the_galileo_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/qrubd9/opinion_and_discussion_on_the_galileo_project/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/qrubd9/opinion_and_discussion_on_the_galileo_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/qrubd9/opinion_and_discussion_on_the_galileo_project/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Stacked-area-plot-showing-the-evolution-over-time-of-the-sum-of-all-cameras-recording_fig4_388466760" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Stacked-area-plot-showing-the-evolution-over-time-of-the-sum-of-all-cameras-recording_fig4_388466760</a>  
+   Link:<a href="https://www.researchgate.net/figure/Stacked-area-plot-showing-the-evolution-over-time-of-the-sum-of-all-cameras-recording_fig4_388466760" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Stacked-area-plot-showing-the-evolution-over-time-of-the-sum-of-all-cameras-recording_fig4_388466760</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: disclosurearchives.com  
-   Link: <a href="https://disclosurearchives.com/research" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/research</a>  
+   Link:<a href="https://disclosurearchives.com/research" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/research</a>  

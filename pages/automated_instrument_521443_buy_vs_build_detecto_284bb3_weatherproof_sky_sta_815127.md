@@ -282,9 +282,9 @@ An automated UFO detector can have excellent software, accurate time synchronisa
 
 Condensation is one of the most common causes of silent data degradation. It affects both the outside of protective domes and the optical surfaces inside an enclosure.
 
-When a clear dome or camera window cools below the surrounding air's dew point, moisture forms on the surface. Instead of producing an obvious equipment failure, condensation typically softens stars, blurs aircraft lights into large halos and lowers contrast across the entire frame. Motion-detection software may respond by missing faint objects or incorrectly classifying diffuse reflections as [moving targets]({{ 'moving-targets/' | relative_url }}). Dew is particularly troublesome because it often develops gradually over the course of the night, meaning early observations may be sharp while later recordings become unusable without any warning from the software. Astronomy imaging systems commonly address this with low-power dew heaters that gently warm the optical window rather than attempting to heat the entire enclosure. Excessive heating is avoided because it can create its own optical problems through rising warm air and unnecessary power consumption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobackyard.com/dew-heaters-astrophotography/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobackyard.com">[AstroBackyard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobackyard.com</span><span class="citation-popover-title">Astro Backyard Dew Heaters for Astrophotography</span><span class="citation-popover-snippet">Dew Heaters for Astrophotography - Keep Your Telescope/...November 2, 2017 — They are flexible, heat-emitting straps that w...</span><span class="citation-popover-meta">Published: November 2, 2017</span></span></span>
+When a clear dome or camera window cools below the surrounding air's dew point, moisture forms on the surface. Instead of producing an obvious equipment failure, condensation typically softens stars, blurs aircraft lights into large halos and lowers contrast across the entire frame. Motion-detection software may respond by missing faint objects or incorrectly classifying diffuse reflections as [moving targets]({{ 'moving-targets/' | relative_url }}). Dew is particularly troublesome because it often develops gradually over the course of the night, meaning early observations may be sharp while later recordings become unusable without any warning from the software. Astronomy imaging systems commonly address this with low-power dew heaters that gently warm the optical window rather than attempting to heat the entire enclosure. Excessive heating is avoided because it can create its own optical problems through rising warm air and unnecessary power consumption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrobackyard.com/dew-heaters-astrophotography/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrobackyard.com">[AstroBackyard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrobackyard.com</span><span class="citation-popover-title">Astro Backyard Dew Heaters for Astrophotography</span><span class="citation-popover-snippet">Dew Heaters for Astrophotography - Keep Your Telescope/...November 2, 2017 — They are flexible, heat-emitting straps that w...</span><span class="citation-popover-meta">Published: November 2, 2017</span></span></span>
 
-Internal condensation is a different failure mode. Even a housing with a high ingress-protection rating traps humid air when it is sealed. Overnight cooling can push that trapped air below its dew point, causing moisture to condense on lenses, sensor windows or electronic assemblies. Simply buying a waterproof enclosure does not prevent this. The internal humidity must also be managed using careful sealing, controlled ventilation where appropriate or replaceable desiccant packs. Temperature cycling alone is sufficient to produce repeated fogging inside many supposedly sealed camera housings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micro-dehumidifier.com">[Rosahl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micro-dehumidifier.com</span><span class="citation-popover-snippet">RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+Internal condensation is a different failure mode. Even a housing with a high ingress-protection rating traps humid air when it is sealed. Overnight cooling can push that trapped air below its dew point, causing moisture to condense on lenses, sensor windows or electronic assemblies. Simply buying a waterproof enclosure does not prevent this. The internal humidity must also be managed using careful sealing, controlled ventilation where appropriate or replaceable desiccant packs. Temperature cycling alone is sufficient to produce repeated fogging inside many supposedly sealed camera housings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micro-dehumidifier.com">[Rosahl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micro-dehumidifier.com</span><span class="citation-popover-snippet">RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 Dirt creates slower but equally important degradation. Outdoor domes accumulate:
 
@@ -314,7 +314,7 @@ Direct sunlight can raise the internal temperature of a weatherproof housing wel
 
 Wide-angle lenses often have substantial depth of field, masking small focus changes, but detectors using telephoto lenses or pan-tilt-zoom cameras are much more sensitive to thermal expansion. Even modest shifts can enlarge point sources enough to affect automated detection thresholds.
 
-Cooling solutions also require balance. Continuous fans may reduce electronics temperature but can introduce dust, insects and humidity into the enclosure if poorly filtered. Completely sealed housings avoid contamination but require careful thermal design so that internal temperatures remain within specification. Many commercial outdoor cameras rely on passive heat sinking or controlled internal airflow rather than unrestricted ventilation for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micro-dehumidifier.com">[Rosahl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micro-dehumidifier.com</span><span class="citation-popover-snippet">RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+Cooling solutions also require balance. Continuous fans may reduce electronics temperature but can introduce dust, insects and humidity into the enclosure if poorly filtered. Completely sealed housings avoid contamination but require careful thermal design so that internal temperatures remain within specification. Many commercial outdoor cameras rely on passive heat sinking or controlled internal airflow rather than unrestricted ventilation for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: micro-dehumidifier.com">[Rosahl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">micro-dehumidifier.com</span><span class="citation-popover-snippet">RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 Mechanical vibration is another underestimated problem. Wind acting on lightweight poles, flexible tripods or poorly braced mounts causes image blur that resembles tracking errors. Repeated vibration also changes camera alignment over weeks or months. Since automated UAP detectors often compare object trajectories against calibrated star fields, even small changes in [pointing]({{ 'pointing/' | relative_url }}) can reduce positional accuracy if not periodically verified.
 
@@ -358,194 +358,194 @@ Commercial systems often reduce these risks through integrated outdoor housings,
 <img src="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_weatherproof_sky_sta_815127-Illustration-3-dark.svg" | relative_url }}" alt="Weatherproofing illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_weatherproof_sky_sta_815127-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_buy_vs_build_detecto_284bb3_weatherproof_sky_sta_815127-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Outdoor Problems That Break Sky Detectors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Outdoor Problems That Break Sky Detectors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Covers observatory setup and equipment care.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers observatory setup and equipment care.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for quality observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for quality observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
-        </h4>
-        <p class="fr-book-author">By Mr. Carl Laufer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hobbyist&#x27;s Guide to the RTL-SDR on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10390395-M.jpg" alt="Cover for The Hobbyist&#x27;s Guide to the RTL-SDR" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
+</h4>
+<p class="fr-book-author">By Mr. Carl Laufer</p>
         
-        <p class="fr-book-desc">First published 2015.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="weatherproofing-e3a05c-the-outdoor-problems-that-break-sky-detectors-automated-instrumented-ufo-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Commercial systems often reduce these risks through integrated outdoor housings,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Commercial systems often reduce these risks through integrated outdoor housings,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Commercial systems often reduce these risks through integrated outdoor housings,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Commercial systems often reduce these risks through integrated outdoor housings,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Commercial systems often reduce these risks through integrated outdoor housings,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,68 +751,68 @@ Commercial systems often reduce these risks through integrated outdoor housings,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: astrobackyard.com  
    Title: Astro Backyard Dew Heaters for Astrophotography  
-   Link: <a href="https://astrobackyard.com/dew-heaters-astrophotography/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/dew-heaters-astrophotography/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dew Heaters for Astrophotography - Keep Your Telescope/...November 2, 2017 — They are flexible, heat-emitting straps that w...</p></details>
+   Link:<a href="https://astrobackyard.com/dew-heaters-astrophotography/" target="_blank" rel="noopener noreferrer nofollow">https://astrobackyard.com/dew-heaters-astrophotography/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dew Heaters for Astrophotography - Keep Your Telescope/...November 2, 2017 — They are flexible, heat-emitting straps that w...</p></details>
    Published: November 2, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: micro-dehumidifier.com  
-   Link: <a href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow">https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</p></details>
+   Link:<a href="https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/" target="_blank" rel="noopener noreferrer nofollow">https://micro-dehumidifier.com/condensation-control-sealed-cctv-cameras-oem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RosahlCondensation Control in Sealed CCTV Cameras: an OEM...March 23, 2026 — 23 Mar 2026 — In a perfectly sealed camera, temperature cyc...</p></details>
    Published: March 23, 2026  
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: photographingspace.com  
-   Link: <a href="https://www.photographingspace.com/dew-proofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.photographingspace.com/dew-proofing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Dew-Proof Your Camera LensLens heater/dew heater strap: A small powered heating band wrapped around the lens area is a common solu...</p></details>
+   Link:<a href="https://www.photographingspace.com/dew-proofing/" target="_blank" rel="noopener noreferrer nofollow">https://www.photographingspace.com/dew-proofing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Dew-Proof Your Camera LensLens heater/dew heater strap: A small powered heating band wrapped around the lens area is a common solu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/telescopes/comments/1qba2pl/how_to_prevent_dew_in_my_dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1qba2pl/how_to_prevent_dew_in_my_dome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to prevent dew in my dome: r/telescopesHi, The school I work at has this awesome dome, but the dew is getting really bad during thes...</p></details>
+   Link:<a href="https://www.reddit.com/r/telescopes/comments/1qba2pl/how_to_prevent_dew_in_my_dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1qba2pl/how_to_prevent_dew_in_my_dome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to prevent dew in my dome: r/telescopesHi, The school I work at has this awesome dome, but the dew is getting really bad during thes...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/172438633343696/posts/1558501078070771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1558501078070771/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I have a 80mm fan that runs constantly to keep the Pi5 and camera cool. I think that might be a mistake. I’m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/172438633343696/posts/1558501078070771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/172438633343696/posts/1558501078070771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I have a 80mm fan that runs constantly to keep the Pi5 and camera cool. I think that might be a mistake. I’m...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: altairastro.help  
-   Link: <a href="https://www.altairastro.help/info-instructions/faq/how-do-i-stop-dew-moisture-forming-on-the-outside-of-my-tec-camera-optical-window/" target="_blank" rel="noopener noreferrer nofollow">https://www.altairastro.help/info-instructions/faq/how-do-i-stop-dew-moisture-forming-on-the-outside-of-my-tec-camera-optical-window/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e front face of the camera and this usually clears it.Read more...</p></details>
+   Link:<a href="https://www.altairastro.help/info-instructions/faq/how-do-i-stop-dew-moisture-forming-on-the-outside-of-my-tec-camera-optical-window/" target="_blank" rel="noopener noreferrer nofollow">https://www.altairastro.help/info-instructions/faq/how-do-i-stop-dew-moisture-forming-on-the-outside-of-my-tec-camera-optical-window/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e front face of the camera and this usually clears it.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Astronomical-Telescopes-Defogging-Anti-Condensation-Astronomy/dp/B0F323ZJKB?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Astronomical-Telescopes-Defogging-Anti-Condensation-Astronomy/dp/B0F323ZJKB?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>w heater, designed for robustness and practicality.Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Astronomical-Telescopes-Defogging-Anti-Condensation-Astronomy/dp/B0F323ZJKB?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Astronomical-Telescopes-Defogging-Anti-Condensation-Astronomy/dp/B0F323ZJKB?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>w heater, designed for robustness and practicality.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ki8jMwBaZ78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ki8jMwBaZ78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using everything I have learned from the last year, I engineered a better version of my all sky camera. This one is performing much bette...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ki8jMwBaZ78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ki8jMwBaZ78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using everything I have learned from the last year, I engineered a better version of my all sky camera. This one is performing much bette...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: stargazerslounge.com  
-   Link: <a href="https://stargazerslounge.com/topic/250320-lots-of-dew-in-all-sky-camera-dome/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/250320-lots-of-dew-in-all-sky-camera-dome/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazers LoungeLOTS of dew in all-sky-camera dome:(- DIY Astronomer14 Aug 2015 — I found I needed a heater purely to disperse moistur...</p></details>
+   Link:<a href="https://stargazerslounge.com/topic/250320-lots-of-dew-in-all-sky-camera-dome/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/250320-lots-of-dew-in-all-sky-camera-dome/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stargazers LoungeLOTS of dew in all-sky-camera dome:(- DIY Astronomer14 Aug 2015 — I found I needed a heater purely to disperse moistur...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=j_Z7wwRWuNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_Z7wwRWuNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;1 Year Timelapse: [https://www.youtube.com/watch?v=Ki8jMwBaZ78...&quot;](https://www.youtube.com/watch?v=Ki8jMwBaZ78...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j_Z7wwRWuNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_Z7wwRWuNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;1 Year Timelapse: [https://www.youtube.com/watch?v=Ki8jMwBaZ78...&quot;](https://www.youtube.com/watch?v=Ki8jMwBaZ78...&quot;)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fNCqcC54NUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fNCqcC54NUw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>raphy community. I hope to clear up many of the unknowns...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fNCqcC54NUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fNCqcC54NUw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>raphy community. I hope to clear up many of the unknowns...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Zak La Joie  
-   Link: <a href="https://www.youtube.com/watch?v=YRCQ2IVVCCs&amp;list=PLnl2is7kXYTUt98t0g-w0VFwf1fHqW4uQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YRCQ2IVVCCs&amp;list=PLnl2is7kXYTUt98t0g-w0VFwf1fHqW4uQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is my Allsky Camera build. This camera is located on the corner of my astro observatory and records the night (and day) skies. I oft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YRCQ2IVVCCs&amp;list=PLnl2is7kXYTUt98t0g-w0VFwf1fHqW4uQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YRCQ2IVVCCs&amp;list=PLnl2is7kXYTUt98t0g-w0VFwf1fHqW4uQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is my Allsky Camera build. This camera is located on the corner of my astro observatory and records the night (and day) skies. I oft...</p></details>

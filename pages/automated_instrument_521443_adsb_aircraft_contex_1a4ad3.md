@@ -448,11 +448,11 @@ image: /assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-ov
 
 ## Introduction
 
-ADS-B receivers are one of the most useful “ordinary-object” filters in [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}). ADS-B, or Automatic Dependent Surveillance–Broadcast, is the radio system by which many aircraft broadcast their identity, position, altitude, speed and other [flight data]({{ 'flight-data/' | relative_url }}). For a sky station watching for UAP, this matters because a bright moving light is often not anomalous at all: it may be a passenger aircraft, business jet, police helicopter, training aircraft or air ambulance seen at an unfamiliar angle, in haze, near twilight, or through a camera with limited depth cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
+ADS-B receivers are one of the most useful “ordinary-object” filters in [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detectors/' | relative_url }}). ADS-B, or Automatic Dependent Surveillance–Broadcast, is the radio system by which many aircraft broadcast their identity, position, altitude, speed and other [flight data]({{ 'flight-data/' | relative_url }}). For a sky station watching for UAP, this matters because a bright moving light is often not anomalous at all: it may be a passenger aircraft, business jet, police helicopter, training aircraft or air ambulance seen at an unfamiliar angle, in haze, near twilight, or through a camera with limited depth cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation Administration Automatic Dependent Surveillance</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-overview.webp" | relative_url }}" alt="Overview image for ADS B" loading="eager" decoding="sync" fetchpriority="high">
-The practical value is not simply “look it up on a flight tracker”. A well-designed detector can receive or query aircraft tracks automatically, time-match them to video frames, project the aircraft’s reported three-dimensional position into the camera image, and decide whether a detection is probably known traffic, probably unrelated traffic, or still worth escalating. This is exactly the kind of contextual metadata NASA’s 2023 UAP study said is usually missing from UAP evidence: calibration, multiple measurements, sensor metadata and [baseline data]({{ 'baseline-data/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The practical value is not simply “look it up on a flight tracker”. A well-designed detector can receive or query aircraft tracks automatically, time-match them to video frames, project the aircraft’s reported three-dimensional position into the camera image, and decide whether a detection is probably known traffic, probably unrelated traffic, or still worth escalating. This is exactly the kind of contextual metadata NASA’s 2023 UAP study said is usually missing from UAP evidence: calibration, multiple measurements, sensor metadata and [baseline data]({{ 'baseline-data/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-v54MlxMIo" title="How Does ADS-B Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-v54MlxMIo" target="_blank" rel="noopener noreferrer">How Does ADS-B Work?</a></p><p class="youtube-embed-meta">Channel: Canada Aviation and Space Museum &middot; Views: 109.6K &middot; Uploaded: April 2022 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-v54MlxMIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-v54MlxMIo">Open on YouTube</a></p></div></div></div>
@@ -461,7 +461,7 @@ The practical value is not simply “look it up on a flight tracker”. A well-d
 
 ADS-B helps automated UAP detectors answer a basic but powerful question: was there a known transmitting aircraft in the same part of the sky at the same time? The answer can remove a large fraction of [false alerts]({{ 'false-alerts/' | relative_url }}) before a human ever reviews the video.
 
-The system works because ADS-B “Out” broadcasts aircraft state information from onboard avionics, while ADS-B “In” is the reception and use of those broadcasts by other aircraft or ground receivers. Aviation authorities describe ADS-B as surveillance based on aircraft or airport vehicles broadcasting identity, position and related information derived from onboard systems such as satellite navigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Open source on eurocontrol.int.</span></span></span>
+The system works because ADS-B “Out” broadcasts aircraft state information from onboard avionics, while ADS-B “In” is the reception and use of those broadcasts by other aircraft or ground receivers. Aviation authorities describe ADS-B as surveillance based on aircraft or airport vehicles broadcasting identity, position and related information derived from onboard systems such as satellite navigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-snippet">Open source on eurocontrol.int.</span></span></span>
 
 For a UAP station, that broadcast can be used in several concrete ways:
 
@@ -471,7 +471,7 @@ For a UAP station, that broadcast can be used in several concrete ways:
 * **Brightness plausibility:** flag [known aircraft]({{ 'known-aircraft/' | relative_url }}) routes, approaches and departures that often produce bright landing lights, contrails, strobes or infrared signatures.
 * **Calibration:** use known aircraft positions as moving reference targets for camera [pointing]({{ 'pointing/' | relative_url }}) and performance tests.
 
-The calibration use is especially important. The Galileo Project’s all-sky infrared camera paper describes using ADS-B-equipped aircraft as reference objects to calibrate camera orientation, because long-wave infrared cameras cannot rely on visible stars in the same way that ordinary astronomical cameras can. The project used ADS-B aircraft positions, camera intrinsic calibration and a perspective-solving method to match aircraft world coordinates to image pixels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
+The calibration use is especially important. The Galileo Project’s all-sky infrared camera paper describes using ADS-B-equipped aircraft as reference objects to calibrate camera orientation, because long-wave infrared cameras cannot rely on visible stars in the same way that ordinary astronomical cameras can. The project used ADS-B aircraft positions, camera intrinsic calibration and a perspective-solving method to match aircraft world coordinates to image pixels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
 
 That turns ADS-B from a simple “debunking” layer into part of the measurement system itself. A passing airliner is not just a nuisance object; it is a known moving target that can reveal whether the camera is aimed where the software thinks it is aimed, whether time stamps are drifting, and whether the detection model is missing aircraft under certain weather or viewing conditions.
 
@@ -481,13 +481,13 @@ That turns ADS-B from a simple “debunking” layer into part of the measuremen
 
 ADS-B is powerful, but it is not a complete map of everything in the sky. Treating it as complete would create a different kind of false confidence: an automated detector might label an event “not aircraft” merely because no ADS-B match appears, when the better conclusion is “no ADS-B match was found”.
 
-The first limitation is equipage and airspace. In the United States, ADS-B Out is required in specified controlled airspace under FAA [rules]({{ 'rules/' | relative_url }}), but the regulations still contain defined exceptions and deviation procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span> In the United Kingdom, the Civil Aviation Authority has encouraged and regulated electronic conspicuity devices, including portable ADS-B-capable devices, but general aviation electronic conspicuity has not historically meant that every aircraft everywhere is transmitting a standard ADS-B position visible to every civilian receiver. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">electronic conspicuity devices</span><span class="citation-popover-snippet">electronic conspicuity devices</span></span></span>
+The first limitation is equipage and airspace. In the United States, ADS-B Out is required in specified controlled airspace under FAA [rules]({{ 'rules/' | relative_url }}), but the regulations still contain defined exceptions and deviation procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Open source on ecfr.gov.</span></span></span> In the United Kingdom, the Civil Aviation Authority has encouraged and regulated electronic conspicuity devices, including portable ADS-B-capable devices, but general aviation electronic conspicuity has not historically meant that every aircraft everywhere is transmitting a standard ADS-B position visible to every civilian receiver.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">electronic conspicuity devices</span><span class="citation-popover-snippet">electronic conspicuity devices</span></span></span>
 
-The second limitation is coverage. ADS-B reception depends on line of sight, receiver density, antenna placement, terrain, aircraft altitude and network participation. Commercial flight-tracking services can combine ADS-B with other techniques, such as multilateration, or MLAT, which estimates a position from the arrival time of transponder signals at multiple receivers. Flightradar24 explains that MLAT helps track aircraft that do not have ADS-B transponders, but it also requires suitable receiver geometry and enough receivers hearing the same aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
+The second limitation is coverage. ADS-B reception depends on line of sight, receiver density, antenna placement, terrain, aircraft altitude and network participation. Commercial flight-tracking services can combine ADS-B with other techniques, such as multilateration, or MLAT, which estimates a position from the arrival time of transponder signals at multiple receivers. Flightradar24 explains that MLAT helps track aircraft that do not have ADS-B transponders, but it also requires suitable receiver geometry and enough receivers hearing the same aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span>
 
-The third limitation is data access and filtering. Some public flight-tracking services suppress or delay certain aircraft for privacy, security or legal reasons. ADS-B Exchange has built its reputation around displaying broadcasts as received from an independent receiver network, while other services may honour block lists or rely more heavily on official feeds. That distinction matters for UAP analysis because a detector using a filtered public map may miss traffic that a local receiver or less-filtered source would show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
+The third limitation is data access and filtering. Some public flight-tracking services suppress or delay certain aircraft for privacy, security or legal reasons. ADS-B Exchange has built its reputation around displaying broadcasts as received from an independent receiver network, while other services may honour block lists or rely more heavily on official feeds. That distinction matters for UAP analysis because a detector using a filtered public map may miss traffic that a local receiver or less-filtered source would show.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
 
-The fourth limitation is timing. ADS-B is near-real-time, not perfect-real-time, and camera systems have their own timestamp problems. In the Galileo Project’s infrared camera commissioning work, the authors explicitly relaxed time-matching thresholds because of camera timestamp imprecision, ADS-B latency and update intervals. Their paper notes that one cited latency study found a mean delay of about 0.2 seconds between onboard time and ground receiving time, while another reported that 13% of ADS-B updates occurred at intervals greater than two seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
+The fourth limitation is timing. ADS-B is near-real-time, not perfect-real-time, and camera systems have their own timestamp problems. In the Galileo Project’s infrared camera commissioning work, the authors explicitly relaxed time-matching thresholds because of camera timestamp imprecision, ADS-B latency and update intervals. Their paper notes that one cited latency study found a mean delay of about 0.2 seconds between onboard time and ground receiving time, while another reported that 13% of ADS-B updates occurred at intervals greater than two seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
 
 For UAP detectors, the operational lesson is clear: ADS-B should be treated as a probabilistic context layer, not a final oracle. A good system records whether aircraft data were available, what source was used, what time tolerance was applied, what receiver coverage existed, and whether the match was strong, weak or absent.
 
@@ -500,13 +500,13 @@ The best implementation does not leave aircraft comparison to a human reviewer s
 
 A practical sky station can work in four stages. First, it records a video or infrared detection with precise time, camera position and camera orientation. Second, it collects local ADS-B messages through a receiver or queries a historical aircraft database. Third, it projects aircraft tracks into the camera’s field of view, using the camera calibration model. Fourth, it scores whether the video object and aircraft track are consistent in time, direction and image position.
 
-The Galileo Project’s infrared system offers a concrete research example. During commissioning, the team used ADS-B records within a 10 km square around the observatory, checked whether aircraft should have been in the effective field of view, checked whether the cameras were recording, and then compared those records with detections from a YOLO machine-learning object detector. This allowed them to separate “in range”, “viewable”, “recorded” and “detected” aircraft rather than treating missed detections as a mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
+The Galileo Project’s infrared system offers a concrete research example. During commissioning, the team used ADS-B records within a 10 km square around the observatory, checked whether aircraft should have been in the effective field of view, checked whether the cameras were recording, and then compared those records with detections from a YOLO machine-learning object detector. This allowed them to separate “in range”, “viewable”, “recorded” and “detected” aircraft rather than treating missed detections as a mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
 
-The results show why this matters. Over five months, the system counted 27,467 ADS-B-equipped aircraft within range of the observatory; 8,550 met the location and recording criteria; and 3,678 were matched to at least one object detection. The study reported an overall acceptance of 41% for ADS-B-equipped aircraft and a mean detection efficiency of 36%, with performance strongly affected by range, field of view, camera uptime, precipitation, visibility, humidity, lens condition, dust and raindrops. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
+The results show why this matters. Over five months, the system counted 27,467 ADS-B-equipped aircraft within range of the observatory; 8,550 met the location and recording criteria; and 3,678 were matched to at least one object detection. The study reported an overall acceptance of 41% for ADS-B-equipped aircraft and a mean detection efficiency of 36%, with performance strongly affected by range, field of view, camera uptime, precipitation, visibility, humidity, lens condition, dust and raindrops.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span><span class="citation-popover-snippet">Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects</span></span></span>
 
 That is not a failure of ADS-B. It is evidence of why automated UAP work needs ordinary aircraft as a benchmark dataset. If a detector cannot reliably detect, match and explain known aircraft, its claims about unknown objects will be weak. Aircraft traffic supplies repeatable test cases with known positions, altitudes and trajectories, allowing developers to measure how much of the ordinary sky their system understands before asking it to judge the extraordinary.
 
-Sky360’s public materials point in a similar direction from the citizen-science side: its stated aim is a low-cost, continuous sky-observation platform for planes, satellites, meteors, drones, weather phenomena, birds and UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span> In such a network, ADS-B is not a glamorous sensor, but it is one of the key tools that prevents the platform from drowning in explainable aircraft detections.
+Sky360’s public materials point in a similar direction from the citizen-science side: its stated aim is a low-cost, continuous sky-observation platform for planes, satellites, meteors, drones, weather phenomena, birds and UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[sky360.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Open source on sky360.org.</span></span></span> In such a network, ADS-B is not a glamorous sensor, but it is one of the key tools that prevents the platform from drowning in explainable aircraft detections.
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-2-dark.svg" | relative_url }}" alt="ADS B illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -529,7 +529,7 @@ A robust aircraft-context layer would normally preserve at least five fields wit
 
 This distinction matters because “[no match]({{ 'no-match/' | relative_url }})” is not the same as “not an aircraft”. An aircraft may lack ADS-B, be outside receiver coverage, be suppressed on a public service, be represented by delayed or sparse data, or be seen as a reflection, contrail or light effect away from the aircraft’s apparent projected position. Conversely, “aircraft nearby” is not the same as “case solved”; the projected track still has to fit the camera geometry and timing.
 
-NASA’s UAP study warned that AI and machine learning are only useful when the underlying data are well characterised and collected to strong standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> ADS-B helps meet that standard when it is logged transparently, but it can undermine it when it is applied casually. The key is not merely having a flight-tracking overlay; it is preserving enough metadata for another analyst to reproduce the match.
+NASA’s UAP study warned that AI and machine learning are only useful when the underlying data are well characterised and collected to strong standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> ADS-B helps meet that standard when it is logged transparently, but it can undermine it when it is applied casually. The key is not merely having a flight-tracking overlay; it is preserving enough metadata for another analyst to reproduce the match.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
@@ -538,7 +538,7 @@ NASA’s UAP study warned that AI and machine learning are only useful when the 
 
 The presence of ADS-B in an instrumented detector raises the bar for both explanations and anomalies. A video that once might have been presented as “a fast light crossing the sky” can be reclassified as a known aircraft if the track, time and camera angle agree. That is a good outcome: it removes noise from the dataset and gives researchers a better baseline of ordinary aerial traffic.
 
-It also clarifies what a stronger UAP event would need to show. A genuinely interesting instrumented case would not merely lack a public flight-tracker entry. It would need a documented receiver state, checked coverage, relevant airspace context, camera calibration, weather context, and preferably corroboration from other sensors or stations. NASA’s report makes the same broader point: physical constraints on unusual events require rigorous, evidence-based data, not isolated observations lacking metadata. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+It also clarifies what a stronger UAP event would need to show. A genuinely interesting instrumented case would not merely lack a public flight-tracker entry. It would need a documented receiver state, checked coverage, relevant airspace context, camera calibration, weather context, and preferably corroboration from other sensors or stations. NASA’s report makes the same broader point: physical constraints on unusual events require rigorous, evidence-based data, not isolated observations lacking metadata.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 ADS-B therefore plays a modest but decisive role in automated instrumented UFO detectors. It does not identify every aircraft, and it cannot by itself prove that an unmatched object is anomalous. What it can do is make ordinary aircraft harder to mistake for UAP, turn routine traffic into calibration data, and force every unresolved event to carry a clearer statement of what was checked, what was missing, and why the alert still deserves attention.
 
@@ -546,194 +546,194 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-3-dark.svg" | relative_url }}" alt="ADS B illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aircraft Tracking Filters UAP Alerts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aircraft Tracking Filters UAP Alerts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
-        </h4>
-        <p class="fr-book-author">By R. P. G. Collinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
+</h4>
+<p class="fr-book-author">By R. P. G. Collinson</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
-        </h4>
-        <p class="fr-book-author">By Michael S. Nolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
+</h4>
+<p class="fr-book-author">By Michael S. Nolan</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-        </h4>
-        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+</h4>
+<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of air traffic control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of air traffic control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="ads-b-how-aircraft-tracking-filters-uap-alerts-automated-instrumented-ufo-detectors-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -749,7 +749,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -769,7 +769,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -801,7 +801,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -853,7 +853,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -898,7 +898,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,163 +939,163 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eurocontrol.int  
-   Link: <a href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast</a>  
+   Link:<a href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
    Title: Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-C/section-91.225</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/domesticnotices/dom21002_gen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/domesticnotices/dom21002_gen.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/domesticnotices/dom21002_gen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/domesticnotices/dom21002_gen.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/development" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/development</a>  
+   Link:<a href="https://www.sky360.org/development" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/development</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flightradar24.com  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
+   Link:<a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
+   Link:<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/ru/filebrowser/download/75060?fid=75060" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/ru/filebrowser/download/75060?fid=75060</a>  
+   Link:<a href="https://www.icao.int/ru/filebrowser/download/75060?fid=75060" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/ru/filebrowser/download/75060?fid=75060</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: caa.co.uk  
    Title: electronic conspicuity devices  
-   Link: <a href="https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/</a>  
+   Link:<a href="https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/general-aviation/aircraft-ownership-and-maintenance/electronic-conspicuity-devices/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skybrary.aero  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://skybrary.aero/articles/automatic-dependent-surveillance-broadcast-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/automatic-dependent-surveillance-broadcast-ads-b</a>  
+   Link:<a href="https://skybrary.aero/articles/automatic-dependent-surveillance-broadcast-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/automatic-dependent-surveillance-broadcast-ads-b</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: navi.ion.org  
-   Link: <a href="https://navi.ion.org/content/68/2/293" target="_blank" rel="noopener noreferrer nofollow">https://navi.ion.org/content/68/2/293</a>  
+   Link:<a href="https://navi.ion.org/content/68/2/293" target="_blank" rel="noopener noreferrer nofollow">https://navi.ion.org/content/68/2/293</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: globe.adsbexchange.com  
-   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
+   Link:<a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.adsbexchange.com  
    Title: 44653064937741 Map Help  
-   Link: <a href="https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help</a>  
+   Link:<a href="https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
+   Link:<a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: infrastructure.gov.au  
-   Link: <a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
+   Link:<a href="https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.infrastructure.gov.au/sites/default/files/documents/adsb-101-anonymous.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/27011" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/27011</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/27011" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/27011</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Using a Raspberry Pi Zero 2W as a Flightradar24 ADS-B Receiver  
-   Link: <a href="https://www.youtube.com/watch?v=-KT8_o5CGEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-KT8_o5CGEc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track Planes with PiAware FlightAware Pro Stick Plus Set-Up Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-KT8_o5CGEc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-KT8_o5CGEc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Track Planes with PiAware FlightAware Pro Stick Plus Set-Up Guide...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yV4w4Jaevek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yV4w4Jaevek</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIY: Build an ADS-B Receiver and Track the &quot;disappearing&quot; Janet Flights into AREA 51 Dreamland Resort · 21K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yV4w4Jaevek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yV4w4Jaevek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIY: Build an ADS-B Receiver and Track the &quot;disappearing&quot; Janet Flights into AREA 51 Dreamland Resort · 21K views...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2023/10/17/2023-22710/inclusion-of-additional-automatic-dependent-surveillance-broadcast-ads-b-out-technical-standard" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/10/17/2023-22710/inclusion-of-additional-automatic-dependent-surveillance-broadcast-ads-b-out-technical-standard</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2023/10/17/2023-22710/inclusion-of-additional-automatic-dependent-surveillance-broadcast-ads-b-out-technical-standard" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/10/17/2023-22710/inclusion-of-additional-automatic-dependent-surveillance-broadcast-ads-b-out-technical-standard</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: DIY: Build an ADS-B Receiver and Track Flights into Area 51  
-   Link: <a href="https://www.youtube.com/watch?v=kyWtIcz8UNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kyWtIcz8UNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using a Raspberry Pi Zero 2W as a Flightradar24 ADS-B Receiver...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kyWtIcz8UNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kyWtIcz8UNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using a Raspberry Pi Zero 2W as a Flightradar24 ADS-B Receiver...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
+   Link:<a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/</a>  
+   Link:<a href="https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV02iWijCHk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV02iWijCHk/</a>  
+   Link:<a href="https://www.instagram.com/p/DV02iWijCHk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV02iWijCHk/</a>  

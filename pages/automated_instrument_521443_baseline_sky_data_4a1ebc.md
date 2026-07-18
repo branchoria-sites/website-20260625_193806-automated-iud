@@ -448,11 +448,11 @@ image: /assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc-overv
 
 ## Introduction
 
-Pattern-of-life collection is the unglamorous core of any serious automated instrumented UFO detector. Before a system can say that a light, track, heat signature or radar return is unusual, it has to learn what is normal above that exact site: aircraft routes, satellite passes, birds, insects, clouds, [weather]({{ 'weather/' | relative_url }}), reflections, camera artefacts, local lights and seasonal changes. NASA’s 2023 UAP study put the problem plainly: current UAP analysis is weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). Without that baseline, “anomaly” often means only “the detector has not yet learnt its own environment”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Pattern-of-life collection is the unglamorous core of any serious automated instrumented UFO detector. Before a system can say that a light, track, heat signature or radar return is unusual, it has to learn what is normal above that exact site: aircraft routes, satellite passes, birds, insects, clouds, [weather]({{ 'weather/' | relative_url }}), reflections, camera artefacts, local lights and seasonal changes. NASA’s 2023 UAP study put the problem plainly: current UAP analysis is weakened by poor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). Without that baseline, “anomaly” often means only “the detector has not yet learnt its own environment”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc-overview.webp" | relative_url }}" alt="Overview image for Baselines" loading="eager" decoding="sync" fetchpriority="high">
-In this branch of automated sky-watching, the most valuable dataset is not a single dramatic clip. It is the long, repetitive archive of ordinary sky behaviour that lets investigators compare a claimed anomaly against thousands or millions of mundane examples recorded by the same instruments under known conditions. Recent systems, from AARO’s GREMLIN sensor work to the [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatories and the long-running Hessdalen Automatic Measurement Station, show why baseline sky data is becoming a central design requirement rather than an afterthought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+In this branch of automated sky-watching, the most valuable dataset is not a single dramatic clip. It is the long, repetitive archive of ordinary sky behaviour that lets investigators compare a claimed anomaly against thousands or millions of mundane examples recorded by the same instruments under known conditions. Recent systems, from AARO’s GREMLIN sensor work to the [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatories and the long-running Hessdalen Automatic Measurement Station, show why baseline sky data is becoming a central design requirement rather than an afterthought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 ## What pattern-of-life collection means
 
@@ -460,7 +460,7 @@ In military and intelligence language, “pattern of life” usually means build
 
 A useful pattern-of-life archive answers basic questions that a single sighting cannot. Which aircraft commonly cross this part of the sky? Which directions are most affected by low-elevation light pollution? How often do birds or insects trigger the tracker? What does rain do to the lens? How often do clouds, the Moon or treeline movement produce false positives? These questions sound ordinary because they are; that is precisely the point. The baseline gives investigators a local “control group” against which a candidate anomaly can be tested.
 
-AARO’s 2024 annual report shows the term entering official UAP instrumentation work directly. It says the office had begun collections using GREMLIN, a prototype sensor system for detecting, tracking and characterising UAP, and that the next step would be a 90-day “pattern of life” collection at a national-security site. The same report says many unresolved AARO cases remain unresolved because of insufficient actionable data, which is exactly the gap that a baseline campaign tries to close. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
+AARO’s 2024 annual report shows the term entering official UAP instrumentation work directly. It says the office had begun collections using GREMLIN, a prototype sensor system for detecting, tracking and characterising UAP, and that the next step would be a 90-day “pattern of life” collection at a national-security site. The same report says many unresolved AARO cases remain unresolved because of insufficient actionable data, which is exactly the gap that a baseline campaign tries to close.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span></span></span>
 
 For a sky detector, a pattern-of-life collection is therefore not a hunt for one spectacular event. It is a measurement campaign designed to learn the normal distribution of objects and sensor responses at a site. Only after that work can a system begin to separate rare-but-normal events from events that are genuinely hard to explain.
 
@@ -470,9 +470,9 @@ For a sky detector, a pattern-of-life collection is therefore not a hunt for one
 
 A detector pointed at the sky is looking into a busy, layered environment. Commercial aircraft, military traffic, helicopters, drones, satellites, meteors, birds, insects, balloons, clouds, contrails, reflections and astronomical objects can all appear as moving or luminous targets. Many are obvious to a trained observer in good conditions. Many are not obvious to an automated system seeing them through a wide-angle camera, infrared sensor, radar screen or machine-learning tracker.
 
-ADS-B data is one of the most important baseline tools because many aircraft broadcast identity, position and other data derived from onboard systems. EUROCONTROL describes ADS-B as a surveillance technique in which aircraft or airport vehicles broadcast identity, position and related information; the FAA notes that ADS-B Out broadcasts GPS location, altitude, ground speed and other data once per second. That makes ADS-B a powerful comparison layer for automated detectors, though not a complete list of every object in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-title">Automatic dependent surveillance – broadcast (ADS-B) &#124; EUROCONTROL</span><span class="citation-popover-snippet">Automatic dependent surveillance – broadcast (ADS-B) &#124; EUROCONTROL</span></span></span>
+ADS-B data is one of the most important baseline tools because many aircraft broadcast identity, position and other data derived from onboard systems. EUROCONTROL describes ADS-B as a surveillance technique in which aircraft or airport vehicles broadcast identity, position and related information; the FAA notes that ADS-B Out broadcasts GPS location, altitude, ground speed and other data once per second. That makes ADS-B a powerful comparison layer for automated detectors, though not a complete list of every object in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-title">Automatic dependent surveillance – broadcast (ADS-B) &#124; EUROCONTROL</span><span class="citation-popover-snippet">Automatic dependent surveillance – broadcast (ADS-B) &#124; EUROCONTROL</span></span></span>
 
-The limits of ADS-B are part of the baseline lesson. A nighttime all-sky camera study at Yebes Observatory found that many detected traces were not matched to ADS-B and could include aircraft without ADS-B transponders or satellites. It also found false positives linked to the Moon, bright planets, horizon light pollution and image-processing choices. Above 20 degrees elevation the system detected most ADS-B-known aircraft in its test set, but lower-elevation objects remained much harder because of distance and light pollution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icts-yebes.oan.es">[ICTS Yebes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icts-yebes.oan.es</span><span class="citation-popover-snippet">ICTS Yebes</span></span></span>
+The limits of ADS-B are part of the baseline lesson. A nighttime all-sky camera study at Yebes Observatory found that many detected traces were not matched to ADS-B and could include aircraft without ADS-B transponders or satellites. It also found false positives linked to the Moon, bright planets, horizon light pollution and image-processing choices. Above 20 degrees elevation the system detected most ADS-B-known aircraft in its test set, but lower-elevation objects remained much harder because of distance and light pollution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icts-yebes.oan.es">[ICTS Yebes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icts-yebes.oan.es</span><span class="citation-popover-snippet">ICTS Yebes</span></span></span>
 
 That matters for UAP detection because many public “impossible motion” claims begin as a camera-only observation with little range information. A local baseline helps show whether the detector commonly fragments tracks, misses low-elevation aircraft, over-enhances stars, confuses reflections for motion, or treats unlabelled but ordinary objects as anomalous.
 
@@ -480,9 +480,9 @@ That matters for UAP detection because many public “impossible motion” claim
 
 A good baseline does not merely subtract known aircraft. It teaches the detector how ordinary things repeat. The same flight paths appear at similar times. Satellites recur along predictable tracks. Birds move differently by season and habitat. Insects become prominent under certain lighting and temperature conditions. Clouds, humidity, precipitation and lens contamination change detection efficiency. Local trees and buildings create persistent blind spots. These repeated patterns are the raw material of anomaly recognition.
 
-The Galileo Project’s infrared camera commissioning work is a concrete example. Its “Dalek” all-sky infrared array uses eight long-wave infrared cameras to monitor the sky and was commissioned over five months. The team used synchronously collected ADS-B aircraft data for calibration and performance measurement, then reconstructed roughly 500,000 trajectories of aerial objects. That is baseline sky data in practice: a large local archive that records not only what passed overhead, but also what the instrument could and could not detect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+The Galileo Project’s infrared camera commissioning work is a concrete example. Its “Dalek” all-sky infrared array uses eight long-wave infrared cameras to monitor the sky and was commissioned over five months. The team used synchronously collected ADS-B aircraft data for calibration and performance measurement, then reconstructed roughly 500,000 trajectories of aerial objects. That is baseline sky data in practice: a large local archive that records not only what passed overhead, but also what the instrument could and could not detect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
-The same study shows why apparent anomalies multiply when baselines are immature. A deliberately simple outlier search based on unusually sinuous two-dimensional tracks flagged about 16 per cent of reconstructed trajectories. After manual [review]({{ 'review/' | relative_url }}), 144 remained ambiguous, but the authors stressed that these were likely mundane objects that could not be clarified at that stage without distance, kinematics or other sensor modalities. The result is not a claim of exotic objects; it is a demonstration that even a well-designed sensor can produce many “interesting” tracks until the baseline, distance estimation and multi-sensor context improve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+The same study shows why apparent anomalies multiply when baselines are immature. A deliberately simple outlier search based on unusually sinuous two-dimensional tracks flagged about 16 per cent of reconstructed trajectories. After manual [review]({{ 'review/' | relative_url }}), 144 remained ambiguous, but the authors stressed that these were likely mundane objects that could not be clarified at that stage without distance, kinematics or other sensor modalities. The result is not a claim of exotic objects; it is a demonstration that even a well-designed sensor can produce many “interesting” tracks until the baseline, distance estimation and multi-sensor context improve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 The most useful baseline therefore contains both detections and failures. It records aircraft the system missed, tracks it split into fragments, false positives it generated, and weather conditions that degraded performance. In a mature detector, “normal” includes normal sensor mistakes.
 
@@ -493,7 +493,7 @@ The most useful baseline therefore contains both detections and failures. It rec
 
 A UAP detector cannot use a universal definition of unusual behaviour without local context. A luminous point moving slowly near the horizon may be rare in one site’s dataset but common at another site under a busy arrival route. A heat signature that looks odd in a clean desert sky may be mundane near an airport, forest edge or urban light dome. The same algorithm can behave differently when pointed across sea haze, mountain terrain, city glare or snow-covered ground.
 
-NASA’s UAP study emphasised that future data collection needs calibrated instruments, sensor metadata and multiple measurements, because the scientific value of a record depends on knowing how and where it was made. The report also pointed to coincident collection and multispectral or hyperspectral data as possible ways to connect UAP observations with local atmospheric, oceanic or ground conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+NASA’s UAP study emphasised that future data collection needs calibrated instruments, sensor metadata and multiple measurements, because the scientific value of a record depends on knowing how and where it was made. The report also pointed to coincident collection and multispectral or hyperspectral data as possible ways to connect UAP observations with local atmospheric, oceanic or ground conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 Local comparison changes the meaning of a candidate anomaly in three ways:
 
@@ -512,11 +512,11 @@ This is why baseline collection should come before confident classification. Wit
 <img src="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc-Illustration-2-dark.svg" | relative_url }}" alt="Baselines illustration 2" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_baseline_sky_data_4a1ebc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hessdalen shows the value and limits of long records
 
-The Hessdalen valley in Norway is one of the longest-running examples of instrumented monitoring of unusual lights. Project Hessdalen reports that lights are still observed there, though less frequently than during the early 1980s, and that an automatic measurement station was installed in 1998. The station’s current description includes three low-light CCD cameras streaming continuously, alarm systems that save images and videos when something appears, flight detection for mapping air traffic, weather stations, and radar display streaming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+The Hessdalen valley in Norway is one of the longest-running examples of instrumented monitoring of unusual lights. Project Hessdalen reports that lights are still observed there, though less frequently than during the early 1980s, and that an automatic measurement station was installed in 1998. The station’s current description includes three low-light CCD cameras streaming continuously, alarm systems that save images and videos when something appears, flight detection for mapping air traffic, weather stations, and radar display streaming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
-As a pattern-of-life case, Hessdalen is important because it moved the problem from anecdote towards repeated local measurement. The site records air traffic, weather and imagery in a place where recurring light phenomena had already been reported. Its technical description even notes that most alarms come from known natural sources, which is exactly what a baseline should expose: the ordinary triggers that would otherwise inflate the mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
+As a pattern-of-life case, Hessdalen is important because it moved the problem from anecdote towards repeated local measurement. The site records air traffic, weather and imagery in a place where recurring light phenomena had already been reported. Its technical description even notes that most alarms come from known natural sources, which is exactly what a baseline should expose: the ordinary triggers that would otherwise inflate the mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Project Hessdalen</span></span></span>
 
-A published long-term survey based on Hessdalen Automatic Measurement Station data reported that the station produced useful temporal statistics, including a tendency for recorded light events to occur more often in winter and between roughly 10 pm and 1 am. The same analysis noted that these statistics helped argue against some known artificial sources, but did not by themselves explain the origin of the phenomenon; more detailed multi-instrument protocols were still needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A long-term scientific survey of the Hessdalen phenomenon</span><span class="citation-popover-snippet">Research Gate(PDF) A long-term scientific survey of the Hessdalen phenomenon</span></span></span>
+A published long-term survey based on Hessdalen Automatic Measurement Station data reported that the station produced useful temporal statistics, including a tendency for recorded light events to occur more often in winter and between roughly 10 pm and 1 am. The same analysis noted that these statistics helped argue against some known artificial sources, but did not by themselves explain the origin of the phenomenon; more detailed multi-instrument protocols were still needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) A long-term scientific survey of the Hessdalen phenomenon</span><span class="citation-popover-snippet">Research Gate(PDF) A long-term scientific survey of the Hessdalen phenomenon</span></span></span>
 
 That is the key lesson for modern automated detectors. Baselines do not magically solve every case. They narrow the field. They can show that a phenomenon is recurrent, seasonal, correlated or uncorrelated with candidate causes, concentrated in certain directions, or mixed with large numbers of ordinary triggers. They turn “something strange happened” into a structured comparison problem.
 
@@ -524,9 +524,9 @@ That is the key lesson for modern automated detectors. Baselines do not magicall
 
 The most overlooked part of baseline sky data is that it measures the instrument as much as the sky. A detector has its own pattern of life: uptime, calibration drift, blind zones, lens contamination, sensor noise, thermal behaviour, machine-learning errors and maintenance interruptions. A system that does not track these factors may mislabel its own weaknesses as unusual aerial behaviour.
 
-The Galileo Project’s observatory architecture paper describes a system built around real-time data acquisition, sensor optimisation, provenance management, commissioning, census operations, science operations and system-effectiveness monitoring. Those phrases are technical, but the practical meaning is simple: the system has to know what data it collected, how it collected it, how well it was working, and how later analysis changed the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The Galileo Project’s observatory architecture paper describes a system built around real-time data acquisition, sensor optimisation, provenance management, commissioning, census operations, science operations and system-effectiveness monitoring. Those phrases are technical, but the practical meaning is simple: the system has to know what data it collected, how it collected it, how well it was working, and how later analysis changed the record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-The Dalek commissioning study makes this concrete. It reported that detection efficiency depended strongly on weather, range and aircraft size. It also found that efficiency fell with precipitation, reduced [visibility]({{ 'visibility/' | relative_url }}), increased humidity, treeline effects, dust and raindrops on the lens. Its five-month archive was used not only to look for odd trajectories, but to establish the detector’s acceptance, efficiency and failure modes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+The Dalek commissioning study makes this concrete. It reported that detection efficiency depended strongly on weather, range and aircraft size. It also found that efficiency fell with precipitation, reduced [visibility]({{ 'visibility/' | relative_url }}), increased humidity, treeline effects, dust and raindrops on the lens. Its five-month archive was used not only to look for odd trajectories, but to establish the detector’s acceptance, efficiency and failure modes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 For UAP work, this distinction is crucial. A raw count of “unidentified” objects is not enough. A serious baseline should also report how many objects were probably missed, how often tracks were fragmented, what kinds of false detections occurred, and which parts of the sky were effectively unobservable. Otherwise, the database may look precise while concealing large uncertainties.
 
@@ -561,7 +561,7 @@ The strongest pattern-of-life dataset is therefore not a pile of clips. It is a 
 
 Baseline sky data is essential, but it has limits. A local archive can show that an event is rare for a site and sensor. It can often identify mundane repeats. It can reveal detector artefacts. It can improve estimates of how often ambiguous events occur. But it cannot always determine distance, size, speed or identity unless the sensor suite includes enough independent information.
 
-That limitation appears clearly in the Galileo Project’s infrared commissioning work. The authors could flag high-sinuosity tracks and manually review them, but ambiguous cases remained because distance and kinematics were not yet available from that instrument alone. They explicitly expected the ambiguity rate to improve with multiple instruments and range estimation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
+That limitation appears clearly in the Galileo Project’s infrared commissioning work. The authors could flag high-sinuosity tracks and manually review them, but ambiguous cases remained because distance and kinematics were not yet available from that instrument alone. They explicitly expected the ambiguity rate to improve with multiple instruments and range estimation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span>
 
 The same point applies to government and citizen systems. A pattern-of-life campaign at one site can build a strong local normal model, but it may not transfer cleanly to another site with different aircraft traffic, weather, terrain and sensor placement. A baseline is powerful because it is local; that also makes it non-universal. Networks of detectors need standardised metadata and calibration so that local baselines can be compared without pretending every sky is the same.
 
@@ -578,194 +578,194 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Normal Sky Data Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Normal Sky Data Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-first thinking, calibration of claims, and separating anomalies from misinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-first thinking, calibration of claims, and separating anomalies from misinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand ordinary night-sky patterns, satellites, planets, meteors, and observing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand ordinary night-sky patterns, satellites, planets, meteors, and observing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames why credible UAP inquiry needs better evidence than isolated eyewitness or video reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames why credible UAP inquiry needs better evidence than isolated eyewitness or video reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical familiarity with what normal sky objects look like through repeat observation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical familiarity with what normal sky objects look like through repeat observation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="baselines-why-normal-sky-data-matters-most-automated-instrumented-ufo-detectors-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -781,7 +781,7 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -801,7 +801,7 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -833,7 +833,7 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -930,7 +930,7 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -971,207 +971,207 @@ For automated instrumented UFO detection, that shift is decisive. Baseline sky d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eurocontrol.int  
    Title: Automatic dependent surveillance – broadcast (ADS-B) | EUROCONTROL  
-   Link: <a href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast</a>  
+   Link:<a href="https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast" target="_blank" rel="noopener noreferrer nofollow">https://www.eurocontrol.int/service/automatic-dependent-surveillance-broadcast</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Ins and Outs | Federal Aviation Administration  
-   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: icts-yebes.oan.es  
    Title: ICTS Yebes  
-   Link: <a href="https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf</a>  
+   Link:<a href="https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://icts-yebes.oan.es/reports/doc/IT-CDT-2023-8.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/index_e.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/index_e.shtml</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) A long-term scientific survey of the Hessdalen phenomenon  
-   Link: <a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
+   Link:<a href="https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228609015_A_long-term_scientific_survey_of_the_Hessdalen_phenomenon</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
+   Link:<a href="https://arxiv.org/abs/2506.00125" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.00125</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ilrs.gsfc.nasa.gov  
    Title: session5 Wilkinson presentation  
-   Link: <a href="https://ilrs.gsfc.nasa.gov/2019_Technical_Workshop/docs/2019/presentations/Session5/session5_Wilkinson_presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/2019_Technical_Workshop/docs/2019/presentations/Session5/session5_Wilkinson_presentation.pdf</a>  
+   Link:<a href="https://ilrs.gsfc.nasa.gov/2019_Technical_Workshop/docs/2019/presentations/Session5/session5_Wilkinson_presentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ilrs.gsfc.nasa.gov/2019_Technical_Workshop/docs/2019/presentations/Session5/session5_Wilkinson_presentation.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2209.02479" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2209.02479</a>  
+   Link:<a href="https://arxiv.org/pdf/2209.02479" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2209.02479</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
+   Link:<a href="https://arxiv.org/abs/2507.11355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.11355</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/station/second.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/second.shtml</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: old.hessdalen.org  
    Title: Hessdal article2000.shtml  
-   Link: <a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
+   Link:<a href="https://old.hessdalen.org/reports/Hessdal-article2000.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/Hessdal-article2000.shtml</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: (PDF) Galileo Project Observatory Class System Architecture  
-   Link: <a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
+   Link:<a href="https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392334596_Galileo_Project_Observatory_Class_System_Architecture</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: 362908331 Unidentified aerial phenomena I Observations of events  
-   Link: <a href="https://www.researchgate.net/publication/362908331_Unidentified_aerial_phenomena_I_Observations_of_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362908331_Unidentified_aerial_phenomena_I_Observations_of_events</a>  
+   Link:<a href="https://www.researchgate.net/publication/362908331_Unidentified_aerial_phenomena_I_Observations_of_events" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362908331_Unidentified_aerial_phenomena_I_Observations_of_events</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations</a>  
+   Link:<a href="https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380882646_Detection_of_aircraft_traces_in_nighttime_all-sky_camera_images_using_deep_learning_A_new_way_to_improve_aerial_safety_in_Satellite_Laser_Ranging_operations</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Hessdalen AMS  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_AMS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_AMS</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: hessdalen valley norway remote rural area population 150historical reports light  
-   Link: <a href="https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/</a>  
+   Link:<a href="https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100094408532133/posts/hessdalen-valley-norway-remote-rural-area-population-150historical-reports-light/828087327014878/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: societyforuapstudies.org  
    Title: project hessdalen  
-   Link: <a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
+   Link:<a href="https://www.societyforuapstudies.org/project-hessdalen" target="_blank" rel="noopener noreferrer nofollow">https://www.societyforuapstudies.org/project-hessdalen</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: envisioning.com  
    Title: hessdalen plasma constructs  
-   Link: <a href="https://www.envisioning.com/research/xenotech/hessdalen-plasma-constructs" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/hessdalen-plasma-constructs</a>  
+   Link:<a href="https://www.envisioning.com/research/xenotech/hessdalen-plasma-constructs" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/hessdalen-plasma-constructs</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights Have Stumped Scientists for 40 Years...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: The Hessdalen Lights Have Stumped Scientists for 40 Years  
-   Link: <a href="https://www.youtube.com/watch?v=YihXXHJ8VKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YihXXHJ8VKc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Aliens - Avi Loeb - YouTube The Truth About Aliens - Avi Loeb - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YihXXHJ8VKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YihXXHJ8VKc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Aliens - Avi Loeb - YouTube The Truth About Aliens - Avi Loeb - YouTube...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Truth About Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=ZgeqGCdr7rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgeqGCdr7rU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZgeqGCdr7rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZgeqGCdr7rU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
+   Link:<a href="https://www.eoportal.org/other-space-activities/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ads-b</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: airservicesaustralia.com  
-   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/14-150FAC_ADS-B_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/14-150FAC_ADS-B_WEB.pdf</a>  
+   Link:<a href="https://www.airservicesaustralia.com/wp-content/uploads/14-150FAC_ADS-B_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/14-150FAC_ADS-B_WEB.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nqj4o4/birds_satellites_plane_and_ufo_that_changes/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: spire.com  
-   Link: <a href="https://spire.com/wiki/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/how-does-ads-b-work/</a>  
+   Link:<a href="https://spire.com/wiki/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/wiki/how-does-ads-b-work/</a>  

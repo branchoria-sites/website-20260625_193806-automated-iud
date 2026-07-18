@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /automated-instrument-521443-metadata/
 description: Focused pages that expand on Metadata.
-date: '2026-06-25'
+date: '2026'
 layout: default
 parent_basename: automated_instrument_521443_metadata_gaps_e215b4
 parent_title: Metadata
@@ -16,7 +16,7 @@ parent_permalink: /metadata/
 
 # Explore Topics in Metadata
 
-The following pages expand on the main **[Metadata]({{ '/metadata/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Metadata]({{ '/metadata/' | relative_url }})** page and cover its key branches in.
 
 - [Pointing]({{ '/pointing/' | relative_url }})
 - [Original Files]({{ '/original-files/' | relative_url }})

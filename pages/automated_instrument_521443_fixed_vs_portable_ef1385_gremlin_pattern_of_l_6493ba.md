@@ -280,7 +280,7 @@ image: /assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_greml
 
 ## Introduction
 
-Portable sensor stations designed to investigate unidentified anomalous phenomena (UAP) face a practical challenge that fixed observatories largely avoid: they arrive with no understanding of what is normal for a particular location. The Pentagon's GREMLIN programme addresses this problem by treating the first phase of deployment as an exercise in building a local "pattern of life" rather than immediately searching for extraordinary events. Instead of assuming that every unusual radar return or optical detection is significant, the system spends weeks learning the routine behaviour of aircraft, [satellites]({{ 'satellites/' | relative_url }}), wildlife, [weather]({{ 'weather/' | relative_url }}) and other recurring phenomena before attempting to identify genuine anomalies. This approach is important for automated instrumented UAP detectors because it shifts the emphasis from collecting dramatic sightings to establishing a defensible baseline against which later observations can be evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+Portable sensor stations designed to investigate unidentified anomalous phenomena (UAP) face a practical challenge that fixed observatories largely avoid: they arrive with no understanding of what is normal for a particular location. The Pentagon's GREMLIN programme addresses this problem by treating the first phase of deployment as an exercise in building a local "pattern of life" rather than immediately searching for extraordinary events. Instead of assuming that every unusual radar return or optical detection is significant, the system spends weeks learning the routine behaviour of aircraft, [satellites]({{ 'satellites/' | relative_url }}), wildlife, [weather]({{ 'weather/' | relative_url }}) and other recurring phenomena before attempting to identify genuine anomalies. This approach is important for automated instrumented UAP detectors because it shifts the emphasis from collecting dramatic sightings to establishing a defensible baseline against which later observations can be evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-1-dark.svg" | relative_url }}" alt="GREMLIN illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Portable sensor stations designed to investigate unidentified anomalous phenomen
 
 In defence and intelligence practice, "pattern of life" refers to the systematic observation of an environment over time so that ordinary activity becomes measurable rather than assumed. For a sensitive installation, that includes not only scheduled aircraft traffic but also recurring civilian flights, satellite passes, meteorological effects, birds, bats, drones, insects, radio-frequency interference and seasonal changes.
 
-Applied to a deployable UAP sensor suite, the concept is straightforward. Before investigators can decide whether an event is genuinely unusual, they need evidence showing what typically happens at that location. A camera recording an unidentified light, or a [radar]({{ 'radar/' | relative_url }}) registering an unexpected track, has far greater evidential value if operators already know that similar signatures have not appeared during weeks of continuous observation under comparable conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+Applied to a deployable UAP sensor suite, the concept is straightforward. Before investigators can decide whether an event is genuinely unusual, they need evidence showing what typically happens at that location. A camera recording an unidentified light, or a [radar]({{ 'radar/' | relative_url }}) registering an unexpected track, has far greater evidential value if operators already know that similar signatures have not appeared during weeks of continuous observation under comparable conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 This philosophy also supports automated analysis. Machine-learning systems cannot reliably identify statistical outliers unless they first have sufficient examples of ordinary behaviour. In practice, baseline collection becomes part of sensor calibration rather than a separate administrative task.
 
@@ -299,9 +299,9 @@ This philosophy also supports automated analysis. Machine-learning systems canno
 
 The public discussion around UAP often concentrates on spectacular incidents, but the operational problem facing defence organisations is more mundane. Military ranges, nuclear facilities, test centres and other protected sites already experience constant activity from authorised aircraft, commercial traffic, satellites, environmental phenomena and wildlife.
 
-AARO, the Pentagon's All-domain Anomaly Resolution Office, has explained that GREMLIN is intended for situations where reports emerge near restricted airspace or other national-security locations. The immediate objective is not to prove the existence of exotic objects but to determine whether an observed object can be identified using richer, better calibrated data than was previously available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">military ufo gremlin</span><span class="citation-popover-snippet">Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</span></span></span>
+AARO, the Pentagon's All-domain Anomaly Resolution Office, has explained that GREMLIN is intended for situations where reports emerge near restricted airspace or other national-security locations. The immediate objective is not to prove the existence of exotic objects but to determine whether an observed object can be identified using richer, better calibrated data than was previously available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">military ufo gremlin</span><span class="citation-popover-snippet">Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</span></span></span>
 
-The office's annual report revealed that, after initial testing, GREMLIN was planned for a roughly 90-day pattern-of-life deployment at an unnamed national-security site. That duration illustrates an important operational judgement: meaningful baselines require sustained observation rather than a brief response immediately after a report is received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</span></span></span>
+The office's annual report revealed that, after initial testing, GREMLIN was planned for a roughly 90-day pattern-of-life deployment at an unnamed national-security site. That duration illustrates an important operational judgement: meaningful baselines require sustained observation rather than a brief response immediately after a report is received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</span></span></span>
 
 Longer deployments also allow analysts to account for variables that would otherwise produce [false positives]({{ 'false-positives/' | relative_url }}), including:
 
@@ -328,7 +328,7 @@ GREMLIN occupies a middle ground between permanently installed observatories and
 
 A fixed observatory benefits from years of accumulated local knowledge because its instruments rarely move. A rapidly deployed field kit, by contrast, may arrive only after an unusual report, giving operators little opportunity to distinguish persistent background activity from genuinely novel observations.
 
-GREMLIN is designed to reduce this disadvantage by remaining in place long enough to establish a temporary local baseline. According to AARO officials, the system consists of configurable, portable sensor packages intended to fit inside transport cases while combining multiple sensing modalities rather than relying upon a single camera. Officials have described the capability as using hyperspectral observation and multiple complementary sensors so that optical detections can be compared with other environmental measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop+2TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+GREMLIN is designed to reduce this disadvantage by remaining in place long enough to establish a temporary local baseline. According to AARO officials, the system consists of configurable, portable sensor packages intended to fit inside transport cases while combining multiple sensing modalities rather than relying upon a single camera. Officials have described the capability as using hyperspectral observation and multiple complementary sensors so that optical detections can be compared with other environmental measurements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop+2TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-snippet">DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 This deployment model differs from a purely reactive investigation. Instead of arriving, recording a single incident and leaving, the system first observes routine activity, allowing subsequent detections to be interpreted within their environmental context.
 
@@ -338,7 +338,7 @@ This deployment model differs from a purely reactive investigation. Instead of a
 
 The most valuable output from pattern-of-life collection is often not the discovery of unusual objects but the elimination of common explanations.
 
-During early GREMLIN testing, AARO officials reported that the system detected numerous birds, bats, orbital objects and even the effects of solar activity. Rather than viewing these detections as failures, officials presented them as evidence that the sensors were learning the operational environment and improving their ability to reject known sources of confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">military ufo gremlin</span><span class="citation-popover-snippet">Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</span></span></span>
+During early GREMLIN testing, AARO officials reported that the system detected numerous birds, bats, orbital objects and even the effects of solar activity. Rather than viewing these detections as failures, officials presented them as evidence that the sensors were learning the operational environment and improving their ability to reject known sources of confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">military ufo gremlin</span><span class="citation-popover-snippet">Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</span></span></span>
 
 For automated UAP detector stations, this has several practical consequences:
 
@@ -361,7 +361,7 @@ In effect, the baseline becomes part of the sensing system itself rather than me
 
 GREMLIN reflects a broader shift in government thinking about UAP investigation. Rather than treating every report as an isolated mystery, AARO has increasingly emphasised systematic measurement, repeatable observation and calibrated instrumentation.
 
-That governance approach aligns with recommendations from scientific studies of UAP observation, which have argued that high-quality sensor data and well-characterised background conditions are more valuable than isolated eyewitness accounts or uncalibrated imagery. Pattern-of-life collection therefore serves both operational and scientific purposes: it improves national-security awareness while also reducing the likelihood that ordinary phenomena will be misclassified as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</span></span></span>
+That governance approach aligns with recommendations from scientific studies of UAP observation, which have argued that high-quality sensor data and well-characterised background conditions are more valuable than isolated eyewitness accounts or uncalibrated imagery. Pattern-of-life collection therefore serves both operational and scientific purposes: it improves national-security awareness while also reducing the likelihood that ordinary phenomena will be misclassified as unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: breakingdefense.com">[Breaking Defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">breakingdefense.com</span><span class="citation-popover-snippet">Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</span></span></span>
 
 Within the broader question of portable versus fixed detector stations, GREMLIN demonstrates that portability alone is not enough. A deployable system intended to investigate unusual aerial activity must also invest time in understanding the ordinary environment. Only after that baseline exists can automated detection systems begin to distinguish routine local behaviour from events that genuinely merit further investigation.
 
@@ -369,194 +369,194 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
 <img src="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-3-dark.svg" | relative_url }}" alt="GREMLIN illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_fixed_vs_portable_ef1385_gremlin_pattern_of_l_6493ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why GREMLIN Watches the Ordinary First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why GREMLIN Watches the Ordinary First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strongly supports GREMLIN-style emphasis on baseline evidence before anomaly claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly supports GREMLIN-style emphasis on baseline evidence before anomaly claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places government and military UAP interest in a commercially accessible reading lane.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places government and military UAP interest in a commercially accessible reading lane.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Fits the need to quantify local baselines, sensor confidence, and uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the need to quantify local baselines, sensor confidence, and uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand the ordinary sky traffic a deployable sensor must learn first.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the ordinary sky traffic a deployable sensor must learn first.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory"><img src="{{ '/assets/images/marketplace-covers/7f287700401e4050bc91.jpg' | relative_url }}" alt="Listing image for Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Mens Believe Digital Upload UFO Abduction T-Shirt Aliens UAP Simulation Theory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey"><img src="{{ '/assets/images/marketplace-covers/5c425c6e928e887d9e6e.jpg' | relative_url }}" alt="Listing image for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey"><img src="{{ '/assets/images/marketplace-covers/5c425c6e928e887d9e6e.jpg' | relative_url }}" alt="Listing image for New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">New Jersey UFO UAP T-Shirt -- Looking For Answers in New Jersey</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt" data-ebay-reference="gremlin-970632-why-gremlin-watches-the-ordinary-first-automated-instrumented-ufo-detectors-uap-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,80 +762,80 @@ Within the broader question of portable versus fixed detector stations, GREMLIN 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</p></details>
+   Link:<a href="https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD developing &#x27;Gremlin&#x27; capability to help personnel...March 8, 2024 — 8 Mar 2024 — DOD developing &#x27;Gremlin&#x27; capability to...</p></details>
    Published: March 8, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: twz.com  
    Title: dod to deploy [gremlin sensors](&#123;&#123; 'gremlin/' | relative_url &#125;&#125;) to collect intel on unidentified flying objects  
-   Link: <a href="https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD To Deploy &#x27;Gremlin&#x27; Sensors To Collect Intel On...8 Mar 2024 — New deployable hyperspectral sensors will be able to collect data acr...</p></details>
+   Link:<a href="https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/dod-to-deploy-gremlin-sensors-to-collect-intel-on-unidentified-flying-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD To Deploy &#x27;Gremlin&#x27; Sensors To Collect Intel On...8 Mar 2024 — New deployable hyperspectral sensors will be able to collect data acr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</p></details>
+   Link:<a href="https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/11/gremlin-but-no-aliens-pentagon-uap-office-plans-first-deployment-of-new-sensor-suite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking DefenseGREMLIN, but no aliens: Pentagon UAP office plans first...14 Nov 2024 — The All-domain Anomaly Resolution Office report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: taskandpurpose.com  
    Title: military ufo gremlin  
-   Link: <a href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/military-ufo-gremlin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/military-ufo-gremlin/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/military-ufo-gremlin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; Purpose&#x27;Gremlin systems&#x27; will help Pentagon analyze UFO sightings7 Mar 2024 — The Pentagon&#x27;s is developing deployable sensor suite...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1grk6lw/gremlin_but_no_aliens_pentagon_uap_office_plans/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1grk6lw/gremlin_but_no_aliens_pentagon_uap_office_plans/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GREMLIN, but no aliens: Pentagon UAP office plans first...The All-domain Anomaly Resolution Office report reveals that the GREMLIN senso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1grk6lw/gremlin_but_no_aliens_pentagon_uap_office_plans/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1grk6lw/gremlin_but_no_aliens_pentagon_uap_office_plans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GREMLIN, but no aliens: Pentagon UAP office plans first...The All-domain Anomaly Resolution Office report reveals that the GREMLIN senso...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: darpa.mil  
-   Link: <a href="https://www.darpa.mil/research/programs/gremlins" target="_blank" rel="noopener noreferrer nofollow">https://www.darpa.mil/research/programs/gremlins</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GremlinsDARPA has launched the Gremlins program. Named for the imaginary, mischievous imps that became the good luck charms of many Briti...</p></details>
+   Link:<a href="https://www.darpa.mil/research/programs/gremlins" target="_blank" rel="noopener noreferrer nofollow">https://www.darpa.mil/research/programs/gremlins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GremlinsDARPA has launched the Gremlins program. Named for the imaginary, mischievous imps that became the good luck charms of many Briti...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/interestingengineering_pentagon-to-deploy-gremlin-the-first-3d-activity-7263679734738280448-K22c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/interestingengineering_pentagon-to-deploy-gremlin-the-first-3d-activity-7263679734738280448-K22c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting Engineering&#x27;s PostPentagon to deploy &#x27;Gremlin,&#x27; the first 3D UFO surveillance system, in FY 2025 for pattern-of-life analysis...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/interestingengineering_pentagon-to-deploy-gremlin-the-first-3d-activity-7263679734738280448-K22c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/interestingengineering_pentagon-to-deploy-gremlin-the-first-3d-activity-7263679734738280448-K22c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interesting Engineering&#x27;s PostPentagon to deploy &#x27;Gremlin,&#x27; the first 3D UFO surveillance system, in FY 2025 for pattern-of-life analysis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Bvf9v4EHovY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bvf9v4EHovY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gremlins: Airborne Launch &amp; Recovery of Unmanned Aerial...DARPA is progressing toward its plan to demonstrate airborne launch and recove...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Bvf9v4EHovY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bvf9v4EHovY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gremlins: Airborne Launch &amp; Recovery of Unmanned Aerial...DARPA is progressing toward its plan to demonstrate airborne launch and recove...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: pentagon ufo uap office aaro sensors anomalies orbit  
-   Link: <a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office developing &#x27;Gremlin&#x27; sensors to help...9 Mar 2024 — The Pentagon&#x27;s UFO office is developing sensor kits to help it c...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office developing &#x27;Gremlin&#x27; sensors to help...9 Mar 2024 — The Pentagon&#x27;s UFO office is developing sensor kits to help it c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: doncio.navy.mil  
    Title: mil Gremlins Program Demonstrates Airborne Recovery  
-   Link: <a href="https://www.doncio.navy.mil/%28xwqh1s55qrhisd45wv21kumw%29/CHIPS/ArticleDetails.aspx?ID=15238" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/%28xwqh1s55qrhisd45wv21kumw%29/CHIPS/ArticleDetails.aspx?ID=15238</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Program Demonstrates Airborne Recovery - DON CIOAn unmanned air vehicle demonstrated successful airborne recovery during the DARPA Gremli...</p></details>
+   Link:<a href="https://www.doncio.navy.mil/%28xwqh1s55qrhisd45wv21kumw%29/CHIPS/ArticleDetails.aspx?ID=15238" target="_blank" rel="noopener noreferrer nofollow">https://www.doncio.navy.mil/%28xwqh1s55qrhisd45wv21kumw%29/CHIPS/ArticleDetails.aspx?ID=15238</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Program Demonstrates Airborne Recovery - DON CIOAn unmanned air vehicle demonstrated successful airborne recovery during the DARPA Gremli...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gremlin System: World&#x27;s First Alien Surveillance System: America&#x27;s Gemsoline Project Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gremlin System: World&#x27;s First Alien Surveillance System: America&#x27;s Gemsoline Project Explained...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AfYh2HH4UAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AfYh2HH4UAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AfYh2HH4UAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Revelations with AARO&#x27;s Dep. Director Lt. Col. (ret.) Tim Phillips...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: defense-update.com  
    Title: 20160419 gremlin drones  
-   Link: <a href="https://defense-update.com/20160419_gremlin-drones.html" target="_blank" rel="noopener noreferrer nofollow">https://defense-update.com/20160419_gremlin-drones.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DARPA&#x27;s Gremlin Pathfinders19 Apr 2016 — The unmanned Gremlins would be deployed from support aircraft, and carry a mixture of mission pa...</p></details>
+   Link:<a href="https://defense-update.com/20160419_gremlin-drones.html" target="_blank" rel="noopener noreferrer nofollow">https://defense-update.com/20160419_gremlin-drones.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DARPA&#x27;s Gremlin Pathfinders19 Apr 2016 — The unmanned Gremlins would be deployed from support aircraft, and carry a mixture of mission pa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mitre.org  
-   Link: <a href="https://www.mitre.org/sites/default/files/2025-01/PR-22-4107-Surveillance-Technologies-Are-Imbedded-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/2025-01/PR-22-4107-Surveillance-Technologies-Are-Imbedded-25.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance Technologies Are Imbedded into the Fabric of...3 Jan 2025 — Physically map and target sensitive sites, security measures, h...</p></details>
+   Link:<a href="https://www.mitre.org/sites/default/files/2025-01/PR-22-4107-Surveillance-Technologies-Are-Imbedded-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mitre.org/sites/default/files/2025-01/PR-22-4107-Surveillance-Technologies-Are-Imbedded-25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surveillance Technologies Are Imbedded into the Fabric of...3 Jan 2025 — Physically map and target sensitive sites, security measures, h...</p></details>

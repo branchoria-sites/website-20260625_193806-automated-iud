@@ -448,19 +448,19 @@ image: /assets/images/automated_instrument_521443_aircraft_calibration_cfea03-ov
 
 ## Introduction
 
-Ordinary aircraft are not noise that automated UFO or UAP detectors should simply ignore. They are among the most useful calibration targets in the sky. A serious sky-monitoring system has to learn what “normal” looks like before it can defend any claim that something is abnormal: aircraft tracks, satellite glints, birds, balloons, [weather]({{ 'weather/' | relative_url }}) artefacts, sensor distortion, compression errors and gaps in metadata all shape what the detector records. NASA’s 2023 UAP study made this point directly, arguing that UAP analysis is hampered by poor sensor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
+Ordinary aircraft are not noise that automated UFO or UAP detectors should simply ignore. They are among the most useful calibration targets in the sky. A serious sky-monitoring system has to learn what “normal” looks like before it can defend any claim that something is abnormal: aircraft tracks, satellite glints, birds, balloons, [weather]({{ 'weather/' | relative_url }}) artefacts, sensor distortion, compression errors and gaps in metadata all shape what the detector records. NASA’s 2023 UAP study made this point directly, arguing that UAP analysis is hampered by poor sensor calibration, missing metadata, lack of multiple measurements and lack of [baseline data]({{ 'baseline-data/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_aircraft_calibration_cfea03-overview.webp" | relative_url }}" alt="Overview image for Calibration" loading="eager" decoding="sync" fetchpriority="high">
-Aircraft matter because many of them come with an independent reality check: Automatic Dependent Surveillance–Broadcast, or [ADS-B]({{ 'ads-b/' | relative_url }}). ADS-B-equipped aircraft broadcast position, altitude, ground speed and related flight information, giving a detector a known moving object to compare against its camera images or infrared tracks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> In an automated instrumented UFO detector, this turns a passing plane from a “false positive” into a moving test pattern: a bright, warm, trackable object with an approximate time, bearing, altitude and speed.
+Aircraft matter because many of them come with an independent reality check: Automatic Dependent Surveillance–Broadcast, or [ADS-B]({{ 'ads-b/' | relative_url }}). ADS-B-equipped aircraft broadcast position, altitude, ground speed and related flight information, giving a detector a known moving object to compare against its camera images or infrared tracks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> In an automated instrumented UFO detector, this turns a passing plane from a “false positive” into a moving test pattern: a bright, warm, trackable object with an approximate time, bearing, altitude and speed.
 
 ## Why normal aircraft are part of the instrument
 
 A camera pointed at the sky is not automatically a measuring instrument. It becomes one only when its images can be related to real directions, times and object positions. In practical terms, the system needs to know which pixel corresponds to which azimuth and elevation, how much lens distortion is present, how sensitive the sensor is under different temperatures, and how the detection software behaves under haze, cloud, range, aircraft size and viewing angle.
 
-This is where aircraft become especially valuable. Unlike rare alleged anomalies, they pass through the field of view repeatedly. They appear at different distances, elevations, speeds, orientations and weather conditions. Their thermal and optical signatures vary, but they are still structured enough to test whether the detector can acquire, track and classify a real airborne object. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatory concept is built around this broader idea: conduct a systematic census of aerial phenomena and then look for outliers in a well-characterised measurement space, rather than treating every unusual-looking clip as a mystery in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+This is where aircraft become especially valuable. Unlike rare alleged anomalies, they pass through the field of view repeatedly. They appear at different distances, elevations, speeds, orientations and weather conditions. Their thermal and optical signatures vary, but they are still structured enough to test whether the detector can acquire, track and classify a real airborne object. The [Galileo]({{ 'galileo/' | relative_url }}) Project’s ground-based observatory concept is built around this broader idea: conduct a systematic census of aerial phenomena and then look for outliers in a well-characterised measurement space, rather than treating every unusual-looking clip as a mystery in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-NASA’s report frames the same principle as a baseline problem. A system cannot reliably search for the abnormal until it has built enough evidence about the normal in the same search area and with the same sensors. The report notes that AARO had already begun studying how normal phenomena, such as solar glint and balloons, look to military sensors, calling this systematic calibration of ordinary observations an essential step before searching for the abnormal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
+NASA’s report frames the same principle as a baseline problem. A system cannot reliably search for the abnormal until it has built enough evidence about the normal in the same search area and with the same sensors. The report notes that AARO had already begun studying how normal phenomena, such as solar glint and balloons, look to military sensors, calling this systematic calibration of ordinary observations an essential step before searching for the abnormal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
 
 For automated UFO detectors, “normal” does not mean “irrelevant”. It means data-rich. Commercial flights, light aircraft, helicopters, airliners on approach, cargo aircraft and military traffic can all expose different weaknesses in a sensor package. A system that misses nearby airliners, overestimates speed because it lacks range, or mistakes a banking aircraft for a sudden manoeuvre is not yet ready to make strong claims about UAP.
 
@@ -470,11 +470,11 @@ For automated UFO detectors, “normal” does not mean “irrelevant”. It mea
 
 Camera calibration has several layers. Intrinsic calibration concerns the camera itself: focal length, optical centre, lens distortion and other parameters that affect how the sensor maps incoming light onto pixels. Extrinsic calibration concerns where the camera is [pointing]({{ 'pointing/' | relative_url }}) and how its image frame maps onto the outside world. For sky-monitoring systems, extrinsic calibration is often the hard part because a detector may be outdoors, fixed to a mount, exposed to temperature changes and watching objects at unknown distances.
 
-The Galileo Project’s all-sky infrared camera array offers a concrete example. Its “Dalek” system uses eight uncooled long-wave [infrared cameras]({{ 'infrared/' | relative_url }}) to monitor aerial objects. Because long-wave infrared cameras cannot rely on stars as easily as visible-light astronomical cameras, the researchers implemented a calibration method using ADS-B aircraft positions collected synchronously on site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span> When an aircraft appears in the infrared frames, its ADS-B track supplies an external estimate of where that aircraft was in three-dimensional space at that time. The image pixel can then be associated with a real-world direction.
+The Galileo Project’s all-sky infrared camera array offers a concrete example. Its “Dalek” system uses eight uncooled long-wave [infrared cameras]({{ 'infrared/' | relative_url }}) to monitor aerial objects. Because long-wave infrared cameras cannot rely on stars as easily as visible-light astronomical cameras, the researchers implemented a calibration method using ADS-B aircraft positions collected synchronously on site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Open source on mdpi.com.</span></span></span> When an aircraft appears in the infrared frames, its ADS-B track supplies an external estimate of where that aircraft was in three-dimensional space at that time. The image pixel can then be associated with a real-world direction.
 
 That is a powerful mechanism. A plane crossing the field of view becomes a moving calibration source. If the camera sees the object in one place but ADS-B places it somewhere else, the discrepancy can reveal pointing error, timing offset, lens distortion, thermal detection limitations or tracking failure. Over many aircraft passes, the system can refine its mapping between pixels and sky coordinates.
 
-The same Galileo commissioning work shows why this is not just theoretical. Over five months of field operation, the team used a real-world dataset derived from ADS-B data, synthetic 3D trajectories and hand-labelled real-world data to establish a performance baseline. They reported an acceptance rate of 41% for ADS-B-equipped aircraft passing through the effective field of view, and a mean frame-by-frame detection efficiency of 36% for recorded aircraft, with performance depending strongly on weather, range and aircraft size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The same Galileo commissioning work shows why this is not just theoretical. Over five months of field operation, the team used a real-world dataset derived from ADS-B data, synthetic 3D trajectories and hand-labelled real-world data to establish a performance baseline. They reported an acceptance rate of 41% for ADS-B-equipped aircraft passing through the effective field of view, and a mean frame-by-frame detection efficiency of 36% for recorded aircraft, with performance depending strongly on weather, range and aircraft size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 Those numbers are important because they are humbling. They show that even a purpose-built instrument can fail to record or correctly detect many ordinary aircraft under real operating conditions. That is exactly why aircraft calibration is valuable: it reveals the detector’s limits before the system is asked to interpret rare or ambiguous events.
 
@@ -483,13 +483,13 @@ Those numbers are important because they are humbling. They show that even a pur
 
 ## Using ADS-B as a reality check
 
-ADS-B is not a UFO detector; it is an aviation surveillance technology. But for sky-sensor calibration it is useful because it provides a parallel data stream from many ordinary aircraft. The FAA describes ADS-B Out as broadcasting an aircraft’s GPS location, altitude, ground speed and other data once per second to ground stations and other aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> Public and commercial ADS-B networks also aggregate aircraft broadcasts, creating real-time and historical [visibility]({{ 'visibility/' | relative_url }}) into much air traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
+ADS-B is not a UFO detector; it is an aviation surveillance technology. But for sky-sensor calibration it is useful because it provides a parallel data stream from many ordinary aircraft. The FAA describes ADS-B Out as broadcasting an aircraft’s GPS location, altitude, ground speed and other data once per second to ground stations and other aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Automatic Dependent Surveillance</span><span class="citation-popover-snippet">Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</span></span></span> Public and commercial ADS-B networks also aggregate aircraft broadcasts, creating real-time and historical [visibility]({{ 'visibility/' | relative_url }}) into much air traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>
 
 For an automated instrumented detector, this supports three basic checks.
 
 **First, it can identify known aircraft in the frame.** If a camera records a bright moving point and ADS-B shows an aircraft at the corresponding time, direction and elevation, the event can be labelled as ordinary traffic or used for calibration. This does not require the system to assume every light is an aircraft; it gives the system a concrete comparison.
 
-**Second, it can measure detector performance.** A detector can ask: of the aircraft that should have crossed my field of view, how many did I record? Of the aircraft I recorded, how often did my software detect and track them? How does that vary in fog, rain, twilight, full sun, high humidity or poor visibility? The Galileo Project’s commissioning paper used this kind of ADS-B-derived dataset to estimate acceptance rates and detection efficiency, turning routine aircraft traffic into a performance audit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-title">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span><span class="citation-popover-snippet">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span></span></span>
+**Second, it can measure detector performance.** A detector can ask: of the aircraft that should have crossed my field of view, how many did I record? Of the aircraft I recorded, how often did my software detect and track them? How does that vary in fog, rain, twilight, full sun, high humidity or poor visibility? The Galileo Project’s commissioning paper used this kind of ADS-B-derived dataset to estimate acceptance rates and detection efficiency, turning routine aircraft traffic into a performance audit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-title">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span><span class="citation-popover-snippet">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span></span></span>
 
 **Third, it can prevent false anomalies caused by missing context.** A fast-looking object in a two-dimensional image may be a distant aircraft, a nearby insect, a bird, a satellite, a balloon or an artefact of camera movement. ADS-B does not solve all of those possibilities, but it can remove many ordinary aircraft from the candidate set and reveal when an apparent manoeuvre is consistent with a known flight path.
 
@@ -503,17 +503,17 @@ A weak automated detector treats ADS-B as a delete button: if a track matches an
 
 If aircraft are only filtered out, the system loses a rich stream of known targets. If they are retained in a labelled calibration dataset, they can test the detector’s sensitivity, false-negative rate, angular accuracy, tracking stability and weather dependence. Over time, ordinary aircraft can reveal whether a camera has shifted on its mount, whether the clock has drifted, whether a lens has degraded, or whether a new software model is performing worse than the old one.
 
-This distinction also helps avoid a common misunderstanding in UAP debates. Excluding known aircraft is not a cover-up or an attempt to explain everything away. It is a measurement discipline. The goal is not to force every sighting into a mundane category, but to make sure that any remaining candidate is unusual relative to a well-tested baseline. NASA’s recommendation for systematic calibration, multiple measurements and thorough metadata points in that direction: better ordinary data is a precondition for better anomaly claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
+This distinction also helps avoid a common misunderstanding in UAP debates. Excluding known aircraft is not a cover-up or an attempt to explain everything away. It is a measurement discipline. The goal is not to force every sighting into a mundane category, but to make sure that any remaining candidate is unusual relative to a well-tested baseline. NASA’s recommendation for systematic calibration, multiple measurements and thorough metadata points in that direction: better ordinary data is a precondition for better anomaly claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
-AARO’s public case materials show the practical stakes. Its official imagery page includes cases resolved as balloons or migratory birds, cases closed as not anomalous, unresolved cases and cases still undergoing analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That mixture is what serious detectors should expect. A calibrated system will not turn every event into a dramatic unknown; it will sort many events into ordinary categories, leave some ambiguous, and reserve the strongest attention for cases that survive checks against aircraft, balloons, birds, satellites, weather and sensor behaviour.
+AARO’s public case materials show the practical stakes. Its official imagery page includes cases resolved as balloons or migratory birds, cases closed as not anomalous, unresolved cases and cases still undergoing analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That mixture is what serious detectors should expect. A calibrated system will not turn every event into a dramatic unknown; it will sort many events into ordinary categories, leave some ambiguous, and reserve the strongest attention for cases that survive checks against aircraft, balloons, birds, satellites, weather and sensor behaviour.
 
 ## What ordinary planes reveal about detector limits
 
 Aircraft calibration is not just about pointing accuracy. It exposes how messy the real sky is. A detector may perform well on synthetic test clips but struggle when aircraft are small, distant, partly obscured, close to cloud edges, crossing trees or buildings, or appearing only briefly near the edge of a lens.
 
-The Galileo Project’s infrared commissioning results are useful here because they report real operational limitations rather than ideal performance. The team found that detection efficiency depended heavily on visibility, range and aircraft size; even ADS-B-equipped aircraft that entered the effective field of view were not always recorded or successfully detected frame by frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-title">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span><span class="citation-popover-snippet">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span></span></span> For UAP detection, that is a warning against overconfident conclusions from non-detections. If a system fails to see a known aircraft under certain conditions, failure to see another object in the same conditions is not strong evidence that the object was absent.
+The Galileo Project’s infrared commissioning results are useful here because they report real operational limitations rather than ideal performance. The team found that detection efficiency depended heavily on visibility, range and aircraft size; even ADS-B-equipped aircraft that entered the effective field of view were not always recorded or successfully detected frame by frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hou.usra.edu">[USRA Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hou.usra.edu</span><span class="citation-popover-title">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span><span class="citation-popover-snippet">Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA</span></span></span> For UAP detection, that is a warning against overconfident conclusions from non-detections. If a system fails to see a known aircraft under certain conditions, failure to see another object in the same conditions is not strong evidence that the object was absent.
 
-Aircraft also help distinguish two different questions that are often blurred. One question is: “Did the sensor see the object?” Another is: “Can the system estimate what the object was doing in physical space?” A two-dimensional image track can support detection and rough angular motion, but speed, size and [acceleration]({{ 'acceleration/' | relative_url }}) usually require range or triangulation. The Galileo Project’s broader multimodal design includes wide-field cameras, narrow-field instruments, passive radar-style receivers, radio sensors, microphones and environmental sensors precisely because independent modalities make artefacts easier to recognise and true detections easier to corroborate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Aircraft also help distinguish two different questions that are often blurred. One question is: “Did the sensor see the object?” Another is: “Can the system estimate what the object was doing in physical space?” A two-dimensional image track can support detection and rough angular motion, but speed, size and [acceleration]({{ 'acceleration/' | relative_url }}) usually require range or triangulation. The Galileo Project’s broader multimodal design includes wide-field cameras, narrow-field instruments, passive radar-style receivers, radio sensors, microphones and environmental sensors precisely because independent modalities make artefacts easier to recognise and true detections easier to corroborate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 This is why ordinary aircraft remain useful even after the detector can recognise them. They provide repeated chances to compare camera-only estimates with external position data. If a detector repeatedly overstates the apparent speed of landing aircraft, or loses track when aircraft bank, or produces spurious “zigzags” when an object crosses lens seams, those are not minor technicalities. They are failure modes that could otherwise be mistaken for anomalous behaviour.
 
@@ -522,13 +522,13 @@ This is why ordinary aircraft remain useful even after the detector can recognis
 
 ## What ADS-B cannot solve by itself
 
-ADS-B is a strong reality check, but it is not a complete truth source. Not every airborne object broadcasts ADS-B. Some aircraft may be outside ADS-B-mandated airspace, some military or sensitive flights may be limited in public feeds, drones and balloons may not transmit standard aircraft ADS-B, and satellites obviously require different tracking data. Even when ADS-B is present, crowdsourced or received data can be noisy, uncertain or quantised, which is why aviation researchers study filtering and preprocessing techniques for ADS-B trajectories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.open.tudelft.nl/joas/article/view/7882/6276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.open.tudelft.nl">[TU Delft OPEN Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.open.tudelft.nl</span><span class="citation-popover-snippet">Open source on tudelft.nl.</span></span></span>
+ADS-B is a strong reality check, but it is not a complete truth source. Not every airborne object broadcasts ADS-B. Some aircraft may be outside ADS-B-mandated airspace, some military or sensitive flights may be limited in public feeds, drones and balloons may not transmit standard aircraft ADS-B, and satellites obviously require different tracking data. Even when ADS-B is present, crowdsourced or received data can be noisy, uncertain or quantised, which is why aviation researchers study filtering and preprocessing techniques for ADS-B trajectories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.open.tudelft.nl/joas/article/view/7882/6276" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.open.tudelft.nl">[TU Delft OPEN Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.open.tudelft.nl</span><span class="citation-popover-snippet">Open source on tudelft.nl.</span></span></span>
 
-There is also a security and integrity caveat. ADS-B was not designed with strong encryption or authentication, and aviation-security research has repeatedly noted vulnerability to spoofing or manipulated messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span><span class="citation-popover-snippet">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span></span></span> For UAP detector calibration, that does not make ADS-B useless; routine aircraft tracks are still extremely valuable. But it means ADS-B should be treated as one evidence stream, not an unquestionable oracle. The best systems cross-check it against optical or infrared imagery, radar where available, satellite and astronomical data, local weather, receiver geometry and track plausibility.
+There is also a security and integrity caveat. ADS-B was not designed with strong encryption or authentication, and aviation-security research has repeatedly noted vulnerability to spoofing or manipulated messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span><span class="citation-popover-snippet">arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks</span></span></span> For UAP detector calibration, that does not make ADS-B useless; routine aircraft tracks are still extremely valuable. But it means ADS-B should be treated as one evidence stream, not an unquestionable oracle. The best systems cross-check it against optical or infrared imagery, radar where available, satellite and astronomical data, local weather, receiver geometry and track plausibility.
 
 ADS-B also cannot decide whether a non-matching object is anomalous. A light with no ADS-B match may be a non-equipped aircraft, a drone, a bird, a balloon, a satellite, a reflection, an insect close to the lens, a sensor artefact or a genuinely unresolved event. The absence of an ADS-B match is only a starting point. It raises the value of further checks; it does not create a conclusion.
 
-The Starlink misidentification problem illustrates the same broader lesson. A 2024 study of a commercial aviation UAP report used satellite orbital elements and ADS-B data from the aircraft carrying the observers to reconstruct how newly launched Starlink satellites could appear from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That case was not about calibrating a fixed ground detector with aircraft, but it shows the same logic: known-position data can turn a puzzling sighting into a testable geometry problem.
+The Starlink misidentification problem illustrates the same broader lesson. A 2024 study of a commercial aviation UAP report used satellite orbital elements and ADS-B data from the aircraft carrying the observers to reconstruct how newly launched Starlink satellites could appear from the cockpit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That case was not about calibrating a fixed ground detector with aircraft, but it shows the same logic: known-position data can turn a puzzling sighting into a testable geometry problem.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
@@ -557,194 +557,194 @@ This changes the meaning of “false positive”. In a casual UFO video, a plane
 That is why ordinary aircraft belong at the centre, not the margins, of automated UAP detection. A detector that has learned the local sky’s normal traffic is better prepared to notice what does not fit. A detector that treats normal traffic as a nuisance is more likely to confuse sensor behaviour, missing context or familiar aviation with anomaly.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Detectors Need Ordinary Planes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Detectors Need Ordinary Planes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Connects sensor evidence, observation quality, and the need for calibrated measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects sensor evidence, observation quality, and the need for calibrated measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
-        </h4>
-        <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
+</h4>
+<p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
         
-        <p class="fr-book-desc">Directly covers camera geometry, measurement accuracy, and calibration concepts relevant to aircraft-based validation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers camera geometry, measurement accuracy, and calibration concepts relevant to aircraft-based validation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4966981-M.jpg" alt="Cover for Fundamentals of Astrodynamics and Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
-        </h4>
-        <p class="fr-book-author">By David A. Vallado</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4966981-M.jpg" alt="Cover for Fundamentals of Astrodynamics and Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
+</h4>
+<p class="fr-book-author">By David A. Vallado</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Astrodynamik.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Astrodynamik.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
-        </h4>
-        <p class="fr-book-author">By Richard Szeliski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+</h4>
+<p class="fr-book-author">By Richard Szeliski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="calibration-why-ufo-detectors-need-ordinary-planes-automated-instrumented-ufo-detectors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -760,7 +760,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -780,7 +780,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -812,7 +812,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -864,7 +864,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -909,7 +909,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -950,192 +950,192 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
+   Link:<a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/25/3/783" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/3/783</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.07956v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.07956v1</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hou.usra.edu  
    Title: Houston COMMISSIONING OF AN ALL-SKY INFRARED CAMERA  
-   Link: <a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf</a>  
+   Link:<a href="https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hou.usra.edu/meetings/lpsc2025/pdf/2865.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Detecting ADS-B Spoofing Attacks using Deep Neural Networks  
-   Link: <a href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.09969</a>  
+   Link:<a href="https://arxiv.org/abs/1904.09969" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1904.09969</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Ontology-Based Anomaly Detection for Air Traffic Control Systems  
-   Link: <a href="https://arxiv.org/abs/2207.00637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.00637</a>  
+   Link:<a href="https://arxiv.org/abs/2207.00637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.00637</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/22/13/4745" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/13/4745</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/22/13/4745" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/22/13/4745</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/18/12?listby=date&amp;page_no=1&amp;view=default" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/18/12?listby=date&amp;page_no=1&amp;view=default</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/18/12?listby=date&amp;page_no=1&amp;view=default" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/18/12?listby=date&amp;page_no=1&amp;view=default</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/24/3" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/3</a>  
+   Link:<a href="https://www.mdpi.com/1424-8220/24/3" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/3</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/16/7/3217" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/16/7/3217</a>  
+   Link:<a href="https://www.mdpi.com/2076-3417/16/7/3217" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/16/7/3217</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: pentagon ufo uap office aaro sensors anomalies orbit  
-   Link: <a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-uap-office-aaro-sensors-anomalies-orbit</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.open.tudelft.nl  
-   Link: <a href="https://journals.open.tudelft.nl/joas/article/view/7882/6276" target="_blank" rel="noopener noreferrer nofollow">https://journals.open.tudelft.nl/joas/article/view/7882/6276</a>  
+   Link:<a href="https://journals.open.tudelft.nl/joas/article/view/7882/6276" target="_blank" rel="noopener noreferrer nofollow">https://journals.open.tudelft.nl/joas/article/view/7882/6276</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/arXiv%3A2411.07956</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: The Galileo Project  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Galileo_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Galileo_Project</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: Automatic Dependent Surveillance  
-   Link: <a href="https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/</a>  
+   Link:<a href="https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Aviationstudys/posts/2033716507065686/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4gBqgZW7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4gBqgZW7/</a>  
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4gBqgZW7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4gBqgZW7/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: support.adsbexchange.com  
    Title: 44653064937741 Map Help  
-   Link: <a href="https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help</a>  
+   Link:<a href="https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: txtav.com  
-   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</p></details>
+   Link:<a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Curious Pilot: Predicting Starlink Flares and UAP Signatures  
-   Link: <a href="https://www.youtube.com/watch?v=NKvfGUbdqFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKvfGUbdqFM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Pilot: UAP Investigation Tool and Real-World Calibration...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NKvfGUbdqFM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NKvfGUbdqFM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious Pilot: UAP Investigation Tool and Real-World Calibration...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2010/05/28/2010-12645/automatic-dependent-surveillance-broadcast-ads-b-out-performance-requirements-to-support-air-traffic" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2010/05/28/2010-12645/automatic-dependent-surveillance-broadcast-ads-b-out-performance-requirements-to-support-air-traffic</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2010/05/28/2010-12645/automatic-dependent-surveillance-broadcast-ads-b-out-performance-requirements-to-support-air-traffic" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2010/05/28/2010-12645/automatic-dependent-surveillance-broadcast-ads-b-out-performance-requirements-to-support-air-traffic</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: UAP Independent Study Event Post-Meeting Media Teleconference  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CuriousPilot: Predicting Starlink Flares and UAP Signatures...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CuriousPilot: Predicting Starlink Flares and UAP Signatures...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Curious Pilot: UAP Investigation Tool and Real-World Calibration  
-   Link: <a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She Built an AI That Detects Fake Planes in the Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She Built an AI That Detects Fake Planes in the Sky...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media Teleconference...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gphsg7/link_to_new_galileo_project_article_under_peer/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mode-s.org  
-   Link: <a href="https://mode-s.org/1090mhz/content/ads-b/1-basics.html" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/1090mhz/content/ads-b/1-basics.html</a>  
+   Link:<a href="https://mode-s.org/1090mhz/content/ads-b/1-basics.html" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/1090mhz/content/ads-b/1-basics.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
+   Link:<a href="https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388466760_Commissioning_an_All-Sky_Infrared_Camera_Array_for_Detection_of_Airborne_Objects</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  

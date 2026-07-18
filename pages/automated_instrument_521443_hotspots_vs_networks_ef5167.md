@@ -448,7 +448,7 @@ image: /assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167-ov
 
 ## Introduction
 
-Automated UFO or UAP detectors face a basic placement problem: watch a famous “hotspot” where unusual reports have clustered, or distribute stations across ordinary skies to test whether anomalies are broader than local stories. The answer is not either-or. Hotspot monitoring is the better way to catch repeats, tune instruments, and study a place-specific phenomenon; broad sky coverage is the better way to estimate how often unusual detections occur, compare regions, and avoid mistaking local folklore for a general pattern. The strongest strategy is usually staged: start where repeat observations make detection likely, then expand with standardised stations that can measure a background rate elsewhere. NASA’s UAP study put the larger requirement plainly: future work needs calibrated sensors, metadata, multiple measurements and [baseline data]({{ 'baseline-data/' | relative_url }}), not just isolated sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Automated UFO or UAP detectors face a basic placement problem: watch a famous “hotspot” where unusual reports have clustered, or distribute stations across ordinary skies to test whether anomalies are broader than local stories. The answer is not either-or. Hotspot monitoring is the better way to catch repeats, tune instruments, and study a place-specific phenomenon; broad sky coverage is the better way to estimate how often unusual detections occur, compare regions, and avoid mistaking local folklore for a general pattern. The strongest strategy is usually staged: start where repeat observations make detection likely, then expand with standardised stations that can measure a background rate elsewhere. NASA’s UAP study put the larger requirement plainly: future work needs calibrated sensors, metadata, multiple measurements and [baseline data]({{ 'baseline-data/' | relative_url }}), not just isolated sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
@@ -456,34 +456,34 @@ The distinction matters because detector placement shapes what counts as evidenc
 
 ## The case for local repeat monitoring
 
-Hotspot monitoring begins with a practical advantage: repeatability. If reports cluster in a valley, ranch, island, military training area or coastal corridor, a fixed instrument has a higher chance of seeing something than a station placed at random. That is why Hessdalen remains the classic example in instrumented UFO monitoring. Project Hessdalen says unusual lights were reported heavily from late 1981 through 1984, with about 20 reports per week at peak activity, and that an Automatic Measurement Station was installed in 1998 after earlier field investigations. The same project now reports a much lower rate, around 20 observations a year, which is still enough to justify long-term local monitoring if the goal is to capture repeats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Homepage...</span></span></span>
+Hotspot monitoring begins with a practical advantage: repeatability. If reports cluster in a valley, ranch, island, military training area or coastal corridor, a fixed instrument has a higher chance of seeing something than a station placed at random. That is why Hessdalen remains the classic example in instrumented UFO monitoring. Project Hessdalen says unusual lights were reported heavily from late 1981 through 1984, with about 20 reports per week at peak activity, and that an Automatic Measurement Station was installed in 1998 after earlier field investigations. The same project now reports a much lower rate, around 20 observations a year, which is still enough to justify long-term local monitoring if the goal is to capture repeats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Homepage...</span></span></span>
 
-The scientific appeal of Hessdalen is not simply that it is famous. It is that the reported phenomenon recurred in a bounded landscape, making it possible to leave instruments running and compare detections over seasons, times of night and environmental conditions. Massimo Teodorani’s long-term survey described the Hessdalen lights as anomalous atmospheric luminous phenomena that recur at some locations, and argued that the presence of an instrumented station made the valley an unusually suitable research site. The Automatic Measurement Station was described as using automatic wide-angle and zoom video cameras, a [radar]({{ 'radar/' | relative_url }}) transponder and a magnetometer, and its early records suggested more detections in winter and between about 10 pm and 1 am. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
+The scientific appeal of Hessdalen is not simply that it is famous. It is that the reported phenomenon recurred in a bounded landscape, making it possible to leave instruments running and compare detections over seasons, times of night and environmental conditions. Massimo Teodorani’s long-term survey described the Hessdalen lights as anomalous atmospheric luminous phenomena that recur at some locations, and argued that the presence of an instrumented station made the valley an unusually suitable research site. The Automatic Measurement Station was described as using automatic wide-angle and zoom video cameras, a [radar]({{ 'radar/' | relative_url }}) transponder and a magnetometer, and its early records suggested more detections in winter and between about 10 pm and 1 am.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
 
-That is exactly the kind of pattern a hotspot station can investigate. A broad network may detect many more aircraft and satellites, but a local station can ask narrower questions: Do events cluster at particular times? Do they correlate with humidity, geomagnetic conditions, terrain, power lines, mining history, road traffic or astronomical objects? Do they recur in the same azimuths? Are apparent “lights” actually car headlights, aircraft routes, reflections, atmospheric plasma, ball lightning-like events or camera artefacts? The Hessdalen survey is a useful caution here because it found local regularities without settling the underlying cause; early statistics helped challenge some artificial-source explanations, yet did not by themselves explain the origin or nature of the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
+That is exactly the kind of pattern a hotspot station can investigate. A broad network may detect many more aircraft and satellites, but a local station can ask narrower questions: Do events cluster at particular times? Do they correlate with humidity, geomagnetic conditions, terrain, power lines, mining history, road traffic or astronomical objects? Do they recur in the same azimuths? Are apparent “lights” actually car headlights, aircraft routes, reflections, atmospheric plasma, ball lightning-like events or camera artefacts? The Hessdalen survey is a useful caution here because it found local regularities without settling the underlying cause; early statistics helped challenge some artificial-source explanations, yet did not by themselves explain the origin or nature of the lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
 
-Hotspot work is also cheaper per useful detection. High-quality UAP instruments are not just webcams. The Galileo Project’s observatory concept includes wide-field cameras, narrow-field follow-up instruments, passive radar-style receivers, radio spectrum analysers, microphones, environmental sensors and magnetic or energetic-particle measurements. Putting that whole package everywhere is expensive; putting a fuller instrument set at one or two high-yield sites may produce better early data than spreading thin, weak stations across many quiet locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+Hotspot work is also cheaper per useful detection. High-quality UAP instruments are not just webcams. The Galileo Project’s observatory concept includes wide-field cameras, narrow-field follow-up instruments, passive radar-style receivers, radio spectrum analysers, microphones, environmental sensors and magnetic or energetic-particle measurements. Putting that whole package everywhere is expensive; putting a fuller instrument set at one or two high-yield sites may produce better early data than spreading thin, weak stations across many quiet locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_hotspots_vs_networks_ef5167-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The case for broad sky networks
 
-Broad sky coverage answers a different question: not “What is happening at this famous place?” but “What happens when comparable instruments watch many ordinary skies?” That matters because a local hotspot cannot establish whether a phenomenon is rare, regional, global or mainly a product of local reporting culture. NASA’s report criticised the current UAP evidence base for lacking baseline data, and baseline data is exactly what broad monitoring is meant to build: a record of what normal sky traffic looks like under known sensor conditions, across different locations and times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Broad sky coverage answers a different question: not “What is happening at this famous place?” but “What happens when comparable instruments watch many ordinary skies?” That matters because a local hotspot cannot establish whether a phenomenon is rare, regional, global or mainly a product of local reporting culture. NASA’s report criticised the current UAP evidence base for lacking baseline data, and baseline data is exactly what broad monitoring is meant to build: a record of what normal sky traffic looks like under known sensor conditions, across different locations and times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-The Galileo Project’s framing is closer to a census than a chase. Its stated aim is to build an integrated software and instrumentation system for a multimodal census of aerial phenomena and anomaly recognition. That word “census” is important. A census does not begin with the assumption that a celebrated location is special; it measures ordinary and unusual objects together so that outliers can be defined against a known background. The project also emphasises triangulation, multi-sensor corroboration and data fusion, which are easier to validate when multiple stations use comparable hardware and procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
+The Galileo Project’s framing is closer to a census than a chase. Its stated aim is to build an integrated software and instrumentation system for a multimodal census of aerial phenomena and anomaly recognition. That word “census” is important. A census does not begin with the assumption that a celebrated location is special; it measures ordinary and unusual objects together so that outliers can be defined against a known background. The project also emphasises triangulation, multi-sensor corroboration and data fusion, which are easier to validate when multiple stations use comparable hardware and procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galileo.hsites.harvard.edu">[Galileo Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galileo.hsites.harvard.edu</span><span class="citation-popover-snippet">Open source on harvard.edu.</span></span></span>
 
-Sky360 represents the citizen-science version of the same network logic. Its public materials describe an [open-source]({{ 'open-source/' | relative_url }}) global sky-observation network using affordable 24/7 stations to detect, track, identify and analyse aerial phenomena, including stars, meteors, satellites, planes, drones, birds, [weather]({{ 'weather/' | relative_url }}) phenomena and UAP. That broad target list is not a distraction from UAP research; it is the point. A detector that cannot learn the ordinary sky will over-report the unusual one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
+Sky360 represents the citizen-science version of the same network logic. Its public materials describe an [open-source]({{ 'open-source/' | relative_url }}) global sky-observation network using affordable 24/7 stations to detect, track, identify and analyse aerial phenomena, including stars, meteors, satellites, planes, drones, birds, [weather]({{ 'weather/' | relative_url }}) phenomena and UAP. That broad target list is not a distraction from UAP research; it is the point. A detector that cannot learn the ordinary sky will over-report the unusual one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky360.org">[Sky360]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky360.org</span><span class="citation-popover-snippet">Observational Citizen Science of Earth&#x27;s Atmosphere...</span></span></span>
 
 Networked monitoring also creates possibilities that a single hotspot cannot. Two or more stations can triangulate distance and altitude; stations in different environments can compare [false positives]({{ 'false-positives/' | relative_url }}); and long-term records can show whether unusual detections scale with population density, air routes, weather, terrain, military activity or sensor type. Without those comparisons, a hotspot can become a self-confirming story: a place is watched because it is famous, then it remains famous because it is watched.
 
-The drawback is yield. Random or broadly distributed stations may collect enormous volumes of mundane data before anything truly puzzling appears. The Galileo Project’s all-sky infrared camera work illustrates that reality: it is designed to monitor the sky continuously and conduct a long-term census of natural and human-made aerial phenomena, with calibration methods using ADS-B aircraft position data. That kind of work is valuable precisely because it is patient and systematic, but it is not optimised for quick dramatic cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The drawback is yield. Random or broadly distributed stations may collect enormous volumes of mundane data before anything truly puzzling appears. The Galileo Project’s all-sky infrared camera work illustrates that reality: it is designed to monitor the sky continuously and conduct a long-term census of natural and human-made aerial phenomena, with calibration methods using ADS-B aircraft position data. That kind of work is valuable precisely because it is patient and systematic, but it is not optimised for quick dramatic cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7hBUk13yE8s" title="MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer">MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 178.3K &middot; Uploaded: June 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7hBUk13yE8s">Open on YouTube</a></p></div></div></div>
 
 ## What hotspots reveal that networks can miss
 
-A hotspot can reveal local physics, local misperceptions or local infrastructure effects that would be diluted in a general survey. Hessdalen is again the clearest example. The phenomenon has been discussed not only as a UFO case but as a possible anomalous atmospheric light phenomenon, with hypotheses involving plasma-like behaviour, terrain, humidity, magnetic perturbations and other environmental factors. The evidence does not support a settled explanation, but it does show why one place can deserve intensive monitoring even if the results do not generalise to the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
+A hotspot can reveal local physics, local misperceptions or local infrastructure effects that would be diluted in a general survey. Hessdalen is again the clearest example. The phenomenon has been discussed not only as a UFO case but as a possible anomalous atmospheric light phenomenon, with hypotheses involving plasma-like behaviour, terrain, humidity, magnetic perturbations and other environmental factors. The evidence does not support a settled explanation, but it does show why one place can deserve intensive monitoring even if the results do not generalise to the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessdalen.org">[Project Hessdalen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessdalen.org</span><span class="citation-popover-title">Project Hessdalenscex-18-02-15 217..251</span><span class="citation-popover-snippet">Project Hessdalenscex-18-02-15 217..251</span></span></span>
 
 Local monitoring also makes it easier to improve the observing setup through experience. A station can be aimed at known sightlines, shielded from known sources of glare, compared against local traffic routes and adjusted after false detections. In a hotspot, every misidentification teaches something about the place. A broad network can also learn this way, but its first challenge is standardisation: each station has different horizons, weather, light pollution, nearby airports, insects, birds, clouds and camera artefacts.
 
@@ -497,13 +497,13 @@ Broad coverage is a defence against selection bias. A hotspot is already selecte
 
 This affects conclusions in three common ways.
 
-**First, hotspots inflate apparent frequency.** If a station is placed where reports are already common, a detection rate from that site cannot be used as a general UAP rate. Hessdalen’s peak of about 20 reports per week in the early 1980s and later rate of about 20 observations per year are meaningful for Hessdalen, not for the sky as a whole. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Homepage...</span></span></span>
+**First, hotspots inflate apparent frequency.** If a station is placed where reports are already common, a detection rate from that site cannot be used as a general UAP rate. Hessdalen’s peak of about 20 reports per week in the early 1980s and later rate of about 20 observations per year are meaningful for Hessdalen, not for the sky as a whole.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: old.hessdalen.org">[old.hessdalen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">old.hessdalen.org</span><span class="citation-popover-title">Project Hessdalen</span><span class="citation-popover-snippet">Homepage...</span></span></span>
 
 **Second, hotspots blur phenomenon and reputation.** A famous site attracts observers, documentaries, tourists, hobbyists and expectations. Those social effects can increase reporting without increasing the underlying phenomenon. Automated stations reduce witness subjectivity, but they do not erase the original selection problem: the station is there because the place is already believed to matter.
 
 **Third, hotspots can overfit instruments to one kind of event.** A valley-light detector may be excellent at catching luminous nocturnal events near the horizon, yet poor at estimating fast high-altitude objects, daylight anomalies or rare events outside that local geometry. Conversely, a wide-field network may be better for broad anomaly detection but less sensitive to a low, faint, recurring local light unless it has the right optics and siting.
 
-The UAPx Catalina expedition shows the practical middle ground between hotspot-style targeting and scientific caution. The team chose a field setting associated with UAP interest, deployed visible-light and [infrared cameras]({{ 'infrared/' | relative_url }}) plus other sensors, recorded more than 600 hours of untriggered far-infrared video and 55 hours of background radiation measurements, and then resolved several initially ambiguous observations before focusing on one remaining ambiguity. The important lesson is not that a hotspot produced proof; it is that targeted fieldwork still needs background recording, calibration and a willingness to explain away weak candidates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The UAPx Catalina expedition shows the practical middle ground between hotspot-style targeting and scientific caution. The team chose a field setting associated with UAP interest, deployed visible-light and [infrared cameras]({{ 'infrared/' | relative_url }}) plus other sensors, recorded more than 600 hours of untriggered far-infrared video and 55 hours of background radiation measurements, and then resolved several initially ambiguous observations before focusing on one remaining ambiguity. The important lesson is not that a hotspot produced proof; it is that targeted fieldwork still needs background recording, calibration and a willingness to explain away weak candidates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -516,7 +516,7 @@ A **hotspot-first strategy** makes sense when the goal is to maximise the chance
 
 A **broad-network strategy** makes sense when the goal is to estimate background rates, compare regions, identify rare outliers in large datasets, test whether reports correlate with population or infrastructure, or build a public evidence base that does not depend on one celebrated location. It is strongest when stations are standardised, calibrated and paired with aircraft, satellite, weather and astronomical reference data.
 
-A **hybrid strategy** is the most defensible path for a young field. The UFODATA automatic-station proposal explicitly imagined a future network of stations scattered across territory, while also noting that hotspots could receive more advanced equipment first, with additional detectors later extended to all locations. That is a sensible allocation model: put richer instruments where detection odds are higher, but keep simpler standardised stations elsewhere to measure the ordinary sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodata.net">[ufodata.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodata.net</span><span class="citation-popover-title">UFOAC MT Project REVISED(6</span><span class="citation-popover-snippet">UFOAC MT Project REVISED(6</span></span></span>
+A **hybrid strategy** is the most defensible path for a young field. The UFODATA automatic-station proposal explicitly imagined a future network of stations scattered across territory, while also noting that hotspots could receive more advanced equipment first, with additional detectors later extended to all locations. That is a sensible allocation model: put richer instruments where detection odds are higher, but keep simpler standardised stations elsewhere to measure the ordinary sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodata.net">[ufodata.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodata.net</span><span class="citation-popover-title">UFOAC MT Project REVISED(6</span><span class="citation-popover-snippet">UFOAC MT Project REVISED(6</span></span></span>
 
 The same staged logic protects against two opposite errors. One error is chasing famous locations forever and never learning whether the pattern is local. The other is spreading instruments so thinly that the network collects mostly mundane traffic and cannot afford the sensors needed for a decisive event. A mature programme would use hotspots as laboratories and broad coverage as the control group.
 
@@ -526,7 +526,7 @@ The same staged logic protects against two opposite errors. One error is chasing
 
 Detector placement is not a minor operations detail. It determines the denominator: how many hours of sky were watched, where, under what conditions, and compared with what background. A hotspot detection without a baseline may be intriguing but hard to interpret. A broad survey without enough sensitivity may be statistically clean but miss the rare events people care about. The strongest evidence would combine both: a well-characterised local detection, captured by multiple calibrated sensors, compared against ordinary-sky data from similar stations elsewhere.
 
-That is why NASA’s emphasis on calibration, metadata, multiple measurements and baseline data is so central to the hotspot-versus-network debate. Baselines tell researchers what the detector normally sees. Multiple sensors reduce artefacts. Metadata makes later review possible. Distributed stations test whether a local mystery is local at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+That is why NASA’s emphasis on calibration, metadata, multiple measurements and baseline data is so central to the hotspot-versus-network debate. Baselines tell researchers what the detector normally sees. Multiple sensors reduce artefacts. Metadata makes later review possible. Distributed stations test whether a local mystery is local at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 The question, then, is not whether UFO detectors should watch hotspots or everywhere. They should watch hotspots when repeatability is the goal, and they should watch ordinary skies when population-level inference is the goal. Evidence from a hotspot can make a case worth studying; evidence from a network can show whether that case is exceptional, common, local, instrumental or simply one bright point in a much larger sky.
 
@@ -535,178 +535,178 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should UFO Detectors Watch Hotspots or Everywhere?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should UFO Detectors Watch Hotspots or Everywhere?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Scientific framework for evaluating reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Scientific framework for evaluating reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad overview of credible cases and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad overview of credible cases and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for hotspot narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for hotspot narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Useful for distributed observing setups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for distributed observing setups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="hotspots-should-ufo-detectors-watch-hotspots-or-everywhere-automated-instrumented-ufo-detectors-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -722,7 +722,7 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -742,7 +742,7 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -774,7 +774,7 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -826,7 +826,7 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -871,7 +871,7 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -912,147 +912,147 @@ The question, then, is not whether UFO detectors should watch hotspots or everyw
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: old.hessdalen.org  
    Title: Project Hessdalen  
-   Link: <a href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/index_e.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage...</p></details>
+   Link:<a href="https://old.hessdalen.org/index_e.shtml" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/index_e.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hessdalen.org  
    Title: Project Hessdalenscex-18-02-15 217..251  
-   Link: <a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
+   Link:<a href="https://hessdalen.org/reports/scex1802217251.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hessdalen.org/reports/scex1802217251.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sky360.org  
-   Link: <a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
+   Link:<a href="https://www.sky360.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sky360.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observational Citizen Science of Earth&#x27;s Atmosphere...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
+   Link:<a href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2411.07956</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
+   Link:<a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufodata.net  
    Title: UFOAC MT Project REVISED(6)  
-   Link: <a href="https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf</a>  
+   Link:<a href="https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodata.net/resources/UFOAC_MT_Project_REVISED%286%29.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: old.hessdalen.org  
-   Link: <a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
+   Link:<a href="https://old.hessdalen.org/station/" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/station/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: old.hessdalen.org  
    Title: 2025 2502.06794v2  
-   Link: <a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
+   Link:<a href="https://old.hessdalen.org/reports/2025-2502.06794v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://old.hessdalen.org/reports/2025-2502.06794v2.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufodata.net  
    Title: UFODAT A Project  
-   Link: <a href="https://www.ufodata.net/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodata.net/faq.html</a>  
+   Link:<a href="https://www.ufodata.net/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodata.net/faq.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
+   Link:<a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Hessdalen automated ufo tracking Mysterious Norwegian lights caught on camera New Scientist...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=i1rc-Z6RwTU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i1rc-Z6RwTU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Hessdalen automated ufo tracking Mysterious Norwegian lights caught on camera New Scientist...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: galileo.hsites.harvard.edu  
-   Link: <a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
+   Link:<a href="https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal" target="_blank" rel="noopener noreferrer nofollow">https://galileo.hsites.harvard.edu/publications/scientific-investigation-unidentified-aerial-phenomena-uap-using-multimodal</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2012EGUGA..14.5967Z/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2012EGUGA..14.5967Z/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2012EGUGA..14.5967Z/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2012EGUGA..14.5967Z/abstract</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601099S/abstract</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Hessdalen lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hessdalen_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hessdalen_lights</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
+   Link:<a href="https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/galileo-project-releases-commissioning-data-on-half-a-million-aerial-objects-are-any-of-them-uap/</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History  
-   Link: <a href="http://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7hBUk13yE8s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7hBUk13yE8s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist explains how he hunts for alien life in space | Hot Take with Jesse Weber...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: <a href="http://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights — The Valley Where Scientists Built a UFO Research Station...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hessdalen Lights — The Valley Where Scientists Built a UFO Research Station...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Hessdalen Lights — The Valley Where Scientists Built a UFO Research Station  
-   Link: <a href="http://www.youtube.com/watch?v=1njXL_v3k48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1njXL_v3k48</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard&#x27;s Avi Loeb and the Galileo Project...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1njXL_v3k48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1njXL_v3k48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard&#x27;s Avi Loeb and the Galileo Project...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Harvard's Avi Loeb and the Galileo Project  
-   Link: <a href="http://www.youtube.com/watch?v=ac3nLzIbbk4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ac3nLzIbbk4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ac3nLzIbbk4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ac3nLzIbbk4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
+   Link:<a href="https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371163445_The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvg988/247_aipowered_uap_research_station_live_sky/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278390344_Instrumented_Monitoring_of_Aerial_Anomalies_-_A_Scientific_Approach_to_the_Investigation_On_Anomalous_Atmospheric_Light_Phenomena</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391817538_Initial_results_from_the_first_field_expedition_of_UAPx_to_study_unidentified_anomalous_phenomena</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404942120_PROPOSAL_Project_Dark-Track_Integration_of_Uncorrelated_Radar-Transponder_Telemetry_into_the_Galileo_Project_EXECUTIVE_SUMMARY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404942120_PROPOSAL_Project_Dark-Track_Integration_of_Uncorrelated_Radar-Transponder_Telemetry_into_the_Galileo_Project_EXECUTIVE_SUMMARY</a>  
+   Link:<a href="https://www.researchgate.net/publication/404942120_PROPOSAL_Project_Dark-Track_Integration_of_Uncorrelated_Radar-Transponder_Telemetry_into_the_Galileo_Project_EXECUTIVE_SUMMARY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404942120_PROPOSAL_Project_Dark-Track_Integration_of_Uncorrelated_Radar-Transponder_Telemetry_into_the_Galileo_Project_EXECUTIVE_SUMMARY</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: adsbexchange.com  
-   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
+   Link:<a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
