@@ -408,89 +408,89 @@ The purpose of a tamper-evident trail is modest but essential. It cannot authent
 What it can do is establish confidence that the evidence being examined today is the same evidence captured by the automated detector, or clearly identify where changes occurred. In UAP investigations—where claims often become controversial long after collection—that distinction can substantially reduce avoidable disputes and allow discussion to focus on the recorded observations rather than [uncertainty]({{ 'uncertainty/' | relative_url }}) about the file's history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Can the file trail be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Can the file trail be trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-</h4>
-<p class="fr-book-author">By Eoghan Casey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+        </h4>
+        <p class="fr-book-author">By Eoghan Casey</p>
         
-<p class="fr-book-desc">Strong coverage of audit trails and evidential reliability.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Strong coverage of audit trails and evidential reliability.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-</h4>
-<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File system forensic analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/193355-M.jpg" alt="Cover for File system forensic analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File system forensic analysis">File system forensic analysis</a>
+        </h4>
+        <p class="fr-book-author">By Brian Carrier</p>
         
-<p class="fr-book-desc">Provides context on integrity, trust and digital systems.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains integrity, metadata and forensic examination of digital files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File system forensic analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/193355-M.jpg" alt="Cover for File system forensic analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File system forensic analysis">File system forensic analysis</a>
-</h4>
-<p class="fr-book-author">By Brian Carrier</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+        </h4>
+        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Computer science, Forensic sciences, File organization (computer science), Qa76.9.a25 c369 2005, 004.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context on integrity, trust and digital systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months)">LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Co...</a>
-</h4>
-<p class="fr-book-author">By Bill Nelson; Amelia Phillips; Christopher Steuart</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months)">LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Co...</a>
+        </h4>
+        <p class="fr-book-author">By Bill Nelson; Amelia Phillips; Christopher Steuart</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: Security, Professional, career &amp; trade -&gt; computer science -&gt; networking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2015. Subjects: Security, Professional, career &amp; trade -&gt; computer science -&gt; networking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=File+system+forensic+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File system forensic analysis</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=File+system+forensic+analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File system forensic analysis</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

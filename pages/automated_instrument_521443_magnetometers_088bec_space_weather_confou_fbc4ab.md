@@ -368,89 +368,89 @@ Space weather is not merely background noise for magnetic UAP detectors—it is 
 The practical safeguard is straightforward: compare every significant magnetic signal with regional observatory data and established geomagnetic indices before considering more exotic explanations. In automated detector designs, observatory baselines are therefore not an optional enhancement but a fundamental part of separating local events from the normal dynamics of Earth's magnetic environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://intermagnet.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intermagnet.org">[Intermagnet+2INTERMAGNET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intermagnet.org</span><span class="citation-popover-snippet">International Real-time Magnetic Observatory NetworkThe INTERMAGNET programme exists to establish a global network of cooperat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Is the anomaly local or space weather?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is the anomaly local or space weather?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of geophysics and the space environment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12861595-M.jpg" alt="Cover for Handbook of geophysics and the space environment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of geophysics and the space environment">Handbook of geophysics and the space environment</a>
-</h4>
-<p class="fr-book-author">By U.S. Air Force Geophysics Laboratory.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of geophysics and the space environment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12861595-M.jpg" alt="Cover for Handbook of geophysics and the space environment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of geophysics and the space environment">Handbook of geophysics and the space environment</a>
+        </h4>
+        <p class="fr-book-author">By U.S. Air Force Geophysics Laboratory.</p>
         
-<p class="fr-book-desc">First published 1985. Subjects: Cosmic physics, Geophysics, Handbooks, manuals, Handbooks, manuals, etc, Space sciences.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical background on geomagnetic conditions, atmospheric effects, and environmental baselines relevant to interpreting detect...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The earth&#x27;s ionosphere on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4056680-M.jpg" alt="Cover for The earth&#x27;s ionosphere" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earth&#x27;s ionosphere">The earth&#x27;s ionosphere</a>
-</h4>
-<p class="fr-book-author">By Michael C. Kelley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10363586-M.jpg" alt="Cover for Space weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space weather">Space weather</a>
+        </h4>
+        <p class="fr-book-author">By Volker Bothmer</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Ionosphere, Space plasmas, Plasma electrodynamics, Electrodynamics, Plasma (ionized gases).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers solar disturbances, geomagnetic activity, and their effects on Earth-based measurements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of space storms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8706597-M.jpg" alt="Cover for Physics of space storms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of space storms">Physics of space storms</a>
-</h4>
-<p class="fr-book-author">By Hannu E. J. Koskinen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of space storms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8706597-M.jpg" alt="Cover for Physics of space storms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of space storms">Physics of space storms</a>
+        </h4>
+        <p class="fr-book-author">By Hannu E. J. Koskinen</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Space environment, Solar-terrestrial physics, Solar activity, Astronomy, Geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides end-to-end coverage of the solar-terrestrial chain responsible for regional magnetic disturbances.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10363586-M.jpg" alt="Cover for Space weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space weather">Space weather</a>
-</h4>
-<p class="fr-book-author">By Volker Bothmer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The earth&#x27;s ionosphere on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4056680-M.jpg" alt="Cover for The earth&#x27;s ionosphere" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earth&#x27;s ionosphere">The earth&#x27;s ionosphere</a>
+        </h4>
+        <p class="fr-book-author">By Michael C. Kelley</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Astrometeorology, Space environment, Weather forecasting, Physics, Physical geography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand ionospheric currents that influence ground-based magnetometer observations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=of+geophysics+and+the+space+environment+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of geophysics and the space environment books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+earth%27s+ionosphere&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The earth&#x27;s ionosphere</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+space+storms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of space storms</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+geophysics+and+the+space+environment+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of geophysics and the space environment books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+weather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space weather</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+space+storms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of space storms</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
