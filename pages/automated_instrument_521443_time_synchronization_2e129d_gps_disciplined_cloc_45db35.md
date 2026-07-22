@@ -429,7 +429,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Supports understanding of digital imaging workflows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Relevant to synchronized imaging systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
           <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Systems Application and Design">Measurement Systems Application and Design</a>
         </h4>
         <p class="fr-book-author">By Ernest O. Doebelin</p>
-        
+
         <p class="fr-book-desc">First published 1966. Subjects: Measuring instruments, Physical measurements, Meetinstrumenten, Capteurs (technologie), Messgerät.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Measurement+Systems+Application+and+Design+Ernest+O.+Doebelin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -480,7 +480,7 @@ A GPS-disciplined clock cannot determine whether an observed object is ordinary 
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Directly covers GNSS timing and disciplined oscillators.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

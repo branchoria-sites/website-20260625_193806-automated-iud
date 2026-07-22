@@ -443,7 +443,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
         </h4>
         <p class="fr-book-author">By Martin Kleppmann</p>
-        
+
         <p class="fr-book-desc">Explains event-driven processing architectures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers detection, tracking and sensor-derived image analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,7 +494,7 @@ The objective is not to maximise the number of unidentified clips. It is to maxi
           <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
         </h4>
         <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
-        
+
         <p class="fr-book-desc">First published 2020.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

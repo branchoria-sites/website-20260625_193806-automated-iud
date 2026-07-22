@@ -393,7 +393,7 @@ For these reasons, many successful observational networks prioritise **planned g
           <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteors and How to Observe Them">Meteors and How to Observe Them</a>
         </h4>
         <p class="fr-book-author">By Robert Lunsford</p>
-        
+
         <p class="fr-book-desc">Demonstrates real-world multi-station geometry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For these reasons, many successful observational networks prioritise **planned g
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
         </h4>
         <p class="fr-book-author">By Steve B. Howell</p>
-        
+
         <p class="fr-book-desc">Useful for network camera design.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For these reasons, many successful observational networks prioritise **planned g
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astronomical image and data analysis">Astronomical image and data analysis</a>
         </h4>
         <p class="fr-book-author">By J.-L Starck, F. Murtagh et al.</p>
-        
+
         <p class="fr-book-desc">Supports quantitative measurement methods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ For these reasons, many successful observational networks prioritise **planned g
           <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
         </h4>
         <p class="fr-book-author">By Peter Duffett-Smith</p>
-        
+
         <p class="fr-book-desc">Explains triangulation and positional calculations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

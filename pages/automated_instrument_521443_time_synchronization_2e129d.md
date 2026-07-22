@@ -566,7 +566,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
         </h4>
         <p class="fr-book-author">By Eoghan Casey</p>
-        
+
         <p class="fr-book-desc">Highlights importance of accurate timestamps in evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -583,7 +583,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
           <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
         </h4>
         <p class="fr-book-author">By Jan Van Sickle</p>
-        
+
         <p class="fr-book-desc">Covers precise positioning and timing concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -600,7 +600,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Supports interpreting synchronized observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -617,7 +617,7 @@ For automated UAP detection, the clock is therefore part of the evidence chain. 
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Explains GPS timing and synchronization fundamentals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -388,7 +388,7 @@ This distinction is why modern automated observation projects emphasise multimod
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Illustrates why stronger evidence standards matter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ This distinction is why modern automated observation projects emphasise multimod
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based interpretation of unusual observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ This distinction is why modern automated observation projects emphasise multimod
           <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of acoustics">Fundamentals of acoustics</a>
         </h4>
         <p class="fr-book-author">By Lawrence E. Kinsler, Alan B. Coppens</p>
-        
+
         <p class="fr-book-desc">Explains why silence is not proof of absence of sound.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+acoustics+Lawrence+E.+Kinsler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ This distinction is why modern automated observation projects emphasise multimod
           <a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to sound">Introduction to sound</a>
         </h4>
         <p class="fr-book-author">By Charles E. Speaks</p>
-        
+
         <p class="fr-book-desc">Covers hearing thresholds and environmental acoustics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+sound+Charles+E.+Speaks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

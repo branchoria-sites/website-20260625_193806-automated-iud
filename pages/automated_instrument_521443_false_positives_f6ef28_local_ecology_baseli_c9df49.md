@@ -400,7 +400,7 @@ For a sky-monitoring station, local wildlife data is therefore not ancillary inf
 <a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird migration">Bird migration</a>
 </h4>
 <p class="fr-book-author">By Thomas Alerstam</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Birds, Migration, Birds, migration, Oiseaux, Aves (Biologia).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For a sky-monitoring station, local wildlife data is therefore not ancillary inf
 <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
 </h4>
 <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For a sky-monitoring station, local wildlife data is therefore not ancillary inf
 <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
 </h4>
 <p class="fr-book-author">By David Sibley</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: North America, Bird watching, Guidebooks, Birds, Identification.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ For a sky-monitoring station, local wildlife data is therefore not ancillary inf
 <a href="https://www.amazon.com/s?k=Bats+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bats">Bats</a>
 </h4>
 <p class="fr-book-author">By Marianne Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Bats, Ecology, NATURE / Mammals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bats+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

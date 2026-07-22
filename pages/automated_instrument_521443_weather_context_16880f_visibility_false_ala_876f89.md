@@ -400,30 +400,13 @@ Rather than treating visibility as a secondary weather variable, robust automate
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By John D. Cox</p>
-        
-        <p class="fr-book-desc">Explains fog, rain, haze, visibility and atmospheric effects that influence optical sensors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Light and Color in the Outdoors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yPj2BwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Light and Color in the Outdoors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Light and Color in the Outdoors">Light and Color in the Outdoors</a>
         </h4>
         <p class="fr-book-author">By Marcel Minnaert</p>
-        
+
         <p class="fr-book-desc">Provides the physics behind scattering, contrast changes and visual effects that can create misleading targets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors+Marcel+Minnaert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,10 +423,27 @@ Rather than treating visibility as a secondary weather variable, robust automate
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
         </h4>
         <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
         <p class="fr-book-desc">Directly addresses infrared sensor behavior under changing atmospheric conditions relevant to false detections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+        </h4>
+        <p class="fr-book-author">By Richard Szeliski</p>
+
+        <p class="fr-book-desc">Covers image formation, detection and recognition concepts affected by degraded visibility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -457,7 +457,7 @@ Rather than treating visibility as a secondary weather variable, robust automate
           <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Sensing of the Environment">Remote Sensing of the Environment</a>
         </h4>
         <p class="fr-book-author">By John R. Jensen</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric transmission, imaging systems and environmental effects on optical observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ Rather than treating visibility as a secondary weather variable, robust automate
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light and Color in the Outdoors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Light+and+Color+in+the+Outdoors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Light and Color in the Outdoors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

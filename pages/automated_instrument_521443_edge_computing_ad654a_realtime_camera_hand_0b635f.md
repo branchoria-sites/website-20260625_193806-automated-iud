@@ -394,6 +394,23 @@ A successful handoff therefore produces more than a zoomed picture. It preserves
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Data-Intensive Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p1heDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Designing Data-Intensive Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
+        </h4>
+        <p class="fr-book-author">By Martin Kleppmann</p>
+
+        <p class="fr-book-desc">Useful for event-driven edge architectures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Artificial+Intelligence+Stuart+Jonathan+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Artificial Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8jZBksh-bUMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Artificial Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -417,7 +434,7 @@ A successful handoff therefore produces more than a zoomed picture. It preserves
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Explains tracking, prediction and target localization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +451,7 @@ A successful handoff therefore produces more than a zoomed picture. It preserves
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
         </h4>
         <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
-        
+
         <p class="fr-book-desc">Covers real-time image analysis techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,26 +460,9 @@ A successful handoff therefore produces more than a zoomed picture. It preserves
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV 4 Computer Vision with Python 3 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
-        
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Programming Computer Vision With Python</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Data+Intensive+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Data Intensive Applications</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Artificial+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

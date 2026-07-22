@@ -437,7 +437,7 @@ By combining computer vision with calibrated tracking and independent flight dat
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Explains recognition limits and object tracking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ By combining computer vision with calibrated tracking and independent flight dat
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
         </h4>
         <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
-        
+
         <p class="fr-book-desc">Demonstrates vision algorithms applicable to aircraft filtering.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -404,7 +404,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
           <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
         </h4>
         <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
-        
+
         <p class="fr-book-desc">Directly covers ephemerides, orbit propagation and satellite tracking used to eliminate false UFO alerts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
+
         <p class="fr-book-desc">Covers practical skywatching, satellite observations and techniques useful for identifying known objects before classifying anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ This approach creates a documented audit trail and reduces analyst time spent on
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
         <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
+
         <p class="fr-book-desc">Helps readers understand common celestial objects and observational misidentifications in the night sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

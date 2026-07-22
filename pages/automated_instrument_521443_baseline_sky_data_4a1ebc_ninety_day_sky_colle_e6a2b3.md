@@ -434,7 +434,7 @@ By documenting routine traffic, environmental conditions, sensor limitations and
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
         </h4>
         <p class="fr-book-author">By Douglas W. Hubbard</p>
-        
+
         <p class="fr-book-desc">Fits the page’s focus on building a useful baseline before judging anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ By documenting routine traffic, environmental conditions, sensor limitations and
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
         <p class="fr-book-author">By Nate Silver</p>
-        
+
         <p class="fr-book-desc">Relevant to separating meaningful outliers from noisy background observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ By documenting routine traffic, environmental conditions, sensor limitations and
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports the idea that extraordinary claims need controlled comparison, not dramatic clips.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -485,7 +485,7 @@ By documenting routine traffic, environmental conditions, sensor limitations and
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Encourages sustained sky familiarity, seasonal comparison, and recognition of ordinary patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

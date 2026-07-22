@@ -508,7 +508,7 @@ The strongest current conclusion is therefore modest but important: automated in
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
         </h4>
         <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
+
         <p class="fr-book-desc">Focuses on treating UFO reports as a subject for systematic scientific investigation rather than anecdote.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -525,7 +525,7 @@ The strongest current conclusion is therefore modest but important: automated in
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Emphasizes credible cases, documentation, radar data, and multiple-witness evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -542,7 +542,7 @@ The strongest current conclusion is therefore modest but important: automated in
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
         <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
         <p class="fr-book-desc">Examines physical and observational evidence using a research-oriented framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -559,7 +559,7 @@ The strongest current conclusion is therefore modest but important: automated in
           <a href="https://www.amazon.com/s?k=Extraterrestrial+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
         </h4>
         <p class="fr-book-author">By Avi Loeb</p>
-        
+
         <p class="fr-book-desc">Promotes rigorous data collection and scientific analysis of unusual phenomena in space.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Extraterrestrial+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

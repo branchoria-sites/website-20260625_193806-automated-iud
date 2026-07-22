@@ -373,7 +373,7 @@ Combining these criteria is substantially stronger than simply asking whether an
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
         </h4>
         <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
-        
+
         <p class="fr-book-desc">Directly supports projecting 3D aircraft positions into 2D camera images.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Combining these criteria is substantially stronger than simply asking whether an
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Provides foundational image analysis methods applicable to automated detection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Combining these criteria is substantially stronger than simply asking whether an
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Explains calibration, projection and feature matching used in aircraft-video alignment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Combining these criteria is substantially stronger than simply asking whether an
           <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV">Learning OpenCV</a>
         </h4>
         <p class="fr-book-author">By Gary Bradski, Adrian Kaehler</p>
-        
+
         <p class="fr-book-desc">Covers camera calibration, image geometry and vision workflows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

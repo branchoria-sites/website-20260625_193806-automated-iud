@@ -389,16 +389,16 @@ For that reason, privacy-by-design should not be viewed as a regulatory burden a
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data protection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1139654-M.jpg" alt="Cover for Data protection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
+          <a href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data protection">Data protection</a>
         </h4>
-        <p class="fr-book-author">By Bruce Schneier</p>
-        
-        <p class="fr-book-desc">Explains surveillance, privacy and responsible data collection.</p>
+        <p class="fr-book-author">By Peter William Carey</p>
+
+        <p class="fr-book-desc">Directly addresses privacy and data protection issues raised by home camera systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,7 +412,7 @@ For that reason, privacy-by-design should not be viewed as a regulatory burden a
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
         </h4>
         <p class="fr-book-author">By Adam Juniper</p>
-        
+
         <p class="fr-book-desc">Discusses responsible imaging, privacy and operating around people and property.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,16 +423,16 @@ For that reason, privacy-by-design should not be viewed as a regulatory burden a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data protection on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1139654-M.jpg" alt="Cover for Data protection" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data protection">Data protection</a>
+          <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
         </h4>
-        <p class="fr-book-author">By Peter William Carey</p>
-        
-        <p class="fr-book-desc">Directly addresses privacy and data protection issues raised by home camera systems.</p>
+        <p class="fr-book-author">By Bruce Schneier</p>
+
+        <p class="fr-book-desc">“Bruce Schneier’s amazing book is the best overview of privacy and security ever written.”—Clay Shirky Your cell phone provider tracks yo...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+protection+Peter+William+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +440,7 @@ For that reason, privacy-by-design should not be viewed as a regulatory burden a
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+protection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data protection</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+protection&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data protection</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

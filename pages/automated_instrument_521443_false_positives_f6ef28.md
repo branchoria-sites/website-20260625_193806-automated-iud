@@ -589,7 +589,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Focuses on classification, investigation, and separating unusual reports from ordinary explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -606,7 +606,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
           <a href="https://www.amazon.com/s?k=Astrophotography+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
         </h4>
         <p class="fr-book-author">By Thierry Legault</p>
-        
+
         <p class="fr-book-desc">Explains imaging artefacts, exposure effects, tracking issues, and optical misinterpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astrophotography+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -623,7 +623,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
         <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
+
         <p class="fr-book-desc">Helps readers recognize common celestial objects often mistaken for unusual aerial phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -640,7 +640,7 @@ The credibility of automated instrumented UFO detection will depend less on spec
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The handbook of astronomical image processing">The handbook of astronomical image processing</a>
         </h4>
         <p class="fr-book-author">By Richard Berry, James Burnell</p>
-        
+
         <p class="fr-book-desc">Provides background on image analysis, calibration, noise, and false detections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

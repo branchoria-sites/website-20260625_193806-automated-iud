@@ -386,7 +386,7 @@ The [Galileo]({{ 'galileo/' | relative_url }}) Project describes its objective a
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explains why better data matter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The [Galileo]({{ 'galileo/' | relative_url }}) Project describes its objective a
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
+
         <p class="fr-book-desc">Supports consistent sky observation across locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The [Galileo]({{ 'galileo/' | relative_url }}) Project describes its objective a
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Useful for analyzing large image datasets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ The [Galileo]({{ 'galileo/' | relative_url }}) Project describes its objective a
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
         </h4>
         <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

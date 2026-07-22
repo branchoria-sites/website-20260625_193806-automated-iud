@@ -431,7 +431,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
           <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
         </h4>
         <p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
-        
+
         <p class="fr-book-desc">Directly addresses measurement uncertainty and calibration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
           <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
         </h4>
         <p class="fr-book-author">By Taylor, John R.</p>
-        
+
         <p class="fr-book-desc">Covers propagation of measurement error and precision.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
         </h4>
         <p class="fr-book-author">By Steve B. Howell</p>
-        
+
         <p class="fr-book-desc">Explains calibration of astronomical imaging sensors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,7 +482,7 @@ The result is a higher-quality evidence pipeline. Instead of treating every unus
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Useful for understanding image artefacts and processing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

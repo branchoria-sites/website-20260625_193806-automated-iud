@@ -431,7 +431,7 @@ These properties explain why an automated detector may initially assign a bird a
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers object tracking and classification techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ These properties explain why an automated detector may initially assign a bird a
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
         </h4>
         <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
-        
+
         <p class="fr-book-desc">Useful for implementing tracking and classification pipelines.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ These properties explain why an automated detector may initially assign a bird a
           <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
         </h4>
         <p class="fr-book-author">By David Sibley</p>
-        
+
         <p class="fr-book-desc">Provides understanding of bird appearance and behavior causing false alarms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

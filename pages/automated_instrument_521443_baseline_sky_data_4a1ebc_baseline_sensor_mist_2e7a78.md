@@ -433,7 +433,7 @@ In this sense, the most valuable all-sky archive is not merely a catalogue of ev
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
         </h4>
         <p class="fr-book-author">By Douglas W. Hubbard</p>
-        
+
         <p class="fr-book-desc">Explains measurement uncertainty, imperfect data, and practical ways to reduce ambiguity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ In this sense, the most valuable all-sky archive is not merely a catalogue of ev
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Excellent fit for false positives, error traps, and disciplined interpretation of unusual claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ In this sense, the most valuable all-sky archive is not merely a catalogue of ev
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Grounds detector mistakes in ordinary observing realities such as haze, glare, and sky traffic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -484,7 +484,7 @@ In this sense, the most valuable all-sky archive is not merely a catalogue of ev
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Useful for understanding why people and systems overinterpret noisy or incomplete signals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

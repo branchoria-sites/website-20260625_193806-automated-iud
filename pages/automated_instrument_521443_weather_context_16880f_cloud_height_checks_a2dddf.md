@@ -399,7 +399,7 @@ For this reason, cloud-height analysis works best as one component within a mult
           <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
         </h4>
         <p class="fr-book-author">By Jack Williams</p>
-        
+
         <p class="fr-book-desc">Explains cloud types, cloud bases, visibility, and atmospheric conditions that underpin cloud-height reality checks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,27 +416,10 @@ For this reason, cloud-height analysis works best as one component within a mult
           <a href="https://www.amazon.com/s?k=Weather+Flying+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather Flying">Weather Flying</a>
         </h4>
         <p class="fr-book-author">By Robert Buck</p>
-        
+
         <p class="fr-book-desc">Focuses on cloud bases, ceilings, visibility, and practical interpretation of weather conditions when judging altitude and distance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weather+Flying+Robert+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Visual Guide to Weather and Climate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Id1hDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Visual Guide to Weather and Climate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Visual Guide to Weather and Climate">A Visual Guide to Weather and Climate</a>
-        </h4>
-        <p class="fr-book-author">By Diana Malizia</p>
-        
-        <p class="fr-book-desc">Provides clear explanations of cloud layers, atmospheric phenomena, and weather observation concepts useful for interpreting sky scenes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -450,7 +433,7 @@ For this reason, cloud-height analysis works best as one component within a mult
           <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology today">Meteorology today</a>
         </h4>
         <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
         <p class="fr-book-desc">Covers cloud formation, ceilings, visibility, atmospheric optics, and weather observations relevant to altitude estimation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,9 +442,26 @@ For this reason, cloud-height analysis works best as one component within a mult
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Visual Guide to Weather and Climate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Id1hDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Visual Guide to Weather and Climate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Visual Guide to Weather and Climate">A Visual Guide to Weather and Climate</a>
+        </h4>
+        <p class="fr-book-author">By Diana Malizia</p>
+
+        <p class="fr-book-desc">What changes can we expect with global warming? Could the ice caps melt and raise sea levels? Could farmland become desert? Why was it ch...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Visual+Guide+to+Weather+and+Climate+Diana+Malizia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather Flying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Visual+to+Weather+and+Climate+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Visual to Weather and Climate books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+Flying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather Flying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorology+today&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorology today</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

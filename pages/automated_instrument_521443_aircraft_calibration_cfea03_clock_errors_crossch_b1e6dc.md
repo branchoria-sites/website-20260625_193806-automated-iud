@@ -445,7 +445,7 @@ A detector that lacks accurate timing can transform a perfectly ordinary aircraf
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
         </h4>
         <p class="fr-book-author">By Douglas W. Hubbard</p>
-        
+
         <p class="fr-book-desc">Directly addresses measurement error, calibration, uncertainty and data quality issues that can create false anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ A detector that lacks accurate timing can transform a perfectly ordinary aircraf
           <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
         </h4>
         <p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
-        
+
         <p class="fr-book-desc">Explains timing errors, uncertainty propagation and validation methods relevant to sensor cross-matching.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ A detector that lacks accurate timing can transform a perfectly ordinary aircraf
           <a href="https://www.amazon.com/s?k=Introduction+to+random+signals+and+applied+Kalman+filtering+Robert+Grover+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to random signals and applied Kalman filtering">Introduction to random signals and applied Kalman filtering</a>
         </h4>
         <p class="fr-book-author">By Robert Grover Brown, Patrick Y. C. Hwang</p>
-        
+
         <p class="fr-book-desc">Relevant to timestamped tracking data, sensor fusion and matching observations against aircraft trajectories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+random+signals+and+applied+Kalman+filtering+Robert+Grover+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ A detector that lacks accurate timing can transform a perfectly ordinary aircraf
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Kalman+filtering+Paul+Zarchan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Kalman filtering">Fundamentals of Kalman filtering</a>
         </h4>
         <p class="fr-book-author">By Paul Zarchan, Howard Musoff</p>
-        
+
         <p class="fr-book-desc">Provides practical techniques for reconciling noisy sensor data and maintaining trustworthy track correlations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Kalman+filtering+Paul+Zarchan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

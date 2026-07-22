@@ -386,7 +386,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Connects to the page&#x27;s discussion of identifying unusual aerial objects and the need for better observational evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
+
         <p class="fr-book-desc">Explains telescope and camera systems, observing workflows, and the trade-offs between wide coverage and detailed observation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
         </h4>
         <p class="fr-book-author">By Steve B. Howell</p>
-        
+
         <p class="fr-book-desc">Provides background on detectors, image quality, field of view, and scientific sky-monitoring techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ The two-camera architecture reflects a practical engineering compromise rather t
           <a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Deep-sky Imaging Primer, Second Edition">The Deep-sky Imaging Primer, Second Edition</a>
         </h4>
         <p class="fr-book-author">By Charles Bracken</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Photography, Science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Deep-sky+Imaging+Primer%2C+Second+Edition+Charles+Bracken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

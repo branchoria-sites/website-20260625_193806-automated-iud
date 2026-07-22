@@ -395,89 +395,89 @@ For [automated instrumented UFO detectors]({{ 'automated-instrumented-ufo-detect
 Passive optical, infrared, radio and environmental sensors can collect high-quality evidence while avoiding the legal, operational and reputational risks associated with laser use. Where calibration is required, enclosed laboratory procedures or passive astronomical reference methods provide safer and scientifically stronger alternatives than directing laser beams into navigable airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">laser radiation safety advice</span><span class="citation-popover-snippet">Laser radiation: safety advice18 Mar 2025 — Lasers may emit high power optical radiation which could present a risk to the eyes and skin...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Sky Stations Should Avoid Lasers. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Sky Stations Should Avoid Lasers. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
-</h4>
-<p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
-        
-<p class="fr-book-desc">Provides context for aviation safety and protected airspace.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+by+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Unmanned Aircraft Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hys-5V4IDwQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Unmanned Aircraft Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
+        </h4>
+        <p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
-</h4>
-<p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
-        
-<p class="fr-book-desc">Covers governance and secure system design principles.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for aviation safety and protected airspace.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Laser Guidebook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4147305-M.jpg" alt="Cover for The Laser Guidebook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Laser Guidebook">The Laser Guidebook</a>
-</h4>
-<p class="fr-book-author">By Jeff Hecht</p>
-        
-<p class="fr-book-desc">First published 1986. Subjects: Lasers, Handbooks, manuals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Laser Guidebook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4147305-M.jpg" alt="Cover for The Laser Guidebook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Laser Guidebook">The Laser Guidebook</a>
+        </h4>
+        <p class="fr-book-author">By Jeff Hecht</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Safety on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Safety">Laser Safety</a>
-</h4>
-<p class="fr-book-author">By Ken Barat</p>
-        
-<p class="fr-book-desc">First published 2009. Subjects: Lasers, safety measures, Lasers, Safety measures, SCIENCE / Optics, TECHNOLOGY &amp; ENGINEERING / Lasers &amp; P...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains laser operation and limitations relevant to outdoor use.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Laser+Guidebook+Jeff+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Laser+Guidebook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Laser Guidebook</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Cybersecurity Architecture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Nw0FEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Cybersecurity Architecture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
+        </h4>
+        <p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
+
+        <p class="fr-book-desc">Plan and design robust security architectures to secure your organization&#x27;s technology landscape and the applications you develop Key Fea...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Laser Safety on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Laser Safety">Laser Safety</a>
+        </h4>
+        <p class="fr-book-author">By Ken Barat</p>
+
+        <p class="fr-book-desc">Directly addresses safe laser use and hazard management.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Laser+Safety+Ken+Barat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Unmanned+Aircraft+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Unmanned Aircraft Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Laser+Guidebook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Laser Guidebook</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Cybersecurity Architecture</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

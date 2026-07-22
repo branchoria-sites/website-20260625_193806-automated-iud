@@ -414,7 +414,7 @@ The result is not merely easier compliance. It also reduces technical complexity
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
         </h4>
         <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
         <p class="fr-book-desc">Explains how radar works while making clear the technical complexity behind active radar systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ The result is not merely easier compliance. It also reduces technical complexity
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
         <p class="fr-book-author">By Merrill I. Skolnik</p>
-        
+
         <p class="fr-book-desc">Provides comprehensive coverage of radar technologies and operational considerations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ The result is not merely easier compliance. It also reduces technical complexity
           <a href="https://www.amazon.com/s?k=The+ARRL+Handbook+for+Radio+Communications+Hardcover+ARRL+Inc&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ARRL Handbook for Radio Communications Hardcover">The ARRL Handbook for Radio Communications Hardcover</a>
         </h4>
         <p class="fr-book-author">By ARRL Inc, ARRL</p>
-        
+
         <p class="fr-book-desc">First published 2016.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ARRL+Handbook+for+Radio+Communications+Hardcover+ARRL+Inc&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ The result is not merely easier compliance. It also reduces technical complexity
           <a href="https://www.amazon.com/s?k=Solutions+Manual+for+RF+and+Microwave+Wireless+Systems+Kai+Chang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Solutions Manual for RF and Microwave Wireless Systems">Solutions Manual for RF and Microwave Wireless Systems</a>
         </h4>
         <p class="fr-book-author">By Kai Chang</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Wireless communication systems, Microwave communication systems, Problems, exercises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Solutions+Manual+for+RF+and+Microwave+Wireless+Systems+Kai+Chang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

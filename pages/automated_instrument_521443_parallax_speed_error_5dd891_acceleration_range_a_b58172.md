@@ -400,16 +400,16 @@ In practice, the most valuable output is often not a headline acceleration value
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4966981-M.jpg" alt="Cover for Fundamentals of Astrodynamics and Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
+          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
         </h4>
-        <p class="fr-book-author">By David A. Vallado</p>
-        
-        <p class="fr-book-desc">Explains trajectory reconstruction, measurement uncertainty, and motion estimation principles.</p>
+        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
+
+        <p class="fr-book-desc">Directly addresses 3D reconstruction and uncertainty from camera imagery.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -417,16 +417,16 @@ In practice, the most valuable output is often not a headline acceleration value
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Multiple view geometry in computer vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350219-M.jpg" alt="Cover for Multiple view geometry in computer vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Astrodynamics and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4966981-M.jpg" alt="Cover for Fundamentals of Astrodynamics and Applications" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
         </h4>
-        <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
-        
-        <p class="fr-book-desc">Directly addresses 3D reconstruction and uncertainty from camera imagery.</p>
+        <p class="fr-book-author">By David A. Vallado</p>
+
+        <p class="fr-book-desc">Explains trajectory reconstruction, measurement uncertainty, and motion estimation principles.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -440,7 +440,7 @@ In practice, the most valuable output is often not a headline acceleration value
           <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An introduction to error analysis">An introduction to error analysis</a>
         </h4>
         <p class="fr-book-author">By Taylor, John R.</p>
-        
+
         <p class="fr-book-desc">Shows how measurement errors propagate into derived quantities such as acceleration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+introduction+to+error+analysis+Taylor%2C+John+R.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ In practice, the most valuable output is often not a headline acceleration value
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers feature tracking, camera geometry, and sources of tracking error.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ In practice, the most valuable output is often not a headline acceleration value
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Multiple view geometry in computer vision</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+to+error+analysis+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An to error analysis books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

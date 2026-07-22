@@ -416,89 +416,89 @@ For automated instrumented UAP detectors, timestamp integrity is therefore part 
 <img src="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_video_timing_er_bdf6fc-Illustration-3-dark.svg" | relative_url }}" alt="Timing Errors illustration 3" data-theme-src-dark="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_video_timing_er_bdf6fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/automated_instrument_521443_adsb_aircraft_contex_1a4ad3_adsb_video_timing_er_bdf6fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Seconds Matter in UAP Footage. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Seconds Matter in UAP Footage. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Video+and+HD+by+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Video and HD on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dSCEGFt47NkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Video and HD" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Digital+Video+and+HD+by+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Video and HD">Digital Video and HD</a>
-</h4>
-<p class="fr-book-author">By Charles Poynton</p>
-        
-<p class="fr-book-desc">Helps readers understand video frame timing, recording pipelines, and timestamp-related limitations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Digital+Video+and+HD+by+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Video+and+HD+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Video and HD on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dSCEGFt47NkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Video and HD" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Digital+Video+and+HD+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Video and HD">Digital Video and HD</a>
+        </h4>
+        <p class="fr-book-author">By Charles Poynton</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
-</h4>
-<p class="fr-book-author">By R. P. G. Collinson</p>
-        
-<p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand video frame timing, recording pipelines, and timestamp-related limitations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Digital+Video+and+HD+Charles+Poynton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
-</h4>
-<p class="fr-book-author">By Michael S. Nolan</p>
-        
-<p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Avionics Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8664729-M.jpg" alt="Cover for Introduction to Avionics Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
+        </h4>
+        <p class="fr-book-author">By R. P. G. Collinson</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
-</h4>
-<p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
-<p class="fr-book-desc">First published 2017. Subjects: Global Positioning System, TECHNOLOGY &amp; ENGINEERING, Military Science.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides strong background on aircraft navigation, surveillance systems, and timing concepts relevant to ADS-B interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Video+and+HD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Video and HD</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of air traffic control</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Air Traffic Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i98eAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fundamentals of Air Traffic Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Air Traffic Control">Fundamentals of Air Traffic Control</a>
+        </h4>
+        <p class="fr-book-author">By Michael S. Nolan</p>
+
+        <p class="fr-book-desc">Appropriate for both future air traffic controllers and for pilots who need a better understanding of the air traffic control system, thi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
+        </h4>
+        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+
+        <p class="fr-book-desc">Explains precise timing, synchronization, and positioning fundamentals that underpin timestamp accuracy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Video+and+HD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Video and HD</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Avionics+Systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Avionics Systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Air Traffic Control</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

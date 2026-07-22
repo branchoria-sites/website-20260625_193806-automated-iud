@@ -574,7 +574,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
 <p class="fr-book-desc">Connects sensor evidence, observation quality, and the need for calibrated measurements.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -591,7 +591,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
 <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
 </h4>
 <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
-        
+
 <p class="fr-book-desc">Directly covers camera geometry, measurement accuracy, and calibration concepts relevant to aircraft-based validation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+by+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -608,7 +608,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
 <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
 </h4>
 <p class="fr-book-author">By David A. Vallado</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Astrodynamik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -625,7 +625,7 @@ That is why ordinary aircraft belong at the centre, not the margins, of automate
 <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
 </h4>
 <p class="fr-book-author">By Richard Szeliski</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -430,7 +430,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Focuses on systematic investigation and evaluating reports using evidence rather than anecdote.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,16 +441,16 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12856376-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8653516-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
+          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
         </h4>
-        <p class="fr-book-author">By Jacobs, J. A., J. Filloux et al.</p>
-        
+        <p class="fr-book-author">By Masaru Kono</p>
+
         <p class="fr-book-desc">Provides background on natural magnetic-field variation, helping distinguish local anomalies from broader geomagnetic effects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -464,7 +464,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
         </h4>
         <p class="fr-book-author">By Wallace H. Campbell</p>
-        
+
         <p class="fr-book-desc">First published 1997. Subjects: Geomagnetism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -481,7 +481,7 @@ Even then, the result is not evidence of an exotic object by itself. It is evide
           <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">First published 1972.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

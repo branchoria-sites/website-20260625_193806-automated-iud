@@ -380,10 +380,27 @@ As satellite constellations continue to expand, incorporating geometric flare pr
           <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satellite Orbits">Satellite Orbits</a>
         </h4>
         <p class="fr-book-author">By Oliver Montenbruck, Eberhard Gill</p>
-        
+
         <p class="fr-book-desc">Explains orbital geometry behind satellite visibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Satellite+Orbits+Oliver+Montenbruck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+
+        <p class="fr-book-desc">Covers sky brightness and observation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -397,7 +414,7 @@ As satellite constellations continue to expand, incorporating geometric flare pr
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
         <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
+
         <p class="fr-book-desc">Helps explain observing conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +431,7 @@ As satellite constellations continue to expand, incorporating geometric flare pr
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The handbook of astronomical image processing">The handbook of astronomical image processing</a>
         </h4>
         <p class="fr-book-author">By Richard Berry, James Burnell</p>
-        
+
         <p class="fr-book-desc">Relevant to measuring brightness accurately.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,26 +440,9 @@ As satellite constellations continue to expand, incorporating geometric flare pr
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-        </h4>
-        <p class="fr-book-author">By Peter Duffett-Smith</p>
-        
-        <p class="fr-book-desc">Useful for Sun-object-observer geometry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+of+astronomical+image+processing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The of astronomical image processing books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satellite+Orbits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satellite Orbits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

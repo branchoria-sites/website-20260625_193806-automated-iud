@@ -430,7 +430,7 @@ This approach preserves one of the strongest tools for reducing false UAP report
 <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
 </h4>
 <p class="fr-book-author">By Bruce Schneier</p>
-        
+
 <p class="fr-book-desc">Provides context for minimizing collected data.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ This approach preserves one of the strongest tools for reducing false UAP report
 <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
 </h4>
 <p class="fr-book-author">By John Anderson</p>
-        
+
 <p class="fr-book-desc">Helps readers understand aircraft operations behind ADS-B.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Flight+by+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -464,7 +464,7 @@ This approach preserves one of the strongest tools for reducing false UAP report
 <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
 </h4>
 <p class="fr-book-author">By Atul Gawande</p>
-        
+
 <p class="fr-book-desc">Reinforces disciplined operational procedures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -481,7 +481,7 @@ This approach preserves one of the strongest tools for reducing false UAP report
 <a href="https://www.amazon.com/s?k=Privacy+is+Power+Carissa+V%C3%A9liz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Privacy is Power">Privacy is Power</a>
 </h4>
 <p class="fr-book-author">By Carissa Véliz</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Mathematics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Privacy+is+Power+Carissa+V%C3%A9liz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

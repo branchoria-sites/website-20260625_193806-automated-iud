@@ -384,7 +384,7 @@ This approach mirrors broader recommendations for scientific UAP investigations.
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
         </h4>
         <p class="fr-book-author">By Wallace H. Campbell</p>
-        
+
         <p class="fr-book-desc">Directly explains geomagnetic field behaviour, measurements, and interpretation relevant to comparing magnetometer data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ This approach mirrors broader recommendations for scientific UAP investigations.
           <a href="https://www.amazon.com/s?k=Magnetism+and+magnetic+materials+J.+M.+D.+Coey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magnetism and magnetic materials">Magnetism and magnetic materials</a>
         </h4>
         <p class="fr-book-author">By J. M. D. Coey</p>
-        
+
         <p class="fr-book-desc">Provides the underlying physics needed to understand magnetic sensors and measurement limitations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magnetism+and+magnetic+materials+J.+M.+D.+Coey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,16 +412,16 @@ This approach mirrors broader recommendations for scientific UAP investigations.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12856376-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Geomagnetism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8653516-M.jpg" alt="Cover for Geomagnetism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
+          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Geomagnetism">Geomagnetism</a>
         </h4>
-        <p class="fr-book-author">By Jacobs, J. A., J. Filloux et al.</p>
-        
+        <p class="fr-book-author">By Masaru Kono</p>
+
         <p class="fr-book-desc">Covers the science behind Earth&#x27;s magnetic field, observatories, and regional magnetic variation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Geomagnetism+Jacobs%2C+J.+A.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Geomagnetism+Masaru+Kono&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -435,7 +435,7 @@ This approach mirrors broader recommendations for scientific UAP investigations.
           <a href="https://www.amazon.com/s?k=The+Scientific+Method%3A+A+Guide+to+Finding+Useful+Knowledge+Brian+C.+Ethridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scientific Method: A Guide to Finding Useful Knowledge">The Scientific Method: A Guide to Finding Useful Knowledge</a>
         </h4>
         <p class="fr-book-author">By Brian C. Ethridge</p>
-        
+
         <p class="fr-book-desc">Supports the article&#x27;s emphasis on independent verification, calibration, and avoiding conclusions from isolated observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Scientific+Method%3A+A+Guide+to+Finding+Useful+Knowledge+Brian+C.+Ethridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -395,7 +395,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
         </h4>
         <p class="fr-book-author">By R. P. G. Collinson</p>
-        
+
         <p class="fr-book-desc">Explains surveillance technologies and why ADS-B coverage has practical limits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
           <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilot&#x27;s Handbook of Aeronautical Knowledge">Pilot&#x27;s Handbook of Aeronautical Knowledge</a>
         </h4>
         <p class="fr-book-author">By Federal Aviation Administration</p>
-        
+
         <p class="fr-book-desc">Explains aircraft operations and airspace that influence surveillance expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pilot%27s+Handbook+of+Aeronautical+Knowledge+Federal+Aviation+Administration&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Useful for understanding why absence of a track should not alone classify an object as anomalous.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ This approach aligns with good scientific practice. The absence of supporting AD
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Supports understanding of navigation, timing and surveillance dependencies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

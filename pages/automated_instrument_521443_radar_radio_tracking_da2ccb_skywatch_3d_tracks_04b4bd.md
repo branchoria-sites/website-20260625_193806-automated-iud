@@ -396,7 +396,7 @@ That distinction is important. SkyWatch's scientific value lies in improving the
           <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1090 Megahertz Riddle">The 1090 Megahertz Riddle</a>
         </h4>
         <p class="fr-book-author">By Junzi Sun</p>
-        
+
         <p class="fr-book-desc">Useful companion for distinguishing cooperative aircraft tracks from other detections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That distinction is important. SkyWatch's scientific value lies in improving the
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
         </h4>
         <p class="fr-book-author">By Mark A. Richards</p>
-        
+
         <p class="fr-book-desc">Explains Doppler processing, detection, and estimation used in track generation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ That distinction is important. SkyWatch's scientific value lies in improving the
           <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bistatic Radar">Bistatic Radar</a>
         </h4>
         <p class="fr-book-author">By Mikhail Cherniakov</p>
-        
+
         <p class="fr-book-desc">Closely matches SkyWatch&#x27;s multistatic passive radar architecture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ That distinction is important. SkyWatch's scientific value lies in improving the
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
         <p class="fr-book-author">By Merrill I. Skolnik</p>
-        
+
         <p class="fr-book-desc">Covers radar theory, signal processing, and target tracking relevant to passive systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

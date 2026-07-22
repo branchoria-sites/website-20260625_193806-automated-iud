@@ -385,7 +385,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
         </h4>
         <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
         <p class="fr-book-desc">Directly explains infrared imaging, atmospheric effects, detector performance, and thermal contrast.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
           <a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The infrared handbook">The infrared handbook</a>
         </h4>
         <p class="fr-book-author">By William L. Wolfe, George J. Zissis</p>
-        
+
         <p class="fr-book-desc">Covers atmospheric transmission, humidity effects, backgrounds, and infrared detection fundamentals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+infrared+handbook+William+L.+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
           <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remote Sensing of the Environment">Remote Sensing of the Environment</a>
         </h4>
         <p class="fr-book-author">By John R. Jensen</p>
-        
+
         <p class="fr-book-desc">Discusses atmospheric transmission, sensor interpretation, and environmental effects relevant to thermal imaging.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remote+Sensing+of+the+Environment+John+R.+Jensen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ This shifts infrared evidence from subjective interpretation towards reproducibl
           <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology today">Meteorology today</a>
         </h4>
         <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
         <p class="fr-book-desc">Explains humidity, clouds, atmospheric temperature, and weather conditions that affect infrared observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

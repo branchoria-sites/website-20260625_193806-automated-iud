@@ -401,7 +401,7 @@ For automated UAP detection, the objective is not to assume unidentified objects
 <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteors and How to Observe Them">Meteors and How to Observe Them</a>
 </h4>
 <p class="fr-book-author">By Robert Lunsford</p>
-        
+
 <p class="fr-book-desc">Directly covers meteor observation techniques.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For automated UAP detection, the objective is not to assume unidentified objects
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides scientific context for unusual sky observations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For automated UAP detection, the objective is not to assume unidentified objects
 <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
 </h4>
 <p class="fr-book-author">By Steve B. Howell</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Charge coupled devices, Technique, Astronomy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For automated UAP detection, the objective is not to assume unidentified objects
 <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
 </h4>
 <p class="fr-book-author">By Peter Duffett-Smith</p>
-        
+
 <p class="fr-book-desc">Useful for trajectory calculations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

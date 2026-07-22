@@ -393,7 +393,7 @@ For an automated instrumented UFO detector, the important question is not merely
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
         </h4>
         <p class="fr-book-author">By Mark A. Richards</p>
-        
+
         <p class="fr-book-desc">Covers signal processing methods used to assess target identification, track quality, and system performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For an automated instrumented UFO detector, the important question is not merely
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
         <p class="fr-book-author">By Merrill I. Skolnik</p>
-        
+
         <p class="fr-book-desc">Provides foundational understanding of detection, tracking, calibration, and performance evaluation central to validating aircraft matches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For an automated instrumented UFO detector, the important question is not merely
           <a href="https://www.amazon.com/s?k=Introduction+to+random+signals+and+applied+Kalman+filtering+Robert+Grover+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to random signals and applied Kalman filtering">Introduction to random signals and applied Kalman filtering</a>
         </h4>
         <p class="fr-book-author">By Robert Grover Brown, Patrick Y. C. Hwang</p>
-        
+
         <p class="fr-book-desc">Relevant to sensor drift detection, track validation, and continuous performance monitoring using known targets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+random+signals+and+applied+Kalman+filtering+Robert+Grover+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,16 +438,16 @@ For an automated instrumented UFO detector, the important question is not merely
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of Air Traffic Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i98eAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fundamentals of Air Traffic Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Air Traffic Control">Fundamentals of Air Traffic Control</a>
         </h4>
         <p class="fr-book-author">By Michael S. Nolan</p>
-        
-        <p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
+
+        <p class="fr-book-desc">Appropriate for both future air traffic controllers and for pilots who need a better understanding of the air traffic control system, thi...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fundamentals+of+Air+Traffic+Control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -407,7 +407,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
         </h4>
         <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
         <p class="fr-book-desc">Provides the essential concepts behind range measurement and radar-based target localization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
         </h4>
         <p class="fr-book-author">By Mark A. Richards</p>
-        
+
         <p class="fr-book-desc">Covers estimation, detection and signal processing concepts that influence passive radar range estimation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
         <p class="fr-book-author">By Merrill I. Skolnik</p>
-        
+
         <p class="fr-book-desc">Includes advanced discussion of radar performance, tracking and measurement accuracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ Within an automated instrumented UAP detector, passive radar therefore serves as
           <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
         </h4>
         <p class="fr-book-author">By Mr. Carl Laufer</p>
-        
+
         <p class="fr-book-desc">Demonstrates practical passive radio reception using low-cost SDR equipment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

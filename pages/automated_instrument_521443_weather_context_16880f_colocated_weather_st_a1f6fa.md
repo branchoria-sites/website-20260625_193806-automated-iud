@@ -409,7 +409,7 @@ This layered approach produces a more complete environmental record than either 
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
 </h4>
 <p class="fr-book-author">By Jack Williams</p>
-        
+
 <p class="fr-book-desc">Helps readers understand atmospheric conditions that influence observational evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ This layered approach produces a more complete environmental record than either 
 <a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Observing Handbook and Catalogue of Deep-Sky Objects">Observing Handbook and Catalogue of Deep-Sky Objects</a>
 </h4>
 <p class="fr-book-author">By Christian B. Luginbuhl, Brian A. Skiff</p>
-        
+
 <p class="fr-book-desc">Provides practical observing techniques relevant to documenting transient sky events under varying conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Observing+Handbook+and+Catalogue+of+Deep-Sky+Objects+by+Christian+B.+Luginbuhl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ This layered approach produces a more complete environmental record than either 
 <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
 </h4>
 <p class="fr-book-author">By Alan Watts</p>
-        
+
 <p class="fr-book-desc">Covers weather interpretation useful when comparing detector-side measurements with broader meteorological reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -460,7 +460,7 @@ This layered approach produces a more complete environmental record than either 
 <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology today">Meteorology today</a>
 </h4>
 <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: Meteorology, Textbooks, Meteorologia, Meteorologie, Météorologie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorology+today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

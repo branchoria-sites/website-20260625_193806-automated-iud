@@ -570,7 +570,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
         </h4>
         <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
         <p class="fr-book-desc">Explains radar fundamentals, range, tracking, motion measurement and system limitations directly relevant to automated UAP sensing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -587,7 +587,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Radar Signal Processing">Fundamentals of Radar Signal Processing</a>
         </h4>
         <p class="fr-book-author">By Mark A. Richards</p>
-        
+
         <p class="fr-book-desc">Explains detection, estimation, tracking and signal processing behind reliable radar measurements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Radar+Signal+Processing+Mark+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -604,7 +604,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
         <p class="fr-book-author">By Merrill I. Skolnik</p>
-        
+
         <p class="fr-book-desc">Covers radar architectures, tracking, target detection and practical performance considerations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -621,7 +621,7 @@ The honest promise is therefore not certainty. It is discipline. Radar-style sen
           <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
         </h4>
         <p class="fr-book-author">By Mr. Carl Laufer</p>
-        
+
         <p class="fr-book-desc">Shows how inexpensive SDR receivers can be used for passive radio monitoring and signal analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

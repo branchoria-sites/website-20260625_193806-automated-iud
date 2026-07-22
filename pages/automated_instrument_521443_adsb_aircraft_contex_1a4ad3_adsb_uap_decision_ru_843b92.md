@@ -441,7 +441,7 @@ This approach minimises both false dismissals and unnecessary investigations. Ra
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides a rigorous framework for evaluating unexplained aerial reports rather than relying on single pieces of evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ This approach minimises both false dismissals and unnecessary investigations. Ra
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
 <p class="fr-book-desc">Helps readers understand evidence evaluation, bias, and disciplined decision-making in ambiguous cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ This approach minimises both false dismissals and unnecessary investigations. Ra
 <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
 </h4>
 <p class="fr-book-author">By R. P. G. Collinson</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Engineering, Astronautics, Electronics, Avionics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -492,7 +492,7 @@ This approach minimises both false dismissals and unnecessary investigations. Ra
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
 </h4>
 <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
 <p class="fr-book-desc">First published 1972.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

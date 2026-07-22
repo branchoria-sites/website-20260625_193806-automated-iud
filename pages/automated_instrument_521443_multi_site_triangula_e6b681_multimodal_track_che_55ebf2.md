@@ -380,7 +380,7 @@ From a governance perspective, this shifts discussion away from debating individ
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Highlights the value of multiple evidence sources.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ From a governance perspective, this shifts discussion away from debating individ
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
         </h4>
         <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
         <p class="fr-book-desc">Directly relevant to radar corroboration of tracks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ From a governance perspective, this shifts discussion away from debating individ
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
         </h4>
         <p class="fr-book-author">By Steve B. Howell</p>
-        
+
         <p class="fr-book-desc">Explains optical instrumentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ From a governance perspective, this shifts discussion away from debating individ
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astronomical image and data analysis">Astronomical image and data analysis</a>
         </h4>
         <p class="fr-book-author">By J.-L Starck, F. Murtagh et al.</p>
-        
+
         <p class="fr-book-desc">Supports cross-checking observational data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

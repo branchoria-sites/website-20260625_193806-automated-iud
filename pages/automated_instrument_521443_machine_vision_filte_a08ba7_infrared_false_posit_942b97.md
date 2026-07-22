@@ -386,7 +386,7 @@ Consequently, the most reliable automated UAP observatories treat thermal imager
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
         </h4>
         <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
         <p class="fr-book-desc">Directly addresses infrared sensor behavior, thermal imaging, and practical interpretation issues behind false positives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,10 +403,27 @@ Consequently, the most reliable automated UAP observatories treat thermal imager
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Provides foundational techniques for image filtering, feature extraction, and classification used in automated vision pipelines.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Vision on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699277-M.jpg" alt="Cover for Computer Vision" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
+        </h4>
+        <p class="fr-book-author">By Richard Szeliski</p>
+
+        <p class="fr-book-desc">Covers object detection, tracking, image analysis, and sensor interpretation relevant to automated infrared systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,7 +437,7 @@ Consequently, the most reliable automated UAP observatories treat thermal imager
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
         </h4>
         <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,26 +446,9 @@ Consequently, the most reliable automated UAP observatories treat thermal imager
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning OpenCV on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7262990-M.jpg" alt="Cover for Learning OpenCV" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV">Learning OpenCV</a>
-        </h4>
-        <p class="fr-book-author">By Gary Bradski, Adrian Kaehler</p>
-        
-        <p class="fr-book-desc">First published 2008. Subjects: OpenCV, Computer vision, Image processing, Human-computer interaction, Bildbehandling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+OpenCV+Gary+Bradski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Processing, Global Edition</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+infrared+and+electro+optical+systems+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to infrared and electro optical systems books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+image+processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital image processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Computer+Vision&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Computer Vision</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

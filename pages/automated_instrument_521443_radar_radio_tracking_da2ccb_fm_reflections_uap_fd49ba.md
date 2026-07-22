@@ -421,7 +421,7 @@ The broader lesson is that FM broadcast reflections are most valuable when integ
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Provides the radar fundamentals needed to understand passive radar, Doppler processing, clutter, and target detection using broadcast tra...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ The broader lesson is that FM broadcast reflections are most valuable when integ
 <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hobbyist&#x27;s Guide to the RTL-SDR">The Hobbyist&#x27;s Guide to the RTL-SDR</a>
 </h4>
 <p class="fr-book-author">By Mr. Carl Laufer</p>
-        
+
 <p class="fr-book-desc">First published 2015.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hobbyist%27s+Guide+to+the+RTL-SDR+Mr.+Carl+Laufer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ The broader lesson is that FM broadcast reflections are most valuable when integ
 <a href="https://www.amazon.com/s?k=Digital+signal+processing+Steven+W.+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital signal processing">Digital signal processing</a>
 </h4>
 <p class="fr-book-author">By Steven W. Smith</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Signal processing, Digital techniques, Signal processing, digital techniques, Digital, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Digital+signal+processing+Steven+W.+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ The broader lesson is that FM broadcast reflections are most valuable when integ
 <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
 </h4>
 <p class="fr-book-author">By M. A. Richards, William A. Holm et al.</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Radar.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

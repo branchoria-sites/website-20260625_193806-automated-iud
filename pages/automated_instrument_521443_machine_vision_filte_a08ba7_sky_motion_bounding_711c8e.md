@@ -387,7 +387,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
         </h4>
         <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
-        
+
         <p class="fr-book-desc">Includes feature detection, tracking and image analysis concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
         </h4>
         <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
-        
+
         <p class="fr-book-desc">Provides theoretical foundations for tracking objects across image sequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Within automated instrumented UFO detection, this makes bounding boxes a triage 
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Explains detection, tracking and motion estimation used in automated sky monitoring.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -371,7 +371,7 @@ That is the principal scientific contribution of the test. The hard problem is n
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Geomagnetic Fields">Introduction to Geomagnetic Fields</a>
         </h4>
         <p class="fr-book-author">By Wallace H. Campbell</p>
-        
+
         <p class="fr-book-desc">Directly covers Earth&#x27;s magnetic field and geomagnetic measurements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Geomagnetic+Fields+Wallace+H.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That is the principal scientific contribution of the test. The hard problem is n
           <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to electrodynamics">Introduction to electrodynamics</a>
         </h4>
         <p class="fr-book-author">By David Jeffrey Griffiths</p>
-        
+
         <p class="fr-book-desc">Builds understanding of magnetic fields underlying fluxgate magnetometers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+electrodynamics+David+Jeffrey+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That is the principal scientific contribution of the test. The hard problem is n
           <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of geophysics and the space environment">Handbook of geophysics and the space environment</a>
         </h4>
         <p class="fr-book-author">By U.S. Air Force Geophysics Laboratory.</p>
-        
+
         <p class="fr-book-desc">Useful background on geomagnetic conditions and environmental interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ That is the principal scientific contribution of the test. The hard problem is n
           <a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Physics">Space Physics</a>
         </h4>
         <p class="fr-book-author">By C. T. Russell, J. G. Luhmann et al.</p>
-        
+
         <p class="fr-book-desc">Explains space weather and geomagnetic disturbances relevant to magnetometer calibration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Space+Physics+C.+T.+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

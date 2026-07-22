@@ -592,7 +592,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Directly covers detection, tracking and classification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -609,7 +609,7 @@ In automated instrumented UFO detection, machine vision is therefore best unders
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Programming Computer Vision With Python">Programming Computer Vision With Python</a>
         </h4>
         <p class="fr-book-author">By Jan Erik, Jan Erik Solem</p>
-        
+
         <p class="fr-book-desc">Useful for practical computer vision workflows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Programming+Computer+Vision+With+Python+Jan+Erik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

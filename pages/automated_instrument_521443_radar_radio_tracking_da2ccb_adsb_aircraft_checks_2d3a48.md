@@ -427,7 +427,7 @@ A positive match strongly supports an aircraft explanation because it combines a
           <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1090 Megahertz Riddle">The 1090 Megahertz Riddle</a>
         </h4>
         <p class="fr-book-author">By Junzi Sun</p>
-        
+
         <p class="fr-book-desc">Directly explains ADS-B transmissions, aircraft identification, and surveillance data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+1090+Megahertz+Riddle+Junzi+Sun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ A positive match strongly supports an aircraft explanation because it combines a
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Offers accessible context on aircraft technology and aerospace development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ A positive match strongly supports an aircraft explanation because it combines a
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
         </h4>
         <p class="fr-book-author">By R. P. G. Collinson</p>
-        
+
         <p class="fr-book-desc">Explains aircraft navigation, surveillance, and onboard electronic systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -478,7 +478,7 @@ A positive match strongly supports an aircraft explanation because it combines a
           <a href="https://www.amazon.com/s?k=Stimson%27s+Introduction+to+Airborne+Radar+Hugh+D.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stimson&#x27;s Introduction to Airborne Radar">Stimson&#x27;s Introduction to Airborne Radar</a>
         </h4>
         <p class="fr-book-author">By Hugh D. Griffiths, Christopher J. Baker et al.</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Radar in aeronautics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stimson%27s+Introduction+to+Airborne+Radar+Hugh+D.+Griffiths&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

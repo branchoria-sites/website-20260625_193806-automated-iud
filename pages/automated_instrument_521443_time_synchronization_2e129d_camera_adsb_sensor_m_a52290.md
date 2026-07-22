@@ -441,7 +441,7 @@ The most reliable event records therefore preserve not only the original images 
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Supports video analysis within multi-sensor workflows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ The most reliable event records therefore preserve not only the original images 
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers image alignment and data fusion concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ The most reliable event records therefore preserve not only the original images 
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Explains accurate positioning and timing for correlated datasets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -492,7 +492,7 @@ The most reliable event records therefore preserve not only the original images 
           <a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Sense of Sensors">Making Sense of Sensors</a>
         </h4>
         <p class="fr-book-author">By Jacob Fraden</p>
-        
+
         <p class="fr-book-desc">Explains integrating and interpreting multiple sensor measurements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Making+Sense+of+Sensors+Jacob+Fraden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

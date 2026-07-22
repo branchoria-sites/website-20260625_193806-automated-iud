@@ -423,7 +423,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
         </h4>
         <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
-        
+
         <p class="fr-book-desc">Combines multi-camera geometry with synchronized observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
         </h4>
         <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
-        
+
         <p class="fr-book-desc">Details triangulation from separated observing stations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Explains stereo vision and multi-camera systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ In automated UAP detector networks, synchronised clocks transform simultaneous i
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Supports accurate cross-station synchronization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

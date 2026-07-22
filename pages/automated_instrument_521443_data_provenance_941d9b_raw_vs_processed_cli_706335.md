@@ -390,7 +390,7 @@ For automated instrumented UAP detectors, the practical principle is simple: gen
           <a href="https://www.amazon.com/s?k=Windows+Forensics+And+Incident+Recovery+Covers+Windows+Server+2003+Windows+2000+Windows+Nt+And+Windows+Xp+Dan+Farmer+and+Wietse+Venema&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Windows Forensics And Incident Recovery Covers Windows Server 2003 Windows 2000 Windows Nt And Windows Xp">Windows Forensics And Incident Recovery Covers Windows Server...</a>
         </h4>
         <p class="fr-book-author">By Dan Farmer and Wietse Venema</p>
-        
+
         <p class="fr-book-desc">Explains preserving original data and documenting changes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Windows+Forensics+And+Incident+Recovery+Covers+Windows+Server+2003+Windows+2000+Windows+Nt+And+Windows+Xp+Dan+Farmer+and+Wietse+Venema&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For automated instrumented UAP detectors, the practical principle is simple: gen
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
         </h4>
         <p class="fr-book-author">By Eoghan Casey</p>
-        
+
         <p class="fr-book-desc">Directly addresses integrity of original digital files.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For automated instrumented UAP detectors, the practical principle is simple: gen
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
         </h4>
         <p class="fr-book-author">By Darrell Huff</p>
-        
+
         <p class="fr-book-desc">Illustrates risks introduced by selective presentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For automated instrumented UAP detectors, the practical principle is simple: gen
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Encourages transparent interpretation of processed data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

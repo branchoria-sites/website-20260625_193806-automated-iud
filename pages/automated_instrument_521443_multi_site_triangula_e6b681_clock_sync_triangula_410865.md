@@ -406,7 +406,7 @@ Conversely, combining known station positions, calibrated camera geometry and ha
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of CCD astronomy">Handbook of CCD astronomy</a>
         </h4>
         <p class="fr-book-author">By Steve B. Howell</p>
-        
+
         <p class="fr-book-desc">Discusses camera calibration and timing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+CCD+astronomy+Steve+B.+Howell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Conversely, combining known station positions, calibrated camera geometry and ha
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astronomical image and data analysis">Astronomical image and data analysis</a>
         </h4>
         <p class="fr-book-author">By J.-L Starck, F. Murtagh et al.</p>
-        
+
         <p class="fr-book-desc">Useful for evaluating synchronized observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astronomical+image+and+data+analysis+J.-L+Starck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ Conversely, combining known station positions, calibrated camera geometry and ha
           <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
         </h4>
         <p class="fr-book-author">By Peter Duffett-Smith</p>
-        
+
         <p class="fr-book-desc">Supports geometric timing calculations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ Conversely, combining known station positions, calibrated camera geometry and ha
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Explains precise timing and synchronization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

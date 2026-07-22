@@ -621,7 +621,7 @@ The practical standard is simple: a future reviewer should be able to replay the
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
         </h4>
         <p class="fr-book-author">By Eoghan Casey</p>
-        
+
         <p class="fr-book-desc">Covers handling, documentation and evaluation of digital evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -638,7 +638,7 @@ The practical standard is simple: a future reviewer should be able to replay the
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
         </h4>
         <p class="fr-book-author">By Darrell Huff</p>
-        
+
         <p class="fr-book-desc">Builds skepticism about weak evidence and unsupported conclusions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -655,7 +655,7 @@ The practical standard is simple: a future reviewer should be able to replay the
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Helps readers think critically about evidence quality and uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -672,7 +672,7 @@ The practical standard is simple: a future reviewer should be able to replay the
           <a href="https://www.amazon.com/s?k=Forensic+Discovery+Dan+Farmer+and+Wietse+Venema&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Forensic Discovery">Forensic Discovery</a>
         </h4>
         <p class="fr-book-author">By Dan Farmer and Wietse Venema</p>
-        
+
         <p class="fr-book-desc">Explains evidence integrity, provenance, audit trails and preservation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Forensic+Discovery+Dan+Farmer+and+Wietse+Venema&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

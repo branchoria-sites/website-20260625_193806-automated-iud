@@ -431,7 +431,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
         </h4>
         <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
         <p class="fr-book-desc">Explains radar fundamentals, clutter, multipath, detection limits, and signal processing relevant to passive radar false tracks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
           <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bistatic Radar">Bistatic Radar</a>
         </h4>
         <p class="fr-book-author">By Mikhail Cherniakov</p>
-        
+
         <p class="fr-book-desc">Covers geometry, clutter, multipath, and detection issues closely related to passive radar operation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bistatic+Radar+Mikhail+Cherniakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
           <a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Adaptive filter theory">Adaptive filter theory</a>
         </h4>
         <p class="fr-book-author">By Simon S. Haykin</p>
-        
+
         <p class="fr-book-desc">Adaptive filtering techniques are central to cancelling strong direct-path signals and reducing clutter in passive radar receivers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Adaptive+filter+theory+Simon+S.+Haykin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,7 +482,7 @@ Understanding these clutter mechanisms does not diminish the value of passive ra
           <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Modern Radar">Principles of Modern Radar</a>
         </h4>
         <p class="fr-book-author">By M. A. Richards, William A. Holm et al.</p>
-        
+
         <p class="fr-book-desc">Discusses detection theory, propagation, clutter, and practical radar performance that underpin passive radar interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Principles+of+Modern+Radar+M.+A.+Richards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

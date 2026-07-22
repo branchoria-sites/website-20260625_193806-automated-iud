@@ -407,7 +407,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
           <a href="https://www.amazon.com/s?k=Astrophotography+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography">Astrophotography</a>
         </h4>
         <p class="fr-book-author">By Thierry Legault</p>
-        
+
         <p class="fr-book-desc">Explains focus, blur circles, exposure effects, reflections, and imaging artefacts that make insects resemble distant objects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astrophotography+Thierry+Legault&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
           <a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital SLR Astrophotography">Digital SLR Astrophotography</a>
         </h4>
         <p class="fr-book-author">By Michael A. Covington</p>
-        
+
         <p class="fr-book-desc">Discusses focus, optics, sensor behavior, and image defects relevant to near-lens insect detections.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+SLR+Astrophotography+Michael+A.+Covington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For this reason, sophisticated detector networks increasingly treat extraordinar
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The handbook of astronomical image processing">The handbook of astronomical image processing</a>
         </h4>
         <p class="fr-book-author">By Richard Berry, James Burnell</p>
-        
+
         <p class="fr-book-desc">Covers calibration and image interpretation relevant to distinguishing artefacts from real targets.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

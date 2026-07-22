@@ -391,89 +391,89 @@ In the context of automated instrumented UFO or UAP detection, calibration is th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Hidden Work Behind Useful Sky Data. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Hidden Work Behind Useful Sky Data. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Handbook of Astronomical Image Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4810234-M.jpg" alt="Cover for The Handbook of Astronomical Image Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Handbook of Astronomical Image Processing">The Handbook of Astronomical Image Processing</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Directly covers calibration, image geometry, distortion correction, plate solving, and extracting reliable measurements from astronomical...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Handbook+of+Astronomical+Image+Processing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The handbook of astronomical image processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7373454-M.jpg" alt="Cover for The handbook of astronomical image processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The handbook of astronomical image processing">The handbook of astronomical image processing</a>
+        </h4>
+        <p class="fr-book-author">By Richard Berry, James Burnell</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
-</h4>
-<p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
-        
-<p class="fr-book-desc">First published 1994.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers calibration, image geometry, distortion correction, plate solving, and extracting reliable measurements from astronomical...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+handbook+of+astronomical+image+processing+Richard+Berry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
-</h4>
-<p class="fr-book-author">By Peter Duffett-Smith</p>
-        
-<p class="fr-book-desc">Explains coordinate systems, timing, positional calculations, and the mathematical foundations behind mapping observations to the sky.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+by+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Reduction and Error Analysis for the Physical Sciences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15170407-M.jpg" alt="Cover for Data Reduction and Error Analysis for the Physical Sciences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Reduction and Error Analysis for the Physical Sciences">Data Reduction and Error Analysis for the Physical Sciences</a>
+        </h4>
+        <p class="fr-book-author">By Philip R. Bevington, D. Keith Robinson</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography Manual">Astrophotography Manual</a>
-</h4>
-<p class="fr-book-author">By Chris Woodhouse</p>
-        
-<p class="fr-book-desc">First published 2015. Subjects: Astronomical photography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the article&#x27;s themes of calibration, uncertainty estimation, metadata quality, and producing reliable measurements from sensor n...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences+Philip+R.+Bevington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+of+Astronomical+Image+Processing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The of Astronomical Image Processing books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Astronomy with Your Calculator Or Spreadsheet on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Astronomy with Your Calculator Or Spreadsheet">Practical Astronomy with Your Calculator Or Spreadsheet</a>
+        </h4>
+        <p class="fr-book-author">By Peter Duffett-Smith</p>
+
+        <p class="fr-book-desc">Explains coordinate systems, timing, positional calculations, and the mathematical foundations behind mapping observations to the sky.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet+Peter+Duffett-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophotography Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophotography Manual">Astrophotography Manual</a>
+        </h4>
+        <p class="fr-book-author">By Chris Woodhouse</p>
+
+        <p class="fr-book-desc">Discusses calibration frames, imaging accuracy, equipment setup consistency, and techniques for obtaining scientifically useful data.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Astrophotography+Manual+Chris+Woodhouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+of+astronomical+image+processing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The of astronomical image processing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data Reduction and Error Analysis for the Physical Sciences</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Astronomy+with+Your+Calculator+Or+Spreadsheet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Astronomy with Your Calculator Or Spreadsheet</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -563,7 +563,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Avionics Systems">Introduction to Avionics Systems</a>
         </h4>
         <p class="fr-book-author">By R. P. G. Collinson</p>
-        
+
         <p class="fr-book-desc">Explains ADS-B, surveillance systems and aircraft data used to eliminate false UAP alerts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Avionics+Systems+R.+P.+G.+Collinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -580,7 +580,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
         </h4>
         <p class="fr-book-author">By David A. Vallado</p>
-        
+
         <p class="fr-book-desc">Useful background for precise coordinate systems, timing and spatial calculations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -597,7 +597,7 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Relevant to matching tracked aircraft against camera imagery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -608,16 +608,16 @@ ADS-B therefore plays a modest but decisive role in automated instrumented UFO d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fundamentals of air traffic control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5413803-M.jpg" alt="Cover for Fundamentals of air traffic control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding GPS/GNSS on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of air traffic control">Fundamentals of air traffic control</a>
+          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
-        <p class="fr-book-author">By Michael S. Nolan</p>
-        
-        <p class="fr-book-desc">First published 1990. Subjects: Air traffic control, Private flying.</p>
+        <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
+
+        <p class="fr-book-desc">Covers positioning technologies underlying aircraft tracking and sensor correlation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fundamentals+of+air+traffic+control+Michael+S.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

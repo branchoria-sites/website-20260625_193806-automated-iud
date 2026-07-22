@@ -414,7 +414,7 @@ Instead, the lesson is methodological. Birds are common, thermally bright, and c
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
 </h4>
 <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ Instead, the lesson is methodological. Birds are common, thermally bright, and c
 <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
 </h4>
 <p class="fr-book-author">By David Sibley</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: North America, Bird watching, Guidebooks, Birds, Identification.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ Instead, the lesson is methodological. Birds are common, thermally bright, and c
 <a href="https://www.amazon.com/s?k=Bird+sense+T.+R.+Birkhead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird sense">Bird sense</a>
 </h4>
 <p class="fr-book-author">By T. R. Birkhead</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Birds, Physiology, Behavior, Psychology, Sinnesorgan.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bird+sense+T.+R.+Birkhead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ Instead, the lesson is methodological. Birds are common, thermally bright, and c
 <a href="https://www.amazon.com/s?k=Thermal+Imaging+Techniques+to+Survey+and+Monitor+Animals+in+the+Wild+Kirk+J.+Havens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thermal Imaging Techniques to Survey and Monitor Animals in the Wild">Thermal Imaging Techniques to Survey and Monitor Animals in t...</a>
 </h4>
 <p class="fr-book-author">By Kirk J. Havens, Edward J. Sharp</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Environmental monitoring, Imaging systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thermal+Imaging+Techniques+to+Survey+and+Monitor+Animals+in+the+Wild+Kirk+J.+Havens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

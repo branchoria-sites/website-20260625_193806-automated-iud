@@ -584,7 +584,7 @@ The final measure is cultural rather than technical: do not treat governance as 
           <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
         </h4>
         <p class="fr-book-author">By Bruce Schneier</p>
-        
+
         <p class="fr-book-desc">Explains surveillance, privacy and responsible data collection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Data+and+Goliath+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -601,7 +601,7 @@ The final measure is cultural rather than technical: do not treat governance as 
           <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Cybersecurity Architecture">Practical Cybersecurity Architecture</a>
         </h4>
         <p class="fr-book-author">By Ed Moyle, Diana Kelley</p>
-        
+
         <p class="fr-book-desc">Covers governance and secure system design principles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+Cybersecurity+Architecture+Ed+Moyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -618,7 +618,7 @@ The final measure is cultural rather than technical: do not treat governance as 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages responsible evidence standards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -635,7 +635,7 @@ The final measure is cultural rather than technical: do not treat governance as 
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Supports transparent interpretation of collected data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -463,7 +463,7 @@ For automated instrumented detector networks, preserving sensor state is therefo
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Provides background on imaging, noise and measurement limits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -480,7 +480,7 @@ For automated instrumented detector networks, preserving sensor state is therefo
           <a href="https://www.amazon.com/s?k=Handbook+of+machine+vision+Alexander+Hornberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of machine vision">Handbook of machine vision</a>
         </h4>
         <p class="fr-book-author">By Alexander Hornberg</p>
-        
+
         <p class="fr-book-desc">Explains camera settings, optics, calibration and image measurement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+machine+vision+Alexander+Hornberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -497,7 +497,7 @@ For automated instrumented detector networks, preserving sensor state is therefo
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers image formation, calibration and interpreting camera data.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -514,7 +514,7 @@ For automated instrumented detector networks, preserving sensor state is therefo
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Processing, Global Edition">Digital Image Processing, Global Edition</a>
         </h4>
         <p class="fr-book-author">By Rafael C Gonzalez And Richard E Woods</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Image processing, digital techniques.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Image+Processing%2C+Global+Edition+Rafael+C+Gonzalez+And+Richard+E+Woods&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

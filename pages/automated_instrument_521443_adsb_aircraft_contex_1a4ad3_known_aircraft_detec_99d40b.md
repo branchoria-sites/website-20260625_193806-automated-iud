@@ -417,7 +417,7 @@ For automated instrumented UAP detectors, the most persuasive evidence is theref
           <a href="https://www.amazon.com/s?k=Introduction+to+Flight+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Flight">Introduction to Flight</a>
         </h4>
         <p class="fr-book-author">By John Anderson</p>
-        
+
         <p class="fr-book-desc">Provides a solid grounding in aircraft performance, flight characteristics, and operational concepts useful for understanding known aircr...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Flight+John+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For automated instrumented UAP detectors, the most persuasive evidence is theref
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Offers valuable context on aircraft detection, testing, and aerospace engineering culture relevant to instrumented observation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ For automated instrumented UAP detectors, the most persuasive evidence is theref
           <a href="https://www.amazon.com/s?k=The+Radar+Book+Kevin+Monahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Radar Book">The Radar Book</a>
         </h4>
         <p class="fr-book-author">By Kevin Monahan</p>
-        
+
         <p class="fr-book-desc">Explains radar principles and detection performance that complement optical and ADS-B based tracking systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Radar+Book+Kevin+Monahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ For automated instrumented UAP detectors, the most persuasive evidence is theref
           <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Jane%27s+Information+Group&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jane&#x27;s All the World&#x27;s Aircraft">Jane&#x27;s All the World&#x27;s Aircraft</a>
         </h4>
         <p class="fr-book-author">By Jane&#x27;s Information Group</p>
-        
+
         <p class="fr-book-desc">Supports identification of known aircraft types used as benchmark targets in automated aerial observation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jane%27s+All+the+World%27s+Aircraft+Jane%27s+Information+Group&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

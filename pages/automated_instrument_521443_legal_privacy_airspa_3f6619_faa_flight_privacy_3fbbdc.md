@@ -398,7 +398,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
           <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Unmanned Aircraft Systems">Introduction to Unmanned Aircraft Systems</a>
         </h4>
         <p class="fr-book-author">By Douglas M. Marshall, Richard K. Barnhart et al.</p>
-        
+
         <p class="fr-book-desc">Covers modern airspace, surveillance and regulatory context relevant to public aircraft tracking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Unmanned+Aircraft+Systems+Douglas+M.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
         </h4>
         <p class="fr-book-author">By Adam Juniper</p>
-        
+
         <p class="fr-book-desc">Introduces practical aviation rules and responsible use of airspace.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ Such a policy improves scientific transparency while reducing unnecessary privac
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Explains positioning, surveillance and aviation tracking technologies behind ADS-B.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

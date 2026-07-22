@@ -415,7 +415,7 @@ In that sense, edge computing is not an auxiliary feature of the Galileo Project
 <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
 </h4>
 <p class="fr-book-author">By Martin Kleppmann</p>
-        
+
 <p class="fr-book-desc">Explains reliable data capture, storage, synchronization, event streams and provenance that are central to observatory edge-computing arc...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ In that sense, edge computing is not an auxiliary feature of the Galileo Project
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
 </h4>
 <p class="fr-book-author">By Nate Silver</p>
-        
+
 <p class="fr-book-desc">Addresses how meaningful events are extracted from noisy data, a key challenge when monitoring transient aerial phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ In that sense, edge computing is not an auxiliary feature of the Galileo Project
 <a href="https://www.amazon.com/s?k=The+Fourth+Paradigm+by+Anthony+J.+G.+Hey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fourth Paradigm">The Fourth Paradigm</a>
 </h4>
 <p class="fr-book-author">By Anthony J. G. Hey, Stewart Tansley et al.</p>
-        
+
 <p class="fr-book-desc">Directly connects large-scale scientific observation, data preservation and computational workflows to the kind of observatory systems di...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Fourth+Paradigm+by+Anthony+J.+G.+Hey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

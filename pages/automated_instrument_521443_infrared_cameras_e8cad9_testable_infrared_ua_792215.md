@@ -496,7 +496,7 @@ This combination does not prove that an object is unusual. Instead, it makes ord
 <a href="https://www.amazon.com/s?k=Optics+by+Eugene+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Optics">Optics</a>
 </h4>
 <p class="fr-book-author">By Eugene Hecht</p>
-        
+
 <p class="fr-book-desc">Builds the optical and imaging fundamentals needed to understand infrared cameras, sensors, and measurement limitations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Optics+by+Eugene+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -513,7 +513,7 @@ This combination does not prove that an object is unusual. Instead, it makes ord
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
 </h4>
 <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -530,7 +530,7 @@ This combination does not prove that an object is unusual. Instead, it makes ord
 <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
 </h4>
 <p class="fr-book-author">By Trisha Greenhalgh</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Clinical medicine, Decision making, Documentation, Epidemiology, Evaluation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -547,7 +547,7 @@ This combination does not prove that an object is unusual. Instead, it makes ord
 <a href="https://www.amazon.com/s?k=Optics+%5Bby%5D+Eugene+Hecht+%5Band%5D+Alfred+Zaja%CC%A7c.+Eugene+Hecht&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Optics [by] Eugene Hecht [and] Alfred Zaja̧c.">Optics [by] Eugene Hecht [and] Alfred Zaja̧c.</a>
 </h4>
 <p class="fr-book-author">By Eugene Hecht</p>
-        
+
 <p class="fr-book-desc">First published 1974. Subjects: Optics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Optics+%5Bby%5D+Eugene+Hecht+%5Band%5D+Alfred+Zaja%CC%A7c.+Eugene+Hecht&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

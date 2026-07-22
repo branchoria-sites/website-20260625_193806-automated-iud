@@ -425,7 +425,7 @@ What it can do is establish confidence that the evidence being examined today is
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
         </h4>
         <p class="fr-book-author">By Eoghan Casey</p>
-        
+
         <p class="fr-book-desc">Strong coverage of audit trails and evidential reliability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ What it can do is establish confidence that the evidence being examined today is
           <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File system forensic analysis">File system forensic analysis</a>
         </h4>
         <p class="fr-book-author">By Brian Carrier</p>
-        
+
         <p class="fr-book-desc">Explains integrity, metadata and forensic examination of digital files.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=File+system+forensic+analysis+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ What it can do is establish confidence that the evidence being examined today is
           <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
         </h4>
         <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
-        
+
         <p class="fr-book-desc">Provides context on integrity, trust and digital systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ What it can do is establish confidence that the evidence being examined today is
           <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Computer Forensics and Investigations, 5th Edition, [Instant Access], 2 terms (12 months)">LabConnection Guide for Nelson/Phillips/Steuart&#x27;s Guide to Co...</a>
         </h4>
         <p class="fr-book-author">By Bill Nelson; Amelia Phillips; Christopher Steuart</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Security, Professional, career &amp; trade -&gt; computer science -&gt; networking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=LabConnection+Guide+for+Nelson%2FPhillips%2FSteuart%27s+Guide+to+Computer+Forensics+and+Investigations%2C+5th+Edition%2C+%5BInstant+Access%5D%2C+2+terms+%2812+months%29+Bill+Nelson%3B+Amelia+Phillips%3B+Christopher+Steuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

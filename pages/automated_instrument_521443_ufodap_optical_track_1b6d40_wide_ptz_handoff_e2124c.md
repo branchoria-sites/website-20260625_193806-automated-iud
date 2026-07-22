@@ -437,7 +437,7 @@ The wide-camera/PTZ combination remains one of the most practical architectures 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Fits the broader UAP observation context that motivates systems such as UFODAP, while remaining accessible to enthusiasts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,16 +448,16 @@ The wide-camera/PTZ combination remains one of the most practical architectures 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Modern Photogrammetry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D4h8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Modern Photogrammetry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Fits the broader UAP observation context that motivates systems such as UFODAP, while remaining accessible to enthusiasts.</p>
+        <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
+
+        <p class="fr-book-desc">Provides background on camera geometry, field of view, target location, and measurement accuracy issues relevant to camera handoff systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -471,7 +471,7 @@ The wide-camera/PTZ combination remains one of the most practical architectures 
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Astrodynamics and Applications">Fundamentals of Astrodynamics and Applications</a>
         </h4>
         <p class="fr-book-author">By David A. Vallado</p>
-        
+
         <p class="fr-book-desc">Helps readers understand tracking objects in the sky, motion prediction, and observation constraints.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications+David+A.+Vallado&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ The wide-camera/PTZ combination remains one of the most practical architectures 
           <a href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft%3A+Theory+and+Practice+Randal+W.+Beard%2C+Timothy+W.+McLain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Unmanned Aircraft: Theory and Practice">Small Unmanned Aircraft: Theory and Practice</a>
         </h4>
         <p class="fr-book-author">By Randal W. Beard, Timothy W. McLain</p>
-        
+
         <p class="fr-book-desc">Explains target tracking, sensing, control systems, and practical challenges in automated visual tracking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Small+Unmanned+Aircraft%3A+Theory+and+Practice+Randal+W.+Beard%2C+Timothy+W.+McLain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -499,7 +499,7 @@ The wide-camera/PTZ combination remains one of the most practical architectures 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Modern+Photogrammetry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Modern Photogrammetry books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fundamentals+of+Astrodynamics+and+Applications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fundamentals of Astrodynamics and Applications</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

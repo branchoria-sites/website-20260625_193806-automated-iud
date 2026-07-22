@@ -396,7 +396,7 @@ For designers of automated instrumented UFO or UAP detectors, this reinforces a 
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
         </h4>
         <p class="fr-book-author">By Martin Kleppmann</p>
-        
+
         <p class="fr-book-desc">Best fit for large-scale sensor storage and processing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For designers of automated instrumented UFO or UAP detectors, this reinforces a 
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Data+Engineering+Joe+Reis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fundamentals of Data Engineering">Fundamentals of Data Engineering</a>
         </h4>
         <p class="fr-book-author">By Joe Reis, Matt Housley</p>
-        
+
         <p class="fr-book-desc">Addresses data lifecycle and infrastructure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fundamentals+of+Data+Engineering+Joe+Reis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ For designers of automated instrumented UFO or UAP detectors, this reinforces a 
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Relevant to image data processing before storage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ For designers of automated instrumented UFO or UAP detectors, this reinforces a 
           <a href="https://www.amazon.com/s?k=Streaming+Systems+Tyler+Akidau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Streaming Systems">Streaming Systems</a>
         </h4>
         <p class="fr-book-author">By Tyler Akidau, Slava Chernyak et al.</p>
-        
+
         <p class="fr-book-desc">Explains handling continuous event streams.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Streaming+Systems+Tyler+Akidau&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

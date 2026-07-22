@@ -388,7 +388,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
 <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Offers the investigative background that motivates interest in improved detection technologies such as infrared sensor arrays.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to infrared and electro-optical systems">Introduction to infrared and electro-optical systems</a>
 </h4>
 <p class="fr-book-author">By Ronald G. Driggers</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Electrooptical devices, Infrared technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+infrared+and+electro-optical+systems+Ronald+G.+Driggers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
 <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
 </h4>
 <p class="fr-book-author">By Richard Szeliski</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Computer algorithms, Bildverarbeitung, Computer vision, Image processing, Maschinelles Sehen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ For this reason, modern scientific UAP detection projects increasingly judge suc
 <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning OpenCV 4 Computer Vision with Python 3">Learning OpenCV 4 Computer Vision with Python 3</a>
 </h4>
 <p class="fr-book-author">By Joseph Howse, Joe Minichino</p>
-        
+
 <p class="fr-book-desc">First published 2020.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Learning+OpenCV+4+Computer+Vision+with+Python+3+Joseph+Howse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

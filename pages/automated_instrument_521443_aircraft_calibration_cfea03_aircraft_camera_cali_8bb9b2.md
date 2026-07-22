@@ -391,7 +391,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Multiple view geometry in computer vision">Multiple view geometry in computer vision</a>
         </h4>
         <p class="fr-book-author">By Richard Hartley, Andrew Zisserman</p>
-        
+
         <p class="fr-book-desc">Directly addresses camera models, calibration, image coordinates, and mapping pixels to real-world directions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Multiple+view+geometry+in+computer+vision+Richard+Hartley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Modern Photogrammetry">Introduction to Modern Photogrammetry</a>
         </h4>
         <p class="fr-book-author">By Edward M. Mikhail, James S. Bethel et al.</p>
-        
+
         <p class="fr-book-desc">Strong match for converting pixel locations into azimuth, elevation, and geometric measurements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Modern+Photogrammetry+Edward+M.+Mikhail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Covers calibration, feature tracking, geometric transformations, and measurement accuracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ In that sense, aircraft are not merely clutter to be removed from UFO databases.
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital image processing">Digital image processing</a>
         </h4>
         <p class="fr-book-author">By Rafael C. Gonzalez, Richard E. Woods</p>
-        
+
         <p class="fr-book-desc">Provides core image-processing concepts used before calibration and tracking analysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+image+processing+Rafael+C.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

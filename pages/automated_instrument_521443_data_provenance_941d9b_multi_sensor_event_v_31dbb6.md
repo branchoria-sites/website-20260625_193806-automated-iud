@@ -469,7 +469,7 @@ Most reported aerial anomalies ultimately receive conventional explanations. A m
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
         </h4>
         <p class="fr-book-author">By Eoghan Casey</p>
-        
+
         <p class="fr-book-desc">Shows how multiple evidence sources are managed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ Most reported aerial anomalies ultimately receive conventional explanations. A m
           <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Wireless Sensor Networks">Building Wireless Sensor Networks</a>
         </h4>
         <p class="fr-book-author">By Robert Faludi</p>
-        
+
         <p class="fr-book-desc">Explains coordinated measurements from multiple sensors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -503,7 +503,7 @@ Most reported aerial anomalies ultimately receive conventional explanations. A m
           <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Embedded Systems">Making Embedded Systems</a>
         </h4>
         <p class="fr-book-author">By Elecia White</p>
-        
+
         <p class="fr-book-desc">Useful for reliable multi-sensor integration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -520,7 +520,7 @@ Most reported aerial anomalies ultimately receive conventional explanations. A m
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding GPS/GNSS">Understanding GPS/GNSS</a>
         </h4>
         <p class="fr-book-author">By Elliott Kaplan, Christopher J. Hegarty</p>
-        
+
         <p class="fr-book-desc">Supports synchronization across sensors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+GPS%2FGNSS+Elliott+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

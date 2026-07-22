@@ -479,7 +479,7 @@ That approach does not eliminate genuine unknowns. Instead, it removes a large c
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Data-Intensive Applications">Designing Data-Intensive Applications</a>
         </h4>
         <p class="fr-book-author">By Martin Kleppmann</p>
-        
+
         <p class="fr-book-desc">Useful for metadata integrity and system architecture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Designing+Data-Intensive+Applications+Martin+Kleppmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ That approach does not eliminate genuine unknowns. Instead, it removes a large c
           <a href="https://www.amazon.com/s?k=Building+Secure+and+Reliable+Systems+Heather+Adkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Secure and Reliable Systems">Building Secure and Reliable Systems</a>
         </h4>
         <p class="fr-book-author">By Heather Adkins, Betsy Beyer et al.</p>
-        
+
         <p class="fr-book-desc">Focuses on system health, monitoring and dependable operation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Building+Secure+and+Reliable+Systems+Heather+Adkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -513,7 +513,7 @@ That approach does not eliminate genuine unknowns. Instead, it removes a large c
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Vision">Computer Vision</a>
         </h4>
         <p class="fr-book-author">By Richard Szeliski</p>
-        
+
         <p class="fr-book-desc">Provides calibration and imaging background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Computer+Vision+Richard+Szeliski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -530,7 +530,7 @@ That approach does not eliminate genuine unknowns. Instead, it removes a large c
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Site Reliability Engineering">Site Reliability Engineering</a>
         </h4>
         <p class="fr-book-author">By Betsy Beyer, Jones, Chris (Computer engineer) et al.</p>
-        
+
         <p class="fr-book-desc">Covers monitoring, telemetry and operational health.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

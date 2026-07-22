@@ -381,7 +381,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
           <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Embedded Systems">Making Embedded Systems</a>
         </h4>
         <p class="fr-book-author">By Elecia White</p>
-        
+
         <p class="fr-book-desc">Explains integrating reliable sensor systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Making+Embedded+Systems+Elecia+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
           <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building Wireless Sensor Networks">Building Wireless Sensor Networks</a>
         </h4>
         <p class="fr-book-author">By Robert Faludi</p>
-        
+
         <p class="fr-book-desc">Shows how multiple sensors work together.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Building+Wireless+Sensor+Networks+Robert+Faludi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
         </h4>
         <p class="fr-book-author">By David Spiegelhalter</p>
-        
+
         <p class="fr-book-desc">Helps evaluate multi-sensor evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ Ultimately, extra sensors strengthen an automated observing station not because 
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
         </h4>
         <p class="fr-book-author">By Peter A. Sturrock</p>
-        
+
         <p class="fr-book-desc">Provides scientific context for UAP instrumentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Enigma+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

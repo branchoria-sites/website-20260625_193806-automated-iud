@@ -385,7 +385,7 @@ The practical safeguard is straightforward: compare every significant magnetic s
           <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of geophysics and the space environment">Handbook of geophysics and the space environment</a>
         </h4>
         <p class="fr-book-author">By U.S. Air Force Geophysics Laboratory.</p>
-        
+
         <p class="fr-book-desc">Provides practical background on geomagnetic conditions, atmospheric effects, and environmental baselines relevant to interpreting detect...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+geophysics+and+the+space+environment+U.S.+Air+Force+Geophysics+Laboratory.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The practical safeguard is straightforward: compare every significant magnetic s
           <a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space weather">Space weather</a>
         </h4>
         <p class="fr-book-author">By Volker Bothmer</p>
-        
+
         <p class="fr-book-desc">Directly covers solar disturbances, geomagnetic activity, and their effects on Earth-based measurements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Space+weather+Volker+Bothmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The practical safeguard is straightforward: compare every significant magnetic s
           <a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of space storms">Physics of space storms</a>
         </h4>
         <p class="fr-book-author">By Hannu E. J. Koskinen</p>
-        
+
         <p class="fr-book-desc">Provides end-to-end coverage of the solar-terrestrial chain responsible for regional magnetic disturbances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Physics+of+space+storms+Hannu+E.+J.+Koskinen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The practical safeguard is straightforward: compare every significant magnetic s
           <a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earth&#x27;s ionosphere">The earth&#x27;s ionosphere</a>
         </h4>
         <p class="fr-book-author">By Michael C. Kelley</p>
-        
+
         <p class="fr-book-desc">Helps readers understand ionospheric currents that influence ground-based magnetometer observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+earth%27s+ionosphere+Michael+C.+Kelley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
