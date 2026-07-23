@@ -383,89 +383,89 @@ For a sky-monitoring station, local wildlife data is therefore not ancillary inf
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Every UFO Camera Needs Local Wildlife Data. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Every UFO Camera Needs Local Wildlife Data. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bird migration on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/333577-M.jpg" alt="Cover for Bird migration" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird migration">Bird migration</a>
-</h4>
-<p class="fr-book-author">By Thomas Alerstam</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bird migration on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/333577-M.jpg" alt="Cover for Bird migration" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bird migration">Bird migration</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Alerstam</p>
 
-<p class="fr-book-desc">First published 1990. Subjects: Birds, Migration, Birds, migration, Oiseaux, Aves (Biologia).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains seasonal and geographic patterns that strongly affect aerial-object detection rates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bird+migration+Thomas+Alerstam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
-</h4>
-<p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic field guide to the birds of North America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557180-M.jpg" alt="Cover for National Geographic field guide to the birds of North America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic field guide to the birds of North America">National Geographic field guide to the birds of North America</a>
+        </h4>
+        <p class="fr-book-author">By Jon Dunn, Jon L. Dunn et al.</p>
 
-<p class="fr-book-desc">First published 2006. Subjects: Identification, Birds, Birds &amp; birdwatching, Birds (ornithology), Bird Watching.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical identification support for building local wildlife baselines around monitoring stations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=National+Geographic+field+guide+to+the+birds+of+North+America+Jon+Dunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Birds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418888-M.jpg" alt="Cover for The Sibley Guide to Birds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
-</h4>
-<p class="fr-book-author">By David Sibley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sibley Guide to Birds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418888-M.jpg" alt="Cover for The Sibley Guide to Birds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sibley Guide to Birds">The Sibley Guide to Birds</a>
+        </h4>
+        <p class="fr-book-author">By David Sibley</p>
 
-<p class="fr-book-desc">First published 2000. Subjects: North America, Bird watching, Guidebooks, Birds, Identification.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers understand common aerial wildlife that can trigger camera detections and false positives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Sibley+Guide+to+Birds+David+Sibley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bats+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8793265-M.jpg" alt="Cover for Bats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bats+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bats">Bats</a>
-</h4>
-<p class="fr-book-author">By Marianne Taylor</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bats%3A+An+Illustrated+Guide+to+All+Species+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bats: An Illustrated Guide to All Species on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8793265-M.jpg" alt="Cover for Bats: An Illustrated Guide to All Species" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bats%3A+An+Illustrated+Guide+to+All+Species+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bats: An Illustrated Guide to All Species">Bats: An Illustrated Guide to All Species</a>
+        </h4>
+        <p class="fr-book-author">By Marianne Taylor</p>
 
-<p class="fr-book-desc">First published 2019. Subjects: Bats, Ecology, NATURE / Mammals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bats+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Bats are major nighttime aerial targets that can generate alerts in optical and infrared systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bats%3A+An+Illustrated+Guide+to+All+Species+Marianne+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bird+migration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bird migration</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Geographic+field+to+the+birds+of+North+America+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Geographic field to the birds of North America books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Birds+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Birds books</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bird+migration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bird migration</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Geographic+field+to+the+birds+of+North+America+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Geographic field to the birds of North America books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sibley+to+Birds+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sibley to Birds books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
