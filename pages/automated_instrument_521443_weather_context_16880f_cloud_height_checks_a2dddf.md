@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_weather_context_16880f_cloud_height_checks_a2dddf
 parent_basename: automated_instrument_521443_weather_context_16880f

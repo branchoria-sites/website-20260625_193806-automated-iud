@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_starlink_satellite_c_217280_pacific_pilot_starli_228af2
 parent_basename: automated_instrument_521443_starlink_satellite_c_217280
