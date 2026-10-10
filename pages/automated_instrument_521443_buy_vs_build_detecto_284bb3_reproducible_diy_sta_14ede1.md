@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:24:30'
 level: 3
 basename: automated_instrument_521443_buy_vs_build_detecto_284bb3_reproducible_diy_sta_14ede1
 parent_basename: automated_instrument_521443_buy_vs_build_detecto_284bb3

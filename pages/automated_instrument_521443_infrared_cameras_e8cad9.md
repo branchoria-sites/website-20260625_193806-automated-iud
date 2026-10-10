@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:24:30'
 level: 2
 basename: automated_instrument_521443_infrared_cameras_e8cad9
 parent_basename: automated_instrument_521443

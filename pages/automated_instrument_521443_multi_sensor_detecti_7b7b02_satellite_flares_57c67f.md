@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_multi_sensor_detecti_7b7b02_satellite_flares_57c67f
 parent_basename: automated_instrument_521443_multi_sensor_detecti_7b7b02

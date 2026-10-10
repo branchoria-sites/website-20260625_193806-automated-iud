@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_magnetometers_088bec_credible_magnetic_an_fc5fce
 parent_basename: automated_instrument_521443_magnetometers_088bec

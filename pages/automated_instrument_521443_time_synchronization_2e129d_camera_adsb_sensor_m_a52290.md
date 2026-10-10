@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_time_synchronization_2e129d_camera_adsb_sensor_m_a52290
 parent_basename: automated_instrument_521443_time_synchronization_2e129d

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_machine_vision_filte_a08ba7_infrared_false_posit_942b97
 parent_basename: automated_instrument_521443_machine_vision_filte_a08ba7
