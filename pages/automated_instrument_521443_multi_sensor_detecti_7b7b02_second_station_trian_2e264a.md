@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_multi_sensor_detecti_7b7b02_second_station_trian_2e264a
 parent_basename: automated_instrument_521443_multi_sensor_detecti_7b7b02

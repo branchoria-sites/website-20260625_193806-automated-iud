@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_galileo_observatorie_ddac3d_galileo_edge_computi_5abc54
 parent_basename: automated_instrument_521443_galileo_observatorie_ddac3d

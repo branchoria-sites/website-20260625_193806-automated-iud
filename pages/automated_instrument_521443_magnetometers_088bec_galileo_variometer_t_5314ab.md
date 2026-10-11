@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_magnetometers_088bec_galileo_variometer_t_5314ab
 parent_basename: automated_instrument_521443_magnetometers_088bec

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_multi_site_triangula_e6b681_single_station_outli_dd5e52
 parent_basename: automated_instrument_521443_multi_site_triangula_e6b681

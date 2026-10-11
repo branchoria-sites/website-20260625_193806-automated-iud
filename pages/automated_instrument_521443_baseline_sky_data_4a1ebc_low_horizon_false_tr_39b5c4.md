@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_baseline_sky_data_4a1ebc_low_horizon_false_tr_39b5c4
 parent_basename: automated_instrument_521443_baseline_sky_data_4a1ebc

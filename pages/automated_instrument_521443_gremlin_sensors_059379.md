@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 2
 basename: automated_instrument_521443_gremlin_sensors_059379
 parent_basename: automated_instrument_521443

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:24:30'
 level: 3
 basename: automated_instrument_521443_galileo_observatorie_ddac3d_uap_event_provenance_7598e2
 parent_basename: automated_instrument_521443_galileo_observatorie_ddac3d

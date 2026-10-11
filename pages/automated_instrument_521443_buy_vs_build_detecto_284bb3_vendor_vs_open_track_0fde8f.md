@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:24:30'
 level: 3
 basename: automated_instrument_521443_buy_vs_build_detecto_284bb3_vendor_vs_open_track_0fde8f
 parent_basename: automated_instrument_521443_buy_vs_build_detecto_284bb3

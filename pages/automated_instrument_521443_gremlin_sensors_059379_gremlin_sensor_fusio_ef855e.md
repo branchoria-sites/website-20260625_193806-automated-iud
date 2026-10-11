@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_gremlin_sensors_059379_gremlin_sensor_fusio_ef855e
 parent_basename: automated_instrument_521443_gremlin_sensors_059379

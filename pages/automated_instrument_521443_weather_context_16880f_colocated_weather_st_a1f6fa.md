@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_weather_context_16880f_colocated_weather_st_a1f6fa
 parent_basename: automated_instrument_521443_weather_context_16880f

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_infrared_cameras_e8cad9_aircraft_infrared_ca_bb3f24
 parent_basename: automated_instrument_521443_infrared_cameras_e8cad9

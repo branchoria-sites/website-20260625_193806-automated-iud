@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_ufodap_optical_track_1b6d40_camera_motion_metada_59c9fd
 parent_basename: automated_instrument_521443_ufodap_optical_track_1b6d40

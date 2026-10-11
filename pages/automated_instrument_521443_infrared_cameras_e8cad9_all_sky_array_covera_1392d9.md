@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:24:30'
 level: 3
 basename: automated_instrument_521443_infrared_cameras_e8cad9_all_sky_array_covera_1392d9
 parent_basename: automated_instrument_521443_infrared_cameras_e8cad9

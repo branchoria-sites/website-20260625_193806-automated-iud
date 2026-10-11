@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_sky360_citizen_stati_99f8d3_station_calibration_6eb38a
 parent_basename: automated_instrument_521443_sky360_citizen_stati_99f8d3

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:33:11'
 level: 3
 basename: automated_instrument_521443_aircraft_calibration_cfea03_aircraft_camera_cali_8bb9b2
 parent_basename: automated_instrument_521443_aircraft_calibration_cfea03
