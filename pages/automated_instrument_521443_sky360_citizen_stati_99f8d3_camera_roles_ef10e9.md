@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /automated-instrumented-ufo-detectors/
 - /sky-360/
 nav_short_title: Camera Roles
-title: Why One Camera Is Not Enough
-title_full: Why One Camera Is Not Enough
+title: "Why One Camera Is Not Enough (camera roles)"
+title_full: "Why One Camera Is Not Enough (camera roles)"
 display_title_short: Camera Roles
 display_title: Camera Roles
 heading_title: Why One Camera Is Not Enough

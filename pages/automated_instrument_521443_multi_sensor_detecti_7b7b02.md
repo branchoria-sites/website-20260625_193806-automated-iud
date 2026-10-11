@@ -56,8 +56,8 @@ permalink: /multi-sensor/
 sidebar_expanded_urls:
 - /automated-instrumented-ufo-detectors/
 nav_short_title: Multi Sensor
-title: Why One Camera Is Not Enough
-title_full: Why One Camera Is Not Enough
+title: "Why One Camera Is Not Enough (multi sensor)"
+title_full: "Why One Camera Is Not Enough (multi sensor)"
 display_title_short: Multi Sensor
 display_title: Multi Sensor
 heading_title: Why One Camera Is Not Enough
