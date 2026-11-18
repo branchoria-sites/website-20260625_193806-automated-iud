@@ -1,7 +1,7 @@
 title: 'Sky Detectors'
 short_title: 'Sky Detectors'
 brand_name: 'Branchoria'
-brand_domain: 'branchoria.com'
+brand_domain: 'isaackoi.com'
 description: 'Practical guides on Sky Detectors, organized for fast browsing and comparison.'
 tagline: 'How serious UFO detectors turn strange sightings into measurable sky data.'
 encoding: utf-8
@@ -32,7 +32,7 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 baseurl: ""
-url: "https://sky-detectors.branchoria.com"
+url: "https://sky-detectors.isaackoi.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
 homepage_copy_policy: 'polished'
